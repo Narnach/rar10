@@ -3,8 +3,8 @@ class CreateGithubUsers < ActiveRecord::Migration
     create_table :github_users do |t|
       t.string :username
       t.integer :followers
-      t.integer :forks
       t.string :cached_slug
+      t.string :real_name
 
       t.timestamps
     end
