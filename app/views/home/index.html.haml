@@ -3,7 +3,7 @@
   Maybe we can bring you in contact with other coders ! 
   Our reference points are based on music based relationships. 
   It might also be interesting to see if a certain programming language goes well with a certain genre of music.
-%p Here is a small preview of what coders in Ruby like to listen to :
+%p= "Here is a small preview of what coders in #{Language.all.map(&:name).to_sentence} like to listen to:"
  
 .stats
   -@tags.each_with_index do |tag,i|
