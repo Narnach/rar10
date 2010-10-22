@@ -60,20 +60,21 @@ GithubUser.all.each do |github_user|
   # == Last.fm: artists per user
   scrobbler_user.top_artists[0...ARTISTS_PER_USER].each do |lastfm_artist|
     artist = Artist.find_or_initialize_by_name(lastfm_artist.name)
-    next unless artist.new_record?
-    puts "== Artist: #{artist.name}"
-    artist.image_url = lastfm_artist.image
-    artist.lastfm_url = lastfm_artist.url
-    artist.image_url = lastfm_artist.image
-    artist.save!
-    
-    # == Last.fm: tags per artist
-    lastfm_artist.top_tags[0...TAGS_PER_ARTIST].each do |lastfm_tag|
-      tag = Tag.find_or_create_by_name(lastfm_tag.name)
-      if tag.new_record?
-        tag.save!
+    if artist.new_record?
+      puts "== Artist: #{artist.name}"
+      artist.image_url = lastfm_artist.image
+      artist.lastfm_url = lastfm_artist.url
+      artist.image_url = lastfm_artist.image
+      artist.save!
+      # == Last.fm: tags per artist
+      lastfm_artist.top_tags[0...TAGS_PER_ARTIST].each do |lastfm_tag|
+        tag = Tag.find_or_create_by_name(lastfm_tag.name)
+        if tag.new_record?
+          tag.save!
+        end
         artist.tags << tag
       end
     end
+    lastfm_user.artists << artist
   end
 end
