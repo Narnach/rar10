@@ -7,6 +7,6 @@ class Tag < ActiveRecord::Base
     Tag.all.each do |t|
       tags[t.name]=t.artists.count
     end
-    tags=tags.sort_by(&:last).reverse[0..amount]
+    tags=tags.sort_by(&:last).reverse[0...amount]
   end
 end

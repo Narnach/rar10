@@ -5,4 +5,4 @@
 
   -@tags.each_with_index do |tag,i|
     .bar{:style=>"background-color:#{@colors[i]}; width:#{((tag[1].to_f/@total.to_f)*100).round}%"}
-    .row=tag[0]
+    .row=tag[0].capitalize

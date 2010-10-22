@@ -1,0 +1,13 @@
+%h1 Artists 
+%br
+
+- @artists.each do |artist|   
+  .artist_box{:onclick=>"location.href='#{artist.lastfm_url}'"}
+    .image_container
+      
+      .image=image_tag (artist.image_url.present? ? artist.image_url : "missing.png")
+    .name=artist.name
+      
+.clear_both
+%br
+= will_paginate @artists
