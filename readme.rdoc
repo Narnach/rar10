@@ -26,3 +26,6 @@ Getting started:
   # Import data
   script/runner lib/tools/import_all.rb
 
+== License
+
+MIT license. Find it yourself ;-)

@@ -75,7 +75,8 @@ GithubUser.all.each do |github_user|
     artist = Artist.find_or_initialize_by_name(lastfm_artist.name)
     if artist.new_record?
       puts "== Artist: #{artist.name}"
-      artist.image_url = lastfm_artist.image(:large)
+      # There appears to be a bug which always fetches the smallest image. Manually fix it to a larger one.
+      artist.image_url = lastfm_artist.image(:large).sub '/34/', '/126/'
       artist.lastfm_url = lastfm_artist.url
       artist.image_url = lastfm_artist.image
       artist.save!
