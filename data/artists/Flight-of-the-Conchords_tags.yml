@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "63"
+  name: guitar-based digi-bongo acapella-rap-funk-comedy folk duo
+  url: http://www.last.fm/tag/guitar-based%20digi-bongo%20acapella-rap-funk-comedy%20folk%20duo
+- !ruby/object:Scrobbler::Tag 
+  count: "56"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: new zealand
+  url: http://www.last.fm/tag/new%20zealand
+- !ruby/object:Scrobbler::Tag 
+  count: "35"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: parody
+  url: http://www.last.fm/tag/parody
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: funny
+  url: http://www.last.fm/tag/funny
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: kiwi
+  url: http://www.last.fm/tag/kiwi
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hilarious
+  url: http://www.last.fm/tag/hilarious
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: flight of the conchords
+  url: http://www.last.fm/tag/flight%20of%20the%20conchords
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: comedy folk
+  url: http://www.last.fm/tag/comedy%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: new zealands fourth most popular digi-folk parody duo
+  url: http://www.last.fm/tag/new%20zealands%20fourth%20most%20popular%20digi-folk%20parody%20duo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: comedy rock
+  url: http://www.last.fm/tag/comedy%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: humour
+  url: http://www.last.fm/tag/humour
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: fun
+  url: http://www.last.fm/tag/fun
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nz
+  url: http://www.last.fm/tag/nz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: funky
+  url: http://www.last.fm/tag/funky
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: satire
+  url: http://www.last.fm/tag/satire
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: duo
+  url: http://www.last.fm/tag/duo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: humor
+  url: http://www.last.fm/tag/humor
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: novelty
+  url: http://www.last.fm/tag/novelty
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic space funk
+  url: http://www.last.fm/tag/acoustic%20space%20funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: geek rock
+  url: http://www.last.fm/tag/geek%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lol
+  url: http://www.last.fm/tag/lol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic rock
+  url: http://www.last.fm/tag/acoustic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unimaginable brilliance
+  url: http://www.last.fm/tag/unimaginable%20brilliance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk parody
+  url: http://www.last.fm/tag/folk%20parody
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk-parody
+  url: http://www.last.fm/tag/folk-parody
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk-parody duo
+  url: http://www.last.fm/tag/folk-parody%20duo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cabaret
+  url: http://www.last.fm/tag/cabaret
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hbo
+  url: http://www.last.fm/tag/hbo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 4th most popular new zealand folk-parody
+  url: http://www.last.fm/tag/4th%20most%20popular%20new%20zealand%20folk-parody
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acapella
+  url: http://www.last.fm/tag/acapella
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar-based digi-bongo acapella-rap-funk-comedy folk
+  url: http://www.last.fm/tag/guitar-based%20digi-bongo%20acapella-rap-funk-comedy%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smart
+  url: http://www.last.fm/tag/smart
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sub pop
+  url: http://www.last.fm/tag/sub%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesomeness
+  url: http://www.last.fm/tag/awesomeness
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: duos
+  url: http://www.last.fm/tag/duos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brilliant
+  url: http://www.last.fm/tag/brilliant
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neuseeland
+  url: http://www.last.fm/tag/neuseeland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: robots
+  url: http://www.last.fm/tag/robots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jemaine clement
+  url: http://www.last.fm/tag/jemaine%20clement
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flight of the concords
+  url: http://www.last.fm/tag/flight%20of%20the%20concords
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen
+  url: http://www.last.fm/tag/seen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: digi-bongo acapella-rap-funk-comedy folk duo
+  url: http://www.last.fm/tag/digi-bongo%20acapella-rap-funk-comedy%20folk%20duo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands seen live
+  url: http://www.last.fm/tag/bands%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk duo
+  url: http://www.last.fm/tag/folk%20duo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: luisterpaal
+  url: http://www.last.fm/tag/luisterpaal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bret mckenzie
+  url: http://www.last.fm/tag/bret%20mckenzie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gangster folk
+  url: http://www.last.fm/tag/gangster%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kiwi boys
+  url: http://www.last.fm/tag/kiwi%20boys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: should have my babies
+  url: http://www.last.fm/tag/should%20have%20my%20babies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: if this were a pokemon i would catch it
+  url: http://www.last.fm/tag/if%20this%20were%20a%20pokemon%20i%20would%20catch%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: haha
+  url: http://www.last.fm/tag/haha
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cheeky
+  url: http://www.last.fm/tag/cheeky
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funny shit
+  url: http://www.last.fm/tag/funny%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: recommended to me
+  url: http://www.last.fm/tag/recommended%20to%20me
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lyrics will getcha
+  url: http://www.last.fm/tag/lyrics%20will%20getcha
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new zealandish
+  url: http://www.last.fm/tag/new%20zealandish
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grammy winners
+  url: http://www.last.fm/tag/grammy%20winners
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jemaine
+  url: http://www.last.fm/tag/jemaine
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: silly
+  url: http://www.last.fm/tag/silly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk parody duo
+  url: http://www.last.fm/tag/folk%20parody%20duo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spoken word
+  url: http://www.last.fm/tag/spoken%20word
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexciting genius music
+  url: http://www.last.fm/tag/sexciting%20genius%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: witty
+  url: http://www.last.fm/tag/witty
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore

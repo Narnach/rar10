@@ -1,0 +1,177 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: ebm
+  url: http://www.last.fm/tag/ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "90"
+  name: futurepop
+  url: http://www.last.fm/tag/futurepop
+- !ruby/object:Scrobbler::Tag 
+  count: "67"
+  name: synthpop
+  url: http://www.last.fm/tag/synthpop
+- !ruby/object:Scrobbler::Tag 
+  count: "64"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "51"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "35"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: goth
+  url: http://www.last.fm/tag/goth
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: future pop
+  url: http://www.last.fm/tag/future%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: alfa matrix
+  url: http://www.last.fm/tag/alfa%20matrix
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: synth
+  url: http://www.last.fm/tag/synth
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: trance ebm
+  url: http://www.last.fm/tag/trance%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: breakbeat-electronica
+  url: http://www.last.fm/tag/breakbeat-electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: to purchase
+  url: http://www.last.fm/tag/to%20purchase
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female-fronted ebm
+  url: http://www.last.fm/tag/female-fronted%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electro goth
+  url: http://www.last.fm/tag/electro%20goth
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: darklight
+  url: http://www.last.fm/tag/darklight
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: so zorry
+  url: http://www.last.fm/tag/so%20zorry
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rivethead garbage
+  url: http://www.last.fm/tag/rivethead%20garbage
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: to-be-investigated
+  url: http://www.last.fm/tag/to-be-investigated
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: phignja
+  url: http://www.last.fm/tag/phignja
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: seize-the other side
+  url: http://www.last.fm/tag/seize-the%20other%20side
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: akirahoshi artist tocheck
+  url: http://www.last.fm/tag/akirahoshi%20artist%20tocheck
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: spacediving
+  url: http://www.last.fm/tag/spacediving
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: djnev3r
+  url: http://www.last.fm/tag/djnev3r
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: to explore
+  url: http://www.last.fm/tag/to%20explore
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: eurotrance
+  url: http://www.last.fm/tag/eurotrance
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: breaks
+  url: http://www.last.fm/tag/breaks
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: synth-pop
+  url: http://www.last.fm/tag/synth-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electroclash
+  url: http://www.last.fm/tag/electroclash
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: new wave
+  url: http://www.last.fm/tag/new%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: london
+  url: http://www.last.fm/tag/london
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: french
+  url: http://www.last.fm/tag/french
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live

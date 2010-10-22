@@ -1,0 +1,217 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: christian rock
+  url: http://www.last.fm/tag/christian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "81"
+  name: christian
+  url: http://www.last.fm/tag/christian
+- !ruby/object:Scrobbler::Tag 
+  count: "56"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: contemporary christian
+  url: http://www.last.fm/tag/contemporary%20christian
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: worship
+  url: http://www.last.fm/tag/worship
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: tenth avenue north
+  url: http://www.last.fm/tag/tenth%20avenue%20north
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: christian contemp
+  url: http://www.last.fm/tag/christian%20contemp
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: praise and worship
+  url: http://www.last.fm/tag/praise%20and%20worship
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: gospel
+  url: http://www.last.fm/tag/gospel
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: winter jam
+  url: http://www.last.fm/tag/winter%20jam
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: number bands
+  url: http://www.last.fm/tag/number%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cross2life
+  url: http://www.last.fm/tag/cross2life
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: christian artists
+  url: http://www.last.fm/tag/christian%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jc ftw
+  url: http://www.last.fm/tag/jc%20ftw
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern-rock
+  url: http://www.last.fm/tag/modern-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: made me cry
+  url: http://www.last.fm/tag/made%20me%20cry
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: award-winning
+  url: http://www.last.fm/tag/award-winning
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: christian music
+  url: http://www.last.fm/tag/christian%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: christian bands small enough to own this tag
+  url: http://www.last.fm/tag/christian%20bands%20small%20enough%20to%20own%20this%20tag
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awsome
+  url: http://www.last.fm/tag/awsome
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: healing
+  url: http://www.last.fm/tag/healing
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: philmix
+  url: http://www.last.fm/tag/philmix
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: boy band
+  url: http://www.last.fm/tag/boy%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: philmixtian
+  url: http://www.last.fm/tag/philmixtian
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: faves
+  url: http://www.last.fm/tag/faves
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: florida
+  url: http://www.last.fm/tag/florida
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: international
+  url: http://www.last.fm/tag/international
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: winter jam 2010
+  url: http://www.last.fm/tag/winter%20jam%202010
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spiritual
+  url: http://www.last.fm/tag/spiritual
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soft
+  url: http://www.last.fm/tag/soft
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: band
+  url: http://www.last.fm/tag/band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ccm
+  url: http://www.last.fm/tag/ccm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian temporary
+  url: http://www.last.fm/tag/christian%20temporary
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: discoverockult
+  url: http://www.last.fm/tag/discoverockult
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alt worship
+  url: http://www.last.fm/tag/alt%20worship
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: purpose
+  url: http://www.last.fm/tag/purpose
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "-"
+  url: http://www.last.fm/tag/-
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: joy
+  url: http://www.last.fm/tag/joy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: life
+  url: http://www.last.fm/tag/life
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "&lt;3"
+  url: http://www.last.fm/tag/%3C3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: peace
+  url: http://www.last.fm/tag/peace
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relationships
+  url: http://www.last.fm/tag/relationships
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: marriage
+  url: http://www.last.fm/tag/marriage

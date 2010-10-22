@@ -1,0 +1,121 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "92"
+  name: classic country
+  url: http://www.last.fm/tag/classic%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: boogie
+  url: http://www.last.fm/tag/boogie
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: western swing
+  url: http://www.last.fm/tag/western%20swing
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: greg harrisburg
+  url: http://www.last.fm/tag/greg%20harrisburg
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: less than 10
+  url: http://www.last.fm/tag/less%20than%2010
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: doc watson and co
+  url: http://www.last.fm/tag/doc%20watson%20and%20co
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: post dead
+  url: http://www.last.fm/tag/post%20dead
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: post hitching post
+  url: http://www.last.fm/tag/post%20hitching%20post
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: red foley
+  url: http://www.last.fm/tag/red%20foley
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: before 1960
+  url: http://www.last.fm/tag/before%201960
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: the international rancho
+  url: http://www.last.fm/tag/the%20international%20rancho
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: theme time
+  url: http://www.last.fm/tag/theme%20time
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: country western
+  url: http://www.last.fm/tag/country%20western
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: willie nelson
+  url: http://www.last.fm/tag/willie%20nelson
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: johnny cash
+  url: http://www.last.fm/tag/johnny%20cash
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hillbilly
+  url: http://www.last.fm/tag/hillbilly
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hank williams
+  url: http://www.last.fm/tag/hank%20williams
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 40s
+  url: http://www.last.fm/tag/40s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 50s
+  url: http://www.last.fm/tag/50s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nashville rash
+  url: http://www.last.fm/tag/nashville%20rash
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shake the shack fucker
+  url: http://www.last.fm/tag/shake%20the%20shack%20fucker
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 40s country
+  url: http://www.last.fm/tag/40s%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: southerner
+  url: http://www.last.fm/tag/southerner
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gospel
+  url: http://www.last.fm/tag/gospel

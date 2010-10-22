@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: alan jackson
+  url: http://www.last.fm/tag/alan%20jackson
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: my country
+  url: http://www.last.fm/tag/my%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: modern country
+  url: http://www.last.fm/tag/modern%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: classic country
+  url: http://www.last.fm/tag/classic%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male country
+  url: http://www.last.fm/tag/male%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: traditional country
+  url: http://www.last.fm/tag/traditional%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: my country selection
+  url: http://www.last.fm/tag/my%20country%20selection
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: georgia
+  url: http://www.last.fm/tag/georgia
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bluegrass
+  url: http://www.last.fm/tag/bluegrass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo-traditional country
+  url: http://www.last.fm/tag/neo-traditional%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: musicians with cowboy hats
+  url: http://www.last.fm/tag/musicians%20with%20cowboy%20hats
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: best country artist
+  url: http://www.last.fm/tag/best%20country%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new country
+  url: http://www.last.fm/tag/new%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot country
+  url: http://www.last.fm/tag/hot%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop country
+  url: http://www.last.fm/tag/pop%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christmas
+  url: http://www.last.fm/tag/christmas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: songwriter
+  url: http://www.last.fm/tag/songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ballad
+  url: http://www.last.fm/tag/ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country rock
+  url: http://www.last.fm/tag/country%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country music
+  url: http://www.last.fm/tag/country%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alan jackson taggradio
+  url: http://www.last.fm/tag/alan%20jackson%20taggradio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country-rock
+  url: http://www.last.fm/tag/country-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jimmy buffet
+  url: http://www.last.fm/tag/jimmy%20buffet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary country
+  url: http://www.last.fm/tag/contemporary%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: faves
+  url: http://www.last.fm/tag/faves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 2000s
+  url: http://www.last.fm/tag/2000s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new traditionalist
+  url: http://www.last.fm/tag/new%20traditionalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: like his songs
+  url: http://www.last.fm/tag/like%20his%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s country
+  url: http://www.last.fm/tag/90s%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk blues
+  url: http://www.last.fm/tag/folk%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brooks and dunn
+  url: http://www.last.fm/tag/brooks%20and%20dunn
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite country
+  url: http://www.last.fm/tag/favorite%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country taggradio
+  url: http://www.last.fm/tag/country%20taggradio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: test
+  url: http://www.last.fm/tag/test
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goes on for a little bitty while
+  url: http://www.last.fm/tag/goes%20on%20for%20a%20little%20bitty%20while
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country folk
+  url: http://www.last.fm/tag/country%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kenny chesney
+  url: http://www.last.fm/tag/kenny%20chesney
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: energetic
+  url: http://www.last.fm/tag/energetic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorieten frank en heleen
+  url: http://www.last.fm/tag/favorieten%20frank%20en%20heleen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: looking back
+  url: http://www.last.fm/tag/looking%20back
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nashville pop
+  url: http://www.last.fm/tag/nashville%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vivienne johnson
+  url: http://www.last.fm/tag/vivienne%20johnson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ct
+  url: http://www.last.fm/tag/ct
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this is awesome
+  url: http://www.last.fm/tag/this%20is%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: keith1
+  url: http://www.last.fm/tag/keith1
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: real country
+  url: http://www.last.fm/tag/real%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: whiskey weed women
+  url: http://www.last.fm/tag/whiskey%20weed%20women
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: www
+  url: http://www.last.fm/tag/www
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: capslock
+  url: http://www.last.fm/tag/capslock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shike country
+  url: http://www.last.fm/tag/shike%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alan jakson
+  url: http://www.last.fm/tag/alan%20jakson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country style :p
+  url: http://www.last.fm/tag/country%20style%20%3Ap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lions country
+  url: http://www.last.fm/tag/lions%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite country music male
+  url: http://www.last.fm/tag/favorite%20country%20music%20male
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my country side
+  url: http://www.last.fm/tag/my%20country%20side
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: remember when
+  url: http://www.last.fm/tag/remember%20when
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i played it didnt i
+  url: http://www.last.fm/tag/i%20played%20it%20didnt%20i
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: innerearmedia
+  url: http://www.last.fm/tag/innerearmedia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: solo country acts
+  url: http://www.last.fm/tag/solo%20country%20acts
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite album-song-artist
+  url: http://www.last.fm/tag/favorite%20album-song-artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: maggie
+  url: http://www.last.fm/tag/maggie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gloria jane
+  url: http://www.last.fm/tag/gloria%20jane
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: countrykicks
+  url: http://www.last.fm/tag/countrykicks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new traditionalist country
+  url: http://www.last.fm/tag/new%20traditionalist%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: big  rich
+  url: http://www.last.fm/tag/big%20%20rich
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lessons in lyrics country
+  url: http://www.last.fm/tag/lessons%20in%20lyrics%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cantry
+  url: http://www.last.fm/tag/cantry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the international rancho
+  url: http://www.last.fm/tag/the%20international%20rancho
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music7
+  url: http://www.last.fm/tag/music7
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nashville country
+  url: http://www.last.fm/tag/nashville%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: meusi country
+  url: http://www.last.fm/tag/meusi%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: salem ma
+  url: http://www.last.fm/tag/salem%20ma
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: little bitty
+  url: http://www.last.fm/tag/little%20bitty
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 02 country
+  url: http://www.last.fm/tag/02%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: countrys best
+  url: http://www.last.fm/tag/countrys%20best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alan jacksn
+  url: http://www.last.fm/tag/alan%20jacksn
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ajcountry
+  url: http://www.last.fm/tag/ajcountry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country male
+  url: http://www.last.fm/tag/country%20male
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gorgeous lol
+  url: http://www.last.fm/tag/gorgeous%20lol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowpokes and banjo pickers
+  url: http://www.last.fm/tag/cowpokes%20and%20banjo%20pickers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s 80s 90s
+  url: http://www.last.fm/tag/70s%2080s%2090s

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/29365367.jpg
+  mbid: 8385f26a-f374-4a04-9aad-4442ce24db2b
+  name: VNV Nation
+  playcount: "592"
+  rank: "1"
+  thumbnail: http://userserve-ak.last.fm/serve/34/29365367.jpg
+  url: http://www.last.fm/music/VNV+Nation
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/153902.jpg
+  mbid: 59b858bb-e13a-4608-b30d-8a4b7f282e26
+  name: Vanden Plas
+  playcount: "196"
+  rank: "2"
+  thumbnail: http://userserve-ak.last.fm/serve/34/153902.jpg
+  url: http://www.last.fm/music/Vanden+Plas
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/36180069.png
+  mbid: f1d1df24-91af-4d27-83a4-9b4ad29b37eb
+  name: Enigma
+  playcount: "195"
+  rank: "3"
+  thumbnail: http://userserve-ak.last.fm/serve/34/36180069.png
+  url: http://www.last.fm/music/Enigma
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/7831307.jpg
+  mbid: 21985b14-1b0d-44fe-b357-310b29bba510
+  name: Epica
+  playcount: "186"
+  rank: "4"
+  thumbnail: http://userserve-ak.last.fm/serve/34/7831307.jpg
+  url: http://www.last.fm/music/Epica
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/17656755.jpg
+  mbid: 9db1e69b-935f-4c1d-a48c-8bcca179a25c
+  name: E Nomine
+  playcount: "185"
+  rank: "5"
+  thumbnail: http://userserve-ak.last.fm/serve/34/17656755.jpg
+  url: http://www.last.fm/music/E+Nomine
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/40483747.png
+  mbid: 9b58672a-e68e-4972-956e-a8985a165a1f
+  name: Howard Shore
+  playcount: "165"
+  rank: "6"
+  thumbnail: http://userserve-ak.last.fm/serve/34/40483747.png
+  url: http://www.last.fm/music/Howard+Shore
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/50273293.png
+  mbid: 2449300a-6ca7-45da-8102-22789d256475
+  name: Kamelot
+  playcount: "156"
+  rank: "7"
+  thumbnail: http://userserve-ak.last.fm/serve/34/50273293.png
+  url: http://www.last.fm/music/Kamelot
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/35374239.png
+  mbid: cd645207-1664-46af-9953-264e9ae54089
+  name: Lisa Gerrard
+  playcount: "154"
+  rank: "8"
+  thumbnail: http://userserve-ak.last.fm/serve/34/35374239.png
+  url: http://www.last.fm/music/Lisa+Gerrard
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/43614035.jpg
+  mbid: d7a18d20-8591-43af-b8e7-362eacc979f8
+  name: Arkona
+  playcount: "146"
+  rank: "9"
+  thumbnail: http://userserve-ak.last.fm/serve/34/43614035.jpg
+  url: http://www.last.fm/music/Arkona
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/8421679.jpg
+  mbid: cdb1cf13-1787-4107-96a1-1c512178e23c
+  name: Michael Angelo Batio
+  playcount: "139"
+  rank: "10"
+  thumbnail: http://userserve-ak.last.fm/serve/34/8421679.jpg
+  url: http://www.last.fm/music/Michael+Angelo+Batio
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/329.jpg
+  mbid: acf6c776-d0f6-4239-b5a2-a45a613ffa52
+  name: The Corrs
+  playcount: "137"
+  rank: "11"
+  thumbnail: http://userserve-ak.last.fm/serve/34/329.jpg
+  url: http://www.last.fm/music/The+Corrs
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/3767394.jpg
+  mbid: 788ad31c-bf0c-4a31-83f8-b8b130d79c76
+  name: Apocalyptica
+  playcount: "121"
+  rank: "12"
+  thumbnail: http://userserve-ak.last.fm/serve/34/3767394.jpg
+  url: http://www.last.fm/music/Apocalyptica
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/25107167.jpg
+  mbid: 4e0dffde-ad2d-45b7-9c75-d57ce55de061
+  name: Rhapsody of Fire
+  playcount: "115"
+  rank: "13"
+  thumbnail: http://userserve-ak.last.fm/serve/34/25107167.jpg
+  url: http://www.last.fm/music/Rhapsody+of+Fire
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/49190261.jpg
+  mbid: 482a5456-7d8a-4366-a2e9-6f38853df632
+  name: Poets of the Fall
+  playcount: "109"
+  rank: "14"
+  thumbnail: http://userserve-ak.last.fm/serve/34/49190261.jpg
+  url: http://www.last.fm/music/Poets+of+the+Fall
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/6722933.jpg
+  mbid: ccda046a-2674-4f7d-97e6-f23d6c156432
+  name: Dead Can Dance
+  playcount: "106"
+  rank: "15"
+  thumbnail: http://userserve-ak.last.fm/serve/34/6722933.jpg
+  url: http://www.last.fm/music/Dead+Can+Dance
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/4107705.jpg
+  mbid: 14962b84-c46a-490b-b6a0-ee69c78b2291
+  name: Finntroll
+  playcount: "101"
+  rank: "16"
+  thumbnail: http://userserve-ak.last.fm/serve/34/4107705.jpg
+  url: http://www.last.fm/music/Finntroll
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/7308021.jpg
+  mbid: 7bbfd77c-1102-4831-9ba8-246fb67460b3
+  name: Ayreon
+  playcount: "97"
+  rank: "17"
+  thumbnail: http://userserve-ak.last.fm/serve/34/7308021.jpg
+  url: http://www.last.fm/music/Ayreon
+- !ruby/object:Scrobbler::Artist 
+  image: ""
+  mbid: ""
+  name: "Pierre Carbidier: French National Radio Orchestra"
+  playcount: "90"
+  rank: "18"
+  thumbnail: ""
+  url: http://www.last.fm/music/Pierre+Carbidier%3A+French+National+Radio+Orchestra
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/22057555.jpg
+  mbid: 61ed9c9c-79eb-4e8f-8015-bd599ac0ab49
+  name: Katatonia
+  playcount: "87"
+  rank: "19"
+  thumbnail: http://userserve-ak.last.fm/serve/34/22057555.jpg
+  url: http://www.last.fm/music/Katatonia
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/461362.jpg
+  mbid: 79b6b394-6c05-40c1-9e3c-d22870eee839
+  name: Heideroosjes
+  playcount: "86"
+  rank: "20"
+  thumbnail: http://userserve-ak.last.fm/serve/34/461362.jpg
+  url: http://www.last.fm/music/Heideroosjes
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/23426867.png
+  mbid: ffbfc446-f717-4c63-9103-587defe6cf8a
+  name: Vienna Teng
+  playcount: "84"
+  rank: "21"
+  thumbnail: http://userserve-ak.last.fm/serve/34/23426867.png
+  url: http://www.last.fm/music/Vienna+Teng
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/28161395.jpg
+  mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
+  name: Ozzy Osbourne
+  playcount: "80"
+  rank: "22"
+  thumbnail: http://userserve-ak.last.fm/serve/34/28161395.jpg
+  url: http://www.last.fm/music/Ozzy+Osbourne
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/4279299.jpg
+  mbid: eab76c9f-ff91-4431-b6dd-3b976c598020
+  name: Infected Mushroom
+  playcount: "78"
+  rank: "23"
+  thumbnail: http://userserve-ak.last.fm/serve/34/4279299.jpg
+  url: http://www.last.fm/music/Infected+Mushroom
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/4552771.jpg
+  mbid: 9328a5f4-d710-488b-806b-68fb80d8c228
+  name: Heidevolk
+  playcount: "77"
+  rank: "24"
+  thumbnail: http://userserve-ak.last.fm/serve/34/4552771.jpg
+  url: http://www.last.fm/music/Heidevolk
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/479315.jpg
+  mbid: 50b7a2d2-a561-4e6e-9a4e-81d7d40461fe
+  name: Excalion
+  playcount: "74"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/479315.jpg
+  url: http://www.last.fm/music/Excalion
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2428.jpg
+  mbid: b9c87d34-e3d3-4b29-bc17-aaa91c7d5a06
+  name: Wolfsheim
+  playcount: "73"
+  rank: "26"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2428.jpg
+  url: http://www.last.fm/music/Wolfsheim
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/16888295.jpg
+  mbid: 0bfba3d3-6a04-4779-bb0a-df07df5b0558
+  name: Stereophonics
+  playcount: "70"
+  rank: "27"
+  thumbnail: http://userserve-ak.last.fm/serve/34/16888295.jpg
+  url: http://www.last.fm/music/Stereophonics
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/289416.jpg
+  mbid: 979ce33b-4d8e-4e44-8c7e-f9d3054f4386
+  name: Absurd Minds
+  playcount: "68"
+  rank: "28"
+  thumbnail: http://userserve-ak.last.fm/serve/34/289416.jpg
+  url: http://www.last.fm/music/Absurd+Minds
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/34485501.jpg
+  mbid: 6fe25812-9155-43a1-b5af-8371f90a4f59
+  name: Mind.In.A.Box
+  playcount: "68"
+  rank: "28"
+  thumbnail: http://userserve-ak.last.fm/serve/34/34485501.jpg
+  url: http://www.last.fm/music/Mind.In.A.Box
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/41136031.jpg
+  mbid: 00a9f935-ba93-4fc8-a33a-993abe9c936b
+  name: Nightwish
+  playcount: "64"
+  rank: "30"
+  thumbnail: http://userserve-ak.last.fm/serve/34/41136031.jpg
+  url: http://www.last.fm/music/Nightwish
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/32645213.png
+  mbid: 328d146c-79f1-4eb6-9e40-8ee5710c14e5
+  name: Imogen Heap
+  playcount: "64"
+  rank: "30"
+  thumbnail: http://userserve-ak.last.fm/serve/34/32645213.png
+  url: http://www.last.fm/music/Imogen+Heap
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/251090.jpg
+  mbid: 0dc6a8e4-30d5-43a3-b3d2-98bdd8c43362
+  name: Colony 5
+  playcount: "63"
+  rank: "32"
+  thumbnail: http://userserve-ak.last.fm/serve/34/251090.jpg
+  url: http://www.last.fm/music/Colony+5
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/3272258.jpg
+  mbid: 5a0c06a0-fcdb-4ac1-a078-bcc251ee9f60
+  name: Cosmosis
+  playcount: "59"
+  rank: "33"
+  thumbnail: http://userserve-ak.last.fm/serve/34/3272258.jpg
+  url: http://www.last.fm/music/Cosmosis
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/7583643.jpg
+  mbid: 879a449d-506a-422c-9fb8-8af01d3d04ae
+  name: Covenant
+  playcount: "57"
+  rank: "34"
+  thumbnail: http://userserve-ak.last.fm/serve/34/7583643.jpg
+  url: http://www.last.fm/music/Covenant
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/44146501.jpg
+  mbid: 2ecbc483-dee4-442f-8ce7-f3ab31c73f87
+  name: Avantasia
+  playcount: "57"
+  rank: "34"
+  thumbnail: http://userserve-ak.last.fm/serve/34/44146501.jpg
+  url: http://www.last.fm/music/Avantasia
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/10602471.jpg
+  mbid: ecf9ac46-dbb5-424c-87a5-be2fce8661c8
+  name: Katra
+  playcount: "57"
+  rank: "34"
+  thumbnail: http://userserve-ak.last.fm/serve/34/10602471.jpg
+  url: http://www.last.fm/music/Katra
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/34995197.jpg
+  mbid: 985c709c-7771-4de3-9024-7bda29ebe3f9
+  name: Norah Jones
+  playcount: "56"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/34995197.jpg
+  url: http://www.last.fm/music/Norah+Jones
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/612169.jpg
+  mbid: df369da2-c88e-473e-ab6a-d0f5ab8007c5
+  name: Man With No Name
+  playcount: "56"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/612169.jpg
+  url: http://www.last.fm/music/Man+With+No+Name
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/45245811.png
+  mbid: ""
+  name: Florence + the Machine
+  playcount: "56"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/45245811.png
+  url: http://www.last.fm/music/Florence%2B%252B%2Bthe%2BMachine
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/26560821.jpg
+  mbid: 8a0e10a9-80c7-40e0-bf5b-89f1d57f9537
+  name: Iced Earth
+  playcount: "55"
+  rank: "40"
+  thumbnail: http://userserve-ak.last.fm/serve/34/26560821.jpg
+  url: http://www.last.fm/music/Iced+Earth
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/63224.jpg
+  mbid: 23eeaeaf-423d-4859-8c91-2175ece74287
+  name: Five for Fighting
+  playcount: "55"
+  rank: "40"
+  thumbnail: http://userserve-ak.last.fm/serve/34/63224.jpg
+  url: http://www.last.fm/music/Five+for+Fighting
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/15385433.jpg
+  mbid: 39a31de6-763d-48b6-a45c-f7cfad58ffd8
+  name: Sabaton
+  playcount: "55"
+  rank: "40"
+  thumbnail: http://userserve-ak.last.fm/serve/34/15385433.jpg
+  url: http://www.last.fm/music/Sabaton
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/490845.jpg
+  mbid: 49a5f5b9-44f3-4db2-a9a8-db8773de4edc
+  name: Asura
+  playcount: "54"
+  rank: "43"
+  thumbnail: http://userserve-ak.last.fm/serve/34/490845.jpg
+  url: http://www.last.fm/music/Asura
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/266308.jpg
+  mbid: 82ba3dbd-2b98-4784-b762-45b522ea3655
+  name: Tungtvann
+  playcount: "54"
+  rank: "43"
+  thumbnail: http://userserve-ak.last.fm/serve/34/266308.jpg
+  url: http://www.last.fm/music/Tungtvann
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/46214429.png
+  mbid: f53a1373-0fc5-433d-96d3-19ed06ab81e3
+  name: ReVamp
+  playcount: "54"
+  rank: "43"
+  thumbnail: http://userserve-ak.last.fm/serve/34/46214429.png
+  url: http://www.last.fm/music/ReVamp
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/3111148.jpg
+  mbid: 4907397e-370b-4534-b9ac-cf6da31ae193
+  name: Xystus
+  playcount: "54"
+  rank: "43"
+  thumbnail: http://userserve-ak.last.fm/serve/34/3111148.jpg
+  url: http://www.last.fm/music/Xystus
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/4853995.jpg
+  mbid: 7fa7fc04-1011-4876-8095-ecd232edea87
+  name: Blind Guardian
+  playcount: "53"
+  rank: "47"
+  thumbnail: http://userserve-ak.last.fm/serve/34/4853995.jpg
+  url: http://www.last.fm/music/Blind+Guardian
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/99572.jpg
+  mbid: 31e48c9d-8deb-48f5-83c3-67edb20d7f5e
+  name: The Advantage
+  playcount: "52"
+  rank: "48"
+  thumbnail: http://userserve-ak.last.fm/serve/34/99572.jpg
+  url: http://www.last.fm/music/The+Advantage
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/8400921.jpg
+  mbid: 4bb4e4e4-5f66-4509-98af-62dbb90c45c5
+  name: Disturbed
+  playcount: "50"
+  rank: "49"
+  thumbnail: http://userserve-ak.last.fm/serve/34/8400921.jpg
+  url: http://www.last.fm/music/Disturbed
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/24764303.jpg
+  mbid: d8df7087-06d5-4545-9024-831bb8558ad1
+  name: Jonathan Coulton
+  playcount: "50"
+  rank: "49"
+  thumbnail: http://userserve-ak.last.fm/serve/34/24764303.jpg
+  url: http://www.last.fm/music/Jonathan+Coulton

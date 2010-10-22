@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: reggae
+  url: http://www.last.fm/tag/reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "84"
+  name: latin
+  url: http://www.last.fm/tag/latin
+- !ruby/object:Scrobbler::Tag 
+  count: "57"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "55"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "52"
+  name: ska
+  url: http://www.last.fm/tag/ska
+- !ruby/object:Scrobbler::Tag 
+  count: "24"
+  name: french
+  url: http://www.last.fm/tag/french
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: spanish
+  url: http://www.last.fm/tag/spanish
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: world music
+  url: http://www.last.fm/tag/world%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: manu chao
+  url: http://www.last.fm/tag/manu%20chao
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: patchanka
+  url: http://www.last.fm/tag/patchanka
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: mestizo
+  url: http://www.last.fm/tag/mestizo
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: fusion
+  url: http://www.last.fm/tag/fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: latino
+  url: http://www.last.fm/tag/latino
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: france
+  url: http://www.last.fm/tag/france
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: francais
+  url: http://www.last.fm/tag/francais
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock en espanol
+  url: http://www.last.fm/tag/rock%20en%20espanol
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: latin rock
+  url: http://www.last.fm/tag/latin%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: espanol
+  url: http://www.last.fm/tag/espanol
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ethnic
+  url: http://www.last.fm/tag/ethnic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: happy
+  url: http://www.last.fm/tag/happy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: latin reggae
+  url: http://www.last.fm/tag/latin%20reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: worldmusic
+  url: http://www.last.fm/tag/worldmusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: manu
+  url: http://www.last.fm/tag/manu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin alternative
+  url: http://www.last.fm/tag/latin%20alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: worldbeat
+  url: http://www.last.fm/tag/worldbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dub
+  url: http://www.last.fm/tag/dub
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: summer
+  url: http://www.last.fm/tag/summer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: barcelona
+  url: http://www.last.fm/tag/barcelona
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mestizaje
+  url: http://www.last.fm/tag/mestizaje
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chanson
+  url: http://www.last.fm/tag/chanson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spain
+  url: http://www.last.fm/tag/spain
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: french pop
+  url: http://www.last.fm/tag/french%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin folk
+  url: http://www.last.fm/tag/latin%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fun
+  url: http://www.last.fm/tag/fun
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: salsa
+  url: http://www.last.fm/tag/salsa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ska punk
+  url: http://www.last.fm/tag/ska%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: portuguese
+  url: http://www.last.fm/tag/portuguese
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mano negra
+  url: http://www.last.fm/tag/mano%20negra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hurricane 06
+  url: http://www.last.fm/tag/hurricane%2006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chanson francaise
+  url: http://www.last.fm/tag/chanson%20francaise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spanish rock
+  url: http://www.last.fm/tag/spanish%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: galician
+  url: http://www.last.fm/tag/galician
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roots reggae
+  url: http://www.last.fm/tag/roots%20reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rai
+  url: http://www.last.fm/tag/rai
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latina
+  url: http://www.last.fm/tag/latina
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: arabic
+  url: http://www.last.fm/tag/arabic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: basque
+  url: http://www.last.fm/tag/basque
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grunge
+  url: http://www.last.fm/tag/grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ethno
+  url: http://www.last.fm/tag/ethno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unamerican
+  url: http://www.last.fm/tag/unamerican
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reggae rock
+  url: http://www.last.fm/tag/reggae%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin music
+  url: http://www.last.fm/tag/latin%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: southside 2006
+  url: http://www.last.fm/tag/southside%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pachanga
+  url: http://www.last.fm/tag/pachanga
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: me gustas tu
+  url: http://www.last.fm/tag/me%20gustas%20tu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clandestino
+  url: http://www.last.fm/tag/clandestino
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock latino
+  url: http://www.last.fm/tag/rock%20latino
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist

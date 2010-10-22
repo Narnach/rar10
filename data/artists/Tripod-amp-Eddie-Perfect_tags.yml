@@ -1,0 +1,209 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: australian
+  url: http://www.last.fm/tag/australian
+- !ruby/object:Scrobbler::Tag 
+  count: "95"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "52"
+  name: frenchcore
+  url: http://www.last.fm/tag/frenchcore
+- !ruby/object:Scrobbler::Tag 
+  count: "39"
+  name: nu metal
+  url: http://www.last.fm/tag/nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "39"
+  name: rapcore
+  url: http://www.last.fm/tag/rapcore
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: french
+  url: http://www.last.fm/tag/french
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: metal francais
+  url: http://www.last.fm/tag/metal%20francais
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: geek rock
+  url: http://www.last.fm/tag/geek%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: aussie
+  url: http://www.last.fm/tag/aussie
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: tripod
+  url: http://www.last.fm/tag/tripod
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: triplej
+  url: http://www.last.fm/tag/triplej
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: australian comedy
+  url: http://www.last.fm/tag/australian%20comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: aussie music
+  url: http://www.last.fm/tag/aussie%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: artist to check out
+  url: http://www.last.fm/tag/artist%20to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: comedy musical trio
+  url: http://www.last.fm/tag/comedy%20musical%20trio
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: musical comedy
+  url: http://www.last.fm/tag/musical%20comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: met in person
+  url: http://www.last.fm/tag/met%20in%20person
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: australian comedy alternative
+  url: http://www.last.fm/tag/australian%20comedy%20alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: listen to more
+  url: http://www.last.fm/tag/listen%20to%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: passive aggressive bullshit
+  url: http://www.last.fm/tag/passive%20aggressive%20bullshit
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: oz
+  url: http://www.last.fm/tag/oz
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: loved on first listen
+  url: http://www.last.fm/tag/loved%20on%20first%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: buy more cds
+  url: http://www.last.fm/tag/buy%20more%20cds
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: nerd rock
+  url: http://www.last.fm/tag/nerd%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: triple j
+  url: http://www.last.fm/tag/triple%20j
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: unrock
+  url: http://www.last.fm/tag/unrock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: geek
+  url: http://www.last.fm/tag/geek
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: neo metal
+  url: http://www.last.fm/tag/neo%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: radio
+  url: http://www.last.fm/tag/radio
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: novelty
+  url: http://www.last.fm/tag/novelty
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: lol
+  url: http://www.last.fm/tag/lol
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: live
+  url: http://www.last.fm/tag/live
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: funny
+  url: http://www.last.fm/tag/funny
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: jjj
+  url: http://www.last.fm/tag/jjj
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: akiba kei
+  url: http://www.last.fm/tag/akiba%20kei
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aussie comedy
+  url: http://www.last.fm/tag/aussie%20comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anime
+  url: http://www.last.fm/tag/anime
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: friki
+  url: http://www.last.fm/tag/friki
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melbourne
+  url: http://www.last.fm/tag/melbourne
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: otaku
+  url: http://www.last.fm/tag/otaku

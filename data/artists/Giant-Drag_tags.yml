@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "73"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: giant drag
+  url: http://www.last.fm/tag/giant%20drag
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american indie
+  url: http://www.last.fm/tag/american%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: reading 2006
+  url: http://www.last.fm/tag/reading%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: grunge
+  url: http://www.last.fm/tag/grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cute
+  url: http://www.last.fm/tag/cute
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: garage rock
+  url: http://www.last.fm/tag/garage%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kgrl
+  url: http://www.last.fm/tag/kgrl
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: so fucking serious you would not believe it
+  url: http://www.last.fm/tag/so%20fucking%20serious%20you%20would%20not%20believe%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: coachella 2006
+  url: http://www.last.fm/tag/coachella%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: angry girl music
+  url: http://www.last.fm/tag/angry%20girl%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: investigate
+  url: http://www.last.fm/tag/investigate
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: riot grrrl power
+  url: http://www.last.fm/tag/riot%20grrrl%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female indie vocals
+  url: http://www.last.fm/tag/female%20indie%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cover
+  url: http://www.last.fm/tag/cover
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl-boy duo
+  url: http://www.last.fm/tag/girl-boy%20duo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: look into
+  url: http://www.last.fm/tag/look%20into
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: annie hardy
+  url: http://www.last.fm/tag/annie%20hardy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mmm girls
+  url: http://www.last.fm/tag/mmm%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sikorki
+  url: http://www.last.fm/tag/sikorki
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a little odd
+  url: http://www.last.fm/tag/a%20little%20odd
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eurockeennes 2006
+  url: http://www.last.fm/tag/eurockeennes%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my new favourite bands
+  url: http://www.last.fm/tag/my%20new%20favourite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myspace friends
+  url: http://www.last.fm/tag/myspace%20friends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: coachella2006
+  url: http://www.last.fm/tag/coachella2006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music to download
+  url: http://www.last.fm/tag/music%20to%20download
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: femme pleasure
+  url: http://www.last.fm/tag/femme%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: coachella 2006 streamable
+  url: http://www.last.fm/tag/coachella%202006%20streamable
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sigh and swoon in equal measure
+  url: http://www.last.fm/tag/sigh%20and%20swoon%20in%20equal%20measure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fuzz and buzz majesty
+  url: http://www.last.fm/tag/fuzz%20and%20buzz%20majesty
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: downtime listening
+  url: http://www.last.fm/tag/downtime%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: interesting sounding stuff - get some trialsongs
+  url: http://www.last.fm/tag/interesting%20sounding%20stuff%20-%20get%20some%20trialsongs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mto bom
+  url: http://www.last.fm/tag/mto%20bom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out more
+  url: http://www.last.fm/tag/check%20out%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: t in the park 2006
+  url: http://www.last.fm/tag/t%20in%20the%20park%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new stuff i like
+  url: http://www.last.fm/tag/new%20stuff%20i%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blaha
+  url: http://www.last.fm/tag/blaha
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: very sexy
+  url: http://www.last.fm/tag/very%20sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chicks i dig
+  url: http://www.last.fm/tag/chicks%20i%20dig
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: next big things - nbts
+  url: http://www.last.fm/tag/next%20big%20things%20-%20nbts
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vocal feminino
+  url: http://www.last.fm/tag/vocal%20feminino
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: listen to more of
+  url: http://www.last.fm/tag/listen%20to%20more%20of
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance please
+  url: http://www.last.fm/tag/dance%20please
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: todo
+  url: http://www.last.fm/tag/todo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: listen more
+  url: http://www.last.fm/tag/listen%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artists ive seen live
+  url: http://www.last.fm/tag/artists%20ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: woah
+  url: http://www.last.fm/tag/woah
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: memorable
+  url: http://www.last.fm/tag/memorable
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie goodies
+  url: http://www.last.fm/tag/indie%20goodies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: our wavelength
+  url: http://www.last.fm/tag/our%20wavelength
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: humcity
+  url: http://www.last.fm/tag/humcity
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: weird vocals
+  url: http://www.last.fm/tag/weird%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funny as hell
+  url: http://www.last.fm/tag/funny%20as%20hell
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female bandmembers
+  url: http://www.last.fm/tag/female%20bandmembers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noisettes
+  url: http://www.last.fm/tag/noisettes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fun to sing along to
+  url: http://www.last.fm/tag/fun%20to%20sing%20along%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: minha lista
+  url: http://www.last.fm/tag/minha%20lista
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not sane
+  url: http://www.last.fm/tag/not%20sane
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: california indie
+  url: http://www.last.fm/tag/california%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new loves
+  url: http://www.last.fm/tag/new%20loves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: otw
+  url: http://www.last.fm/tag/otw
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hupin
+  url: http://www.last.fm/tag/hupin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: girly girly
+  url: http://www.last.fm/tag/girly%20girly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artists i discovered on audiocrush
+  url: http://www.last.fm/tag/artists%20i%20discovered%20on%20audiocrush
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funkyzeit
+  url: http://www.last.fm/tag/funkyzeit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mcb curious
+  url: http://www.last.fm/tag/mcb%20curious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lesbien
+  url: http://www.last.fm/tag/lesbien
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rocker girls
+  url: http://www.last.fm/tag/rocker%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: if this were a pokemon i would catch it
+  url: http://www.last.fm/tag/if%20this%20were%20a%20pokemon%20i%20would%20catch%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: questcequecest
+  url: http://www.last.fm/tag/questcequecest
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hamburgfotopz favourite
+  url: http://www.last.fm/tag/hamburgfotopz%20favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: donne che spaccano
+  url: http://www.last.fm/tag/donne%20che%20spaccano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great song name
+  url: http://www.last.fm/tag/great%20song%20name
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oh my god i love you
+  url: http://www.last.fm/tag/oh%20my%20god%20i%20love%20you
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: less than 20
+  url: http://www.last.fm/tag/less%20than%2020
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: born in 1980s
+  url: http://www.last.fm/tag/born%20in%201980s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sounds neu
+  url: http://www.last.fm/tag/sounds%20neu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nickyjean01
+  url: http://www.last.fm/tag/nickyjean01
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: starpm favorite
+  url: http://www.last.fm/tag/starpm%20favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: makes me wish i was still in california
+  url: http://www.last.fm/tag/makes%20me%20wish%20i%20was%20still%20in%20california
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new 2009
+  url: http://www.last.fm/tag/new%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: horstaxe
+  url: http://www.last.fm/tag/horstaxe

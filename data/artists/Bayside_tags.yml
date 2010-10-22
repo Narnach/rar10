@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "81"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "67"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "51"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: bayside
+  url: http://www.last.fm/tag/bayside
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: new york
+  url: http://www.last.fm/tag/new%20york
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: victory records
+  url: http://www.last.fm/tag/victory%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: long island
+  url: http://www.last.fm/tag/long%20island
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: emocore
+  url: http://www.last.fm/tag/emocore
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: bands ive seen live
+  url: http://www.last.fm/tag/bands%20ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: melodic punk
+  url: http://www.last.fm/tag/melodic%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cult
+  url: http://www.last.fm/tag/cult
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bands i have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop-punk
+  url: http://www.last.fm/tag/pop-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bands i've seen live
+  url: http://www.last.fm/tag/bands%20i%27ve%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutzia
+  url: http://www.last.fm/tag/deutzia
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: warped 07
+  url: http://www.last.fm/tag/warped%2007
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: great lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good music
+  url: http://www.last.fm/tag/good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artists i've seen live
+  url: http://www.last.fm/tag/artists%20i%27ve%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dear tragedy
+  url: http://www.last.fm/tag/dear%20tragedy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen
+  url: http://www.last.fm/tag/seen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff
+  url: http://www.last.fm/tag/stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorite band
+  url: http://www.last.fm/tag/my%20favorite%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good shit
+  url: http://www.last.fm/tag/good%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punkemo
+  url: http://www.last.fm/tag/punkemo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: warped tour
+  url: http://www.last.fm/tag/warped%20tour
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not screamo
+  url: http://www.last.fm/tag/not%20screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alt
+  url: http://www.last.fm/tag/alt
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk-pop
+  url: http://www.last.fm/tag/punk-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo rock
+  url: http://www.last.fm/tag/emo%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: download
+  url: http://www.last.fm/tag/download
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: depressing
+  url: http://www.last.fm/tag/depressing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: montauk
+  url: http://www.last.fm/tag/montauk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live
+  url: http://www.last.fm/tag/live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not emo
+  url: http://www.last.fm/tag/not%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kellum
+  url: http://www.last.fm/tag/kellum
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ive seen live
+  url: http://www.last.fm/tag/ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live 2006
+  url: http://www.last.fm/tag/seen%20live%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk-emo and screamo
+  url: http://www.last.fm/tag/punk-emo%20and%20screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: booked
+  url: http://www.last.fm/tag/booked
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: got autograph
+  url: http://www.last.fm/tag/got%20autograph
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rockem sockem whoa
+  url: http://www.last.fm/tag/rockem%20sockem%20whoa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome lyrics
+  url: http://www.last.fm/tag/awesome%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lax music
+  url: http://www.last.fm/tag/lax%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: these are my fav bands
+  url: http://www.last.fm/tag/these%20are%20my%20fav%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black punk
+  url: http://www.last.fm/tag/black%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark alternative
+  url: http://www.last.fm/tag/dark%20alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my musical best friend
+  url: http://www.last.fm/tag/my%20musical%20best%20friend
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rephrase
+  url: http://www.last.fm/tag/rephrase
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music i already know
+  url: http://www.last.fm/tag/music%20i%20already%20know
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal thing going
+  url: http://www.last.fm/tag/metal%20thing%20going
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ny bands
+  url: http://www.last.fm/tag/ny%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dumb victory records commercials
+  url: http://www.last.fm/tag/dumb%20victory%20records%20commercials
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovelovelove
+  url: http://www.last.fm/tag/lovelovelove
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: desire
+  url: http://www.last.fm/tag/desire
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: looooove
+  url: http://www.last.fm/tag/looooove
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: who ive seen live
+  url: http://www.last.fm/tag/who%20ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nostalgic love
+  url: http://www.last.fm/tag/nostalgic%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: met
+  url: http://www.last.fm/tag/met
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: morgens
+  url: http://www.last.fm/tag/morgens
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favouritest
+  url: http://www.last.fm/tag/favouritest
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i saw them live
+  url: http://www.last.fm/tag/i%20saw%20them%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a variety of emo stylings
+  url: http://www.last.fm/tag/a%20variety%20of%20emo%20stylings
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music from the oc
+  url: http://www.last.fm/tag/music%20from%20the%20oc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: some damn good music
+  url: http://www.last.fm/tag/some%20damn%20good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: what i generally listen to
+  url: http://www.last.fm/tag/what%20i%20generally%20listen%20to

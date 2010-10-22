@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "48"
+  name: baroque
+  url: http://www.last.fm/tag/baroque
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: italian
+  url: http://www.last.fm/tag/italian
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: vivaldi
+  url: http://www.last.fm/tag/vivaldi
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: violin
+  url: http://www.last.fm/tag/violin
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classical music
+  url: http://www.last.fm/tag/classical%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: antonio vivaldi
+  url: http://www.last.fm/tag/antonio%20vivaldi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: italy
+  url: http://www.last.fm/tag/italy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: klassik
+  url: http://www.last.fm/tag/klassik
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: opera
+  url: http://www.last.fm/tag/opera
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classique
+  url: http://www.last.fm/tag/classique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 18th century
+  url: http://www.last.fm/tag/18th%20century
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: venetian
+  url: http://www.last.fm/tag/venetian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: barock
+  url: http://www.last.fm/tag/barock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque classical
+  url: http://www.last.fm/tag/baroque%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic music
+  url: http://www.last.fm/tag/classic%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clasica
+  url: http://www.last.fm/tag/clasica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: strings
+  url: http://www.last.fm/tag/strings
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: concerto
+  url: http://www.last.fm/tag/concerto
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1700s
+  url: http://www.last.fm/tag/1700s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: early music
+  url: http://www.last.fm/tag/early%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italia
+  url: http://www.last.fm/tag/italia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: barroco
+  url: http://www.last.fm/tag/barroco
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chamber music
+  url: http://www.last.fm/tag/chamber%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classics
+  url: http://www.last.fm/tag/classics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: venice
+  url: http://www.last.fm/tag/venice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classica
+  url: http://www.last.fm/tag/classica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cello
+  url: http://www.last.fm/tag/cello
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: violinist
+  url: http://www.last.fm/tag/violinist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque music
+  url: http://www.last.fm/tag/baroque%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque italienne xviie-xviiie siecle
+  url: http://www.last.fm/tag/baroque%20italienne%20xviie-xviiie%20siecle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orchestra
+  url: http://www.last.fm/tag/orchestra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flute
+  url: http://www.last.fm/tag/flute
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian composers
+  url: http://www.last.fm/tag/italian%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: erudite music
+  url: http://www.last.fm/tag/erudite%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sacred music
+  url: http://www.last.fm/tag/sacred%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musique classique
+  url: http://www.last.fm/tag/musique%20classique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque composers
+  url: http://www.last.fm/tag/baroque%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: barok
+  url: http://www.last.fm/tag/barok
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque era
+  url: http://www.last.fm/tag/baroque%20era
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian composer
+  url: http://www.last.fm/tag/italian%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque period
+  url: http://www.last.fm/tag/baroque%20period
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: klasyczna
+  url: http://www.last.fm/tag/klasyczna
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: all-time favorites
+  url: http://www.last.fm/tag/all-time%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: choral
+  url: http://www.last.fm/tag/choral
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a vivaldi
+  url: http://www.last.fm/tag/a%20vivaldi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian baroque
+  url: http://www.last.fm/tag/italian%20baroque
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good classical
+  url: http://www.last.fm/tag/good%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian classical composer
+  url: http://www.last.fm/tag/italian%20classical%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical baroque
+  url: http://www.last.fm/tag/classical%20baroque
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: violino
+  url: http://www.last.fm/tag/violino
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: four seasons
+  url: http://www.last.fm/tag/four%20seasons
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seasons
+  url: http://www.last.fm/tag/seasons
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical composer
+  url: http://www.last.fm/tag/classical%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite composers
+  url: http://www.last.fm/tag/favourite%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical violin
+  url: http://www.last.fm/tag/classical%20violin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic symphonie
+  url: http://www.last.fm/tag/classic%20symphonie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best
+  url: http://www.last.fm/tag/best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore classical composers
+  url: http://www.last.fm/tag/hardcore%20classical%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian classical
+  url: http://www.last.fm/tag/italian%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legends
+  url: http://www.last.fm/tag/legends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: violin virtuoso
+  url: http://www.last.fm/tag/violin%20virtuoso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 17th century
+  url: http://www.last.fm/tag/17th%20century
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clasik
+  url: http://www.last.fm/tag/clasik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque thru beethoven
+  url: http://www.last.fm/tag/baroque%20thru%20beethoven
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kl4ss1k4l
+  url: http://www.last.fm/tag/kl4ss1k4l
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical music writer
+  url: http://www.last.fm/tag/classical%20music%20writer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: string quartet
+  url: http://www.last.fm/tag/string%20quartet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical-choral
+  url: http://www.last.fm/tag/classical-choral
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spring
+  url: http://www.last.fm/tag/spring
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pra
+  url: http://www.last.fm/tag/pra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1720s
+  url: http://www.last.fm/tag/1720s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: klasyka
+  url: http://www.last.fm/tag/klasyka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1730s
+  url: http://www.last.fm/tag/1730s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: largo
+  url: http://www.last.fm/tag/largo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: preclassic
+  url: http://www.last.fm/tag/preclassic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1710s
+  url: http://www.last.fm/tag/1710s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favourites
+  url: http://www.last.fm/tag/my%20favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovesongs for mnemosyne
+  url: http://www.last.fm/tag/lovesongs%20for%20mnemosyne

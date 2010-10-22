@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "68"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: dutch
+  url: http://www.last.fm/tag/dutch
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: nederlandstalig
+  url: http://www.last.fm/tag/nederlandstalig
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: nederlands
+  url: http://www.last.fm/tag/nederlands
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: punkrock
+  url: http://www.last.fm/tag/punkrock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: dutch punk
+  url: http://www.last.fm/tag/dutch%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: live gezien
+  url: http://www.last.fm/tag/live%20gezien
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: lowlands 2007
+  url: http://www.last.fm/tag/lowlands%202007
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: netherlands
+  url: http://www.last.fm/tag/netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: punk-rock
+  url: http://www.last.fm/tag/punk-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pukkelpop
+  url: http://www.last.fm/tag/pukkelpop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dutch punk rock
+  url: http://www.last.fm/tag/dutch%20punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hardcore punk
+  url: http://www.last.fm/tag/hardcore%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: limburg
+  url: http://www.last.fm/tag/limburg
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: speedrock
+  url: http://www.last.fm/tag/speedrock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ska
+  url: http://www.last.fm/tag/ska
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: horst
+  url: http://www.last.fm/tag/horst
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seenlive
+  url: http://www.last.fm/tag/seenlive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the netherlands
+  url: http://www.last.fm/tag/the%20netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic hardcore
+  url: http://www.last.fm/tag/melodic%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock werchter
+  url: http://www.last.fm/tag/rock%20werchter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nederpunk
+  url: http://www.last.fm/tag/nederpunk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seen live 2 times
+  url: http://www.last.fm/tag/seen%20live%202%20times
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lowlands2007
+  url: http://www.last.fm/tag/lowlands2007
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: politiek correct
+  url: http://www.last.fm/tag/politiek%20correct
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pukkelpop 2005
+  url: http://www.last.fm/tag/pukkelpop%202005
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goede muziek
+  url: http://www.last.fm/tag/goede%20muziek
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tja
+  url: http://www.last.fm/tag/tja
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: library
+  url: http://www.last.fm/tag/library
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo-rock
+  url: http://www.last.fm/tag/emo-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dutch rock
+  url: http://www.last.fm/tag/dutch%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dutch punkband theyll take over the usa soon
+  url: http://www.last.fm/tag/dutch%20punkband%20theyll%20take%20over%20the%20usa%20soon
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pinkpop
+  url: http://www.last.fm/tag/pinkpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mosh pit
+  url: http://www.last.fm/tag/mosh%20pit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live more than once
+  url: http://www.last.fm/tag/seen%20live%20more%20than%20once
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dutch alternative
+  url: http://www.last.fm/tag/dutch%20alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dutch artists
+  url: http://www.last.fm/tag/dutch%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not seen live
+  url: http://www.last.fm/tag/not%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live 5 times
+  url: http://www.last.fm/tag/seen%20live%205%20times
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: peter pan speedrock
+  url: http://www.last.fm/tag/peter%20pan%20speedrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live 3 times
+  url: http://www.last.fm/tag/seen%20live%203%20times
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: t1234 found on radio - check more
+  url: http://www.last.fm/tag/t1234%20found%20on%20radio%20-%20check%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: advised
+  url: http://www.last.fm/tag/advised
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live - dour 2009
+  url: http://www.last.fm/tag/seen%20live%20-%20dour%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nirwana 2009
+  url: http://www.last.fm/tag/nirwana%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music i loved before i discovered diversity
+  url: http://www.last.fm/tag/music%20i%20loved%20before%20i%20discovered%20diversity
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fearandfury 07
+  url: http://www.last.fm/tag/fearandfury%2007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock zottegem 2009
+  url: http://www.last.fm/tag/rock%20zottegem%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jera on air 2009
+  url: http://www.last.fm/tag/jera%20on%20air%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: zanger weleens gespot op blood and honour concert met gestrekte arm
+  url: http://www.last.fm/tag/zanger%20weleens%20gespot%20op%20blood%20and%20honour%20concert%20met%20gestrekte%20arm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: knepper
+  url: http://www.last.fm/tag/knepper
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: endangered languages
+  url: http://www.last.fm/tag/endangered%20languages
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pret punk
+  url: http://www.last.fm/tag/pret%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nederlands punk
+  url: http://www.last.fm/tag/nederlands%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bizarre 01
+  url: http://www.last.fm/tag/bizarre%2001
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brittus-live
+  url: http://www.last.fm/tag/brittus-live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: op de toffel 2007
+  url: http://www.last.fm/tag/op%20de%20toffel%202007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shock value
+  url: http://www.last.fm/tag/shock%20value
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock werchter 2007
+  url: http://www.last.fm/tag/rock%20werchter%202007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rockwell
+  url: http://www.last.fm/tag/rockwell
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: benelux
+  url: http://www.last.fm/tag/benelux
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bevrijdingsfestival stadspark 2004
+  url: http://www.last.fm/tag/bevrijdingsfestival%20stadspark%202004
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lowlands 2004
+  url: http://www.last.fm/tag/lowlands%202004
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live at lowlands
+  url: http://www.last.fm/tag/live%20at%20lowlands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nederlands - dutch
+  url: http://www.last.fm/tag/nederlands%20-%20dutch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pukkelpop 2006
+  url: http://www.last.fm/tag/pukkelpop%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: booka top
+  url: http://www.last.fm/tag/booka%20top
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: plant
+  url: http://www.last.fm/tag/plant
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: holland
+  url: http://www.last.fm/tag/holland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punx
+  url: http://www.last.fm/tag/punx
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardrock
+  url: http://www.last.fm/tag/hardrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: test
+  url: http://www.last.fm/tag/test
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nu-metal
+  url: http://www.last.fm/tag/nu-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk metal
+  url: http://www.last.fm/tag/folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crossover
+  url: http://www.last.fm/tag/crossover

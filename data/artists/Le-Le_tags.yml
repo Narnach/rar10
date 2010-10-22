@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "91"
+  name: dutch
+  url: http://www.last.fm/tag/dutch
+- !ruby/object:Scrobbler::Tag 
+  count: "84"
+  name: kanker hard
+  url: http://www.last.fm/tag/kanker%20hard
+- !ruby/object:Scrobbler::Tag 
+  count: "58"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: french
+  url: http://www.last.fm/tag/french
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: hard
+  url: http://www.last.fm/tag/hard
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: lowlands 2008
+  url: http://www.last.fm/tag/lowlands%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: ghettotech
+  url: http://www.last.fm/tag/ghettotech
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: electroclash
+  url: http://www.last.fm/tag/electroclash
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: why-is-last-fm-recommending-this-shit-to-me
+  url: http://www.last.fm/tag/why-is-last-fm-recommending-this-shit-to-me
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: disco
+  url: http://www.last.fm/tag/disco
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: duits
+  url: http://www.last.fm/tag/duits
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: breakfast
+  url: http://www.last.fm/tag/breakfast
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: hard gaan
+  url: http://www.last.fm/tag/hard%20gaan
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: stolliwood
+  url: http://www.last.fm/tag/stolliwood
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: international
+  url: http://www.last.fm/tag/international
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: humor
+  url: http://www.last.fm/tag/humor
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: dutch funky
+  url: http://www.last.fm/tag/dutch%20funky
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: hardgaan
+  url: http://www.last.fm/tag/hardgaan
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: "2008"
+  url: http://www.last.fm/tag/2008
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: grolschfestivals lowlandsradio 2008
+  url: http://www.last.fm/tag/grolschfestivals%20lowlandsradio%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: te amsterdams voor woorden
+  url: http://www.last.fm/tag/te%20amsterdams%20voor%20woorden
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: slix like
+  url: http://www.last.fm/tag/slix%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 2download
+  url: http://www.last.fm/tag/2download
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: neo disco
+  url: http://www.last.fm/tag/neo%20disco
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: skinny jeans
+  url: http://www.last.fm/tag/skinny%20jeans
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: bikkel hard
+  url: http://www.last.fm/tag/bikkel%20hard
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: spaarndammerbuurtkliek
+  url: http://www.last.fm/tag/spaarndammerbuurtkliek
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: franse pop
+  url: http://www.last.fm/tag/franse%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: oatmeal and granola
+  url: http://www.last.fm/tag/oatmeal%20and%20granola
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: le le
+  url: http://www.last.fm/tag/le%20le
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: baas
+  url: http://www.last.fm/tag/baas
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: minimini
+  url: http://www.last.fm/tag/minimini
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: neonized magazine
+  url: http://www.last.fm/tag/neonized%20magazine
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: eglise
+  url: http://www.last.fm/tag/eglise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ex porn star
+  url: http://www.last.fm/tag/ex%20porn%20star
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: trip house
+  url: http://www.last.fm/tag/trip%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: the west coast sound of holland
+  url: http://www.last.fm/tag/the%20west%20coast%20sound%20of%20holland
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: lijst van verdienste
+  url: http://www.last.fm/tag/lijst%20van%20verdienste
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: worth checkin out
+  url: http://www.last.fm/tag/worth%20checkin%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: neuken in de kut
+  url: http://www.last.fm/tag/neuken%20in%20de%20kut
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: funky
+  url: http://www.last.fm/tag/funky
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electropop
+  url: http://www.last.fm/tag/electropop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: synthpop
+  url: http://www.last.fm/tag/synthpop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: club
+  url: http://www.last.fm/tag/club
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nederlands
+  url: http://www.last.fm/tag/nederlands
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: original
+  url: http://www.last.fm/tag/original
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: holland
+  url: http://www.last.fm/tag/holland
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: kanker leuk
+  url: http://www.last.fm/tag/kanker%20leuk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ghetto hardcore rap
+  url: http://www.last.fm/tag/ghetto%20hardcore%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cumbia
+  url: http://www.last.fm/tag/cumbia
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: popular
+  url: http://www.last.fm/tag/popular
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: kni kna knallen
+  url: http://www.last.fm/tag/kni%20kna%20knallen
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: lowlands
+  url: http://www.last.fm/tag/lowlands
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: chille jonko
+  url: http://www.last.fm/tag/chille%20jonko
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pukkelpop
+  url: http://www.last.fm/tag/pukkelpop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: wanna see live
+  url: http://www.last.fm/tag/wanna%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: filterhouse
+  url: http://www.last.fm/tag/filterhouse
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: gomma
+  url: http://www.last.fm/tag/gomma
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: fantastique
+  url: http://www.last.fm/tag/fantastique
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rockwell pop
+  url: http://www.last.fm/tag/rockwell%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: sxsw 2009
+  url: http://www.last.fm/tag/sxsw%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: songs about photography
+  url: http://www.last.fm/tag/songs%20about%20photography
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: beats uit de bron
+  url: http://www.last.fm/tag/beats%20uit%20de%20bron
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pump up the volume
+  url: http://www.last.fm/tag/pump%20up%20the%20volume
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the netherlands
+  url: http://www.last.fm/tag/the%20netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artistartist
+  url: http://www.last.fm/tag/artistartist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nederhop
+  url: http://www.last.fm/tag/nederhop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: human
+  url: http://www.last.fm/tag/human
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: garbage
+  url: http://www.last.fm/tag/garbage
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz house
+  url: http://www.last.fm/tag/jazz%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eurohouse
+  url: http://www.last.fm/tag/eurohouse
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mezz 2009
+  url: http://www.last.fm/tag/mezz%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pants
+  url: http://www.last.fm/tag/pants
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 10s
+  url: http://www.last.fm/tag/10s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not seen yet
+  url: http://www.last.fm/tag/not%20seen%20yet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: faberge
+  url: http://www.last.fm/tag/faberge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: muziek voor zwervers
+  url: http://www.last.fm/tag/muziek%20voor%20zwervers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nederlandse shizzle
+  url: http://www.last.fm/tag/nederlandse%20shizzle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: magnetron
+  url: http://www.last.fm/tag/magnetron
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tegenwoordig
+  url: http://www.last.fm/tag/tegenwoordig
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sachen
+  url: http://www.last.fm/tag/sachen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flage
+  url: http://www.last.fm/tag/flage
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bouche
+  url: http://www.last.fm/tag/bouche
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: comtron
+  url: http://www.last.fm/tag/comtron
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bauhaus party
+  url: http://www.last.fm/tag/bauhaus%20party
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: parra
+  url: http://www.last.fm/tag/parra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eurosonic-noorderslag 2008
+  url: http://www.last.fm/tag/eurosonic-noorderslag%202008

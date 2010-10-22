@@ -1,0 +1,221 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: psytrance
+  url: http://www.last.fm/tag/psytrance
+- !ruby/object:Scrobbler::Tag 
+  count: "61"
+  name: goa
+  url: http://www.last.fm/tag/goa
+- !ruby/object:Scrobbler::Tag 
+  count: "43"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: psychedelic trance
+  url: http://www.last.fm/tag/psychedelic%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: psy trance
+  url: http://www.last.fm/tag/psy%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: goa trance
+  url: http://www.last.fm/tag/goa%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: psy
+  url: http://www.last.fm/tag/psy
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: analog pussy
+  url: http://www.last.fm/tag/analog%20pussy
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: psy tech
+  url: http://www.last.fm/tag/psy%20tech
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: darkpsy
+  url: http://www.last.fm/tag/darkpsy
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: progressive trance
+  url: http://www.last.fm/tag/progressive%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: your mom
+  url: http://www.last.fm/tag/your%20mom
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: goa-psy trance
+  url: http://www.last.fm/tag/goa-psy%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: recently played
+  url: http://www.last.fm/tag/recently%20played
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nett
+  url: http://www.last.fm/tag/nett
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: progressive psytrance
+  url: http://www.last.fm/tag/progressive%20psytrance
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: psygoa
+  url: http://www.last.fm/tag/psygoa
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: psykkadelik
+  url: http://www.last.fm/tag/psykkadelik
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: full on dark
+  url: http://www.last.fm/tag/full%20on%20dark
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: germany
+  url: http://www.last.fm/tag/germany
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: only losers think this is good music
+  url: http://www.last.fm/tag/only%20losers%20think%20this%20is%20good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive thumping psytrance
+  url: http://www.last.fm/tag/progressive%20thumping%20psytrance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: killer cod fish
+  url: http://www.last.fm/tag/killer%20cod%20fish
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psy prog
+  url: http://www.last.fm/tag/psy%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronicsound
+  url: http://www.last.fm/tag/electronicsound
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: worse than having someone shit on your face
+  url: http://www.last.fm/tag/worse%20than%20having%20someone%20shit%20on%20your%20face
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tags are annoying
+  url: http://www.last.fm/tag/tags%20are%20annoying
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: uncategorizable
+  url: http://www.last.fm/tag/uncategorizable
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: research
+  url: http://www.last.fm/tag/research
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psy-trance
+  url: http://www.last.fm/tag/psy-trance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electropunk
+  url: http://www.last.fm/tag/electropunk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: incredible
+  url: http://www.last.fm/tag/incredible
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: israel
+  url: http://www.last.fm/tag/israel
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: uruguay
+  url: http://www.last.fm/tag/uruguay
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: elecronic
+  url: http://www.last.fm/tag/elecronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: unique
+  url: http://www.last.fm/tag/unique
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psychedelic punk
+  url: http://www.last.fm/tag/psychedelic%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poseur
+  url: http://www.last.fm/tag/poseur
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psychedelictrance
+  url: http://www.last.fm/tag/psychedelictrance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: juden
+  url: http://www.last.fm/tag/juden
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spinal tap
+  url: http://www.last.fm/tag/spinal%20tap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jew
+  url: http://www.last.fm/tag/jew
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: buttrock
+  url: http://www.last.fm/tag/buttrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: met in person
+  url: http://www.last.fm/tag/met%20in%20person
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psybient
+  url: http://www.last.fm/tag/psybient

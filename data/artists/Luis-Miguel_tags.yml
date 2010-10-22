@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: boleros
+  url: http://www.last.fm/tag/boleros
+- !ruby/object:Scrobbler::Tag 
+  count: "96"
+  name: latin
+  url: http://www.last.fm/tag/latin
+- !ruby/object:Scrobbler::Tag 
+  count: "81"
+  name: baladas
+  url: http://www.last.fm/tag/baladas
+- !ruby/object:Scrobbler::Tag 
+  count: "68"
+  name: spanish
+  url: http://www.last.fm/tag/spanish
+- !ruby/object:Scrobbler::Tag 
+  count: "63"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: luis miguel
+  url: http://www.last.fm/tag/luis%20miguel
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: mexico
+  url: http://www.last.fm/tag/mexico
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: latin pop
+  url: http://www.last.fm/tag/latin%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: romantica
+  url: http://www.last.fm/tag/romantica
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: mexican
+  url: http://www.last.fm/tag/mexican
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: "espa\xC3\xB1ol"
+  url: http://www.last.fm/tag/espa%C3%B1ol
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: musica latina
+  url: http://www.last.fm/tag/musica%20latina
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: mexicana
+  url: http://www.last.fm/tag/mexicana
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: latino
+  url: http://www.last.fm/tag/latino
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: celine dion
+  url: http://www.last.fm/tag/celine%20dion
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: bolero
+  url: http://www.last.fm/tag/bolero
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: romanticas
+  url: http://www.last.fm/tag/romanticas
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cuando sea grande quiero ser como el
+  url: http://www.last.fm/tag/cuando%20sea%20grande%20quiero%20ser%20como%20el
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: lo que si me gusta aunque no me crean
+  url: http://www.last.fm/tag/lo%20que%20si%20me%20gusta%20aunque%20no%20me%20crean
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: mexican folk
+  url: http://www.last.fm/tag/mexican%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: espanol
+  url: http://www.last.fm/tag/espanol
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: regional mexican
+  url: http://www.last.fm/tag/regional%20mexican
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: el mejor mexicano
+  url: http://www.last.fm/tag/el%20mejor%20mexicano
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alejandro sanz
+  url: http://www.last.fm/tag/alejandro%20sanz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: u2
+  url: http://www.last.fm/tag/u2
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spanish people
+  url: http://www.last.fm/tag/spanish%20people
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: latin ballad
+  url: http://www.last.fm/tag/latin%20ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fresita
+  url: http://www.last.fm/tag/fresita
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: romance
+  url: http://www.last.fm/tag/romance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: salsa
+  url: http://www.last.fm/tag/salsa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tejano
+  url: http://www.last.fm/tag/tejano
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spanish pop
+  url: http://www.last.fm/tag/spanish%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: michael bolton
+  url: http://www.last.fm/tag/michael%20bolton
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: romanticos
+  url: http://www.last.fm/tag/romanticos
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: vocalists
+  url: http://www.last.fm/tag/vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spanish ballad
+  url: http://www.last.fm/tag/spanish%20ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: latina
+  url: http://www.last.fm/tag/latina
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love songs
+  url: http://www.last.fm/tag/love%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: disco
+  url: http://www.last.fm/tag/disco
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: o tu o ninguna
+  url: http://www.last.fm/tag/o%20tu%20o%20ninguna
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop latino
+  url: http://www.last.fm/tag/pop%20latino
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: romanticas clasicas
+  url: http://www.last.fm/tag/romanticas%20clasicas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: elan
+  url: http://www.last.fm/tag/elan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musica ambiente
+  url: http://www.last.fm/tag/musica%20ambiente
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: olivia newton john
+  url: http://www.last.fm/tag/olivia%20newton%20john
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vox femina
+  url: http://www.last.fm/tag/vox%20femina
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: iheart
+  url: http://www.last.fm/tag/iheart
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: horrid
+  url: http://www.last.fm/tag/horrid
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: espagnol
+  url: http://www.last.fm/tag/espagnol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: los gallos
+  url: http://www.last.fm/tag/los%20gallos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mexican pop
+  url: http://www.last.fm/tag/mexican%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: annie lenox
+  url: http://www.last.fm/tag/annie%20lenox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: natalia lafourcade
+  url: http://www.last.fm/tag/natalia%20lafourcade
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kumbia kings
+  url: http://www.last.fm/tag/kumbia%20kings
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: selena y los dinos
+  url: http://www.last.fm/tag/selena%20y%20los%20dinos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: america latina
+  url: http://www.last.fm/tag/america%20latina
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: laura paussini
+  url: http://www.last.fm/tag/laura%20paussini
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spics
+  url: http://www.last.fm/tag/spics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vapid
+  url: http://www.last.fm/tag/vapid
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: transcriptions
+  url: http://www.last.fm/tag/transcriptions
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorito
+  url: http://www.last.fm/tag/favorito
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latinos
+  url: http://www.last.fm/tag/latinos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: these songs are brilliance
+  url: http://www.last.fm/tag/these%20songs%20are%20brilliance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: np
+  url: http://www.last.fm/tag/np
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: saccharine
+  url: http://www.last.fm/tag/saccharine
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cuarteto
+  url: http://www.last.fm/tag/cuarteto
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rancheras
+  url: http://www.last.fm/tag/rancheras
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: so fucking good
+  url: http://www.last.fm/tag/so%20fucking%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cantante
+  url: http://www.last.fm/tag/cantante
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italianspanish
+  url: http://www.last.fm/tag/italianspanish
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fito
+  url: http://www.last.fm/tag/fito
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better than radiohead
+  url: http://www.last.fm/tag/better%20than%20radiohead
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful lyric
+  url: http://www.last.fm/tag/beautiful%20lyric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop mexicano
+  url: http://www.last.fm/tag/pop%20mexicano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin frenzy
+  url: http://www.last.fm/tag/latin%20frenzy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: luis mi
+  url: http://www.last.fm/tag/luis%20mi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: redhalo top similar artists
+  url: http://www.last.fm/tag/redhalo%20top%20similar%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: theasoul
+  url: http://www.last.fm/tag/theasoul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hecho en mexico
+  url: http://www.last.fm/tag/hecho%20en%20mexico
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dunyann en emrosu
+  url: http://www.last.fm/tag/dunyann%20en%20emrosu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cac-soul
+  url: http://www.last.fm/tag/cac-soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: complices
+  url: http://www.last.fm/tag/complices
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bolero revival
+  url: http://www.last.fm/tag/bolero%20revival
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: luise miguel
+  url: http://www.last.fm/tag/luise%20miguel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cac-latin
+  url: http://www.last.fm/tag/cac-latin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ricardo  ajrona
+  url: http://www.last.fm/tag/ricardo%20%20ajrona
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fiesta eterna
+  url: http://www.last.fm/tag/fiesta%20eterna
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic balads
+  url: http://www.last.fm/tag/epic%20balads
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: y asi fue la manera en que las di
+  url: http://www.last.fm/tag/y%20asi%20fue%20la%20manera%20en%20que%20las%20di
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grupo 3
+  url: http://www.last.fm/tag/grupo%203
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: buenisisimisima
+  url: http://www.last.fm/tag/buenisisimisima
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: romicipo
+  url: http://www.last.fm/tag/romicipo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: el mejor de los mejores
+  url: http://www.last.fm/tag/el%20mejor%20de%20los%20mejores

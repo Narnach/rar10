@@ -1,0 +1,9 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: woah amazing
+  url: http://www.last.fm/tag/woah%20amazing

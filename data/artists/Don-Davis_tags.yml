@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: movie soundtrack
+  url: http://www.last.fm/tag/movie%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: the matrix
+  url: http://www.last.fm/tag/the%20matrix
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: movie score composers
+  url: http://www.last.fm/tag/movie%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: film music
+  url: http://www.last.fm/tag/film%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: matrix
+  url: http://www.last.fm/tag/matrix
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: don davis
+  url: http://www.last.fm/tag/don%20davis
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: film score
+  url: http://www.last.fm/tag/film%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: film
+  url: http://www.last.fm/tag/film
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: contemporary classical
+  url: http://www.last.fm/tag/contemporary%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: film music composer
+  url: http://www.last.fm/tag/film%20music%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: matrix soundtrack
+  url: http://www.last.fm/tag/matrix%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: original score
+  url: http://www.last.fm/tag/original%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: movie score composer
+  url: http://www.last.fm/tag/movie%20score%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite score composers
+  url: http://www.last.fm/tag/favorite%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie scores
+  url: http://www.last.fm/tag/movie%20scores
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: us
+  url: http://www.last.fm/tag/us
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film composer
+  url: http://www.last.fm/tag/film%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo-classical
+  url: http://www.last.fm/tag/neo-classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: matrix score
+  url: http://www.last.fm/tag/matrix%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: matrix reloaded
+  url: http://www.last.fm/tag/matrix%20reloaded
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtracks and scores
+  url: http://www.last.fm/tag/soundtracks%20and%20scores
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kb
+  url: http://www.last.fm/tag/kb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumenta
+  url: http://www.last.fm/tag/instrumenta
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bloody vast
+  url: http://www.last.fm/tag/bloody%20vast
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bso instrumental
+  url: http://www.last.fm/tag/bso%20instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heard in cinema
+  url: http://www.last.fm/tag/heard%20in%20cinema
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film composers
+  url: http://www.last.fm/tag/film%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: din davis
+  url: http://www.last.fm/tag/din%20davis
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: muzica mea
+  url: http://www.last.fm/tag/muzica%20mea
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "composers: film and television"
+  url: http://www.last.fm/tag/composers%3A%20film%20and%20television
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goodie
+  url: http://www.last.fm/tag/goodie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dreszczyk
+  url: http://www.last.fm/tag/dreszczyk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cinema score
+  url: http://www.last.fm/tag/cinema%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ballistic
+  url: http://www.last.fm/tag/ballistic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic electronic
+  url: http://www.last.fm/tag/symphonic%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: composers - soundtrack
+  url: http://www.last.fm/tag/composers%20-%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great composers
+  url: http://www.last.fm/tag/great%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film score composers
+  url: http://www.last.fm/tag/film%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill and smooth
+  url: http://www.last.fm/tag/chill%20and%20smooth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: saundtrack
+  url: http://www.last.fm/tag/saundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: signum
+  url: http://www.last.fm/tag/signum
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: please turn that limiter down
+  url: http://www.last.fm/tag/please%20turn%20that%20limiter%20down
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psytrance
+  url: http://www.last.fm/tag/psytrance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tags
+  url: http://www.last.fm/tag/tags
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie score
+  url: http://www.last.fm/tag/movie%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cinematic
+  url: http://www.last.fm/tag/cinematic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: choral
+  url: http://www.last.fm/tag/choral
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: theme
+  url: http://www.last.fm/tag/theme
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie
+  url: http://www.last.fm/tag/movie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tv
+  url: http://www.last.fm/tag/tv
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: art music
+  url: http://www.last.fm/tag/art%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: f
+  url: http://www.last.fm/tag/f
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie ost
+  url: http://www.last.fm/tag/movie%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bandas sonoras
+  url: http://www.last.fm/tag/bandas%20sonoras
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film score composer
+  url: http://www.last.fm/tag/film%20score%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing music
+  url: http://www.last.fm/tag/amazing%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film soundtrack
+  url: http://www.last.fm/tag/film%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack score composer
+  url: http://www.last.fm/tag/soundtrack%20score%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artist
+  url: http://www.last.fm/tag/favorite%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sci-fi
+  url: http://www.last.fm/tag/sci-fi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental electronic
+  url: http://www.last.fm/tag/experimental%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocals
+  url: http://www.last.fm/tag/male%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary
+  url: http://www.last.fm/tag/contemporary
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movies
+  url: http://www.last.fm/tag/movies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ysabols movie soundtracks and film scores
+  url: http://www.last.fm/tag/ysabols%20movie%20soundtracks%20and%20film%20scores
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my melting pot - a grande misturada
+  url: http://www.last.fm/tag/my%20melting%20pot%20-%20a%20grande%20misturada
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sountrack instrumental electronic classical cine
+  url: http://www.last.fm/tag/sountrack%20instrumental%20electronic%20classical%20cine
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flying monkey potatoes
+  url: http://www.last.fm/tag/flying%20monkey%20potatoes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: muzyka filmowa
+  url: http://www.last.fm/tag/muzyka%20filmowa

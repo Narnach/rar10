@@ -1,0 +1,249 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "81"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "52"
+  name: mortal kombat
+  url: http://www.last.fm/tag/mortal%20kombat
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: mortal kombaaaaaaat
+  url: http://www.last.fm/tag/mortal%20kombaaaaaaat
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: hard techno
+  url: http://www.last.fm/tag/hard%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: roots reggae
+  url: http://www.last.fm/tag/roots%20reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: italo disco
+  url: http://www.last.fm/tag/italo%20disco
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: anthem house
+  url: http://www.last.fm/tag/anthem%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: hi-nrg
+  url: http://www.last.fm/tag/hi-nrg
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: belgian
+  url: http://www.last.fm/tag/belgian
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: cyclo
+  url: http://www.last.fm/tag/cyclo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: probably the best theme i have ever heard
+  url: http://www.last.fm/tag/probably%20the%20best%20theme%20i%20have%20ever%20heard
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: krejzi electro
+  url: http://www.last.fm/tag/krejzi%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: theartist
+  url: http://www.last.fm/tag/theartist
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: club-dance
+  url: http://www.last.fm/tag/club-dance
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: my favs among favs
+  url: http://www.last.fm/tag/my%20favs%20among%20favs
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: italo
+  url: http://www.last.fm/tag/italo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: skinhead reggae
+  url: http://www.last.fm/tag/skinhead%20reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: writing short stories
+  url: http://www.last.fm/tag/writing%20short%20stories
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: trojan reggae
+  url: http://www.last.fm/tag/trojan%20reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ultrapop
+  url: http://www.last.fm/tag/ultrapop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: midway
+  url: http://www.last.fm/tag/midway
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: john deacon
+  url: http://www.last.fm/tag/john%20deacon
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: grew up on
+  url: http://www.last.fm/tag/grew%20up%20on
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: space-disco
+  url: http://www.last.fm/tag/space-disco
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: finish him
+  url: http://www.last.fm/tag/finish%20him
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: reggae
+  url: http://www.last.fm/tag/reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: videogames
+  url: http://www.last.fm/tag/videogames
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rave
+  url: http://www.last.fm/tag/rave
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ironic
+  url: http://www.last.fm/tag/ironic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: video game remixes
+  url: http://www.last.fm/tag/video%20game%20remixes
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: kick ass
+  url: http://www.last.fm/tag/kick%20ass
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rocksteady
+  url: http://www.last.fm/tag/rocksteady
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: game soundtrack
+  url: http://www.last.fm/tag/game%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: video game
+  url: http://www.last.fm/tag/video%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: big beat
+  url: http://www.last.fm/tag/big%20beat
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: excellent
+  url: http://www.last.fm/tag/excellent
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: acid house
+  url: http://www.last.fm/tag/acid%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: library
+  url: http://www.last.fm/tag/library
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ytmnd
+  url: http://www.last.fm/tag/ytmnd
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jungle
+  url: http://www.last.fm/tag/jungle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acid
+  url: http://www.last.fm/tag/acid
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mortal kombaaat
+  url: http://www.last.fm/tag/mortal%20kombaaat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lumines
+  url: http://www.last.fm/tag/lumines
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music of my youth
+  url: http://www.last.fm/tag/music%20of%20my%20youth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: praga khan
+  url: http://www.last.fm/tag/praga%20khan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: euro-techno
+  url: http://www.last.fm/tag/euro-techno

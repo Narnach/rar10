@@ -1,0 +1,125 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: christian
+  url: http://www.last.fm/tag/christian
+- !ruby/object:Scrobbler::Tag 
+  count: "56"
+  name: contemporary christian
+  url: http://www.last.fm/tag/contemporary%20christian
+- !ruby/object:Scrobbler::Tag 
+  count: "43"
+  name: worship
+  url: http://www.last.fm/tag/worship
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: inspiration
+  url: http://www.last.fm/tag/inspiration
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: david ruis
+  url: http://www.last.fm/tag/david%20ruis
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: praise and worship
+  url: http://www.last.fm/tag/praise%20and%20worship
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: gospel
+  url: http://www.last.fm/tag/gospel
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: christian rock
+  url: http://www.last.fm/tag/christian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: i love selah
+  url: http://www.last.fm/tag/i%20love%20selah
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dove2007
+  url: http://www.last.fm/tag/dove2007
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: christian woman
+  url: http://www.last.fm/tag/christian%20woman
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: vocal band
+  url: http://www.last.fm/tag/vocal%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: christian rnb
+  url: http://www.last.fm/tag/christian%20rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: praise
+  url: http://www.last.fm/tag/praise
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hymns
+  url: http://www.last.fm/tag/hymns
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: modern worship
+  url: http://www.last.fm/tag/modern%20worship
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: easy
+  url: http://www.last.fm/tag/easy
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: faves
+  url: http://www.last.fm/tag/faves
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: new
+  url: http://www.last.fm/tag/new
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: soulful
+  url: http://www.last.fm/tag/soulful
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: air
+  url: http://www.last.fm/tag/air
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: "yes"
+  url: http://www.last.fm/tag/yes
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: selah
+  url: http://www.last.fm/tag/selah
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legiao
+  url: http://www.last.fm/tag/legiao
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian artists
+  url: http://www.last.fm/tag/christian%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: naomy1985
+  url: http://www.last.fm/tag/naomy1985

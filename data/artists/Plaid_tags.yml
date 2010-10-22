@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: idm
+  url: http://www.last.fm/tag/idm
+- !ruby/object:Scrobbler::Tag 
+  count: "79"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "44"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "43"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: warp
+  url: http://www.last.fm/tag/warp
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: glitch
+  url: http://www.last.fm/tag/glitch
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: warp records
+  url: http://www.last.fm/tag/warp%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: minimal
+  url: http://www.last.fm/tag/minimal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: plaid
+  url: http://www.last.fm/tag/plaid
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ambient techno
+  url: http://www.last.fm/tag/ambient%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-rock
+  url: http://www.last.fm/tag/post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip hop
+  url: http://www.last.fm/tag/trip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo-electro
+  url: http://www.last.fm/tag/neo-electro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: braindance
+  url: http://www.last.fm/tag/braindance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro-techno
+  url: http://www.last.fm/tag/electro-techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dub
+  url: http://www.last.fm/tag/dub
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill out
+  url: http://www.last.fm/tag/chill%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: abstract
+  url: http://www.last.fm/tag/abstract
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: leftfield
+  url: http://www.last.fm/tag/leftfield
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: breakcore
+  url: http://www.last.fm/tag/breakcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chillosophy
+  url: http://www.last.fm/tag/chillosophy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nu-jazz
+  url: http://www.last.fm/tag/nu-jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: london
+  url: http://www.last.fm/tag/london
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental electronic
+  url: http://www.last.fm/tag/experimental%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: minimal techno
+  url: http://www.last.fm/tag/minimal%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: iron jesus
+  url: http://www.last.fm/tag/iron%20jesus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the black dog
+  url: http://www.last.fm/tag/the%20black%20dog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: england
+  url: http://www.last.fm/tag/england
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: triphop
+  url: http://www.last.fm/tag/triphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beats
+  url: http://www.last.fm/tag/beats
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cold
+  url: http://www.last.fm/tag/cold
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: breakbeats
+  url: http://www.last.fm/tag/breakbeats
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: intelligent techno
+  url: http://www.last.fm/tag/intelligent%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic idm
+  url: http://www.last.fm/tag/melodic%20idm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: autechre
+  url: http://www.last.fm/tag/autechre
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indietronica
+  url: http://www.last.fm/tag/indietronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental-techno
+  url: http://www.last.fm/tag/experimental-techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum n bass
+  url: http://www.last.fm/tag/drum%20n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ntmr
+  url: http://www.last.fm/tag/ntmr
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deep
+  url: http://www.last.fm/tag/deep
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: andy turner
+  url: http://www.last.fm/tag/andy%20turner
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bpitch control
+  url: http://www.last.fm/tag/bpitch%20control
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tkatka
+  url: http://www.last.fm/tag/tkatka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: interesting
+  url: http://www.last.fm/tag/interesting
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: loved
+  url: http://www.last.fm/tag/loved
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electric
+  url: http://www.last.fm/tag/electric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovely
+  url: http://www.last.fm/tag/lovely
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tekkon kinkreet
+  url: http://www.last.fm/tag/tekkon%20kinkreet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drama
+  url: http://www.last.fm/tag/drama
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synttydisko
+  url: http://www.last.fm/tag/synttydisko
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: inspirational
+  url: http://www.last.fm/tag/inspirational
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: coding
+  url: http://www.last.fm/tag/coding
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good stuff
+  url: http://www.last.fm/tag/good%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: breaks
+  url: http://www.last.fm/tag/breaks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to discover
+  url: http://www.last.fm/tag/to%20discover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trippy
+  url: http://www.last.fm/tag/trippy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1am
+  url: http://www.last.fm/tag/1am
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk

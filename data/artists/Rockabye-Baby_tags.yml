@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: lullaby
+  url: http://www.last.fm/tag/lullaby
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "78"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "48"
+  name: cover
+  url: http://www.last.fm/tag/cover
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: children
+  url: http://www.last.fm/tag/children
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: lullabies
+  url: http://www.last.fm/tag/lullabies
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: peaceful
+  url: http://www.last.fm/tag/peaceful
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: sleep
+  url: http://www.last.fm/tag/sleep
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: remakes
+  url: http://www.last.fm/tag/remakes
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: sleepy
+  url: http://www.last.fm/tag/sleepy
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: xylophone
+  url: http://www.last.fm/tag/xylophone
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: soothing
+  url: http://www.last.fm/tag/soothing
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: tool
+  url: http://www.last.fm/tag/tool
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: childrens
+  url: http://www.last.fm/tag/childrens
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: lullabye
+  url: http://www.last.fm/tag/lullabye
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: kid
+  url: http://www.last.fm/tag/kid
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: led zeppelin
+  url: http://www.last.fm/tag/led%20zeppelin
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: late night jazz
+  url: http://www.last.fm/tag/late%20night%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: pink floyd
+  url: http://www.last.fm/tag/pink%20floyd
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: 2download
+  url: http://www.last.fm/tag/2download
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: neoinstrumental
+  url: http://www.last.fm/tag/neoinstrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pepper track
+  url: http://www.last.fm/tag/pepper%20track
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: wants me go sleep
+  url: http://www.last.fm/tag/wants%20me%20go%20sleep
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: vibraphone
+  url: http://www.last.fm/tag/vibraphone
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rockabye baby
+  url: http://www.last.fm/tag/rockabye%20baby
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: billy corgan
+  url: http://www.last.fm/tag/billy%20corgan
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: baby music
+  url: http://www.last.fm/tag/baby%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: lullaby-instrumentals
+  url: http://www.last.fm/tag/lullaby-instrumentals
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: not listened to yet
+  url: http://www.last.fm/tag/not%20listened%20to%20yet
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: musical box
+  url: http://www.last.fm/tag/musical%20box
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: like passing clouds
+  url: http://www.last.fm/tag/like%20passing%20clouds
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: mellotron
+  url: http://www.last.fm/tag/mellotron
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: bobo
+  url: http://www.last.fm/tag/bobo
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: discovered in 2010
+  url: http://www.last.fm/tag/discovered%20in%202010
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: artists who have done a lot of covers
+  url: http://www.last.fm/tag/artists%20who%20have%20done%20a%20lot%20of%20covers
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: growing up blows
+  url: http://www.last.fm/tag/growing%20up%20blows
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: babybabybaby
+  url: http://www.last.fm/tag/babybabybaby
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: glockenspiel
+  url: http://www.last.fm/tag/glockenspiel
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: music baby
+  url: http://www.last.fm/tag/music%20baby
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: slowbeat
+  url: http://www.last.fm/tag/slowbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: wardance
+  url: http://www.last.fm/tag/wardance
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: it will be alright kiddo
+  url: http://www.last.fm/tag/it%20will%20be%20alright%20kiddo
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: post-rock
+  url: http://www.last.fm/tag/post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: study
+  url: http://www.last.fm/tag/study
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: minimal
+  url: http://www.last.fm/tag/minimal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: late night
+  url: http://www.last.fm/tag/late%20night
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: lovely
+  url: http://www.last.fm/tag/lovely
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kids
+  url: http://www.last.fm/tag/kids
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: u2
+  url: http://www.last.fm/tag/u2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the beatles
+  url: http://www.last.fm/tag/the%20beatles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: quiet
+  url: http://www.last.fm/tag/quiet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: coldplay
+  url: http://www.last.fm/tag/coldplay
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sweet
+  url: http://www.last.fm/tag/sweet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nirvana
+  url: http://www.last.fm/tag/nirvana
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the cure
+  url: http://www.last.fm/tag/the%20cure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the rolling stones
+  url: http://www.last.fm/tag/the%20rolling%20stones
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: god i love this
+  url: http://www.last.fm/tag/god%20i%20love%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alexander
+  url: http://www.last.fm/tag/alexander
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: radiohead
+  url: http://www.last.fm/tag/radiohead
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pixies
+  url: http://www.last.fm/tag/pixies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musica infantil
+  url: http://www.last.fm/tag/musica%20infantil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bettozoa
+  url: http://www.last.fm/tag/bettozoa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the eagle
+  url: http://www.last.fm/tag/the%20eagle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nin
+  url: http://www.last.fm/tag/nin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baby
+  url: http://www.last.fm/tag/baby
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bjork
+  url: http://www.last.fm/tag/bjork
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tribute
+  url: http://www.last.fm/tag/tribute
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smashing pumpkins
+  url: http://www.last.fm/tag/smashing%20pumpkins
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bob marley
+  url: http://www.last.fm/tag/bob%20marley
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: green day
+  url: http://www.last.fm/tag/green%20day
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nine inch nails
+  url: http://www.last.fm/tag/nine%20inch%20nails
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music to fall asleep to
+  url: http://www.last.fm/tag/music%20to%20fall%20asleep%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christmas
+  url: http://www.last.fm/tag/christmas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: childrens music
+  url: http://www.last.fm/tag/childrens%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the ramones
+  url: http://www.last.fm/tag/the%20ramones
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: no doubt
+  url: http://www.last.fm/tag/no%20doubt
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: must listen
+  url: http://www.last.fm/tag/must%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the beach boys
+  url: http://www.last.fm/tag/the%20beach%20boys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ac/dc
+  url: http://www.last.fm/tag/ac%252Fdc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thomas
+  url: http://www.last.fm/tag/thomas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: queens of the stoneage
+  url: http://www.last.fm/tag/queens%20of%20the%20stoneage
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: babies
+  url: http://www.last.fm/tag/babies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft
+  url: http://www.last.fm/tag/soft
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oliver
+  url: http://www.last.fm/tag/oliver
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metallica
+  url: http://www.last.fm/tag/metallica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: infantil
+  url: http://www.last.fm/tag/infantil

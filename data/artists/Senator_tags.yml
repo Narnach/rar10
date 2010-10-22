@@ -1,0 +1,61 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: post-punk
+  url: http://www.last.fm/tag/post-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: nirvana
+  url: http://www.last.fm/tag/nirvana
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: led zeppelin
+  url: http://www.last.fm/tag/led%20zeppelin
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: hot snakes
+  url: http://www.last.fm/tag/hot%20snakes
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: drive like jehu
+  url: http://www.last.fm/tag/drive%20like%20jehu
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: albini
+  url: http://www.last.fm/tag/albini
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: at the drive in
+  url: http://www.last.fm/tag/at%20the%20drive%20in
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: jesus lizard
+  url: http://www.last.fm/tag/jesus%20lizard
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: shellac
+  url: http://www.last.fm/tag/shellac
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: some bands
+  url: http://www.last.fm/tag/some%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: touch &amp; go
+  url: http://www.last.fm/tag/touch%2B%2526%2Bgo
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: gvsb
+  url: http://www.last.fm/tag/gvsb
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners

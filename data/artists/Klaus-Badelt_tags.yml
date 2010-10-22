@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "44"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pirates of the caribbean
+  url: http://www.last.fm/tag/pirates%20of%20the%20caribbean
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: movie score composers
+  url: http://www.last.fm/tag/movie%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: klaus badelt
+  url: http://www.last.fm/tag/klaus%20badelt
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: movies
+  url: http://www.last.fm/tag/movies
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: film score
+  url: http://www.last.fm/tag/film%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dubstep
+  url: http://www.last.fm/tag/dubstep
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: movie
+  url: http://www.last.fm/tag/movie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: movie soundtrack
+  url: http://www.last.fm/tag/movie%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: movie score
+  url: http://www.last.fm/tag/movie%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: film music
+  url: http://www.last.fm/tag/film%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pirates
+  url: http://www.last.fm/tag/pirates
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: movie music
+  url: http://www.last.fm/tag/movie%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film music composer
+  url: http://www.last.fm/tag/film%20music%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary classical
+  url: http://www.last.fm/tag/contemporary%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie ost
+  url: http://www.last.fm/tag/movie%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film
+  url: http://www.last.fm/tag/film
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack composers
+  url: http://www.last.fm/tag/soundtrack%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack composer
+  url: http://www.last.fm/tag/soundtrack%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film composer
+  url: http://www.last.fm/tag/film%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: original soundtrack
+  url: http://www.last.fm/tag/original%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: disney
+  url: http://www.last.fm/tag/disney
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: germany
+  url: http://www.last.fm/tag/germany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scores
+  url: http://www.last.fm/tag/scores
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack scores
+  url: http://www.last.fm/tag/soundtrack%20scores
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: filmmusik
+  url: http://www.last.fm/tag/filmmusik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie soundtracks
+  url: http://www.last.fm/tag/movie%20soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sountrack
+  url: http://www.last.fm/tag/sountrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cinematic
+  url: http://www.last.fm/tag/cinematic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutsch
+  url: http://www.last.fm/tag/deutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neoclassical
+  url: http://www.last.fm/tag/neoclassical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pirate
+  url: http://www.last.fm/tag/pirate
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ost composers
+  url: http://www.last.fm/tag/ost%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: equilibrium
+  url: http://www.last.fm/tag/equilibrium
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orchestra
+  url: http://www.last.fm/tag/orchestra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: violin
+  url: http://www.last.fm/tag/violin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film soundtrack
+  url: http://www.last.fm/tag/film%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: signum
+  url: http://www.last.fm/tag/signum
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melancholy
+  url: http://www.last.fm/tag/melancholy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic orchestra
+  url: http://www.last.fm/tag/classic%20orchestra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film score composers
+  url: http://www.last.fm/tag/film%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: strings
+  url: http://www.last.fm/tag/strings
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: piratas
+  url: http://www.last.fm/tag/piratas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bso
+  url: http://www.last.fm/tag/bso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pirates of the carribean
+  url: http://www.last.fm/tag/pirates%20of%20the%20carribean
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great soundtrack
+  url: http://www.last.fm/tag/great%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hollywood
+  url: http://www.last.fm/tag/hollywood
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: remote control productions
+  url: http://www.last.fm/tag/remote%20control%20productions
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie score composer
+  url: http://www.last.fm/tag/movie%20score%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good film music
+  url: http://www.last.fm/tag/good%20film%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: uplifting trance
+  url: http://www.last.fm/tag/uplifting%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental ost
+  url: http://www.last.fm/tag/instrumental%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bass
+  url: http://www.last.fm/tag/bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musical
+  url: http://www.last.fm/tag/musical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite score composers
+  url: http://www.last.fm/tag/favorite%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: subsonic
+  url: http://www.last.fm/tag/subsonic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cinematic music
+  url: http://www.last.fm/tag/cinematic%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ultraviolet
+  url: http://www.last.fm/tag/ultraviolet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: equilibrium soundtrack
+  url: http://www.last.fm/tag/equilibrium%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: films soundtrack
+  url: http://www.last.fm/tag/films%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good revision music
+  url: http://www.last.fm/tag/good%20revision%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite composer
+  url: http://www.last.fm/tag/favourite%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark fox
+  url: http://www.last.fm/tag/dark%20fox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: warrior4jc247
+  url: http://www.last.fm/tag/warrior4jc247
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orchester
+  url: http://www.last.fm/tag/orchester
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff i stole from soundtracks and musicals and tv shows
+  url: http://www.last.fm/tag/stuff%20i%20stole%20from%20soundtracks%20and%20musicals%20and%20tv%20shows

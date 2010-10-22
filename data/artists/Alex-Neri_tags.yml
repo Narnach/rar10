@@ -1,0 +1,157 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "53"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: minimal
+  url: http://www.last.fm/tag/minimal
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: alex neri
+  url: http://www.last.fm/tag/alex%20neri
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: groove
+  url: http://www.last.fm/tag/groove
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: chillosophy
+  url: http://www.last.fm/tag/chillosophy
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: tech-house
+  url: http://www.last.fm/tag/tech-house
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: deep house
+  url: http://www.last.fm/tag/deep%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: tech house
+  url: http://www.last.fm/tag/tech%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: cafe del mar
+  url: http://www.last.fm/tag/cafe%20del%20mar
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: the beat
+  url: http://www.last.fm/tag/the%20beat
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: techno minimal
+  url: http://www.last.fm/tag/techno%20minimal
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: sahkotaivas
+  url: http://www.last.fm/tag/sahkotaivas
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: electronic-lounge
+  url: http://www.last.fm/tag/electronic-lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: eurosonic-noorderslag 2007
+  url: http://www.last.fm/tag/eurosonic-noorderslag%202007
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: nu-bluz funky grooves in the e-lounge
+  url: http://www.last.fm/tag/nu-bluz%20funky%20grooves%20in%20the%20e-lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: italy
+  url: http://www.last.fm/tag/italy
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: italian
+  url: http://www.last.fm/tag/italian
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: nu jazz
+  url: http://www.last.fm/tag/nu%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scorpions
+  url: http://www.last.fm/tag/scorpions
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beegs
+  url: http://www.last.fm/tag/beegs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live

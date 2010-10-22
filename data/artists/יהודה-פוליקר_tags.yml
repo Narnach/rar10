@@ -1,0 +1,97 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: hebrew
+  url: http://www.last.fm/tag/hebrew
+- !ruby/object:Scrobbler::Tag 
+  count: "80"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: greek
+  url: http://www.last.fm/tag/greek
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: israel
+  url: http://www.last.fm/tag/israel
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: singer
+  url: http://www.last.fm/tag/singer
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: israels pride
+  url: http://www.last.fm/tag/israels%20pride
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: jewish music
+  url: http://www.last.fm/tag/jewish%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: israeli music
+  url: http://www.last.fm/tag/israeli%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: jewish
+  url: http://www.last.fm/tag/jewish
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: ethnic
+  url: http://www.last.fm/tag/ethnic
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: fusion
+  url: http://www.last.fm/tag/fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: sad
+  url: http://www.last.fm/tag/sad
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: israeli
+  url: http://www.last.fm/tag/israeli
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: israeli rock
+  url: http://www.last.fm/tag/israeli%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: galmarbestalbums
+  url: http://www.last.fm/tag/galmarbestalbums
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: born on christmas day
+  url: http://www.last.fm/tag/born%20on%20christmas%20day
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yehuda poliker
+  url: http://www.last.fm/tag/yehuda%20poliker

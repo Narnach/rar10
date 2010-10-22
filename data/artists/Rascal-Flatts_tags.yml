@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "24"
+  name: rascal flatts
+  url: http://www.last.fm/tag/rascal%20flatts
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: country pop
+  url: http://www.last.fm/tag/country%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: modern country
+  url: http://www.last.fm/tag/modern%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pop country
+  url: http://www.last.fm/tag/pop%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: country rock
+  url: http://www.last.fm/tag/country%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: contemporary country
+  url: http://www.last.fm/tag/contemporary%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good music
+  url: http://www.last.fm/tag/good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my country
+  url: http://www.last.fm/tag/my%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male country
+  url: http://www.last.fm/tag/male%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new country
+  url: http://www.last.fm/tag/new%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sad
+  url: http://www.last.fm/tag/sad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country favorites
+  url: http://www.last.fm/tag/country%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: group
+  url: http://www.last.fm/tag/group
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cars
+  url: http://www.last.fm/tag/cars
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorites
+  url: http://www.last.fm/tag/my%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: feel good
+  url: http://www.last.fm/tag/feel%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic rock
+  url: http://www.last.fm/tag/acoustic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male artists
+  url: http://www.last.fm/tag/male%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rascal flats
+  url: http://www.last.fm/tag/rascal%20flats
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: disney
+  url: http://www.last.fm/tag/disney
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country group
+  url: http://www.last.fm/tag/country%20group
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: one of the best
+  url: http://www.last.fm/tag/one%20of%20the%20best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guilty pleasure
+  url: http://www.last.fm/tag/guilty%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shiny
+  url: http://www.last.fm/tag/shiny
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sing-in-the-shower-worthy
+  url: http://www.last.fm/tag/sing-in-the-shower-worthy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot
+  url: http://www.last.fm/tag/hot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: adult contemporary
+  url: http://www.last.fm/tag/adult%20contemporary
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emotional
+  url: http://www.last.fm/tag/emotional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male group
+  url: http://www.last.fm/tag/male%20group
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country band
+  url: http://www.last.fm/tag/country%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: huzzah
+  url: http://www.last.fm/tag/huzzah
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country-pop
+  url: http://www.last.fm/tag/country-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rascal
+  url: http://www.last.fm/tag/rascal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: feeling blue
+  url: http://www.last.fm/tag/feeling%20blue
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good country
+  url: http://www.last.fm/tag/good%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: southern rock
+  url: http://www.last.fm/tag/southern%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ballads
+  url: http://www.last.fm/tag/ballads
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: band
+  url: http://www.last.fm/tag/band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: take me there
+  url: http://www.last.fm/tag/take%20me%20there
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: library
+  url: http://www.last.fm/tag/library
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: frankie j
+  url: http://www.last.fm/tag/frankie%20j
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ct
+  url: http://www.last.fm/tag/ct
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: so great i bought the cd
+  url: http://www.last.fm/tag/so%20great%20i%20bought%20the%20cd
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best love songs
+  url: http://www.last.fm/tag/best%20love%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good tunes
+  url: http://www.last.fm/tag/good%20tunes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my guys
+  url: http://www.last.fm/tag/my%20guys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: evanescence is bad ass
+  url: http://www.last.fm/tag/evanescence%20is%20bad%20ass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: no doubt
+  url: http://www.last.fm/tag/no%20doubt
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music i just stumbled upon
+  url: http://www.last.fm/tag/music%20i%20just%20stumbled%20upon
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: f
+  url: http://www.last.fm/tag/f
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: southern
+  url: http://www.last.fm/tag/southern
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lagerfeuermusik
+  url: http://www.last.fm/tag/lagerfeuermusik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my playlist
+  url: http://www.last.fm/tag/my%20playlist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: groovy country
+  url: http://www.last.fm/tag/groovy%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: met
+  url: http://www.last.fm/tag/met
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my country selection
+  url: http://www.last.fm/tag/my%20country%20selection
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my band faves
+  url: http://www.last.fm/tag/my%20band%20faves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tyler hilton
+  url: http://www.last.fm/tag/tyler%20hilton
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hebo
+  url: http://www.last.fm/tag/hebo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: robert palmer
+  url: http://www.last.fm/tag/robert%20palmer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowboy country
+  url: http://www.last.fm/tag/cowboy%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: coutry
+  url: http://www.last.fm/tag/coutry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: saw in concert
+  url: http://www.last.fm/tag/saw%20in%20concert
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sleep music
+  url: http://www.last.fm/tag/sleep%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country music
+  url: http://www.last.fm/tag/country%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contry
+  url: http://www.last.fm/tag/contry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: for my good days
+  url: http://www.last.fm/tag/for%20my%20good%20days
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not so good days fuck everything days
+  url: http://www.last.fm/tag/not%20so%20good%20days%20fuck%20everything%20days
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my ummm
+  url: http://www.last.fm/tag/my%20ummm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorite artist
+  url: http://www.last.fm/tag/my%20favorite%20artist

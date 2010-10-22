@@ -1,0 +1,9 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: brighton
+  url: http://www.last.fm/tag/brighton

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "77"
+  name: ebm
+  url: http://www.last.fm/tag/ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "70"
+  name: dark electro
+  url: http://www.last.fm/tag/dark%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "31"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: aggrotech
+  url: http://www.last.fm/tag/aggrotech
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: austrian
+  url: http://www.last.fm/tag/austrian
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: harsh ebm
+  url: http://www.last.fm/tag/harsh%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: powernoise
+  url: http://www.last.fm/tag/powernoise
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: electro-industrial
+  url: http://www.last.fm/tag/electro-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: tbm
+  url: http://www.last.fm/tag/tbm
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: power noise
+  url: http://www.last.fm/tag/power%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: imperial austrian industrial
+  url: http://www.last.fm/tag/imperial%20austrian%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electro industrial
+  url: http://www.last.fm/tag/electro%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: german black metal
+  url: http://www.last.fm/tag/german%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: harsh electro
+  url: http://www.last.fm/tag/harsh%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: thomas rainer
+  url: http://www.last.fm/tag/thomas%20rainer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rhythmic noise
+  url: http://www.last.fm/tag/rhythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nachtmahr
+  url: http://www.last.fm/tag/nachtmahr
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: darkwave
+  url: http://www.last.fm/tag/darkwave
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: depressive black metal
+  url: http://www.last.fm/tag/depressive%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutsch
+  url: http://www.last.fm/tag/deutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: terror ebm
+  url: http://www.last.fm/tag/terror%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard techno
+  url: http://www.last.fm/tag/hard%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno-industrial
+  url: http://www.last.fm/tag/techno-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: raw black metal
+  url: http://www.last.fm/tag/raw%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial techno
+  url: http://www.last.fm/tag/industrial%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wgt 2008
+  url: http://www.last.fm/tag/wgt%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emb
+  url: http://www.last.fm/tag/emb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: austria
+  url: http://www.last.fm/tag/austria
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: schwadorf
+  url: http://www.last.fm/tag/schwadorf
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic body music
+  url: http://www.last.fm/tag/electronic%20body%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric black metal
+  url: http://www.last.fm/tag/atmospheric%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: germany
+  url: http://www.last.fm/tag/germany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to listen
+  url: http://www.last.fm/tag/to%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: military ebm
+  url: http://www.last.fm/tag/military%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark-electro
+  url: http://www.last.fm/tag/dark-electro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: verdammt nochmal kein black metal
+  url: http://www.last.fm/tag/verdammt%20nochmal%20kein%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno industrial
+  url: http://www.last.fm/tag/techno%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark wave
+  url: http://www.last.fm/tag/dark%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rainer
+  url: http://www.last.fm/tag/rainer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno body music
+  url: http://www.last.fm/tag/techno%20body%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: true imperial austrian industrial
+  url: http://www.last.fm/tag/true%20imperial%20austrian%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan black metal
+  url: http://www.last.fm/tag/pagan%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial metal
+  url: http://www.last.fm/tag/industrial%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial for hyperactive people
+  url: http://www.last.fm/tag/industrial%20for%20hyperactive%20people
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: technodrome
+  url: http://www.last.fm/tag/technodrome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: iindustrial
+  url: http://www.last.fm/tag/iindustrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: darklight
+  url: http://www.last.fm/tag/darklight
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kein black metal
+  url: http://www.last.fm/tag/kein%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: qwerot
+  url: http://www.last.fm/tag/qwerot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best of black metal
+  url: http://www.last.fm/tag/best%20of%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: german ebm
+  url: http://www.last.fm/tag/german%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noise ebm
+  url: http://www.last.fm/tag/noise%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ndustrial
+  url: http://www.last.fm/tag/ndustrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: multiple artists with the same name
+  url: http://www.last.fm/tag/multiple%20artists%20with%20the%20same%20name
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno shit
+  url: http://www.last.fm/tag/techno%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: changa
+  url: http://www.last.fm/tag/changa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutsches schwarzmetall
+  url: http://www.last.fm/tag/deutsches%20schwarzmetall
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amphi festival 2010
+  url: http://www.last.fm/tag/amphi%20festival%202010
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: militarischen
+  url: http://www.last.fm/tag/militarischen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aggrotech - dark electro - harsh ebm
+  url: http://www.last.fm/tag/aggrotech%20-%20dark%20electro%20-%20harsh%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thomas rainer is the best man i ve ever known
+  url: http://www.last.fm/tag/thomas%20rainer%20is%20the%20best%20man%20i%20ve%20ever%20known
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: military shit
+  url: http://www.last.fm/tag/military%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goth dance shit
+  url: http://www.last.fm/tag/goth%20dance%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: really evil shit
+  url: http://www.last.fm/tag/really%20evil%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: imperial industrial
+  url: http://www.last.fm/tag/imperial%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark electrico
+  url: http://www.last.fm/tag/dark%20electrico
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gute live show
+  url: http://www.last.fm/tag/gute%20live%20show
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: impiria austrian industrial
+  url: http://www.last.fm/tag/impiria%20austrian%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mera luna 2009
+  url: http://www.last.fm/tag/mera%20luna%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funny ebm
+  url: http://www.last.fm/tag/funny%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funny mbe
+  url: http://www.last.fm/tag/funny%20mbe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mein name
+  url: http://www.last.fm/tag/mein%20name
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harsh tbm
+  url: http://www.last.fm/tag/harsh%20tbm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noise tbm
+  url: http://www.last.fm/tag/noise%20tbm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nazi ebm
+  url: http://www.last.fm/tag/nazi%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kein black metal verdammt
+  url: http://www.last.fm/tag/kein%20black%20metal%20verdammt
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noize is law
+  url: http://www.last.fm/tag/noize%20is%20law
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhythmical power noise
+  url: http://www.last.fm/tag/rhythmical%20power%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vampirepop
+  url: http://www.last.fm/tag/vampirepop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: futuremelon
+  url: http://www.last.fm/tag/futuremelon
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: terrorbanana
+  url: http://www.last.fm/tag/terrorbanana
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: traivor radar
+  url: http://www.last.fm/tag/traivor%20radar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heim ins :oester:reich
+  url: http://www.last.fm/tag/heim%20ins%20%3Aoester%3Areich
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cyberpunkmetal
+  url: http://www.last.fm/tag/cyberpunkmetal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: phignja
+  url: http://www.last.fm/tag/phignja
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: summer darkness 08
+  url: http://www.last.fm/tag/summer%20darkness%2008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: qwerot89
+  url: http://www.last.fm/tag/qwerot89

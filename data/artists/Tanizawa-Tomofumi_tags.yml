@@ -1,0 +1,25 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: j-pop
+  url: http://www.last.fm/tag/j-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: japanese music
+  url: http://www.last.fm/tag/japanese%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: j-music
+  url: http://www.last.fm/tag/j-music
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: tanizawa tomofumi
+  url: http://www.last.fm/tag/tanizawa%20tomofumi
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: kimi ni todoke
+  url: http://www.last.fm/tag/kimi%20ni%20todoke

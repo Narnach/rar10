@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: bluegrass
+  url: http://www.last.fm/tag/bluegrass
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: old-timey
+  url: http://www.last.fm/tag/old-timey
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: classic country
+  url: http://www.last.fm/tag/classic%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: traditional country
+  url: http://www.last.fm/tag/traditional%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: 30s
+  url: http://www.last.fm/tag/30s
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: traditional
+  url: http://www.last.fm/tag/traditional
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: carter family
+  url: http://www.last.fm/tag/carter%20family
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: old timey
+  url: http://www.last.fm/tag/old%20timey
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: the carter family
+  url: http://www.last.fm/tag/the%20carter%20family
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: roots
+  url: http://www.last.fm/tag/roots
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: virginia
+  url: http://www.last.fm/tag/virginia
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: anthology of american folk music
+  url: http://www.last.fm/tag/anthology%20of%20american%20folk%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 40s
+  url: http://www.last.fm/tag/40s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 20s
+  url: http://www.last.fm/tag/20s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: old-time
+  url: http://www.last.fm/tag/old-time
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: appalachian folk
+  url: http://www.last.fm/tag/appalachian%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alt country
+  url: http://www.last.fm/tag/alt%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: country gothic
+  url: http://www.last.fm/tag/country%20gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: music i should listen to more often
+  url: http://www.last.fm/tag/music%20i%20should%20listen%20to%20more%20often
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: old country
+  url: http://www.last.fm/tag/old%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: appalachian
+  url: http://www.last.fm/tag/appalachian
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cowpokes and banjo pickers
+  url: http://www.last.fm/tag/cowpokes%20and%20banjo%20pickers
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cowhat fav
+  url: http://www.last.fm/tag/cowhat%20fav
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: what shall we do without us
+  url: http://www.last.fm/tag/what%20shall%20we%20do%20without%20us
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: doc watson and co
+  url: http://www.last.fm/tag/doc%20watson%20and%20co
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: carter-cash
+  url: http://www.last.fm/tag/carter-cash
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: banjo
+  url: http://www.last.fm/tag/banjo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gospel
+  url: http://www.last.fm/tag/gospel
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: basic family entertainment
+  url: http://www.last.fm/tag/basic%20family%20entertainment
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cowhat vint
+  url: http://www.last.fm/tag/cowhat%20vint
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: old school country and more
+  url: http://www.last.fm/tag/old%20school%20country%20and%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gloria jane
+  url: http://www.last.fm/tag/gloria%20jane
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the harrisburg family band
+  url: http://www.last.fm/tag/the%20harrisburg%20family%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lorcas
+  url: http://www.last.fm/tag/lorcas
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: close harmony
+  url: http://www.last.fm/tag/close%20harmony
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: old-country
+  url: http://www.last.fm/tag/old-country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: old time
+  url: http://www.last.fm/tag/old%20time
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: theme time radio hour
+  url: http://www.last.fm/tag/theme%20time%20radio%20hour
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heiner blum
+  url: http://www.last.fm/tag/heiner%20blum
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roots folk
+  url: http://www.last.fm/tag/roots%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the day that thatcher dies
+  url: http://www.last.fm/tag/the%20day%20that%20thatcher%20dies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r crumb
+  url: http://www.last.fm/tag/r%20crumb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tower of song
+  url: http://www.last.fm/tag/tower%20of%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shirtless
+  url: http://www.last.fm/tag/shirtless
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: raw music
+  url: http://www.last.fm/tag/raw%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "66"
+  url: http://www.last.fm/tag/66
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country bumpkin
+  url: http://www.last.fm/tag/country%20bumpkin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cold play eats ass
+  url: http://www.last.fm/tag/cold%20play%20eats%20ass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: boys and girls singing together
+  url: http://www.last.fm/tag/boys%20and%20girls%20singing%20together
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folf noir
+  url: http://www.last.fm/tag/folf%20noir
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yes yes yes
+  url: http://www.last.fm/tag/yes%20yes%20yes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: appalachian creek waders
+  url: http://www.last.fm/tag/appalachian%20creek%20waders
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i like this a lot
+  url: http://www.last.fm/tag/i%20like%20this%20a%20lot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: study these
+  url: http://www.last.fm/tag/study%20these
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the real deal
+  url: http://www.last.fm/tag/the%20real%20deal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: greatest country artists
+  url: http://www.last.fm/tag/greatest%20country%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: distinctive voice
+  url: http://www.last.fm/tag/distinctive%20voice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the sweet sound of success
+  url: http://www.last.fm/tag/the%20sweet%20sound%20of%20success
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: da fazenda
+  url: http://www.last.fm/tag/da%20fazenda
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flumroc
+  url: http://www.last.fm/tag/flumroc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old america
+  url: http://www.last.fm/tag/old%20america
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dr small jukebox
+  url: http://www.last.fm/tag/dr%20small%20jukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drift away
+  url: http://www.last.fm/tag/drift%20away
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: strummin
+  url: http://www.last.fm/tag/strummin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: two hands
+  url: http://www.last.fm/tag/two%20hands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: family bands
+  url: http://www.last.fm/tag/family%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues stay away music
+  url: http://www.last.fm/tag/blues%20stay%20away%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country worship
+  url: http://www.last.fm/tag/country%20worship
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country taggradio
+  url: http://www.last.fm/tag/country%20taggradio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: carter family-wildwood flower
+  url: http://www.last.fm/tag/carter%20family-wildwood%20flower
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowhat hero
+  url: http://www.last.fm/tag/cowhat%20hero
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowhat superhero
+  url: http://www.last.fm/tag/cowhat%20superhero
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country ladies
+  url: http://www.last.fm/tag/country%20ladies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dpot1
+  url: http://www.last.fm/tag/dpot1
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post hitching post
+  url: http://www.last.fm/tag/post%20hitching%20post
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: first family
+  url: http://www.last.fm/tag/first%20family
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roots and twigs
+  url: http://www.last.fm/tag/roots%20and%20twigs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my kentucky roots
+  url: http://www.last.fm/tag/my%20kentucky%20roots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bottled jesus
+  url: http://www.last.fm/tag/bottled%20jesus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: boy - girl
+  url: http://www.last.fm/tag/boy%20-%20girl
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roadside revival
+  url: http://www.last.fm/tag/roadside%20revival
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jeffrey hayes
+  url: http://www.last.fm/tag/jeffrey%20hayes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old time country folk
+  url: http://www.last.fm/tag/old%20time%20country%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: c family
+  url: http://www.last.fm/tag/c%20family
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: theme time
+  url: http://www.last.fm/tag/theme%20time
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 20s-30s
+  url: http://www.last.fm/tag/20s-30s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reverend bumloves righteous old-time revival
+  url: http://www.last.fm/tag/reverend%20bumloves%20righteous%20old-time%20revival
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: variationen
+  url: http://www.last.fm/tag/variationen

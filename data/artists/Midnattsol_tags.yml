@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "88"
+  name: folk metal
+  url: http://www.last.fm/tag/folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "59"
+  name: female fronted metal
+  url: http://www.last.fm/tag/female%20fronted%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "56"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "31"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: norwegian
+  url: http://www.last.fm/tag/norwegian
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: nordic folk metal
+  url: http://www.last.fm/tag/nordic%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: melodic metal
+  url: http://www.last.fm/tag/melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: viking metal
+  url: http://www.last.fm/tag/viking%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female fronted
+  url: http://www.last.fm/tag/female%20fronted
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: midnattsol
+  url: http://www.last.fm/tag/midnattsol
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: gothic folk metal
+  url: http://www.last.fm/tag/gothic%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: norwegian metal
+  url: http://www.last.fm/tag/norwegian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: scandinavian
+  url: http://www.last.fm/tag/scandinavian
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gothic rock
+  url: http://www.last.fm/tag/gothic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: goth
+  url: http://www.last.fm/tag/goth
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nordic
+  url: http://www.last.fm/tag/nordic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: norway
+  url: http://www.last.fm/tag/norway
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: germany
+  url: http://www.last.fm/tag/germany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nordic metal
+  url: http://www.last.fm/tag/nordic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic gothic metal
+  url: http://www.last.fm/tag/symphonic%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: norwegian music
+  url: http://www.last.fm/tag/norwegian%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan metal
+  url: http://www.last.fm/tag/pagan%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female voices
+  url: http://www.last.fm/tag/female%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic power metal
+  url: http://www.last.fm/tag/symphonic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: femme metal
+  url: http://www.last.fm/tag/femme%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female-fronted metal
+  url: http://www.last.fm/tag/female-fronted%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic folk
+  url: http://www.last.fm/tag/epic%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic folk metal
+  url: http://www.last.fm/tag/symphonic%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: germany-norway
+  url: http://www.last.fm/tag/germany-norway
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doom metal
+  url: http://www.last.fm/tag/doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: women
+  url: http://www.last.fm/tag/women
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: -gothic metal-
+  url: http://www.last.fm/tag/-gothic%20metal-
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk-metal
+  url: http://www.last.fm/tag/folk-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: -symphonic metal-
+  url: http://www.last.fm/tag/-symphonic%20metal-
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: diva gothic metal
+  url: http://www.last.fm/tag/diva%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal from norway
+  url: http://www.last.fm/tag/metal%20from%20norway
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nordic folk
+  url: http://www.last.fm/tag/nordic%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lady metal
+  url: http://www.last.fm/tag/lady%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best metal female voices
+  url: http://www.last.fm/tag/best%20metal%20female%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal female voices
+  url: http://www.last.fm/tag/metal%20female%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nordric gothic folk metal
+  url: http://www.last.fm/tag/nordric%20gothic%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: frauenmetal
+  url: http://www.last.fm/tag/frauenmetal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female metal
+  url: http://www.last.fm/tag/female%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to check out
+  url: http://www.last.fm/tag/to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female fronted symphonic metal
+  url: http://www.last.fm/tag/female%20fronted%20symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful voices
+  url: http://www.last.fm/tag/beautiful%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female fronted metal favs
+  url: http://www.last.fm/tag/female%20fronted%20metal%20favs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female led
+  url: http://www.last.fm/tag/female%20led
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: norwegian folk metal
+  url: http://www.last.fm/tag/norwegian%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic - doom
+  url: http://www.last.fm/tag/gothic%20-%20doom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gorgeous singer
+  url: http://www.last.fm/tag/gorgeous%20singer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "scandinavian girls: metal"
+  url: http://www.last.fm/tag/scandinavian%20girls%3A%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scandinavian girls
+  url: http://www.last.fm/tag/scandinavian%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goth metal
+  url: http://www.last.fm/tag/goth%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scandinavian metal
+  url: http://www.last.fm/tag/scandinavian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic death metal
+  url: http://www.last.fm/tag/melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic metal
+  url: http://www.last.fm/tag/epic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark metal
+  url: http://www.last.fm/tag/dark%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lord nachtengels symphonic metal
+  url: http://www.last.fm/tag/lord%20nachtengels%20symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal-gothic doom
+  url: http://www.last.fm/tag/metal-gothic%20doom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female folk metal
+  url: http://www.last.fm/tag/female%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jlunarepowerful
+  url: http://www.last.fm/tag/jlunarepowerful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sympho-metal
+  url: http://www.last.fm/tag/sympho-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: german folk metal
+  url: http://www.last.fm/tag/german%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal-real-metal
+  url: http://www.last.fm/tag/metal-real-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nice
+  url: http://www.last.fm/tag/nice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: en sevdiklerim
+  url: http://www.last.fm/tag/en%20sevdiklerim
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synphonic metal
+  url: http://www.last.fm/tag/synphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heimnar a ne tsoi podavilsya matsoi
+  url: http://www.last.fm/tag/heimnar%20a%20ne%20tsoi%20podavilsya%20matsoi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: look it up
+  url: http://www.last.fm/tag/look%20it%20up
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: curious about
+  url: http://www.last.fm/tag/curious%20about
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mbstuff
+  url: http://www.last.fm/tag/mbstuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better than nightwish
+  url: http://www.last.fm/tag/better%20than%20nightwish
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful singer
+  url: http://www.last.fm/tag/beautiful%20singer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to find
+  url: http://www.last.fm/tag/to%20find
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alemania
+  url: http://www.last.fm/tag/alemania
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yalma metal
+  url: http://www.last.fm/tag/yalma%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aotw
+  url: http://www.last.fm/tag/aotw
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lehtoritags
+  url: http://www.last.fm/tag/lehtoritags
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic female
+  url: http://www.last.fm/tag/gothic%20female
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "scandinavian girls: norway"
+  url: http://www.last.fm/tag/scandinavian%20girls%3A%20norway

@@ -1,0 +1,29 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: podcast
+  url: http://www.last.fm/tag/podcast
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: ruby
+  url: http://www.last.fm/tag/ruby
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rails
+  url: http://www.last.fm/tag/rails
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: software
+  url: http://www.last.fm/tag/software
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: programming
+  url: http://www.last.fm/tag/programming
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: open source
+  url: http://www.last.fm/tag/open%20source
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: ruby on rails
+  url: http://www.last.fm/tag/ruby%20on%20rails

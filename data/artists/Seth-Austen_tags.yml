@@ -1,0 +1,5 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: irish harp
+  url: http://www.last.fm/tag/irish%20harp

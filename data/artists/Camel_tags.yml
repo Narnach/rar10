@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: art rock
+  url: http://www.last.fm/tag/art%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: symphonic prog
+  url: http://www.last.fm/tag/symphonic%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: prog rock
+  url: http://www.last.fm/tag/prog%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: prog
+  url: http://www.last.fm/tag/prog
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: symphonic rock
+  url: http://www.last.fm/tag/symphonic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: canterbury scene
+  url: http://www.last.fm/tag/canterbury%20scene
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: camel
+  url: http://www.last.fm/tag/camel
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psychedelic rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: canterbury
+  url: http://www.last.fm/tag/canterbury
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: space rock
+  url: http://www.last.fm/tag/space%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 70s progressive rock
+  url: http://www.last.fm/tag/70s%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british progressive rock
+  url: http://www.last.fm/tag/british%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic progressive rock
+  url: http://www.last.fm/tag/symphonic%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s progressive
+  url: http://www.last.fm/tag/70s%20progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: prog-rock
+  url: http://www.last.fm/tag/prog-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fusion
+  url: http://www.last.fm/tag/fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: england
+  url: http://www.last.fm/tag/england
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock progresivo
+  url: http://www.last.fm/tag/rock%20progresivo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic progressive rock
+  url: http://www.last.fm/tag/classic%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: art-rock
+  url: http://www.last.fm/tag/art-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flute
+  url: http://www.last.fm/tag/flute
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rare groove
+  url: http://www.last.fm/tag/rare%20groove
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legend
+  url: http://www.last.fm/tag/legend
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: intelligent
+  url: http://www.last.fm/tag/intelligent
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1970s
+  url: http://www.last.fm/tag/1970s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good music
+  url: http://www.last.fm/tag/good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: london
+  url: http://www.last.fm/tag/london
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best thing has ever happened to music
+  url: http://www.last.fm/tag/best%20thing%20has%20ever%20happened%20to%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out
+  url: http://www.last.fm/tag/check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pink floyd
+  url: http://www.last.fm/tag/pink%20floyd
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70's
+  url: http://www.last.fm/tag/70%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz rock
+  url: http://www.last.fm/tag/jazz%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic progressive
+  url: http://www.last.fm/tag/symphonic%20progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic prog
+  url: http://www.last.fm/tag/classic%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: united kingdom
+  url: http://www.last.fm/tag/united%20kingdom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock progressif
+  url: http://www.last.fm/tag/rock%20progressif
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reflection
+  url: http://www.last.fm/tag/reflection
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british rock
+  url: http://www.last.fm/tag/british%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic prog rock
+  url: http://www.last.fm/tag/symphonic%20prog%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive jazz rock
+  url: http://www.last.fm/tag/progressive%20jazz%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "yes"
+  url: http://www.last.fm/tag/yes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tech house
+  url: http://www.last.fm/tag/tech%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: extremely underrated
+  url: http://www.last.fm/tag/extremely%20underrated
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1990s
+  url: http://www.last.fm/tag/1990s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: canterbury sound
+  url: http://www.last.fm/tag/canterbury%20sound
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive surf rock
+  url: http://www.last.fm/tag/progressive%20surf%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: strange-looking artists
+  url: http://www.last.fm/tag/strange-looking%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: group of people who are
+  url: http://www.last.fm/tag/group%20of%20people%20who%20are
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s psychedelia
+  url: http://www.last.fm/tag/70s%20psychedelia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s rock
+  url: http://www.last.fm/tag/70s%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: art
+  url: http://www.last.fm/tag/art
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dynamic
+  url: http://www.last.fm/tag/dynamic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz fusion
+  url: http://www.last.fm/tag/jazz%20fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: higgs boson
+  url: http://www.last.fm/tag/higgs%20boson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic prog
+  url: http://www.last.fm/tag/epic%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psychedelia
+  url: http://www.last.fm/tag/psychedelia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synthesizer
+  url: http://www.last.fm/tag/synthesizer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: underrated
+  url: http://www.last.fm/tag/underrated
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambitious
+  url: http://www.last.fm/tag/ambitious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1980s
+  url: http://www.last.fm/tag/1980s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellotron
+  url: http://www.last.fm/tag/mellotron
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic
+  url: http://www.last.fm/tag/classic

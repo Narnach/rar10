@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "48"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "43"
+  name: battlestar galactica
+  url: http://www.last.fm/tag/battlestar%20galactica
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: tv
+  url: http://www.last.fm/tag/tv
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: bsg
+  url: http://www.last.fm/tag/bsg
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: contemporary classical
+  url: http://www.last.fm/tag/contemporary%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: bear mccreary
+  url: http://www.last.fm/tag/bear%20mccreary
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: movie score composers
+  url: http://www.last.fm/tag/movie%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: tribal
+  url: http://www.last.fm/tag/tribal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: "terminator: the sarah connor chronicles"
+  url: http://www.last.fm/tag/terminator%3A%20the%20sarah%20connor%20chronicles
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: film music
+  url: http://www.last.fm/tag/film%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: so say we all
+  url: http://www.last.fm/tag/so%20say%20we%20all
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ethnic
+  url: http://www.last.fm/tag/ethnic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo-classical
+  url: http://www.last.fm/tag/neo-classical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neoclassical
+  url: http://www.last.fm/tag/neoclassical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: science fiction music
+  url: http://www.last.fm/tag/science%20fiction%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: battlestar galactica soundtrack drums tribal
+  url: http://www.last.fm/tag/battlestar%20galactica%20soundtrack%20drums%20tribal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: celtic
+  url: http://www.last.fm/tag/celtic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: battlestar
+  url: http://www.last.fm/tag/battlestar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: science fiction
+  url: http://www.last.fm/tag/science%20fiction
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: television music composer
+  url: http://www.last.fm/tag/television%20music%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack composers
+  url: http://www.last.fm/tag/soundtrack%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful music
+  url: http://www.last.fm/tag/beautiful%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ethereal
+  url: http://www.last.fm/tag/ethereal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modern classical
+  url: http://www.last.fm/tag/modern%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: terminator
+  url: http://www.last.fm/tag/terminator
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: richard gibbs
+  url: http://www.last.fm/tag/richard%20gibbs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cinematic
+  url: http://www.last.fm/tag/cinematic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark ambient
+  url: http://www.last.fm/tag/dark%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world music
+  url: http://www.last.fm/tag/world%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: loved
+  url: http://www.last.fm/tag/loved
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: television
+  url: http://www.last.fm/tag/television
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american film score
+  url: http://www.last.fm/tag/american%20film%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: space opera
+  url: http://www.last.fm/tag/space%20opera
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american film score composers
+  url: http://www.last.fm/tag/american%20film%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ulubione artura
+  url: http://www.last.fm/tag/ulubione%20artura
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmosfera
+  url: http://www.last.fm/tag/atmosfera
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: syfy
+  url: http://www.last.fm/tag/syfy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie and video game maestros
+  url: http://www.last.fm/tag/movie%20and%20video%20game%20maestros
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack scores
+  url: http://www.last.fm/tag/soundtrack%20scores
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: film music composer
+  url: http://www.last.fm/tag/film%20music%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: b
+  url: http://www.last.fm/tag/b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: recommended to me
+  url: http://www.last.fm/tag/recommended%20to%20me
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "composers: film and television"
+  url: http://www.last.fm/tag/composers%3A%20film%20and%20television
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eureka
+  url: http://www.last.fm/tag/eureka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ost composers
+  url: http://www.last.fm/tag/ost%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ostoslista
+  url: http://www.last.fm/tag/ostoslista
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pepperalley los angeles
+  url: http://www.last.fm/tag/pepperalley%20los%20angeles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wordless
+  url: http://www.last.fm/tag/wordless
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtack
+  url: http://www.last.fm/tag/soundtack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: xap
+  url: http://www.last.fm/tag/xap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bs galactica
+  url: http://www.last.fm/tag/bs%20galactica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: one of those crazy los angeles musicians
+  url: http://www.last.fm/tag/one%20of%20those%20crazy%20los%20angeles%20musicians
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: films soundtrack
+  url: http://www.last.fm/tag/films%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark fox
+  url: http://www.last.fm/tag/dark%20fox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sarah conner chronicles
+  url: http://www.last.fm/tag/sarah%20conner%20chronicles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tv ccomposer
+  url: http://www.last.fm/tag/tv%20ccomposer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: californication ost
+  url: http://www.last.fm/tag/californication%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: speculative
+  url: http://www.last.fm/tag/speculative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: talk nerdy to me
+  url: http://www.last.fm/tag/talk%20nerdy%20to%20me
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: godlike people of awesomeness
+  url: http://www.last.fm/tag/godlike%20people%20of%20awesomeness
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aug08 grabbag
+  url: http://www.last.fm/tag/aug08%20grabbag
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: original burger track
+  url: http://www.last.fm/tag/original%20burger%20track
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instruments n burgers
+  url: http://www.last.fm/tag/instruments%20n%20burgers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: caprica
+  url: http://www.last.fm/tag/caprica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: battlestar galactica soundtrack
+  url: http://www.last.fm/tag/battlestar%20galactica%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: television composer
+  url: http://www.last.fm/tag/television%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out new tracks
+  url: http://www.last.fm/tag/check%20out%20new%20tracks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: for those who do not sleep enough due to staying up late at night for no apparent reason
+  url: http://www.last.fm/tag/for%20those%20who%20do%20not%20sleep%20enough%20due%20to%20staying%20up%20late%20at%20night%20for%20no%20apparent%20reason
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "terminator: sarah connor chronicles"
+  url: http://www.last.fm/tag/terminator%3A%20sarah%20connor%20chronicles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tv score
+  url: http://www.last.fm/tag/tv%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome genius
+  url: http://www.last.fm/tag/awesome%20genius
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genius loci
+  url: http://www.last.fm/tag/genius%20loci
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: muzyka filmowa
+  url: http://www.last.fm/tag/muzyka%20filmowa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: group of people who are
+  url: http://www.last.fm/tag/group%20of%20people%20who%20are
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie soundtrack composer
+  url: http://www.last.fm/tag/movie%20soundtrack%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: taiko drums
+  url: http://www.last.fm/tag/taiko%20drums
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: super-sekrit cylon god
+  url: http://www.last.fm/tag/super-sekrit%20cylon%20god

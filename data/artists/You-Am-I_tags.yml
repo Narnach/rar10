@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: australian
+  url: http://www.last.fm/tag/australian
+- !ruby/object:Scrobbler::Tag 
+  count: "67"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: aussie
+  url: http://www.last.fm/tag/aussie
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: oz
+  url: http://www.last.fm/tag/oz
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: tim rogers
+  url: http://www.last.fm/tag/tim%20rogers
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: grunge
+  url: http://www.last.fm/tag/grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: sydney
+  url: http://www.last.fm/tag/sydney
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: power pop
+  url: http://www.last.fm/tag/power%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: guitar rock
+  url: http://www.last.fm/tag/guitar%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: aussie rock
+  url: http://www.last.fm/tag/aussie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: who is ben rekhi
+  url: http://www.last.fm/tag/who%20is%20ben%20rekhi
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: australia
+  url: http://www.last.fm/tag/australia
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: man beating a goat
+  url: http://www.last.fm/tag/man%20beating%20a%20goat
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: australian rock
+  url: http://www.last.fm/tag/australian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: met
+  url: http://www.last.fm/tag/met
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: garage rock
+  url: http://www.last.fm/tag/garage%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: better than your music
+  url: http://www.last.fm/tag/better%20than%20your%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: amber fluid
+  url: http://www.last.fm/tag/amber%20fluid
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kick arse
+  url: http://www.last.fm/tag/kick%20arse
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: when i was younger
+  url: http://www.last.fm/tag/when%20i%20was%20younger
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hi fi way
+  url: http://www.last.fm/tag/hi%20fi%20way
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: really dredg
+  url: http://www.last.fm/tag/really%20dredg
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: falls festival
+  url: http://www.last.fm/tag/falls%20festival
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: four piece
+  url: http://www.last.fm/tag/four%20piece
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: now listening to
+  url: http://www.last.fm/tag/now%20listening%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: you am i
+  url: http://www.last.fm/tag/you%20am%20i
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deliverance
+  url: http://www.last.fm/tag/deliverance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: add to personal radio
+  url: http://www.last.fm/tag/add%20to%20personal%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: aussie shiznat
+  url: http://www.last.fm/tag/aussie%20shiznat
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: au plus nz
+  url: http://www.last.fm/tag/au%20plus%20nz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: artists ive seen live
+  url: http://www.last.fm/tag/artists%20ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: angry pirate rock
+  url: http://www.last.fm/tag/angry%20pirate%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tinone
+  url: http://www.last.fm/tag/tinone
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: three word name
+  url: http://www.last.fm/tag/three%20word%20name
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: australicana
+  url: http://www.last.fm/tag/australicana
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tipicos topicos
+  url: http://www.last.fm/tag/tipicos%20topicos
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the strombo show
+  url: http://www.last.fm/tag/the%20strombo%20show
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourite band names
+  url: http://www.last.fm/tag/favourite%20band%20names
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pounce thuggery
+  url: http://www.last.fm/tag/pounce%20thuggery
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: need more of this stuff
+  url: http://www.last.fm/tag/need%20more%20of%20this%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: convicts
+  url: http://www.last.fm/tag/convicts
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: a good way to burn in hell
+  url: http://www.last.fm/tag/a%20good%20way%20to%20burn%20in%20hell
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sx07
+  url: http://www.last.fm/tag/sx07
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sxsw2007
+  url: http://www.last.fm/tag/sxsw2007
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 2006 australian music prize top 25
+  url: http://www.last.fm/tag/2006%20australian%20music%20prize%20top%2025
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male lead
+  url: http://www.last.fm/tag/male%20lead
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock i like
+  url: http://www.last.fm/tag/rock%20i%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not much lyrics
+  url: http://www.last.fm/tag/not%20much%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the really loved
+  url: http://www.last.fm/tag/the%20really%20loved
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: big day out 2007
+  url: http://www.last.fm/tag/big%20day%20out%202007
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 0s
+  url: http://www.last.fm/tag/0s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nsw
+  url: http://www.last.fm/tag/nsw
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: big day out 07
+  url: http://www.last.fm/tag/big%20day%20out%2007
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: amn 2006
+  url: http://www.last.fm/tag/amn%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: postrock
+  url: http://www.last.fm/tag/postrock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pub rock
+  url: http://www.last.fm/tag/pub%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melbourne
+  url: http://www.last.fm/tag/melbourne
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: aussie pop
+  url: http://www.last.fm/tag/aussie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seenlive
+  url: http://www.last.fm/tag/seenlive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo-psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post-grunge
+  url: http://www.last.fm/tag/post-grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: new wave
+  url: http://www.last.fm/tag/new%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jjj
+  url: http://www.last.fm/tag/jjj
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post rock
+  url: http://www.last.fm/tag/post%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seen em live
+  url: http://www.last.fm/tag/seen%20em%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: no bullshit
+  url: http://www.last.fm/tag/no%20bullshit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bmg international
+  url: http://www.last.fm/tag/bmg%20international
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spin art
+  url: http://www.last.fm/tag/spin%20art
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: raining
+  url: http://www.last.fm/tag/raining
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: warner bros
+  url: http://www.last.fm/tag/warner%20bros
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: au
+  url: http://www.last.fm/tag/au
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: best of 90s
+  url: http://www.last.fm/tag/best%20of%2090s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seminal
+  url: http://www.last.fm/tag/seminal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: showmanship
+  url: http://www.last.fm/tag/showmanship
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bands ive seen
+  url: http://www.last.fm/tag/bands%20ive%20seen
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: aus
+  url: http://www.last.fm/tag/aus
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: great lyrics
+  url: http://www.last.fm/tag/great%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: faves
+  url: http://www.last.fm/tag/faves
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bands ive seen live
+  url: http://www.last.fm/tag/bands%20ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live

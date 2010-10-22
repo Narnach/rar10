@@ -1,0 +1,201 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "90"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: dutch
+  url: http://www.last.fm/tag/dutch
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: dutch metal
+  url: http://www.last.fm/tag/dutch%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: progressive power metal
+  url: http://www.last.fm/tag/progressive%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: rock opera
+  url: http://www.last.fm/tag/rock%20opera
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: symphonic power metal
+  url: http://www.last.fm/tag/symphonic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: netherlands
+  url: http://www.last.fm/tag/netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: melodic metal
+  url: http://www.last.fm/tag/melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: melodic power metal
+  url: http://www.last.fm/tag/melodic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: opera rock
+  url: http://www.last.fm/tag/opera%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: opera metal
+  url: http://www.last.fm/tag/opera%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: xystus
+  url: http://www.last.fm/tag/xystus
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: opera
+  url: http://www.last.fm/tag/opera
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "recs: sam"
+  url: http://www.last.fm/tag/recs%3A%20sam
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: atmosferic power metal
+  url: http://www.last.fm/tag/atmosferic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: altar of the metal gods
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hot shit
+  url: http://www.last.fm/tag/hot%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: delicious
+  url: http://www.last.fm/tag/delicious
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: symphonic progressive metal
+  url: http://www.last.fm/tag/symphonic%20progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: wmmetalartists
+  url: http://www.last.fm/tag/wmmetalartists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: to check out
+  url: http://www.last.fm/tag/to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: usconcert
+  url: http://www.last.fm/tag/usconcert
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: in my collection
+  url: http://www.last.fm/tag/in%20my%20collection
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: photographed
+  url: http://www.last.fm/tag/photographed
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: simone simons
+  url: http://www.last.fm/tag/simone%20simons
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: more people should listen to this
+  url: http://www.last.fm/tag/more%20people%20should%20listen%20to%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: wmexpand
+  url: http://www.last.fm/tag/wmexpand
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: wmcheck
+  url: http://www.last.fm/tag/wmcheck
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seenlive
+  url: http://www.last.fm/tag/seenlive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: symphonic rock
+  url: http://www.last.fm/tag/symphonic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: operatic
+  url: http://www.last.fm/tag/operatic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: operatic metal
+  url: http://www.last.fm/tag/operatic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal opera
+  url: http://www.last.fm/tag/metal%20opera
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mezz 2005
+  url: http://www.last.fm/tag/mezz%202005
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music i tried but didnt like
+  url: http://www.last.fm/tag/music%20i%20tried%20but%20didnt%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll

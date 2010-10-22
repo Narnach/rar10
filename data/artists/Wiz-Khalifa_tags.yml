@@ -1,0 +1,341 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "73"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: underground hip-hop
+  url: http://www.last.fm/tag/underground%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "35"
+  name: pittsburgh
+  url: http://www.last.fm/tag/pittsburgh
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: wiz khalifa
+  url: http://www.last.fm/tag/wiz%20khalifa
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: pennsylvania
+  url: http://www.last.fm/tag/pennsylvania
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: underground
+  url: http://www.last.fm/tag/underground
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: north dakota
+  url: http://www.last.fm/tag/north%20dakota
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: east coast rap
+  url: http://www.last.fm/tag/east%20coast%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: wiz
+  url: http://www.last.fm/tag/wiz
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pittsburgh hip-hop
+  url: http://www.last.fm/tag/pittsburgh%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: e-walker
+  url: http://www.last.fm/tag/e-walker
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: taylor gang
+  url: http://www.last.fm/tag/taylor%20gang
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: newschool
+  url: http://www.last.fm/tag/newschool
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: steel city
+  url: http://www.last.fm/tag/steel%20city
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: new hip-hop to bounce my body to
+  url: http://www.last.fm/tag/new%20hip-hop%20to%20bounce%20my%20body%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: wow i likie what he says
+  url: http://www.last.fm/tag/wow%20i%20likie%20what%20he%20says
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cameron jibril thomaz
+  url: http://www.last.fm/tag/cameron%20jibril%20thomaz
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hipster
+  url: http://www.last.fm/tag/hipster
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: underground hip hop
+  url: http://www.last.fm/tag/underground%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: underground rap
+  url: http://www.last.fm/tag/underground%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sek-c
+  url: http://www.last.fm/tag/sek-c
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: thegoodstuff
+  url: http://www.last.fm/tag/thegoodstuff
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pittsburgh rap
+  url: http://www.last.fm/tag/pittsburgh%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pitt
+  url: http://www.last.fm/tag/pitt
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pennslyvania
+  url: http://www.last.fm/tag/pennslyvania
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gungsta
+  url: http://www.last.fm/tag/gungsta
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kid cudi
+  url: http://www.last.fm/tag/kid%20cudi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sek c
+  url: http://www.last.fm/tag/sek%20c
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: paper plane gang
+  url: http://www.last.fm/tag/paper%20plane%20gang
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rating 7 stars - good
+  url: http://www.last.fm/tag/rating%207%20stars%20-%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kush and orangejuice
+  url: http://www.last.fm/tag/kush%20and%20orangejuice
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: unknown hip-hop
+  url: http://www.last.fm/tag/unknown%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: epic jit
+  url: http://www.last.fm/tag/epic%20jit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: na rule
+  url: http://www.last.fm/tag/na%20rule
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: thug jit
+  url: http://www.last.fm/tag/thug%20jit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: postal jit
+  url: http://www.last.fm/tag/postal%20jit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: skully jits
+  url: http://www.last.fm/tag/skully%20jits
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jitlogic
+  url: http://www.last.fm/tag/jitlogic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: shwagger jit
+  url: http://www.last.fm/tag/shwagger%20jit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: smoke rap
+  url: http://www.last.fm/tag/smoke%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hot jit
+  url: http://www.last.fm/tag/hot%20jit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dope jits
+  url: http://www.last.fm/tag/dope%20jits
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 412 hiphop
+  url: http://www.last.fm/tag/412%20hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: smoke hip-hop
+  url: http://www.last.fm/tag/smoke%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: trending topic
+  url: http://www.last.fm/tag/trending%20topic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: weed smoking music
+  url: http://www.last.fm/tag/weed%20smoking%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the shiznitabomb
+  url: http://www.last.fm/tag/the%20shiznitabomb
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hiphop
+  url: http://www.last.fm/tag/hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative rap
+  url: http://www.last.fm/tag/alternative%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: east coast
+  url: http://www.last.fm/tag/east%20coast
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fucking amazing
+  url: http://www.last.fm/tag/fucking%20amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: incubus
+  url: http://www.last.fm/tag/incubus
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jay-z
+  url: http://www.last.fm/tag/jay-z
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pretty ricky
+  url: http://www.last.fm/tag/pretty%20ricky
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: underground hiphop
+  url: http://www.last.fm/tag/underground%20hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: to listen
+  url: http://www.last.fm/tag/to%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: amazing live
+  url: http://www.last.fm/tag/amazing%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: swedish hiphop
+  url: http://www.last.fm/tag/swedish%20hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: real
+  url: http://www.last.fm/tag/real
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i love
+  url: http://www.last.fm/tag/i%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "412"
+  url: http://www.last.fm/tag/412
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 7 stars
+  url: http://www.last.fm/tag/7%20stars
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bridge city
+  url: http://www.last.fm/tag/bridge%20city
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: new era
+  url: http://www.last.fm/tag/new%20era
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern hip-hop
+  url: http://www.last.fm/tag/modern%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: weed smoking
+  url: http://www.last.fm/tag/weed%20smoking
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: real rap
+  url: http://www.last.fm/tag/real%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: stoner rap
+  url: http://www.last.fm/tag/stoner%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nuevo
+  url: http://www.last.fm/tag/nuevo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: greys anatomy
+  url: http://www.last.fm/tag/greys%20anatomy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: david guetta
+  url: http://www.last.fm/tag/david%20guetta
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: listen more
+  url: http://www.last.fm/tag/listen%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: up and coming
+  url: http://www.last.fm/tag/up%20and%20coming
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bj
+  url: http://www.last.fm/tag/bj
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rap us
+  url: http://www.last.fm/tag/rap%20us
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fuck off
+  url: http://www.last.fm/tag/fuck%20off
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jesus lol
+  url: http://www.last.fm/tag/jesus%20lol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eminem
+  url: http://www.last.fm/tag/eminem

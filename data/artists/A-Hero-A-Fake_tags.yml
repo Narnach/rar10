@@ -1,0 +1,213 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "55"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "54"
+  name: progressive metalcore
+  url: http://www.last.fm/tag/progressive%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: melodic metalcore
+  url: http://www.last.fm/tag/melodic%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: emocore
+  url: http://www.last.fm/tag/emocore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: computer generated metalcore
+  url: http://www.last.fm/tag/computer%20generated%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dolphins
+  url: http://www.last.fm/tag/dolphins
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fail
+  url: http://www.last.fm/tag/fail
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: internetband
+  url: http://www.last.fm/tag/internetband
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: over produced
+  url: http://www.last.fm/tag/over%20produced
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gay lyrics
+  url: http://www.last.fm/tag/gay%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: epic fail
+  url: http://www.last.fm/tag/epic%20fail
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: matek
+  url: http://www.last.fm/tag/matek
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: shitfuckslutfagband
+  url: http://www.last.fm/tag/shitfuckslutfagband
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: victory for the fail
+  url: http://www.last.fm/tag/victory%20for%20the%20fail
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fakes plays
+  url: http://www.last.fm/tag/fakes%20plays
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: daddy flies planes
+  url: http://www.last.fm/tag/daddy%20flies%20planes
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: superwoman fly me around plz
+  url: http://www.last.fm/tag/superwoman%20fly%20me%20around%20plz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive metacore
+  url: http://www.last.fm/tag/progressive%20metacore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nyal
+  url: http://www.last.fm/tag/nyal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: anal rape is better than this band
+  url: http://www.last.fm/tag/anal%20rape%20is%20better%20than%20this%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: wtf with tags7
+  url: http://www.last.fm/tag/wtf%20with%20tags7
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: unocore
+  url: http://www.last.fm/tag/unocore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal-brondong-core
+  url: http://www.last.fm/tag/metal-brondong-core
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic metal
+  url: http://www.last.fm/tag/melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo rock
+  url: http://www.last.fm/tag/emo%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: break up
+  url: http://www.last.fm/tag/break%20up
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fag
+  url: http://www.last.fm/tag/fag
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: math
+  url: http://www.last.fm/tag/math
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo punk
+  url: http://www.last.fm/tag/emo%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lame
+  url: http://www.last.fm/tag/lame
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: joke band
+  url: http://www.last.fm/tag/joke%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bad
+  url: http://www.last.fm/tag/bad
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hot shit
+  url: http://www.last.fm/tag/hot%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: joke
+  url: http://www.last.fm/tag/joke
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: myspace
+  url: http://www.last.fm/tag/myspace
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: this band sucks
+  url: http://www.last.fm/tag/this%20band%20sucks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rich parents
+  url: http://www.last.fm/tag/rich%20parents
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: horrible live
+  url: http://www.last.fm/tag/horrible%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shit
+  url: http://www.last.fm/tag/shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: btbam wannabe
+  url: http://www.last.fm/tag/btbam%20wannabe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: proof that jamie king will work with anybody if victory is picking up the tab
+  url: http://www.last.fm/tag/proof%20that%20jamie%20king%20will%20work%20with%20anybody%20if%20victory%20is%20picking%20up%20the%20tab
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mathcore
+  url: http://www.last.fm/tag/mathcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live

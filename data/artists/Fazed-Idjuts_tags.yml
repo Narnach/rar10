@@ -1,0 +1,33 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: chill out
+  url: http://www.last.fm/tag/chill%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: deep house
+  url: http://www.last.fm/tag/deep%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: naked music
+  url: http://www.last.fm/tag/naked%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: carte blanche
+  url: http://www.last.fm/tag/carte%20blanche

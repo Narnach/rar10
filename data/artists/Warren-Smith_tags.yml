@@ -1,0 +1,165 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rockabilly
+  url: http://www.last.fm/tag/rockabilly
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: rock and roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: 50s
+  url: http://www.last.fm/tag/50s
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: sun records
+  url: http://www.last.fm/tag/sun%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: warren smith
+  url: http://www.last.fm/tag/warren%20smith
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: sunbilly
+  url: http://www.last.fm/tag/sunbilly
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cowhat 50s
+  url: http://www.last.fm/tag/cowhat%2050s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: base hit
+  url: http://www.last.fm/tag/base%20hit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fab 50z
+  url: http://www.last.fm/tag/fab%2050z
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alida
+  url: http://www.last.fm/tag/alida
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: inne liszaj radio
+  url: http://www.last.fm/tag/inne%20liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: slightly streamable
+  url: http://www.last.fm/tag/slightly%20streamable
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: moje standards
+  url: http://www.last.fm/tag/moje%20standards
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the vitamin b12
+  url: http://www.last.fm/tag/the%20vitamin%20b12
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: us50
+  url: http://www.last.fm/tag/us50
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: great vibes
+  url: http://www.last.fm/tag/great%20vibes
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock 'n' roll
+  url: http://www.last.fm/tag/rock%20%27n%27%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: southern rock
+  url: http://www.last.fm/tag/southern%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rnr
+  url: http://www.last.fm/tag/rnr
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: random moosicks
+  url: http://www.last.fm/tag/random%20moosicks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: out of japan
+  url: http://www.last.fm/tag/out%20of%20japan
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 2x
+  url: http://www.last.fm/tag/2x
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rocknroll
+  url: http://www.last.fm/tag/rocknroll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: golden oldies
+  url: http://www.last.fm/tag/golden%20oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vb
+  url: http://www.last.fm/tag/vb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shake the shack fucker
+  url: http://www.last.fm/tag/shake%20the%20shack%20fucker
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musician
+  url: http://www.last.fm/tag/musician
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: zorax
+  url: http://www.last.fm/tag/zorax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pick
+  url: http://www.last.fm/tag/pick

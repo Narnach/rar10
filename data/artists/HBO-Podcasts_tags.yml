@@ -1,0 +1,37 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: podcast
+  url: http://www.last.fm/tag/podcast
+- !ruby/object:Scrobbler::Tag 
+  count: "63"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: video
+  url: http://www.last.fm/tag/video
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: bill maher
+  url: http://www.last.fm/tag/bill%20maher
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: audio
+  url: http://www.last.fm/tag/audio
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: current events
+  url: http://www.last.fm/tag/current%20events
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: political commentary
+  url: http://www.last.fm/tag/political%20commentary
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: real time
+  url: http://www.last.fm/tag/real%20time
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ysabols podcasts
+  url: http://www.last.fm/tag/ysabols%20podcasts

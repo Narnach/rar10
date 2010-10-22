@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: swedish
+  url: http://www.last.fm/tag/swedish
+- !ruby/object:Scrobbler::Tag 
+  count: "93"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "65"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "56"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: spanish
+  url: http://www.last.fm/tag/spanish
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: barcelona
+  url: http://www.last.fm/tag/barcelona
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: relax stuff
+  url: http://www.last.fm/tag/relax%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: stockholm
+  url: http://www.last.fm/tag/stockholm
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: sweden
+  url: http://www.last.fm/tag/sweden
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: scandinavian
+  url: http://www.last.fm/tag/scandinavian
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: sisters
+  url: http://www.last.fm/tag/sisters
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hultsfred 08
+  url: http://www.last.fm/tag/hultsfred%2008
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: scandinavian girls
+  url: http://www.last.fm/tag/scandinavian%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: duos
+  url: http://www.last.fm/tag/duos
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 2000s
+  url: http://www.last.fm/tag/2000s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: siblings
+  url: http://www.last.fm/tag/siblings
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: folk pop
+  url: http://www.last.fm/tag/folk%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: in fak we trust
+  url: http://www.last.fm/tag/in%20fak%20we%20trust
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: szwecja
+  url: http://www.last.fm/tag/szwecja
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: duo
+  url: http://www.last.fm/tag/duo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: harmonies
+  url: http://www.last.fm/tag/harmonies
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: kgrl
+  url: http://www.last.fm/tag/kgrl
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: sett live
+  url: http://www.last.fm/tag/sett%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: roskilde 2009
+  url: http://www.last.fm/tag/roskilde%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: fleet foxes cover on youtube
+  url: http://www.last.fm/tag/fleet%20foxes%20cover%20on%20youtube
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: escandinavos
+  url: http://www.last.fm/tag/escandinavos
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tutustu
+  url: http://www.last.fm/tag/tutustu
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kobiety
+  url: http://www.last.fm/tag/kobiety
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fritz
+  url: http://www.last.fm/tag/fritz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: green man 2010
+  url: http://www.last.fm/tag/green%20man%202010
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female guitarists
+  url: http://www.last.fm/tag/female%20guitarists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: first aid kit
+  url: http://www.last.fm/tag/first%20aid%20kit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dream folk
+  url: http://www.last.fm/tag/dream%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: unisono kobiety szwedzkie
+  url: http://www.last.fm/tag/unisono%20kobiety%20szwedzkie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: slowpop
+  url: http://www.last.fm/tag/slowpop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: make me wanna sing
+  url: http://www.last.fm/tag/make%20me%20wanna%20sing
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "2008"
+  url: http://www.last.fm/tag/2008
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: females vocalists
+  url: http://www.last.fm/tag/females%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: want to hear more
+  url: http://www.last.fm/tag/want%20to%20hear%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dusk
+  url: http://www.last.fm/tag/dusk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: females singing like whoa
+  url: http://www.last.fm/tag/females%20singing%20like%20whoa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: new haven
+  url: http://www.last.fm/tag/new%20haven
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: been there
+  url: http://www.last.fm/tag/been%20there
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acoustic folk
+  url: http://www.last.fm/tag/acoustic%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: new tracks to investigate
+  url: http://www.last.fm/tag/new%20tracks%20to%20investigate
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gitara
+  url: http://www.last.fm/tag/gitara
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seen alive
+  url: http://www.last.fm/tag/seen%20alive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: scandifolk
+  url: http://www.last.fm/tag/scandifolk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: arvika 09
+  url: http://www.last.fm/tag/arvika%2009
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: f o l k
+  url: http://www.last.fm/tag/f%20o%20l%20k
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: storsjoyran 2008
+  url: http://www.last.fm/tag/storsjoyran%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: konzerte hamburg
+  url: http://www.last.fm/tag/konzerte%20hamburg
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: still waters run deep
+  url: http://www.last.fm/tag/still%20waters%20run%20deep
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: szwedzkie
+  url: http://www.last.fm/tag/szwedzkie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: truth can hurt
+  url: http://www.last.fm/tag/truth%20can%20hurt
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: young fame
+  url: http://www.last.fm/tag/young%20fame
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i will one day get around to listening to
+  url: http://www.last.fm/tag/i%20will%20one%20day%20get%20around%20to%20listening%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: live 2009
+  url: http://www.last.fm/tag/live%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: zuzie mags
+  url: http://www.last.fm/tag/zuzie%20mags
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female sonwritter
+  url: http://www.last.fm/tag/female%20sonwritter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: unisono
+  url: http://www.last.fm/tag/unisono
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: oon kayny kattomassa
+  url: http://www.last.fm/tag/oon%20kayny%20kattomassa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: arvika 2009
+  url: http://www.last.fm/tag/arvika%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rf09 interesting
+  url: http://www.last.fm/tag/rf09%20interesting
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: schlau machen
+  url: http://www.last.fm/tag/schlau%20machen
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cool women
+  url: http://www.last.fm/tag/cool%20women
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: field day 2009 eyoe
+  url: http://www.last.fm/tag/field%20day%202009%20eyoe
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 3style
+  url: http://www.last.fm/tag/3style
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: raspberry dreams
+  url: http://www.last.fm/tag/raspberry%20dreams
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: witnessed
+  url: http://www.last.fm/tag/witnessed
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: because franz ferdinand aint no indie rock
+  url: http://www.last.fm/tag/because%20franz%20ferdinand%20aint%20no%20indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rabid records
+  url: http://www.last.fm/tag/rabid%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: truth
+  url: http://www.last.fm/tag/truth
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favoritos
+  url: http://www.last.fm/tag/favoritos
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: local bands
+  url: http://www.last.fm/tag/local%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chicks
+  url: http://www.last.fm/tag/chicks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indietronic
+  url: http://www.last.fm/tag/indietronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "from: sweden"
+  url: http://www.last.fm/tag/from%3A%20sweden
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: inspiring
+  url: http://www.last.fm/tag/inspiring
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: winter
+  url: http://www.last.fm/tag/winter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl rock
+  url: http://www.last.fm/tag/girl%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: duet
+  url: http://www.last.fm/tag/duet
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fav
+  url: http://www.last.fm/tag/fav
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soothing
+  url: http://www.last.fm/tag/soothing

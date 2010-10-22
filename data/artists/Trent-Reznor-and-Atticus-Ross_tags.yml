@@ -1,0 +1,133 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "93"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: trent reznor
+  url: http://www.last.fm/tag/trent%20reznor
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: nine inch nails
+  url: http://www.last.fm/tag/nine%20inch%20nails
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: dark ambient
+  url: http://www.last.fm/tag/dark%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: atticus ross
+  url: http://www.last.fm/tag/atticus%20ross
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: drone
+  url: http://www.last.fm/tag/drone
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: nin
+  url: http://www.last.fm/tag/nin
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: how to destroy angels
+  url: http://www.last.fm/tag/how%20to%20destroy%20angels
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: the social network
+  url: http://www.last.fm/tag/the%20social%20network
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: sountrack
+  url: http://www.last.fm/tag/sountrack
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 2010s
+  url: http://www.last.fm/tag/2010s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: trentreznoratticusross
+  url: http://www.last.fm/tag/trentreznoratticusross
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: film score
+  url: http://www.last.fm/tag/film%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electronic music
+  url: http://www.last.fm/tag/electronic%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: movie score composers
+  url: http://www.last.fm/tag/movie%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: chiptune
+  url: http://www.last.fm/tag/chiptune
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: movie score
+  url: http://www.last.fm/tag/movie%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: get
+  url: http://www.last.fm/tag/get

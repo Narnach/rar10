@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: j-rock
+  url: http://www.last.fm/tag/j-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: jrock
+  url: http://www.last.fm/tag/jrock
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: j-pop
+  url: http://www.last.fm/tag/j-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: anime
+  url: http://www.last.fm/tag/anime
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: japanese music
+  url: http://www.last.fm/tag/japanese%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: jpop
+  url: http://www.last.fm/tag/jpop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: asian kung-fu generation
+  url: http://www.last.fm/tag/asian%20kung-fu%20generation
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: japanese rock
+  url: http://www.last.fm/tag/japanese%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: japan
+  url: http://www.last.fm/tag/japan
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: naruto
+  url: http://www.last.fm/tag/naruto
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: asian
+  url: http://www.last.fm/tag/asian
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: j-indie
+  url: http://www.last.fm/tag/j-indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: asian kung fu generation
+  url: http://www.last.fm/tag/asian%20kung%20fu%20generation
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: j-music
+  url: http://www.last.fm/tag/j-music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: j-punk
+  url: http://www.last.fm/tag/j-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: akfg
+  url: http://www.last.fm/tag/akfg
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ajikan
+  url: http://www.last.fm/tag/ajikan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: visual kei
+  url: http://www.last.fm/tag/visual%20kei
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fullmetal alchemist
+  url: http://www.last.fm/tag/fullmetal%20alchemist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bleach
+  url: http://www.last.fm/tag/bleach
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power pop
+  url: http://www.last.fm/tag/power%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-punk
+  url: http://www.last.fm/tag/pop-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anime soundtrack
+  url: http://www.last.fm/tag/anime%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: band
+  url: http://www.last.fm/tag/band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-rock
+  url: http://www.last.fm/tag/post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anime music
+  url: http://www.last.fm/tag/anime%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j-stuff
+  url: http://www.last.fm/tag/j-stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j-emo
+  url: http://www.last.fm/tag/j-emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japani
+  url: http://www.last.fm/tag/japani
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cronowish power
+  url: http://www.last.fm/tag/cronowish%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitarpop
+  url: http://www.last.fm/tag/guitarpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j-awesome
+  url: http://www.last.fm/tag/j-awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitarrock
+  url: http://www.last.fm/tag/guitarrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: major
+  url: http://www.last.fm/tag/major
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: akg
+  url: http://www.last.fm/tag/akg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anime ost
+  url: http://www.last.fm/tag/anime%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "from: japan"
+  url: http://www.last.fm/tag/from%3A%20japan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emotional rock
+  url: http://www.last.fm/tag/emotional%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: full metal alchemist
+  url: http://www.last.fm/tag/full%20metal%20alchemist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: asian rock
+  url: http://www.last.fm/tag/asian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orange range
+  url: http://www.last.fm/tag/orange%20range
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: asian kung-fu generation - japan
+  url: http://www.last.fm/tag/asian%20kung-fu%20generation%20-%20japan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jmusic
+  url: http://www.last.fm/tag/jmusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kung-fu
+  url: http://www.last.fm/tag/kung-fu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorite artists
+  url: http://www.last.fm/tag/my%20favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorites
+  url: http://www.last.fm/tag/my%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite bands
+  url: http://www.last.fm/tag/favorite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jp
+  url: http://www.last.fm/tag/jp
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tia
+  url: http://www.last.fm/tag/tia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unforgettable songs from when i was a teenager
+  url: http://www.last.fm/tag/unforgettable%20songs%20from%20when%20i%20was%20a%20teenager

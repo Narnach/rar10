@@ -1,0 +1,381 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: quebec
+  url: http://www.last.fm/tag/quebec
+- !ruby/object:Scrobbler::Tag 
+  count: "82"
+  name: francophone
+  url: http://www.last.fm/tag/francophone
+- !ruby/object:Scrobbler::Tag 
+  count: "78"
+  name: quebecois
+  url: http://www.last.fm/tag/quebecois
+- !ruby/object:Scrobbler::Tag 
+  count: "65"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "56"
+  name: french
+  url: http://www.last.fm/tag/french
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: canadian
+  url: http://www.last.fm/tag/canadian
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: chanson francaise
+  url: http://www.last.fm/tag/chanson%20francaise
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: canada
+  url: http://www.last.fm/tag/canada
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: montreal
+  url: http://www.last.fm/tag/montreal
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: french pop
+  url: http://www.last.fm/tag/french%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: francais
+  url: http://www.last.fm/tag/francais
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: "qu\xC3\xA9bec"
+  url: http://www.last.fm/tag/qu%C3%A9bec
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: "chanson fran\xC3\xA7aise"
+  url: http://www.last.fm/tag/chanson%20fran%C3%A7aise
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: chanteuse
+  url: http://www.last.fm/tag/chanteuse
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: doux
+  url: http://www.last.fm/tag/doux
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: femme
+  url: http://www.last.fm/tag/femme
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: franco
+  url: http://www.last.fm/tag/franco
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: sensible
+  url: http://www.last.fm/tag/sensible
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: synthpop
+  url: http://www.last.fm/tag/synthpop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: canada francophone
+  url: http://www.last.fm/tag/canada%20francophone
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: poznac to musze bardziej
+  url: http://www.last.fm/tag/poznac%20to%20musze%20bardziej
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: io-local
+  url: http://www.last.fm/tag/io-local
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: francophonic
+  url: http://www.last.fm/tag/francophonic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nouvelle scene francaise
+  url: http://www.last.fm/tag/nouvelle%20scene%20francaise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: che nous
+  url: http://www.last.fm/tag/che%20nous
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: tnphp feb 7th 2008 - french kiss
+  url: http://www.last.fm/tag/tnphp%20feb%207th%202008%20-%20french%20kiss
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: montreal canada
+  url: http://www.last.fm/tag/montreal%20canada
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: laptop folk
+  url: http://www.last.fm/tag/laptop%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: wanna see live
+  url: http://www.last.fm/tag/wanna%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: fancophone
+  url: http://www.last.fm/tag/fancophone
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ariane moffatt
+  url: http://www.last.fm/tag/ariane%20moffatt
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: to remember
+  url: http://www.last.fm/tag/to%20remember
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: my favourite canadians
+  url: http://www.last.fm/tag/my%20favourite%20canadians
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: seulement francais
+  url: http://www.last.fm/tag/seulement%20francais
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: soul fuel
+  url: http://www.last.fm/tag/soul%20fuel
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pop france
+  url: http://www.last.fm/tag/pop%20france
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: contemporary pop
+  url: http://www.last.fm/tag/contemporary%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: "nouvelle sc\xC3\xA8ne fran\xC3\xA7aise"
+  url: http://www.last.fm/tag/nouvelle%20sc%C3%A8ne%20fran%C3%A7aise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: au feminin
+  url: http://www.last.fm/tag/au%20feminin
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: great female voices
+  url: http://www.last.fm/tag/great%20female%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: audiogram
+  url: http://www.last.fm/tag/audiogram
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: awesome women
+  url: http://www.last.fm/tag/awesome%20women
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: canadien
+  url: http://www.last.fm/tag/canadien
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nice dreams
+  url: http://www.last.fm/tag/nice%20dreams
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cello
+  url: http://www.last.fm/tag/cello
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: france
+  url: http://www.last.fm/tag/france
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: acoustic rock
+  url: http://www.last.fm/tag/acoustic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: radiohead
+  url: http://www.last.fm/tag/radiohead
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: calm
+  url: http://www.last.fm/tag/calm
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: europop
+  url: http://www.last.fm/tag/europop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: intimate
+  url: http://www.last.fm/tag/intimate
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ye-ye
+  url: http://www.last.fm/tag/ye-ye
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: bjork
+  url: http://www.last.fm/tag/bjork
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: frenchies
+  url: http://www.last.fm/tag/frenchies
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: underrated
+  url: http://www.last.fm/tag/underrated
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: emotional
+  url: http://www.last.fm/tag/emotional
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: poetry
+  url: http://www.last.fm/tag/poetry
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ballad
+  url: http://www.last.fm/tag/ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: sleepy
+  url: http://www.last.fm/tag/sleepy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop folk
+  url: http://www.last.fm/tag/pop%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fillessourires
+  url: http://www.last.fm/tag/fillessourires
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellow pop
+  url: http://www.last.fm/tag/mellow%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dinner 2009
+  url: http://www.last.fm/tag/dinner%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artistes quebecois - quebec artists
+  url: http://www.last.fm/tag/artistes%20quebecois%20-%20quebec%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "fran\xC3\xA7ais"
+  url: http://www.last.fm/tag/fran%C3%A7ais
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alt-pop
+  url: http://www.last.fm/tag/alt-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: canadien trad
+  url: http://www.last.fm/tag/canadien%20trad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: north america
+  url: http://www.last.fm/tag/north%20america
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mon quebec en musique
+  url: http://www.last.fm/tag/mon%20quebec%20en%20musique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fox
+  url: http://www.last.fm/tag/fox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: taurus
+  url: http://www.last.fm/tag/taurus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellow rock
+  url: http://www.last.fm/tag/mellow%20rock

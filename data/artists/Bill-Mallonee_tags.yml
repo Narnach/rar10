@@ -1,0 +1,129 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "58"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: christian
+  url: http://www.last.fm/tag/christian
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: songwriter
+  url: http://www.last.fm/tag/songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: brainy
+  url: http://www.last.fm/tag/brainy
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: old favorites
+  url: http://www.last.fm/tag/old%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: bands i love
+  url: http://www.last.fm/tag/bands%20i%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: christian indie
+  url: http://www.last.fm/tag/christian%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: alt-folk
+  url: http://www.last.fm/tag/alt-folk
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: high school
+  url: http://www.last.fm/tag/high%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: inspiring
+  url: http://www.last.fm/tag/inspiring
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: back to greenbelt
+  url: http://www.last.fm/tag/back%20to%20greenbelt
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: bill mallonee
+  url: http://www.last.fm/tag/bill%20mallonee
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: quiet
+  url: http://www.last.fm/tag/quiet
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: lo-fi
+  url: http://www.last.fm/tag/lo-fi
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: non-embarrassing jesus music
+  url: http://www.last.fm/tag/non-embarrassing%20jesus%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: insurgent country
+  url: http://www.last.fm/tag/insurgent%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: import
+  url: http://www.last.fm/tag/import
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live music archive
+  url: http://www.last.fm/tag/live%20music%20archive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favs
+  url: http://www.last.fm/tag/favs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oog
+  url: http://www.last.fm/tag/oog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: random
+  url: http://www.last.fm/tag/random
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners

@@ -1,0 +1,193 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: christian
+  url: http://www.last.fm/tag/christian
+- !ruby/object:Scrobbler::Tag 
+  count: "80"
+  name: parody
+  url: http://www.last.fm/tag/parody
+- !ruby/object:Scrobbler::Tag 
+  count: "68"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "64"
+  name: christian rock
+  url: http://www.last.fm/tag/christian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: christian parody
+  url: http://www.last.fm/tag/christian%20parody
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: pardody
+  url: http://www.last.fm/tag/pardody
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: independent
+  url: http://www.last.fm/tag/independent
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: jesus hates this shit
+  url: http://www.last.fm/tag/jesus%20hates%20this%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: emusic
+  url: http://www.last.fm/tag/emusic
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pennsylvania
+  url: http://www.last.fm/tag/pennsylvania
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: white metal
+  url: http://www.last.fm/tag/white%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: would like to see live
+  url: http://www.last.fm/tag/would%20like%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: honest
+  url: http://www.last.fm/tag/honest
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: some1krazys tags
+  url: http://www.last.fm/tag/some1krazys%20tags
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pewcast favorite
+  url: http://www.last.fm/tag/pewcast%20favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: genre spanning
+  url: http://www.last.fm/tag/genre%20spanning
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: jesus hates christians
+  url: http://www.last.fm/tag/jesus%20hates%20christians
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: a perfect example of why god should kill some people directly
+  url: http://www.last.fm/tag/a%20perfect%20example%20of%20why%20god%20should%20kill%20some%20people%20directly
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: bibles says that suicide is a sin but what else can you do if there bands like these
+  url: http://www.last.fm/tag/bibles%20says%20that%20suicide%20is%20a%20sin%20but%20what%20else%20can%20you%20do%20if%20there%20bands%20like%20these
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: parodies that are not funny
+  url: http://www.last.fm/tag/parodies%20that%20are%20not%20funny
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: christian metal
+  url: http://www.last.fm/tag/christian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: inspirational
+  url: http://www.last.fm/tag/inspirational
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: upbeat
+  url: http://www.last.fm/tag/upbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i would rather beat myself to death with a hammer than listen to this
+  url: http://www.last.fm/tag/i%20would%20rather%20beat%20myself%20to%20death%20with%20a%20hammer%20than%20listen%20to%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: necrocannibalistic metal
+  url: http://www.last.fm/tag/necrocannibalistic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: apologetics
+  url: http://www.last.fm/tag/apologetics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic fail
+  url: http://www.last.fm/tag/epic%20fail
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funny christian
+  url: http://www.last.fm/tag/funny%20christian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: novelty
+  url: http://www.last.fm/tag/novelty
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fags
+  url: http://www.last.fm/tag/fags
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "666"
+  url: http://www.last.fm/tag/666
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: evil
+  url: http://www.last.fm/tag/evil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: satan
+  url: http://www.last.fm/tag/satan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: worship
+  url: http://www.last.fm/tag/worship
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: devil
+  url: http://www.last.fm/tag/devil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gay
+  url: http://www.last.fm/tag/gay

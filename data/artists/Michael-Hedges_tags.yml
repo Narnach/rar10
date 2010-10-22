@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "83"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "65"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "46"
+  name: guitar virtuoso
+  url: http://www.last.fm/tag/guitar%20virtuoso
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: acoustic guitar
+  url: http://www.last.fm/tag/acoustic%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: fingerstyle
+  url: http://www.last.fm/tag/fingerstyle
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: michael hedges
+  url: http://www.last.fm/tag/michael%20hedges
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dead
+  url: http://www.last.fm/tag/dead
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: guitar instrumental
+  url: http://www.last.fm/tag/guitar%20instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: deep tissue gladiator rock
+  url: http://www.last.fm/tag/deep%20tissue%20gladiator%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: wakka wakka
+  url: http://www.last.fm/tag/wakka%20wakka
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: influential
+  url: http://www.last.fm/tag/influential
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: oklahoma
+  url: http://www.last.fm/tag/oklahoma
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: solo instrumental
+  url: http://www.last.fm/tag/solo%20instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: contemporary instrumental
+  url: http://www.last.fm/tag/contemporary%20instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: heavy mental
+  url: http://www.last.fm/tag/heavy%20mental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fingerstyle guitarist
+  url: http://www.last.fm/tag/fingerstyle%20guitarist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folky
+  url: http://www.last.fm/tag/folky
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folklore
+  url: http://www.last.fm/tag/folklore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: new acoustic
+  url: http://www.last.fm/tag/new%20acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tangential
+  url: http://www.last.fm/tag/tangential
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tapping
+  url: http://www.last.fm/tag/tapping
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acoustic rock
+  url: http://www.last.fm/tag/acoustic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: background noise
+  url: http://www.last.fm/tag/background%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: local- south bay area
+  url: http://www.last.fm/tag/local-%20south%20bay%20area
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: michael manring
+  url: http://www.last.fm/tag/michael%20manring
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitare
+  url: http://www.last.fm/tag/guitare
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sensitive males
+  url: http://www.last.fm/tag/sensitive%20males
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: us-american
+  url: http://www.last.fm/tag/us-american
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: windham hill
+  url: http://www.last.fm/tag/windham%20hill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: like a child
+  url: http://www.last.fm/tag/like%20a%20child
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome guitar
+  url: http://www.last.fm/tag/awesome%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fingerpicking
+  url: http://www.last.fm/tag/fingerpicking
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: solo acoustic
+  url: http://www.last.fm/tag/solo%20acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic thrash
+  url: http://www.last.fm/tag/acoustic%20thrash
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my own discovery mode
+  url: http://www.last.fm/tag/my%20own%20discovery%20mode
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic guitarist
+  url: http://www.last.fm/tag/acoustic%20guitarist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 2x
+  url: http://www.last.fm/tag/2x
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myth guitar
+  url: http://www.last.fm/tag/myth%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash acoustic
+  url: http://www.last.fm/tag/thrash%20acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tippspiel
+  url: http://www.last.fm/tag/tippspiel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gutar virtuoso
+  url: http://www.last.fm/tag/gutar%20virtuoso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kilburn hall
+  url: http://www.last.fm/tag/kilburn%20hall
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live more than twice
+  url: http://www.last.fm/tag/seen%20live%20more%20than%20twice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: no russian
+  url: http://www.last.fm/tag/no%20russian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: turns my speakers alive
+  url: http://www.last.fm/tag/turns%20my%20speakers%20alive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: accoustic music
+  url: http://www.last.fm/tag/accoustic%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: represents
+  url: http://www.last.fm/tag/represents
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ss soft
+  url: http://www.last.fm/tag/ss%20soft
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumentality
+  url: http://www.last.fm/tag/instrumentality
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: changed the conception of the instrument forever
+  url: http://www.last.fm/tag/changed%20the%20conception%20of%20the%20instrument%20forever
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music that takes me back to myself
+  url: http://www.last.fm/tag/music%20that%20takes%20me%20back%20to%20myself
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mondiovision
+  url: http://www.last.fm/tag/mondiovision
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: interesting - need more listening
+  url: http://www.last.fm/tag/interesting%20-%20need%20more%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rodrigo y gabriela s similar artists
+  url: http://www.last.fm/tag/rodrigo%20y%20gabriela%20s%20similar%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: inne liszaj radio
+  url: http://www.last.fm/tag/inne%20liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambiofusion
+  url: http://www.last.fm/tag/ambiofusion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: savage myth guitar
+  url: http://www.last.fm/tag/savage%20myth%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oir mas
+  url: http://www.last.fm/tag/oir%20mas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the best of best
+  url: http://www.last.fm/tag/the%20best%20of%20best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: windham hill records
+  url: http://www.last.fm/tag/windham%20hill%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: do poznania
+  url: http://www.last.fm/tag/do%20poznania
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rex ferric faves
+  url: http://www.last.fm/tag/rex%20ferric%20faves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top - artists
+  url: http://www.last.fm/tag/top%20-%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: paved wiener
+  url: http://www.last.fm/tag/paved%20wiener
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: virtuoso
+  url: http://www.last.fm/tag/virtuoso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: salsa
+  url: http://www.last.fm/tag/salsa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: innovator
+  url: http://www.last.fm/tag/innovator
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legendary
+  url: http://www.last.fm/tag/legendary
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: innovative
+  url: http://www.last.fm/tag/innovative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental guitar
+  url: http://www.last.fm/tag/instrumental%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roots
+  url: http://www.last.fm/tag/roots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smooth jazz
+  url: http://www.last.fm/tag/smooth%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft
+  url: http://www.last.fm/tag/soft
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fretless bass
+  url: http://www.last.fm/tag/fretless%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shred
+  url: http://www.last.fm/tag/shred
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental

@@ -1,0 +1,173 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: australian
+  url: http://www.last.fm/tag/australian
+- !ruby/object:Scrobbler::Tag 
+  count: "88"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "58"
+  name: aussie hip-hop
+  url: http://www.last.fm/tag/aussie%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "52"
+  name: orchestral hip hop
+  url: http://www.last.fm/tag/orchestral%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: melbourne
+  url: http://www.last.fm/tag/melbourne
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: skip-hop
+  url: http://www.last.fm/tag/skip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: nu-jazz
+  url: http://www.last.fm/tag/nu-jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: jazz hop
+  url: http://www.last.fm/tag/jazz%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: aussie
+  url: http://www.last.fm/tag/aussie
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: true live
+  url: http://www.last.fm/tag/true%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hip-hop violinist
+  url: http://www.last.fm/tag/hip-hop%20violinist
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: oz
+  url: http://www.last.fm/tag/oz
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: 00's
+  url: http://www.last.fm/tag/00%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: australian hip-hop
+  url: http://www.last.fm/tag/australian%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: jazzy hip-hop
+  url: http://www.last.fm/tag/jazzy%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: seen live x2
+  url: http://www.last.fm/tag/seen%20live%20x2
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: seen live x3
+  url: http://www.last.fm/tag/seen%20live%20x3
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: 2006 australian music prize top 25
+  url: http://www.last.fm/tag/2006%20australian%20music%20prize%20top%2025
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: seen live x4
+  url: http://www.last.fm/tag/seen%20live%20x4
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: muzyczny respirator
+  url: http://www.last.fm/tag/muzyczny%20respirator
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: australijski pejzaz
+  url: http://www.last.fm/tag/australijski%20pejzaz
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: orchestral hip-hop
+  url: http://www.last.fm/tag/orchestral%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: beats
+  url: http://www.last.fm/tag/beats
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: jazzy
+  url: http://www.last.fm/tag/jazzy
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: raw
+  url: http://www.last.fm/tag/raw
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: violin
+  url: http://www.last.fm/tag/violin
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: strings
+  url: http://www.last.fm/tag/strings
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: instrumental hip-hop
+  url: http://www.last.fm/tag/instrumental%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: aussie hip hop
+  url: http://www.last.fm/tag/aussie%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: rhymes
+  url: http://www.last.fm/tag/rhymes
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: jazz rap
+  url: http://www.last.fm/tag/jazz%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: jazz-hop
+  url: http://www.last.fm/tag/jazz-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new like
+  url: http://www.last.fm/tag/new%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hirenjau artist explore
+  url: http://www.last.fm/tag/hirenjau%20artist%20explore

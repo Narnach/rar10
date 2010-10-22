@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: christian metalcore
+  url: http://www.last.fm/tag/christian%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "28"
+  name: christian
+  url: http://www.last.fm/tag/christian
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: emocore
+  url: http://www.last.fm/tag/emocore
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: deathcore
+  url: http://www.last.fm/tag/deathcore
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: melodic metalcore
+  url: http://www.last.fm/tag/melodic%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: grindcore
+  url: http://www.last.fm/tag/grindcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the devil wears prada
+  url: http://www.last.fm/tag/the%20devil%20wears%20prada
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: christian hardcore
+  url: http://www.last.fm/tag/christian%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: christian metal
+  url: http://www.last.fm/tag/christian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic hardcore
+  url: http://www.last.fm/tag/melodic%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christcore
+  url: http://www.last.fm/tag/christcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "&lt;3"
+  url: http://www.last.fm/tag/%3C3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not screamo
+  url: http://www.last.fm/tag/not%20screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mathcore
+  url: http://www.last.fm/tag/mathcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ohio
+  url: http://www.last.fm/tag/ohio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive metalcore
+  url: http://www.last.fm/tag/progressive%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic death metal
+  url: http://www.last.fm/tag/melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emotional hardcore
+  url: http://www.last.fm/tag/emotional%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fashioncore
+  url: http://www.last.fm/tag/fashioncore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this is not emo you fucktards
+  url: http://www.last.fm/tag/this%20is%20not%20emo%20you%20fucktards
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pleasure to ears
+  url: http://www.last.fm/tag/pleasure%20to%20ears
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric metalcore
+  url: http://www.last.fm/tag/atmospheric%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hxc
+  url: http://www.last.fm/tag/hxc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rise records
+  url: http://www.last.fm/tag/rise%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not grindcore
+  url: http://www.last.fm/tag/not%20grindcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian rock
+  url: http://www.last.fm/tag/christian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not emo
+  url: http://www.last.fm/tag/not%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking amazing
+  url: http://www.last.fm/tag/fucking%20amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: screamocore
+  url: http://www.last.fm/tag/screamocore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: technical metalcore
+  url: http://www.last.fm/tag/technical%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: breakdown
+  url: http://www.last.fm/tag/breakdown
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crabcore
+  url: http://www.last.fm/tag/crabcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ear-bleedingly good
+  url: http://www.last.fm/tag/ear-bleedingly%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive hardcore
+  url: http://www.last.fm/tag/progressive%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: moshcore
+  url: http://www.last.fm/tag/moshcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: high pitched clean vocals
+  url: http://www.last.fm/tag/high%20pitched%20clean%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dayton
+  url: http://www.last.fm/tag/dayton
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: screamcore
+  url: http://www.last.fm/tag/screamcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian deathcore
+  url: http://www.last.fm/tag/christian%20deathcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: screaming
+  url: http://www.last.fm/tag/screaming
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian grindcore
+  url: http://www.last.fm/tag/christian%20grindcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metalcore
+  url: http://www.last.fm/tag/death%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see
+  url: http://www.last.fm/tag/want%20to%20see
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: these bitches scream
+  url: http://www.last.fm/tag/these%20bitches%20scream
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brutal death metal
+  url: http://www.last.fm/tag/brutal%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian-core
+  url: http://www.last.fm/tag/christian-core
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death
+  url: http://www.last.fm/tag/death
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands i want to see live
+  url: http://www.last.fm/tag/bands%20i%20want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trancecore
+  url: http://www.last.fm/tag/trancecore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands i have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic deathcore
+  url: http://www.last.fm/tag/melodic%20deathcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cristian metalcore
+  url: http://www.last.fm/tag/cristian%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking-amazing
+  url: http://www.last.fm/tag/fucking-amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best song ever
+  url: http://www.last.fm/tag/best%20song%20ever
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crazy
+  url: http://www.last.fm/tag/crazy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: terrible
+  url: http://www.last.fm/tag/terrible
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite bands
+  url: http://www.last.fm/tag/favorite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brutal
+  url: http://www.last.fm/tag/brutal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metalcore with clean vocals
+  url: http://www.last.fm/tag/metalcore%20with%20clean%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christain metalcore
+  url: http://www.last.fm/tag/christain%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better then sex
+  url: http://www.last.fm/tag/better%20then%20sex
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nintendocore
+  url: http://www.last.fm/tag/nintendocore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synth
+  url: http://www.last.fm/tag/synth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scenecore
+  url: http://www.last.fm/tag/scenecore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorite bands
+  url: http://www.last.fm/tag/my%20favorite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: br00t4l
+  url: http://www.last.fm/tag/br00t4l
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian post-hardcore
+  url: http://www.last.fm/tag/christian%20post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: core
+  url: http://www.last.fm/tag/core
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: warped 08
+  url: http://www.last.fm/tag/warped%2008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live x2
+  url: http://www.last.fm/tag/seen%20live%20x2

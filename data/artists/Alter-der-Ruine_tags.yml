@@ -1,0 +1,217 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "89"
+  name: rhythmic noise
+  url: http://www.last.fm/tag/rhythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "69"
+  name: powernoise
+  url: http://www.last.fm/tag/powernoise
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: power noise
+  url: http://www.last.fm/tag/power%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: harsh electro
+  url: http://www.last.fm/tag/harsh%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: ebm
+  url: http://www.last.fm/tag/ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: dark electro
+  url: http://www.last.fm/tag/dark%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electro-industrial
+  url: http://www.last.fm/tag/electro-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alter der ruine
+  url: http://www.last.fm/tag/alter%20der%20ruine
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: tbm
+  url: http://www.last.fm/tag/tbm
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: purplevelvets favourite artists
+  url: http://www.last.fm/tag/purplevelvets%20favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hard-tek
+  url: http://www.last.fm/tag/hard-tek
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: noisecore
+  url: http://www.last.fm/tag/noisecore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rythmic noise
+  url: http://www.last.fm/tag/rythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lesser known yet streamable artists lt10k
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists%20lt10k
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rhythmic industrial
+  url: http://www.last.fm/tag/rhythmic%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: experimenal
+  url: http://www.last.fm/tag/experimenal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rhytmic noise
+  url: http://www.last.fm/tag/rhytmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dark electronic
+  url: http://www.last.fm/tag/dark%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: darklight
+  url: http://www.last.fm/tag/darklight
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deathkey
+  url: http://www.last.fm/tag/deathkey
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: slamming
+  url: http://www.last.fm/tag/slamming
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: delicious noise
+  url: http://www.last.fm/tag/delicious%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: az band
+  url: http://www.last.fm/tag/az%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: aggronoise
+  url: http://www.last.fm/tag/aggronoise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: freak mind
+  url: http://www.last.fm/tag/freak%20mind
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: summer darkness 10
+  url: http://www.last.fm/tag/summer%20darkness%2010
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hardcore  hard house
+  url: http://www.last.fm/tag/hardcore%20%20hard%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: industrial metal
+  url: http://www.last.fm/tag/industrial%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post-industrial
+  url: http://www.last.fm/tag/post-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: big beat
+  url: http://www.last.fm/tag/big%20beat
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electro house
+  url: http://www.last.fm/tag/electro%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: united states
+  url: http://www.last.fm/tag/united%20states
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "2"
+  url: http://www.last.fm/tag/2
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: krach
+  url: http://www.last.fm/tag/krach
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post industrial
+  url: http://www.last.fm/tag/post%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard house
+  url: http://www.last.fm/tag/hard%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tech house
+  url: http://www.last.fm/tag/tech%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: arizona
+  url: http://www.last.fm/tag/arizona
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhythmic electro
+  url: http://www.last.fm/tag/rhythmic%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: idm
+  url: http://www.last.fm/tag/idm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial noise
+  url: http://www.last.fm/tag/industrial%20noise

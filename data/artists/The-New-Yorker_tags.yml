@@ -1,0 +1,105 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: podcast
+  url: http://www.last.fm/tag/podcast
+- !ruby/object:Scrobbler::Tag 
+  count: "31"
+  name: steals listens from people who are listening to the literature podcast
+  url: http://www.last.fm/tag/steals%20listens%20from%20people%20who%20are%20listening%20to%20the%20literature%20podcast
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: new yorker magazine
+  url: http://www.last.fm/tag/new%20yorker%20magazine
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: spoken word
+  url: http://www.last.fm/tag/spoken%20word
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: not a band
+  url: http://www.last.fm/tag/not%20a%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: news and current affairs
+  url: http://www.last.fm/tag/news%20and%20current%20affairs
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: screami
+  url: http://www.last.fm/tag/screami
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: my god is not better than yours
+  url: http://www.last.fm/tag/my%20god%20is%20not%20better%20than%20yours
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: magazine
+  url: http://www.last.fm/tag/magazine
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: commentary
+  url: http://www.last.fm/tag/commentary
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: fiction
+  url: http://www.last.fm/tag/fiction
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: chaos
+  url: http://www.last.fm/tag/chaos
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: real screamo
+  url: http://www.last.fm/tag/real%20screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hardcore punk
+  url: http://www.last.fm/tag/hardcore%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: interview
+  url: http://www.last.fm/tag/interview
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: radio
+  url: http://www.last.fm/tag/radio
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nyc
+  url: http://www.last.fm/tag/nyc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: podcasts
+  url: http://www.last.fm/tag/podcasts
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english news
+  url: http://www.last.fm/tag/english%20news

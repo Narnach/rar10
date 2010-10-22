@@ -1,0 +1,325 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "96"
+  name: cello
+  url: http://www.last.fm/tag/cello
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: bach
+  url: http://www.last.fm/tag/bach
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: cellist
+  url: http://www.last.fm/tag/cellist
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: pablo casals
+  url: http://www.last.fm/tag/pablo%20casals
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: violoncello
+  url: http://www.last.fm/tag/violoncello
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: baroque
+  url: http://www.last.fm/tag/baroque
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: spanish
+  url: http://www.last.fm/tag/spanish
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: classical cello
+  url: http://www.last.fm/tag/classical%20cello
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: chamber music
+  url: http://www.last.fm/tag/chamber%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: casals
+  url: http://www.last.fm/tag/casals
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: violoncelle
+  url: http://www.last.fm/tag/violoncelle
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: classical instrumental
+  url: http://www.last.fm/tag/classical%20instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: conductor
+  url: http://www.last.fm/tag/conductor
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: beethoven
+  url: http://www.last.fm/tag/beethoven
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cello solo
+  url: http://www.last.fm/tag/cello%20solo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: brahms
+  url: http://www.last.fm/tag/brahms
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lernen
+  url: http://www.last.fm/tag/lernen
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: strings
+  url: http://www.last.fm/tag/strings
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pcasals
+  url: http://www.last.fm/tag/pcasals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cellos
+  url: http://www.last.fm/tag/cellos
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classical::performer
+  url: http://www.last.fm/tag/classical%3A%3Aperformer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classical trio
+  url: http://www.last.fm/tag/classical%20trio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classical music
+  url: http://www.last.fm/tag/classical%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spanisch
+  url: http://www.last.fm/tag/spanisch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dvorak
+  url: http://www.last.fm/tag/dvorak
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suits
+  url: http://www.last.fm/tag/suits
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 10s
+  url: http://www.last.fm/tag/10s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sophia
+  url: http://www.last.fm/tag/sophia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hear
+  url: http://www.last.fm/tag/hear
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cello suites
+  url: http://www.last.fm/tag/cello%20suites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music-heaven
+  url: http://www.last.fm/tag/music-heaven
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: for-vera
+  url: http://www.last.fm/tag/for-vera
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: marquez
+  url: http://www.last.fm/tag/marquez
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: violoncelo
+  url: http://www.last.fm/tag/violoncelo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tururu
+  url: http://www.last.fm/tag/tururu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cello casals
+  url: http://www.last.fm/tag/cello%20casals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instant favorites
+  url: http://www.last.fm/tag/instant%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: solisti archi
+  url: http://www.last.fm/tag/solisti%20archi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pablo casals cello
+  url: http://www.last.fm/tag/pablo%20casals%20cello
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: p-casals
+  url: http://www.last.fm/tag/p-casals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: notable performers
+  url: http://www.last.fm/tag/notable%20performers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: viola da
+  url: http://www.last.fm/tag/viola%20da
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great
+  url: http://www.last.fm/tag/great
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary classical
+  url: http://www.last.fm/tag/contemporary%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spain
+  url: http://www.last.fm/tag/spain
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favoriten
+  url: http://www.last.fm/tag/favoriten
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brutal death metal
+  url: http://www.last.fm/tag/brutal%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: master
+  url: http://www.last.fm/tag/master
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "1"
+  url: http://www.last.fm/tag/1
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 30s
+  url: http://www.last.fm/tag/30s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 20s
+  url: http://www.last.fm/tag/20s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: concerto
+  url: http://www.last.fm/tag/concerto
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 40s
+  url: http://www.last.fm/tag/40s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: virtuoso
+  url: http://www.last.fm/tag/virtuoso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: catalan
+  url: http://www.last.fm/tag/catalan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorit
+  url: http://www.last.fm/tag/favorit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: klassik
+  url: http://www.last.fm/tag/klassik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 50s
+  url: http://www.last.fm/tag/50s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: choral
+  url: http://www.last.fm/tag/choral
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heartbreaking
+  url: http://www.last.fm/tag/heartbreaking
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pau casals cello catalan
+  url: http://www.last.fm/tag/pau%20casals%20cello%20catalan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sweet
+  url: http://www.last.fm/tag/sweet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: superhero
+  url: http://www.last.fm/tag/superhero
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft
+  url: http://www.last.fm/tag/soft
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: la grande classe ish
+  url: http://www.last.fm/tag/la%20grande%20classe%20ish
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical musicians
+  url: http://www.last.fm/tag/classical%20musicians

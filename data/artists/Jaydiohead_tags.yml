@@ -1,0 +1,353 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: mashup
+  url: http://www.last.fm/tag/mashup
+- !ruby/object:Scrobbler::Tag 
+  count: "65"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "56"
+  name: radiohead
+  url: http://www.last.fm/tag/radiohead
+- !ruby/object:Scrobbler::Tag 
+  count: "48"
+  name: jay-z
+  url: http://www.last.fm/tag/jay-z
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: mash-up
+  url: http://www.last.fm/tag/mash-up
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: experimental rock
+  url: http://www.last.fm/tag/experimental%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: north atlanta high school
+  url: http://www.last.fm/tag/north%20atlanta%20high%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: imawreck2
+  url: http://www.last.fm/tag/imawreck2
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: dj dumbass
+  url: http://www.last.fm/tag/dj%20dumbass
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: minty fresh beats
+  url: http://www.last.fm/tag/minty%20fresh%20beats
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: "1996"
+  url: http://www.last.fm/tag/1996
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: "2000"
+  url: http://www.last.fm/tag/2000
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: dirty south
+  url: http://www.last.fm/tag/dirty%20south
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: jaydiohead
+  url: http://www.last.fm/tag/jaydiohead
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: freshman
+  url: http://www.last.fm/tag/freshman
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: "2009"
+  url: http://www.last.fm/tag/2009
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: atlanta
+  url: http://www.last.fm/tag/atlanta
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: paul stephens clark
+  url: http://www.last.fm/tag/paul%20stephens%20clark
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: north atlanta
+  url: http://www.last.fm/tag/north%20atlanta
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: remix
+  url: http://www.last.fm/tag/remix
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: university of georgia
+  url: http://www.last.fm/tag/university%20of%20georgia
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: ga tech
+  url: http://www.last.fm/tag/ga%20tech
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hip-hop indie
+  url: http://www.last.fm/tag/hip-hop%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hip-rap
+  url: http://www.last.fm/tag/hip-rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: free download
+  url: http://www.last.fm/tag/free%20download
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: cookdandbombd
+  url: http://www.last.fm/tag/cookdandbombd
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: max tannone
+  url: http://www.last.fm/tag/max%20tannone
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fully streamable albums
+  url: http://www.last.fm/tag/fully%20streamable%20albums
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: free albums
+  url: http://www.last.fm/tag/free%20albums
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: free spirited
+  url: http://www.last.fm/tag/free%20spirited
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jada  radiohead
+  url: http://www.last.fm/tag/jada%20%20radiohead
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fully downloadable albums
+  url: http://www.last.fm/tag/fully%20downloadable%20albums
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: odjazd
+  url: http://www.last.fm/tag/odjazd
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: loubac like this
+  url: http://www.last.fm/tag/loubac%20like%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: free streamable albums
+  url: http://www.last.fm/tag/free%20streamable%20albums
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: best of 2008
+  url: http://www.last.fm/tag/best%20of%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: webaudio
+  url: http://www.last.fm/tag/webaudio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lauren would like
+  url: http://www.last.fm/tag/lauren%20would%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: minty fresh beat
+  url: http://www.last.fm/tag/minty%20fresh%20beat
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: oh my goodness gracious
+  url: http://www.last.fm/tag/oh%20my%20goodness%20gracious
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: recent music heroes
+  url: http://www.last.fm/tag/recent%20music%20heroes
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bootlegger
+  url: http://www.last.fm/tag/bootlegger
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: a future in noise
+  url: http://www.last.fm/tag/a%20future%20in%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bastard crossover
+  url: http://www.last.fm/tag/bastard%20crossover
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: radioheaded
+  url: http://www.last.fm/tag/radioheaded
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: crossover
+  url: http://www.last.fm/tag/crossover
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hiphop
+  url: http://www.last.fm/tag/hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: interesting
+  url: http://www.last.fm/tag/interesting
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: underground hip-hop
+  url: http://www.last.fm/tag/underground%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: trippy
+  url: http://www.last.fm/tag/trippy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fantastic
+  url: http://www.last.fm/tag/fantastic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mixtape
+  url: http://www.last.fm/tag/mixtape
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: covers
+  url: http://www.last.fm/tag/covers
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: free
+  url: http://www.last.fm/tag/free
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mash up
+  url: http://www.last.fm/tag/mash%20up
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative hip hop
+  url: http://www.last.fm/tag/alternative%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: netaudio
+  url: http://www.last.fm/tag/netaudio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blend
+  url: http://www.last.fm/tag/blend
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: thom yorke
+  url: http://www.last.fm/tag/thom%20yorke
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: listen to
+  url: http://www.last.fm/tag/listen%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: buy
+  url: http://www.last.fm/tag/buy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: big fun
+  url: http://www.last.fm/tag/big%20fun
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "2008"
+  url: http://www.last.fm/tag/2008
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rap for people who don't like rap
+  url: http://www.last.fm/tag/rap%20for%20people%20who%20don%27t%20like%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fuck u
+  url: http://www.last.fm/tag/fuck%20u
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: free album
+  url: http://www.last.fm/tag/free%20album
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: auf den zweiten blick
+  url: http://www.last.fm/tag/auf%20den%20zweiten%20blick
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not on my computer anymore
+  url: http://www.last.fm/tag/not%20on%20my%20computer%20anymore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eminem
+  url: http://www.last.fm/tag/eminem
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: carson daly
+  url: http://www.last.fm/tag/carson%20daly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out later
+  url: http://www.last.fm/tag/check%20out%20later
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: january
+  url: http://www.last.fm/tag/january
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: last call
+  url: http://www.last.fm/tag/last%20call

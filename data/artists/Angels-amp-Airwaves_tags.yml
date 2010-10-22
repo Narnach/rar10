@@ -1,0 +1,93 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: girl groups
+  url: http://www.last.fm/tag/girl%20groups
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: aussie hard rock
+  url: http://www.last.fm/tag/aussie%20hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: 60s girls
+  url: http://www.last.fm/tag/60s%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: doo-wop
+  url: http://www.last.fm/tag/doo-wop
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: angels
+  url: http://www.last.fm/tag/angels
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: sensual
+  url: http://www.last.fm/tag/sensual
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: spanish
+  url: http://www.last.fm/tag/spanish
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: japanese music
+  url: http://www.last.fm/tag/japanese%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: latin
+  url: http://www.last.fm/tag/latin
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: garage rock
+  url: http://www.last.fm/tag/garage%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: australian
+  url: http://www.last.fm/tag/australian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lumines
+  url: http://www.last.fm/tag/lumines
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: multiple artists
+  url: http://www.last.fm/tag/multiple%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: more than one artist
+  url: http://www.last.fm/tag/more%20than%20one%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artists with same names
+  url: http://www.last.fm/tag/artists%20with%20same%20names
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live

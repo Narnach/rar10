@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "95"
+  name: dark ambient
+  url: http://www.last.fm/tag/dark%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "95"
+  name: rhythmic noise
+  url: http://www.last.fm/tag/rhythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "65"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "48"
+  name: powernoise
+  url: http://www.last.fm/tag/powernoise
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: power noise
+  url: http://www.last.fm/tag/power%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: ant-zen
+  url: http://www.last.fm/tag/ant-zen
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: canadian
+  url: http://www.last.fm/tag/canadian
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: post-industrial
+  url: http://www.last.fm/tag/post-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: idm
+  url: http://www.last.fm/tag/idm
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: power electronics
+  url: http://www.last.fm/tag/power%20electronics
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: breakcore
+  url: http://www.last.fm/tag/breakcore
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dark industrial
+  url: http://www.last.fm/tag/dark%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dark electronic
+  url: http://www.last.fm/tag/dark%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rhytmic noise
+  url: http://www.last.fm/tag/rhytmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: technoid
+  url: http://www.last.fm/tag/technoid
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rhythmic industrial
+  url: http://www.last.fm/tag/rhythmic%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: canada
+  url: http://www.last.fm/tag/canada
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: noize
+  url: http://www.last.fm/tag/noize
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: drone
+  url: http://www.last.fm/tag/drone
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: techno-industrial
+  url: http://www.last.fm/tag/techno-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post industrial
+  url: http://www.last.fm/tag/post%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: power rhythmic noise
+  url: http://www.last.fm/tag/power%20rhythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: power
+  url: http://www.last.fm/tag/power
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rythmic noise
+  url: http://www.last.fm/tag/rythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: maschinenfest
+  url: http://www.last.fm/tag/maschinenfest
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: industrial noise
+  url: http://www.last.fm/tag/industrial%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: quebec
+  url: http://www.last.fm/tag/quebec
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ottawa
+  url: http://www.last.fm/tag/ottawa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rhythmn noise
+  url: http://www.last.fm/tag/rhythmn%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tribal industrial
+  url: http://www.last.fm/tag/tribal%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i strongly recommend
+  url: http://www.last.fm/tag/i%20strongly%20recommend
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: industrial-noise
+  url: http://www.last.fm/tag/industrial-noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ambient industrial
+  url: http://www.last.fm/tag/ambient%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: aggressive
+  url: http://www.last.fm/tag/aggressive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: montreal
+  url: http://www.last.fm/tag/montreal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ad noiseam
+  url: http://www.last.fm/tag/ad%20noiseam
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ant zen
+  url: http://www.last.fm/tag/ant%20zen
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cold
+  url: http://www.last.fm/tag/cold
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spectre
+  url: http://www.last.fm/tag/spectre
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rhythmic
+  url: http://www.last.fm/tag/rhythmic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dark noise
+  url: http://www.last.fm/tag/dark%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: drill and bass
+  url: http://www.last.fm/tag/drill%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro indus
+  url: http://www.last.fm/tag/electro%20indus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top artists headcube
+  url: http://www.last.fm/tag/top%20artists%20headcube
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ein tiefer atemzug
+  url: http://www.last.fm/tag/ein%20tiefer%20atemzug
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noise and stuff
+  url: http://www.last.fm/tag/noise%20and%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rivethead
+  url: http://www.last.fm/tag/rivethead
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rythm-n-noise
+  url: http://www.last.fm/tag/rythm-n-noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark idm
+  url: http://www.last.fm/tag/dark%20idm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhythm noise
+  url: http://www.last.fm/tag/rhythm%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial drum and bass
+  url: http://www.last.fm/tag/industrial%20drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mecha gurus
+  url: http://www.last.fm/tag/mecha%20gurus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mighty noise
+  url: http://www.last.fm/tag/mighty%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: freak mind
+  url: http://www.last.fm/tag/freak%20mind
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: split mind
+  url: http://www.last.fm/tag/split%20mind
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhythmic ambient noise
+  url: http://www.last.fm/tag/rhythmic%20ambient%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: festival kinetik 2009
+  url: http://www.last.fm/tag/festival%20kinetik%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not-noise
+  url: http://www.last.fm/tag/not-noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric idm
+  url: http://www.last.fm/tag/atmospheric%20idm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tympanik audio
+  url: http://www.last.fm/tag/tympanik%20audio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vidmofavouriteartist
+  url: http://www.last.fm/tag/vidmofavouriteartist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music for migraines
+  url: http://www.last.fm/tag/music%20for%20migraines
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: immense breaks
+  url: http://www.last.fm/tag/immense%20breaks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: powernoise - rhythmic noise - japanoise - harsh noise - experimental
+  url: http://www.last.fm/tag/powernoise%20-%20rhythmic%20noise%20-%20japanoise%20-%20harsh%20noise%20-%20experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient   dark ambient   electronic   experimental   industrial   noise   powernoise   rhythmic noise
+  url: http://www.last.fm/tag/ambient%20%20%20dark%20ambient%20%20%20electronic%20%20%20experimental%20%20%20industrial%20%20%20noise%20%20%20powernoise%20%20%20rhythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: delicious noise
+  url: http://www.last.fm/tag/delicious%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental dark ambient
+  url: http://www.last.fm/tag/experimental%20dark%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimentelle musik
+  url: http://www.last.fm/tag/experimentelle%20musik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noisebeat
+  url: http://www.last.fm/tag/noisebeat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: coma4
+  url: http://www.last.fm/tag/coma4
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhythmic power noise
+  url: http://www.last.fm/tag/rhythmic%20power%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: in vein
+  url: http://www.last.fm/tag/in%20vein
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: quite surprising that i like it
+  url: http://www.last.fm/tag/quite%20surprising%20that%20i%20like%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kod-ex
+  url: http://www.last.fm/tag/kod-ex
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rotation
+  url: http://www.last.fm/tag/rotation
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark side
+  url: http://www.last.fm/tag/dark%20side
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: evil
+  url: http://www.last.fm/tag/evil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: core
+  url: http://www.last.fm/tag/core
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: winter
+  url: http://www.last.fm/tag/winter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore techno
+  url: http://www.last.fm/tag/hardcore%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sick
+  url: http://www.last.fm/tag/sick
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro-industrial
+  url: http://www.last.fm/tag/electro-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: isolationism
+  url: http://www.last.fm/tag/isolationism
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: glitch
+  url: http://www.last.fm/tag/glitch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rave
+  url: http://www.last.fm/tag/rave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eerie
+  url: http://www.last.fm/tag/eerie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: autumn
+  url: http://www.last.fm/tag/autumn
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ebm
+  url: http://www.last.fm/tag/ebm
