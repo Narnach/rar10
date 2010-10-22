@@ -4,7 +4,7 @@ class LastfmUsersController < ApplicationController
   end
 
   def index
-    @lastfm_users = LastfmUser.paginate(:all, :page=>params[:page], :per_page=>10)
+    @lastfm_users = LastfmUser.verified.paginate(:all, :page=>params[:page], :per_page=>10, :order=>"username")
   end
 
   def show
