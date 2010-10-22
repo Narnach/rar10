@@ -1,5 +1,7 @@
 = Ruby and Rails Rumble 2010 entry for team Smeevil & Narnach
 
+Check out http://devtunes.net for a live demo!
+
 The assignment is up: http://rubyandrails.eu/rumble
 
 Music is a very important part of most developers' lives, so we will link Last.fm and Github, the two most important social networks for both music lovers and developers.
@@ -24,4 +26,3 @@ Getting started:
   # Import data
   script/runner lib/tools/import_all.rb
 
-We will setup devtunes.net for the live demo.
