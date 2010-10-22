@@ -27,13 +27,16 @@ LANGUAGES.each do |language|
       github_user = GithubUser.find_or_initialize_by_username(repo["username"])
       if github_user.new_record?
         puts github_user.username
+        retries = 0
         begin
           user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
         rescue OpenURI::HTTPError => e
           puts e.inspect
           puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
           sleep 1
-          retry
+          retries += 1
+          retry if retries <= 3
+          next
         end
         unless user_data["type"]=="User"
           next 
