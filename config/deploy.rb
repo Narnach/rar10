@@ -46,6 +46,7 @@ namespace :deploy do
       run "ln -sf #{shared_path}/#{file} #{latest_release}/#{file}"
     end
   end
+  after 'deploy:update_code', 'deploy:symlink_config'
 
   desc 'Chmod 777 the javascripts dir'
   task :chmod_javascripts do
@@ -54,12 +55,14 @@ namespace :deploy do
   after "deploy:done", "deploy:chmod_javascripts"
 
   task :notify_irc do
-    run "cd #{latest_release} && git log --pretty=format:'devtunes : %ar, %an: %s' #{previous_revision}..#{latest_revision} | grep -v Merge| sed -e s/Wes\\ Oldenbeuving/narnach/ > /tmp/to_irc/#{Time.now.to_f}.txt"
+    pretty_log = `git log --pretty=format:'[#{application}] %ar, %an: %s' #{previous_revision}..#{latest_revision} | grep -v Merge| sed -e s/Wes\\ Oldenbeuving/narnach/`
+    put pretty_log, "/tmp/to_irc/#{latest_revision}_#{Time.now.to_i}.txt"
   end
-
-  after 'deploy:update_code', 'deploy:symlink_config'
-
   after 'deploy:done', 'deploy:cleanup', "deploy:notify_irc"
+
+  after 'deploy:migrate' do
+    run "echo '[#{application} #{env}] Database has been migrated!' > /tmp/to_irc/#{Time.now.to_f}.txt"
+  end
 end
 
 
