@@ -51,13 +51,13 @@ ActiveRecord::Schema.define(:version => 20101022135822) do
   add_index "github_users", ["cached_slug"], :name => "index_github_users_on_cached_slug"
   add_index "github_users", ["username"], :name => "index_github_users_on_username"
 
-  create_table "gitub_users_languages", :id => false, :force => true do |t|
+  create_table "github_users_languages", :id => false, :force => true do |t|
     t.integer "github_user_id"
     t.integer "language_id"
   end
 
-  add_index "gitub_users_languages", ["github_user_id"], :name => "index_gitub_users_languages_on_github_user_id"
-  add_index "gitub_users_languages", ["language_id"], :name => "index_gitub_users_languages_on_language_id"
+  add_index "github_users_languages", ["github_user_id"], :name => "index_github_users_languages_on_github_user_id"
+  add_index "github_users_languages", ["language_id"], :name => "index_github_users_languages_on_language_id"
 
   create_table "languages", :force => true do |t|
     t.string   "name"

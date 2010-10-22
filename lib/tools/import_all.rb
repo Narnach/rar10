@@ -14,7 +14,7 @@ TAGS_PER_ARTIST=5
 
 # == Github: users per category
 LANGUAGES.each do |language|
-  puts "=== Language: #{language}"
+  puts "=== Language: #{language.name}"
   1.upto(PAGES_PER_LANGUAGE).each do |page|
     begin
       repo_data = YAML.load(open("http://github.com/api/v2/yaml/repos/search/%25?language=#{language.name}&start_page=#{page}").read)
