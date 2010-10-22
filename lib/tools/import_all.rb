@@ -8,7 +8,7 @@
 require 'open-uri'
 
 PAGES_PER_LANGUAGE=1
-LANGUAGES = %w[Ruby]
+LANGUAGES = %w[Ruby PHP C Perl]
 ARTISTS_PER_USER=10
 TAGS_PER_ARTIST=5
 
@@ -21,7 +21,12 @@ LANGUAGES.each do |language|
       github_user = GithubUser.find_or_initialize_by_username(repo["username"])
       next unless github_user.new_record?
       puts github_user.username
-      user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
+      begin
+        user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
+      rescue => e
+        puts e.inspect
+        puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
+      end
       unless user_data["type"]=="User"
         next 
       end
