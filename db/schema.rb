@@ -9,6 +9,82 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 0) do
+ActiveRecord::Schema.define(:version => 20101022102118) do
+
+  create_table "artists", :force => true do |t|
+    t.string   "name"
+    t.string   "image_url"
+    t.string   "lastfm_url"
+    t.string   "cached_slug"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "artists", ["cached_slug"], :name => "index_artists_on_cached_slug"
+  add_index "artists", ["name"], :name => "index_artists_on_name"
+
+  create_table "artists_lastfm_users", :id => false, :force => true do |t|
+    t.integer "artist_id"
+    t.integer "lastfm_user_id"
+  end
+
+  add_index "artists_lastfm_users", ["artist_id"], :name => "index_artists_lastfm_users_on_artist_id"
+  add_index "artists_lastfm_users", ["lastfm_user_id"], :name => "index_artists_lastfm_users_on_lastfm_user_id"
+
+  create_table "artists_tags", :id => false, :force => true do |t|
+    t.integer "artist_id"
+    t.integer "tag_id"
+  end
+
+  add_index "artists_tags", ["artist_id"], :name => "index_artists_tags_on_artist_id"
+  add_index "artists_tags", ["tag_id"], :name => "index_artists_tags_on_tag_id"
+
+  create_table "github_users", :force => true do |t|
+    t.string   "username"
+    t.integer  "followers"
+    t.integer  "forks"
+    t.string   "cached_slug"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "github_users", ["cached_slug"], :name => "index_github_users_on_cached_slug"
+  add_index "github_users", ["username"], :name => "index_github_users_on_username"
+
+  create_table "lastfm_users", :force => true do |t|
+    t.string   "username"
+    t.string   "country"
+    t.string   "real_name"
+    t.integer  "age"
+    t.boolean  "verified"
+    t.string   "cached_slug"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "lastfm_users", ["cached_slug"], :name => "index_lastfm_users_on_cached_slug"
+  add_index "lastfm_users", ["username"], :name => "index_lastfm_users_on_username"
+
+  create_table "slugs", :force => true do |t|
+    t.string   "name"
+    t.integer  "sluggable_id"
+    t.integer  "sequence",                     :default => 1, :null => false
+    t.string   "sluggable_type", :limit => 40
+    t.string   "scope"
+    t.datetime "created_at"
+  end
+
+  add_index "slugs", ["name", "sluggable_type", "sequence", "scope"], :name => "index_slugs_on_n_s_s_and_s", :unique => true
+  add_index "slugs", ["sluggable_id"], :name => "index_slugs_on_sluggable_id"
+
+  create_table "tags", :force => true do |t|
+    t.string   "name"
+    t.string   "cached_slug"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "tags", ["cached_slug"], :name => "index_tags_on_cached_slug"
+  add_index "tags", ["name"], :name => "index_tags_on_name"
 
 end
