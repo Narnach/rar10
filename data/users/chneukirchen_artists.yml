@@ -1,0 +1,403 @@
+--- 
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/6690423.jpg
+  mbid: 72c536dc-7137-4477-a521-567eeb840fa8
+  name: Bob Dylan
+  playcount: "10228"
+  rank: "1"
+  thumbnail: http://userserve-ak.last.fm/serve/34/6690423.jpg
+  url: http://www.last.fm/music/Bob+Dylan
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2912039.jpg
+  mbid: f8b5b1f6-e476-4944-95bf-23b32ddf11b6
+  name: Dan Bern
+  playcount: "5661"
+  rank: "2"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2912039.jpg
+  url: http://www.last.fm/music/Dan+Bern
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/207221.jpg
+  mbid: c3aeb863-7b26-4388-94e8-5a240f2be21b
+  name: Tom Waits
+  playcount: "2595"
+  rank: "3"
+  thumbnail: http://userserve-ak.last.fm/serve/34/207221.jpg
+  url: http://www.last.fm/music/Tom+Waits
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/230760.jpg
+  mbid: a74a9924-5c0b-4eee-ab4f-59dafe5dad1b
+  name: Funny van Dannen
+  playcount: "2331"
+  rank: "4"
+  thumbnail: http://userserve-ak.last.fm/serve/34/230760.jpg
+  url: http://www.last.fm/music/Funny+van+Dannen
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/26273.jpg
+  mbid: 78f797e3-4913-4026-aad0-1cd858bd735b
+  name: Bright Eyes
+  playcount: "2151"
+  rank: "5"
+  thumbnail: http://userserve-ak.last.fm/serve/34/26273.jpg
+  url: http://www.last.fm/music/Bright+Eyes
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/22485983.jpg
+  mbid: 83b9cbe7-9857-49e2-ab8e-b57b01038103
+  name: Pearl Jam
+  playcount: "1046"
+  rank: "6"
+  thumbnail: http://userserve-ak.last.fm/serve/34/22485983.jpg
+  url: http://www.last.fm/music/Pearl+Jam
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/187777.jpg
+  mbid: f6705e91-319c-4ef2-879b-4f4e670e38ee
+  name: "Till Br\xC3\xB6nner"
+  playcount: "1020"
+  rank: "7"
+  thumbnail: http://userserve-ak.last.fm/serve/34/187777.jpg
+  url: http://www.last.fm/music/Till+Br%C3%B6nner
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/18048021.jpg
+  mbid: 1bc2d696-c0e2-480d-87ed-17b2a82d7983
+  name: Silver Jews
+  playcount: "998"
+  rank: "8"
+  thumbnail: http://userserve-ak.last.fm/serve/34/18048021.jpg
+  url: http://www.last.fm/music/Silver+Jews
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/50319115.png
+  mbid: bbd2ffd7-17f4-4506-8572-c1ea58c3f9a8
+  name: Juliette and The Licks
+  playcount: "961"
+  rank: "9"
+  thumbnail: http://userserve-ak.last.fm/serve/34/50319115.png
+  url: http://www.last.fm/music/Juliette+and+The+Licks
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/55112.jpg
+  mbid: e6e879c0-3d56-4f12-b3c5-3ce459661a8e
+  name: Jeff Buckley
+  playcount: "837"
+  rank: "10"
+  thumbnail: http://userserve-ak.last.fm/serve/34/55112.jpg
+  url: http://www.last.fm/music/Jeff+Buckley
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/314251.jpg
+  mbid: d25fa5a6-92bf-46a3-8bf7-31149b62eb84
+  name: The Distillers
+  playcount: "802"
+  rank: "11"
+  thumbnail: http://userserve-ak.last.fm/serve/34/314251.jpg
+  url: http://www.last.fm/music/The+Distillers
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/26455049.jpg
+  mbid: d4ad0149-d8ae-4105-8009-0221fce9ff35
+  name: Minutemen
+  playcount: "753"
+  rank: "12"
+  thumbnail: http://userserve-ak.last.fm/serve/34/26455049.jpg
+  url: http://www.last.fm/music/Minutemen
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/43539.jpg
+  mbid: 6b49bc68-353e-44a3-ba64-3ba4d30b1beb
+  name: Ton Steine Scherben
+  playcount: "719"
+  rank: "13"
+  thumbnail: http://userserve-ak.last.fm/serve/34/43539.jpg
+  url: http://www.last.fm/music/Ton+Steine+Scherben
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/13137993.jpg
+  mbid: 34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47
+  name: Love
+  playcount: "702"
+  rank: "14"
+  thumbnail: http://userserve-ak.last.fm/serve/34/13137993.jpg
+  url: http://www.last.fm/music/Love
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/3311990.jpg
+  mbid: 03ad1736-b7c9-412a-b442-82536d63a5c4
+  name: Elliott Smith
+  playcount: "669"
+  rank: "15"
+  thumbnail: http://userserve-ak.last.fm/serve/34/3311990.jpg
+  url: http://www.last.fm/music/Elliott+Smith
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/8200465.jpg
+  mbid: 1dce970e-34bc-48b2-ab51-48d87544a4c2
+  name: David Gilmour
+  playcount: "630"
+  rank: "16"
+  thumbnail: http://userserve-ak.last.fm/serve/34/8200465.jpg
+  url: http://www.last.fm/music/David+Gilmour
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/5426337.jpg
+  mbid: 2d67239c-aa40-4ad5-a807-9052b66857a6
+  name: Le Tigre
+  playcount: "621"
+  rank: "17"
+  thumbnail: http://userserve-ak.last.fm/serve/34/5426337.jpg
+  url: http://www.last.fm/music/Le+Tigre
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/44041275.png
+  mbid: 2819834e-4e08-47b0-a2c4-b7672318e8f0
+  name: The Byrds
+  playcount: "605"
+  rank: "18"
+  thumbnail: http://userserve-ak.last.fm/serve/34/44041275.png
+  url: http://www.last.fm/music/The+Byrds
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/50538451.jpg
+  mbid: 75167b8b-44e4-407b-9d35-effe87b223cf
+  name: Neil Young
+  playcount: "602"
+  rank: "19"
+  thumbnail: http://userserve-ak.last.fm/serve/34/50538451.jpg
+  url: http://www.last.fm/music/Neil+Young
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/550830.jpg
+  mbid: 4866af3e-7586-403e-bea4-f27bcbcadbb6
+  name: Dead Moon
+  playcount: "567"
+  rank: "20"
+  thumbnail: http://userserve-ak.last.fm/serve/34/550830.jpg
+  url: http://www.last.fm/music/Dead+Moon
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/343014.jpg
+  mbid: f82f3a3e-29c2-42ca-b589-bc5dc210fa9e
+  name: The Kooks
+  playcount: "518"
+  rank: "21"
+  thumbnail: http://userserve-ak.last.fm/serve/34/343014.jpg
+  url: http://www.last.fm/music/The+Kooks
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/3992023.jpg
+  mbid: b071f9fa-14b0-4217-8e97-eb41da73f598
+  name: The Rolling Stones
+  playcount: "515"
+  rank: "22"
+  thumbnail: http://userserve-ak.last.fm/serve/34/3992023.jpg
+  url: http://www.last.fm/music/The+Rolling+Stones
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/190232.jpg
+  mbid: 87c5dedd-371d-4a53-9f7f-80522fb7f3cb
+  name: !binary |
+    QmrDtnJr
+
+  playcount: "510"
+  rank: "23"
+  thumbnail: http://userserve-ak.last.fm/serve/34/190232.jpg
+  url: http://www.last.fm/music/Bj%C3%B6rk
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/35561.jpg
+  mbid: 7570a0dd-5a67-401b-b19a-261eee01a284
+  name: Manu Chao
+  playcount: "449"
+  rank: "24"
+  thumbnail: http://userserve-ak.last.fm/serve/34/35561.jpg
+  url: http://www.last.fm/music/Manu+Chao
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2226033.jpg
+  mbid: 214d84a5-e9e5-4432-af95-8c84da7ba4c0
+  name: Beth Orton
+  playcount: "423"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2226033.jpg
+  url: http://www.last.fm/music/Beth+Orton
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/33491117.png
+  mbid: 06fb1c8b-566e-4cb2-985b-b467c90781d4
+  name: Jimi Hendrix
+  playcount: "423"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/33491117.png
+  url: http://www.last.fm/music/Jimi+Hendrix
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/11683113.jpg
+  mbid: db3c0a20-bf05-4b30-ac22-f294aea24172
+  name: Aimee Mann
+  playcount: "411"
+  rank: "27"
+  thumbnail: http://userserve-ak.last.fm/serve/34/11683113.jpg
+  url: http://www.last.fm/music/Aimee+Mann
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/275858.jpg
+  mbid: 70248960-cb53-4ea4-943a-edb18f7d336f
+  name: Bruce Springsteen
+  playcount: "396"
+  rank: "28"
+  thumbnail: http://userserve-ak.last.fm/serve/34/275858.jpg
+  url: http://www.last.fm/music/Bruce+Springsteen
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/271440.jpg
+  mbid: f2eef649-a6d5-4114-afba-e50ab26254d2
+  name: Sum 41
+  playcount: "389"
+  rank: "29"
+  thumbnail: http://userserve-ak.last.fm/serve/34/271440.jpg
+  url: http://www.last.fm/music/Sum+41
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/29489891.png
+  mbid: 420c6768-0885-415a-bb59-d6a275121125
+  name: Paul Anka
+  playcount: "353"
+  rank: "30"
+  thumbnail: http://userserve-ak.last.fm/serve/34/29489891.png
+  url: http://www.last.fm/music/Paul+Anka
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/388722.jpg
+  mbid: 150e799b-3244-45d9-a6cb-5a3e8c33d430
+  name: Adam Green
+  playcount: "339"
+  rank: "31"
+  thumbnail: http://userserve-ak.last.fm/serve/34/388722.jpg
+  url: http://www.last.fm/music/Adam+Green
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/77849.jpg
+  mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+  name: Bob Marley
+  playcount: "336"
+  rank: "32"
+  thumbnail: http://userserve-ak.last.fm/serve/34/77849.jpg
+  url: http://www.last.fm/music/Bob+Marley
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/44079721.jpg
+  mbid: 7527f6c2-d762-4b88-b5e2-9244f1e34c46
+  name: Deftones
+  playcount: "327"
+  rank: "33"
+  thumbnail: http://userserve-ak.last.fm/serve/34/44079721.jpg
+  url: http://www.last.fm/music/Deftones
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/50542489.jpg
+  mbid: 951d2103-9c7d-4849-ae60-88bf6aa4790b
+  name: KT Tunstall
+  playcount: "323"
+  rank: "34"
+  thumbnail: http://userserve-ak.last.fm/serve/34/50542489.jpg
+  url: http://www.last.fm/music/KT+Tunstall
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/10070.jpg
+  mbid: 9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa
+  name: The Who
+  playcount: "281"
+  rank: "35"
+  thumbnail: http://userserve-ak.last.fm/serve/34/10070.jpg
+  url: http://www.last.fm/music/The+Who
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/70737.jpg
+  mbid: 7b885d42-3c41-4f43-9944-a5855ec5155e
+  name: Goldfrapp
+  playcount: "270"
+  rank: "36"
+  thumbnail: http://userserve-ak.last.fm/serve/34/70737.jpg
+  url: http://www.last.fm/music/Goldfrapp
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/263005.jpg
+  mbid: d70416d3-c006-4a8b-aebd-91a4f198591f
+  name: The Donnas
+  playcount: "259"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/263005.jpg
+  url: http://www.last.fm/music/The+Donnas
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/3148590.gif
+  mbid: 63ef369f-5a88-4a95-ae58-7803160b08b7
+  name: Ben Harper &amp; The Innocent Criminals
+  playcount: "245"
+  rank: "38"
+  thumbnail: http://userserve-ak.last.fm/serve/34/3148590.gif
+  url: http://www.last.fm/music/Ben%2BHarper%2B%2526%2BThe%2BInnocent%2BCriminals
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2547408.jpg
+  mbid: 1582a5b8-538e-45e7-9ae4-4099439a0e79
+  name: Ben Harper
+  playcount: "244"
+  rank: "39"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2547408.jpg
+  url: http://www.last.fm/music/Ben+Harper
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2862257.jpg
+  mbid: ebee61b4-bbdd-4087-9bcb-d5aa099088ec
+  name: James Blunt
+  playcount: "217"
+  rank: "40"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2862257.jpg
+  url: http://www.last.fm/music/James+Blunt
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/9151219.jpg
+  mbid: 69ee3720-a7cb-4402-b48d-a02c366f2bcf
+  name: The Cure
+  playcount: "204"
+  rank: "41"
+  thumbnail: http://userserve-ak.last.fm/serve/34/9151219.jpg
+  url: http://www.last.fm/music/The+Cure
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/279035.jpg
+  mbid: 678d88b2-87b0-403b-b63d-5da7465aecc3
+  name: Led Zeppelin
+  playcount: "197"
+  rank: "42"
+  thumbnail: http://userserve-ak.last.fm/serve/34/279035.jpg
+  url: http://www.last.fm/music/Led+Zeppelin
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/42082007.jpg
+  mbid: 570d5c36-dbb7-4f21-94f4-8331a998ffae
+  name: Bob Dylan and The Band
+  playcount: "188"
+  rank: "43"
+  thumbnail: http://userserve-ak.last.fm/serve/34/42082007.jpg
+  url: http://www.last.fm/music/Bob+Dylan+and+The+Band
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/150972.jpg
+  mbid: ""
+  name: Spiritualized
+  playcount: "186"
+  rank: "44"
+  thumbnail: http://userserve-ak.last.fm/serve/34/150972.jpg
+  url: http://www.last.fm/music/Spiritualized
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/5143380.jpg
+  mbid: 4bdcee62-4902-4773-8cd1-e252e2e31225
+  name: Alanis Morissette
+  playcount: "177"
+  rank: "45"
+  thumbnail: http://userserve-ak.last.fm/serve/34/5143380.jpg
+  url: http://www.last.fm/music/Alanis+Morissette
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/43436617.jpg
+  mbid: 3ce2fbf9-3a29-4664-852c-d96b5b34293f
+  name: Panda
+  playcount: "174"
+  rank: "46"
+  thumbnail: http://userserve-ak.last.fm/serve/34/43436617.jpg
+  url: http://www.last.fm/music/Panda
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/360758.png
+  mbid: 40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27
+  name: The Smiths
+  playcount: "170"
+  rank: "47"
+  thumbnail: http://userserve-ak.last.fm/serve/34/360758.png
+  url: http://www.last.fm/music/The+Smiths
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/385982.jpg
+  mbid: b23e8a63-8f47-4882-b55b-df2c92ef400e
+  name: Interpol
+  playcount: "166"
+  rank: "48"
+  thumbnail: http://userserve-ak.last.fm/serve/34/385982.jpg
+  url: http://www.last.fm/music/Interpol
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/50605937.jpg
+  mbid: 65314b12-0e08-43fa-ba33-baaa7b874c15
+  name: Leonard Cohen
+  playcount: "147"
+  rank: "49"
+  thumbnail: http://userserve-ak.last.fm/serve/34/50605937.jpg
+  url: http://www.last.fm/music/Leonard+Cohen
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/167556.jpg
+  mbid: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+  name: Johnny Cash
+  playcount: "142"
+  rank: "50"
+  thumbnail: http://userserve-ak.last.fm/serve/34/167556.jpg
+  url: http://www.last.fm/music/Johnny+Cash

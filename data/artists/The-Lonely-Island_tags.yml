@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "53"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "39"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "39"
+  name: parody
+  url: http://www.last.fm/tag/parody
+- !ruby/object:Scrobbler::Tag 
+  count: "24"
+  name: funny
+  url: http://www.last.fm/tag/funny
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: lol
+  url: http://www.last.fm/tag/lol
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: comedy rap
+  url: http://www.last.fm/tag/comedy%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ftw
+  url: http://www.last.fm/tag/ftw
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: andy samberg
+  url: http://www.last.fm/tag/andy%20samberg
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fun
+  url: http://www.last.fm/tag/fun
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nerdcore
+  url: http://www.last.fm/tag/nerdcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: snl
+  url: http://www.last.fm/tag/snl
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hilarious
+  url: http://www.last.fm/tag/hilarious
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lulz
+  url: http://www.last.fm/tag/lulz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: humor
+  url: http://www.last.fm/tag/humor
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rap for people who don't like rap
+  url: http://www.last.fm/tag/rap%20for%20people%20who%20don%27t%20like%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: comedy rock
+  url: http://www.last.fm/tag/comedy%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jorma taccone
+  url: http://www.last.fm/tag/jorma%20taccone
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: akiva schaffer
+  url: http://www.last.fm/tag/akiva%20schaffer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: america
+  url: http://www.last.fm/tag/america
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ":3"
+  url: http://www.last.fm/tag/%3A3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crunk
+  url: http://www.last.fm/tag/crunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: create new tag
+  url: http://www.last.fm/tag/create%20new%20tag
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legend
+  url: http://www.last.fm/tag/legend
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singing actors
+  url: http://www.last.fm/tag/singing%20actors
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jizz in my pants
+  url: http://www.last.fm/tag/jizz%20in%20my%20pants
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the greatest fake mcs on earth
+  url: http://www.last.fm/tag/the%20greatest%20fake%20mcs%20on%20earth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: saturday night live
+  url: http://www.last.fm/tag/saturday%20night%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wondeful
+  url: http://www.last.fm/tag/wondeful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: comedy hip-hop
+  url: http://www.last.fm/tag/comedy%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative hip-hop
+  url: http://www.last.fm/tag/alternative%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this is madness
+  url: http://www.last.fm/tag/this%20is%20madness
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pimp-ass-shit
+  url: http://www.last.fm/tag/pimp-ass-shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: on a boat
+  url: http://www.last.fm/tag/on%20a%20boat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: comedy hip hop
+  url: http://www.last.fm/tag/comedy%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lulzcore
+  url: http://www.last.fm/tag/lulzcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thelonelyisland
+  url: http://www.last.fm/tag/thelonelyisland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wack
+  url: http://www.last.fm/tag/wack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the lonely island
+  url: http://www.last.fm/tag/the%20lonely%20island
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lolwut
+  url: http://www.last.fm/tag/lolwut
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this is stupid and i love it
+  url: http://www.last.fm/tag/this%20is%20stupid%20and%20i%20love%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: somehow gay
+  url: http://www.last.fm/tag/somehow%20gay
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: your mom
+  url: http://www.last.fm/tag/your%20mom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: satanic occult depressive folk black metal
+  url: http://www.last.fm/tag/satanic%20occult%20depressive%20folk%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yo-mamma-eating-cheeze-snorting-hot-sauce-while-we-rock-yo-nutz-core
+  url: http://www.last.fm/tag/yo-mamma-eating-cheeze-snorting-hot-sauce-while-we-rock-yo-nutz-core
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better-than-most rap in all the lands
+  url: http://www.last.fm/tag/better-than-most%20rap%20in%20all%20the%20lands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guilty pleasure
+  url: http://www.last.fm/tag/guilty%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: t-pain
+  url: http://www.last.fm/tag/t-pain
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fun rap
+  url: http://www.last.fm/tag/fun%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 8 stars
+  url: http://www.last.fm/tag/8%20stars
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: da shit
+  url: http://www.last.fm/tag/da%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dayum
+  url: http://www.last.fm/tag/dayum
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovethisartist
+  url: http://www.last.fm/tag/lovethisartist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: like a boss
+  url: http://www.last.fm/tag/like%20a%20boss
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: youtube
+  url: http://www.last.fm/tag/youtube
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sounds like eminem
+  url: http://www.last.fm/tag/sounds%20like%20eminem
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: streamable track wants
+  url: http://www.last.fm/tag/streamable%20track%20wants
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jizz
+  url: http://www.last.fm/tag/jizz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female rapper
+  url: http://www.last.fm/tag/female%20rapper
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: every girl
+  url: http://www.last.fm/tag/every%20girl
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my loved tracks
+  url: http://www.last.fm/tag/my%20loved%20tracks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gnarley
+  url: http://www.last.fm/tag/gnarley
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dirty-south
+  url: http://www.last.fm/tag/dirty-south
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this love comes with a lifetime guarantee
+  url: http://www.last.fm/tag/this%20love%20comes%20with%20a%20lifetime%20guarantee
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my top 10 bands
+  url: http://www.last.fm/tag/my%20top%2010%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: discovered in 2009
+  url: http://www.last.fm/tag/discovered%20in%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black death met00lz
+  url: http://www.last.fm/tag/black%20death%20met00lz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i just ate a grape
+  url: http://www.last.fm/tag/i%20just%20ate%20a%20grape
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a dvd of cool runnings
+  url: http://www.last.fm/tag/a%20dvd%20of%20cool%20runnings
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better than lil wayne
+  url: http://www.last.fm/tag/better%20than%20lil%20wayne
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: im on a boat
+  url: http://www.last.fm/tag/im%20on%20a%20boat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rating 8 stars - very good
+  url: http://www.last.fm/tag/rating%208%20stars%20-%20very%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: leapsandlulz
+  url: http://www.last.fm/tag/leapsandlulz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: incredigreat
+  url: http://www.last.fm/tag/incredigreat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: go away please
+  url: http://www.last.fm/tag/go%20away%20please
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: on a motherfucking boat
+  url: http://www.last.fm/tag/on%20a%20motherfucking%20boat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: we are young money
+  url: http://www.last.fm/tag/we%20are%20young%20money
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fake mcs
+  url: http://www.last.fm/tag/fake%20mcs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the greatest fake mcs in the world
+  url: http://www.last.fm/tag/the%20greatest%20fake%20mcs%20in%20the%20world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: callllllllll iiiiiit
+  url: http://www.last.fm/tag/callllllllll%20iiiiiit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hehee
+  url: http://www.last.fm/tag/hehee
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orange humour
+  url: http://www.last.fm/tag/orange%20humour
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: idiotical shit
+  url: http://www.last.fm/tag/idiotical%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexual innuendo
+  url: http://www.last.fm/tag/sexual%20innuendo

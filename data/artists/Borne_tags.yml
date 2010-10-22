@@ -1,0 +1,65 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: aussie
+  url: http://www.last.fm/tag/aussie
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: "espa\xC3\xB1a"
+  url: http://www.last.fm/tag/espa%C3%B1a
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: spain
+  url: http://www.last.fm/tag/spain
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: acoustic guitar
+  url: http://www.last.fm/tag/acoustic%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: jazz-funk
+  url: http://www.last.fm/tag/jazz-funk
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: rock andaluz
+  url: http://www.last.fm/tag/rock%20andaluz
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: andalucia
+  url: http://www.last.fm/tag/andalucia
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: anticipate
+  url: http://www.last.fm/tag/anticipate
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: bbc sound of 2008
+  url: http://www.last.fm/tag/bbc%20sound%20of%202008

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "84"
+  name: new wave
+  url: http://www.last.fm/tag/new%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "46"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: synthpop
+  url: http://www.last.fm/tag/synthpop
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: thompson twins
+  url: http://www.last.fm/tag/thompson%20twins
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: new romantic
+  url: http://www.last.fm/tag/new%20romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 80s pop
+  url: http://www.last.fm/tag/80s%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 80's
+  url: http://www.last.fm/tag/80%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post-punk
+  url: http://www.last.fm/tag/post-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance-pop
+  url: http://www.last.fm/tag/dance-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic rock
+  url: http://www.last.fm/tag/acoustic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: euphemistically orange eighties
+  url: http://www.last.fm/tag/euphemistically%20orange%20eighties
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synth
+  url: http://www.last.fm/tag/synth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eighties
+  url: http://www.last.fm/tag/eighties
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: england
+  url: http://www.last.fm/tag/england
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mixed group
+  url: http://www.last.fm/tag/mixed%20group
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s80s
+  url: http://www.last.fm/tag/70s80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: niederrhein2-poprock
+  url: http://www.last.fm/tag/niederrhein2-poprock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: detached
+  url: http://www.last.fm/tag/detached
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "80"
+  url: http://www.last.fm/tag/80
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guilty pleasures
+  url: http://www.last.fm/tag/guilty%20pleasures
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: britpop
+  url: http://www.last.fm/tag/britpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wave
+  url: http://www.last.fm/tag/wave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top artists
+  url: http://www.last.fm/tag/top%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1980s
+  url: http://www.last.fm/tag/1980s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sheffield
+  url: http://www.last.fm/tag/sheffield
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favourite ladies
+  url: http://www.last.fm/tag/my%20favourite%20ladies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: radio 5
+  url: http://www.last.fm/tag/radio%205
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tintin
+  url: http://www.last.fm/tag/tintin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hs
+  url: http://www.last.fm/tag/hs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: destroy rock and roll
+  url: http://www.last.fm/tag/destroy%20rock%20and%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poplar creek - chicago
+  url: http://www.last.fm/tag/poplar%20creek%20-%20chicago
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allgemein
+  url: http://www.last.fm/tag/allgemein
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: frankie goes to hollywood
+  url: http://www.last.fm/tag/frankie%20goes%20to%20hollywood
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: haircut 100
+  url: http://www.last.fm/tag/haircut%20100
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: general public
+  url: http://www.last.fm/tag/general%20public
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doctor doctor
+  url: http://www.last.fm/tag/doctor%20doctor
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: superfecta
+  url: http://www.last.fm/tag/superfecta
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: quick step and side kick
+  url: http://www.last.fm/tag/quick%20step%20and%20side%20kick
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not so new wave
+  url: http://www.last.fm/tag/not%20so%20new%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: we love the 80s
+  url: http://www.last.fm/tag/we%20love%20the%2080s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mis artistas favoritos
+  url: http://www.last.fm/tag/mis%20artistas%20favoritos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fave artists ever
+  url: http://www.last.fm/tag/fave%20artists%20ever
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kajagoogoo
+  url: http://www.last.fm/tag/kajagoogoo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yazoo
+  url: http://www.last.fm/tag/yazoo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the human league
+  url: http://www.last.fm/tag/the%20human%20league
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a flock of seagulls
+  url: http://www.last.fm/tag/a%20flock%20of%20seagulls
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british new wave
+  url: http://www.last.fm/tag/british%20new%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mid
+  url: http://www.last.fm/tag/mid
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vinyl
+  url: http://www.last.fm/tag/vinyl
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yello
+  url: http://www.last.fm/tag/yello
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bass guitar
+  url: http://www.last.fm/tag/bass%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: first wave
+  url: http://www.last.fm/tag/first%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: party-celebratory
+  url: http://www.last.fm/tag/party-celebratory
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: laid-back-mellow
+  url: http://www.last.fm/tag/laid-back-mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gin
+  url: http://www.last.fm/tag/gin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: analogue
+  url: http://www.last.fm/tag/analogue
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best shit
+  url: http://www.last.fm/tag/best%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: library
+  url: http://www.last.fm/tag/library
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favs among favs
+  url: http://www.last.fm/tag/my%20favs%20among%20favs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft cell
+  url: http://www.last.fm/tag/soft%20cell
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: squeeze
+  url: http://www.last.fm/tag/squeeze
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: environmental
+  url: http://www.last.fm/tag/environmental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 80s alternative rock
+  url: http://www.last.fm/tag/80s%20alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tgif
+  url: http://www.last.fm/tag/tgif
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new wave synthpop
+  url: http://www.last.fm/tag/new%20wave%20synthpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eighties-pop
+  url: http://www.last.fm/tag/eighties-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rizzoul
+  url: http://www.last.fm/tag/rizzoul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: internacional
+  url: http://www.last.fm/tag/internacional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bable
+  url: http://www.last.fm/tag/bable
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thomas dolby
+  url: http://www.last.fm/tag/thomas%20dolby
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 2x
+  url: http://www.last.fm/tag/2x
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ct
+  url: http://www.last.fm/tag/ct
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1900s
+  url: http://www.last.fm/tag/1900s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: encountered
+  url: http://www.last.fm/tag/encountered
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tecno-pop
+  url: http://www.last.fm/tag/tecno-pop

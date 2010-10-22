@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: brazilian rock
+  url: http://www.last.fm/tag/brazilian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "53"
+  name: brazilian
+  url: http://www.last.fm/tag/brazilian
+- !ruby/object:Scrobbler::Tag 
+  count: "46"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: brasil
+  url: http://www.last.fm/tag/brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: charlie brown jr
+  url: http://www.last.fm/tag/charlie%20brown%20jr
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: rapcore
+  url: http://www.last.fm/tag/rapcore
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: brazil
+  url: http://www.last.fm/tag/brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: rock nacional
+  url: http://www.last.fm/tag/rock%20nacional
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: reggae
+  url: http://www.last.fm/tag/reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: ska
+  url: http://www.last.fm/tag/ska
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: rock brasileiro
+  url: http://www.last.fm/tag/rock%20brasileiro
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: charlie brown
+  url: http://www.last.fm/tag/charlie%20brown
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: sk8
+  url: http://www.last.fm/tag/sk8
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rock - brasil
+  url: http://www.last.fm/tag/rock%20-%20brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nacional
+  url: http://www.last.fm/tag/nacional
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: charlie
+  url: http://www.last.fm/tag/charlie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cbj
+  url: http://www.last.fm/tag/cbj
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cbjr
+  url: http://www.last.fm/tag/cbjr
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: vi ao vivo
+  url: http://www.last.fm/tag/vi%20ao%20vivo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hard core
+  url: http://www.last.fm/tag/hard%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: skate rock
+  url: http://www.last.fm/tag/skate%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sk8 rock
+  url: http://www.last.fm/tag/sk8%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nu metal
+  url: http://www.last.fm/tag/nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: skate punk
+  url: http://www.last.fm/tag/skate%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: surf music
+  url: http://www.last.fm/tag/surf%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: brazilian pop rock sk8 brasil santos
+  url: http://www.last.fm/tag/brazilian%20pop%20rock%20sk8%20brasil%20santos
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mpb
+  url: http://www.last.fm/tag/mpb
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: surf rock
+  url: http://www.last.fm/tag/surf%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock brasil
+  url: http://www.last.fm/tag/rock%20brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ska-punk
+  url: http://www.last.fm/tag/ska-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: brazilian punk
+  url: http://www.last.fm/tag/brazilian%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex power
+  url: http://www.last.fm/tag/valkyriex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chorao
+  url: http://www.last.fm/tag/chorao
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nacionais
+  url: http://www.last.fm/tag/nacionais
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brazilian pop rock
+  url: http://www.last.fm/tag/brazilian%20pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex love
+  url: http://www.last.fm/tag/valkyriex%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: skate-influenced
+  url: http://www.last.fm/tag/skate-influenced
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trash pop
+  url: http://www.last.fm/tag/trash%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lusofonia
+  url: http://www.last.fm/tag/lusofonia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out later
+  url: http://www.last.fm/tag/check%20out%20later
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex powerr
+  url: http://www.last.fm/tag/valkyriex%20powerr
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: skate music
+  url: http://www.last.fm/tag/skate%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: charlie brown jr meu estilo de vida
+  url: http://www.last.fm/tag/charlie%20brown%20jr%20meu%20estilo%20de%20vida
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scryed edward tracks power
+  url: http://www.last.fm/tag/scryed%20edward%20tracks%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crossover
+  url: http://www.last.fm/tag/crossover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex loves
+  url: http://www.last.fm/tag/valkyriex%20loves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cronowish power
+  url: http://www.last.fm/tag/cronowish%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaex s2
+  url: http://www.last.fm/tag/harukaex%20s2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: skate rock massa brazilian brasil
+  url: http://www.last.fm/tag/skate%20rock%20massa%20brazilian%20brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unforgettable songs from when i was a teenager
+  url: http://www.last.fm/tag/unforgettable%20songs%20from%20when%20i%20was%20a%20teenager
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brazilian music
+  url: http://www.last.fm/tag/brazilian%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: br4z1l14n f4nk7 k0r3
+  url: http://www.last.fm/tag/br4z1l14n%20f4nk7%20k0r3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lugar ao sol
+  url: http://www.last.fm/tag/lugar%20ao%20sol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suavesfabio power
+  url: http://www.last.fm/tag/suavesfabio%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore nacional
+  url: http://www.last.fm/tag/hardcore%20nacional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best of brazil
+  url: http://www.last.fm/tag/best%20of%20brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: santos
+  url: http://www.last.fm/tag/santos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: caiottooo
+  url: http://www.last.fm/tag/caiottooo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaexs2
+  url: http://www.last.fm/tag/harukaexs2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brasilian rock
+  url: http://www.last.fm/tag/brasilian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: para alegrar meus dias
+  url: http://www.last.fm/tag/para%20alegrar%20meus%20dias
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rodriguinho
+  url: http://www.last.fm/tag/rodriguinho
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaex
+  url: http://www.last.fm/tag/harukaex
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ass shakin
+  url: http://www.last.fm/tag/ass%20shakin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: geraldini
+  url: http://www.last.fm/tag/geraldini
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: weekly top artists
+  url: http://www.last.fm/tag/weekly%20top%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative   alternative rock   brazilian   pop   pop rock   rock   seen live   ska
+  url: http://www.last.fm/tag/alternative%20%20%20alternative%20rock%20%20%20brazilian%20%20%20pop%20%20%20pop%20rock%20%20%20rock%20%20%20seen%20live%20%20%20ska
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyreiex power
+  url: http://www.last.fm/tag/valkyreiex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: charlie brown junior
+  url: http://www.last.fm/tag/charlie%20brown%20junior
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: paishao
+  url: http://www.last.fm/tag/paishao
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyeriex loves
+  url: http://www.last.fm/tag/valkyeriex%20loves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: m0nk3y l0v3
+  url: http://www.last.fm/tag/m0nk3y%20l0v3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: haruka
+  url: http://www.last.fm/tag/haruka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tavfm
+  url: http://www.last.fm/tag/tavfm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bandas brasileiras
+  url: http://www.last.fm/tag/bandas%20brasileiras
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tiarlibrau
+  url: http://www.last.fm/tag/tiarlibrau
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bacanas nacionais
+  url: http://www.last.fm/tag/bacanas%20nacionais
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: o coro vai come
+  url: http://www.last.fm/tag/o%20coro%20vai%20come
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock brazilian
+  url: http://www.last.fm/tag/rock%20brazilian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaex s2i
+  url: http://www.last.fm/tag/harukaex%20s2i
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music from high school
+  url: http://www.last.fm/tag/music%20from%20high%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop  rock
+  url: http://www.last.fm/tag/pop%20%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: charoladrao
+  url: http://www.last.fm/tag/charoladrao
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tag da dy
+  url: http://www.last.fm/tag/tag%20da%20dy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: muito boa
+  url: http://www.last.fm/tag/muito%20boa

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "99"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: anime
+  url: http://www.last.fm/tag/anime
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: naruto
+  url: http://www.last.fm/tag/naruto
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: j-rock
+  url: http://www.last.fm/tag/j-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: j-pop
+  url: http://www.last.fm/tag/j-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: anime music
+  url: http://www.last.fm/tag/anime%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: anime soundtrack
+  url: http://www.last.fm/tag/anime%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: japan
+  url: http://www.last.fm/tag/japan
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: anime ost
+  url: http://www.last.fm/tag/anime%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: japanese music
+  url: http://www.last.fm/tag/japanese%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: jpop
+  url: http://www.last.fm/tag/jpop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: mushishi
+  url: http://www.last.fm/tag/mushishi
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: toshiro masuda
+  url: http://www.last.fm/tag/toshiro%20masuda
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jrock
+  url: http://www.last.fm/tag/jrock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: naruto ost
+  url: http://www.last.fm/tag/naruto%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: asian
+  url: http://www.last.fm/tag/asian
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: anime themes
+  url: http://www.last.fm/tag/anime%20themes
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dattebayo
+  url: http://www.last.fm/tag/dattebayo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mushishi ost
+  url: http://www.last.fm/tag/mushishi%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: anime soundtracks
+  url: http://www.last.fm/tag/anime%20soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: naruto shippuden anime manga
+  url: http://www.last.fm/tag/naruto%20shippuden%20anime%20manga
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japonskie
+  url: http://www.last.fm/tag/japonskie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: naruto soundtrack
+  url: http://www.last.fm/tag/naruto%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: toshio masuda
+  url: http://www.last.fm/tag/toshio%20masuda
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese composer
+  url: http://www.last.fm/tag/japanese%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: manga
+  url: http://www.last.fm/tag/manga
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: all-time favorite
+  url: http://www.last.fm/tag/all-time%20favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: some nice osts
+  url: http://www.last.fm/tag/some%20nice%20osts
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: naruto sasuke
+  url: http://www.last.fm/tag/naruto%20sasuke
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chiptune
+  url: http://www.last.fm/tag/chiptune
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary classical
+  url: http://www.last.fm/tag/contemporary%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: calm
+  url: http://www.last.fm/tag/calm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ost film-series
+  url: http://www.last.fm/tag/ost%20film-series
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ethereal
+  url: http://www.last.fm/tag/ethereal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie score composers
+  url: http://www.last.fm/tag/movie%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chinese
+  url: http://www.last.fm/tag/chinese
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: menneisyys
+  url: http://www.last.fm/tag/menneisyys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese artists
+  url: http://www.last.fm/tag/japanese%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 8bit
+  url: http://www.last.fm/tag/8bit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: movie soundtrack
+  url: http://www.last.fm/tag/movie%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark ambient
+  url: http://www.last.fm/tag/dark%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japones
+  url: http://www.last.fm/tag/japones
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: schizoid mongoloid
+  url: http://www.last.fm/tag/schizoid%20mongoloid
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese composers
+  url: http://www.last.fm/tag/japanese%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gamer grrrrrl
+  url: http://www.last.fm/tag/gamer%20grrrrrl
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wapanese
+  url: http://www.last.fm/tag/wapanese
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: washon
+  url: http://www.last.fm/tag/washon
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental emotion
+  url: http://www.last.fm/tag/instrumental%20emotion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: winny
+  url: http://www.last.fm/tag/winny
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musician
+  url: http://www.last.fm/tag/musician
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cantonse - chinese - korean - japanese - cantopop -c-pop - rmb
+  url: http://www.last.fm/tag/cantonse%20-%20chinese%20-%20korean%20-%20japanese%20-%20cantopop%20-c-pop%20-%20rmb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genis loci
+  url: http://www.last.fm/tag/genis%20loci
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ardenis
+  url: http://www.last.fm/tag/ardenis
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j
+  url: http://www.last.fm/tag/j
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: asian neoclassical
+  url: http://www.last.fm/tag/asian%20neoclassical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aost
+  url: http://www.last.fm/tag/aost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i will never forget these songs
+  url: http://www.last.fm/tag/i%20will%20never%20forget%20these%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: makes me happy
+  url: http://www.last.fm/tag/makes%20me%20happy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: excel saga
+  url: http://www.last.fm/tag/excel%20saga
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music of nostalgia
+  url: http://www.last.fm/tag/music%20of%20nostalgia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack composer
+  url: http://www.last.fm/tag/soundtrack%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j-music artists
+  url: http://www.last.fm/tag/j-music%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anime themes and ost
+  url: http://www.last.fm/tag/anime%20themes%20and%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rpg
+  url: http://www.last.fm/tag/rpg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the penetratingly edematous humidification of the blasphemous uterus
+  url: http://www.last.fm/tag/the%20penetratingly%20edematous%20humidification%20of%20the%20blasphemous%20uterus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtracked
+  url: http://www.last.fm/tag/soundtracked
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j-folk
+  url: http://www.last.fm/tag/j-folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: winfulness
+  url: http://www.last.fm/tag/winfulness
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: radium varius
+  url: http://www.last.fm/tag/radium%20varius
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese soundtrack
+  url: http://www.last.fm/tag/japanese%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: veeeeeeergaaaa
+  url: http://www.last.fm/tag/veeeeeeergaaaa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: win in music
+  url: http://www.last.fm/tag/win%20in%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anime win
+  url: http://www.last.fm/tag/anime%20win

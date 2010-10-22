@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: folk metal
+  url: http://www.last.fm/tag/folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: pagan metal
+  url: http://www.last.fm/tag/pagan%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: viking metal
+  url: http://www.last.fm/tag/viking%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "24"
+  name: dutch
+  url: http://www.last.fm/tag/dutch
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: netherlands
+  url: http://www.last.fm/tag/netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pagan
+  url: http://www.last.fm/tag/pagan
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nederlandstalig
+  url: http://www.last.fm/tag/nederlandstalig
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dutch metal
+  url: http://www.last.fm/tag/dutch%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pagan folk metal
+  url: http://www.last.fm/tag/pagan%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bier
+  url: http://www.last.fm/tag/bier
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dutch folk metal
+  url: http://www.last.fm/tag/dutch%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan black metal
+  url: http://www.last.fm/tag/pagan%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nederlands
+  url: http://www.last.fm/tag/nederlands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk pagan metal
+  url: http://www.last.fm/tag/folk%20pagan%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan-viking metal
+  url: http://www.last.fm/tag/pagan-viking%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: medieval
+  url: http://www.last.fm/tag/medieval
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk viking metal
+  url: http://www.last.fm/tag/folk%20viking%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live 2009
+  url: http://www.last.fm/tag/seen%20live%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: viking folk metal
+  url: http://www.last.fm/tag/viking%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: will see live
+  url: http://www.last.fm/tag/will%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heathen
+  url: http://www.last.fm/tag/heathen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: celtic folk metal
+  url: http://www.last.fm/tag/celtic%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beer metal
+  url: http://www.last.fm/tag/beer%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nordisk vikingarock
+  url: http://www.last.fm/tag/nordisk%20vikingarock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: viking- folk metal
+  url: http://www.last.fm/tag/viking-%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nederlandsch
+  url: http://www.last.fm/tag/nederlandsch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gelderland
+  url: http://www.last.fm/tag/gelderland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mightier than the dick of thor
+  url: http://www.last.fm/tag/mightier%20than%20the%20dick%20of%20thor
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wodan heerst
+  url: http://www.last.fm/tag/wodan%20heerst
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wodan heerscht
+  url: http://www.last.fm/tag/wodan%20heerscht
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic metal
+  url: http://www.last.fm/tag/epic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nordic
+  url: http://www.last.fm/tag/nordic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the netherlands
+  url: http://www.last.fm/tag/the%20netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grindcore
+  url: http://www.last.fm/tag/grindcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live several times
+  url: http://www.last.fm/tag/seen%20live%20several%20times
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gustoso
+  url: http://www.last.fm/tag/gustoso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk-pagan metal
+  url: http://www.last.fm/tag/folk-pagan%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: western ethno grooves
+  url: http://www.last.fm/tag/western%20ethno%20grooves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: discovered on last fm
+  url: http://www.last.fm/tag/discovered%20on%20last%20fm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folkmetall
+  url: http://www.last.fm/tag/folkmetall
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dutch black metal
+  url: http://www.last.fm/tag/dutch%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock harz
+  url: http://www.last.fm/tag/rock%20harz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal-real-metal
+  url: http://www.last.fm/tag/metal-real-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic death metal
+  url: http://www.last.fm/tag/melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dutch artist
+  url: http://www.last.fm/tag/dutch%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic folk metal
+  url: http://www.last.fm/tag/epic%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: listen later
+  url: http://www.last.fm/tag/listen%20later
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live seen
+  url: http://www.last.fm/tag/live%20seen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: true male vocal
+  url: http://www.last.fm/tag/true%20male%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: provjeriti
+  url: http://www.last.fm/tag/provjeriti
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: they can say na zdrowie
+  url: http://www.last.fm/tag/they%20can%20say%20na%20zdrowie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: they drink from horns wow
+  url: http://www.last.fm/tag/they%20drink%20from%20horns%20wow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: groovy
+  url: http://www.last.fm/tag/groovy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dutch pagan folk metal
+  url: http://www.last.fm/tag/dutch%20pagan%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heidenfest
+  url: http://www.last.fm/tag/heidenfest
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dynamo outdoor :d
+  url: http://www.last.fm/tag/dynamo%20outdoor%20%3Ad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: found:lastfm
+  url: http://www.last.fm/tag/found%3Alastfm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: in levende lijve gezien
+  url: http://www.last.fm/tag/in%20levende%20lijve%20gezien
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutschsprachige
+  url: http://www.last.fm/tag/deutschsprachige
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pays-bas
+  url: http://www.last.fm/tag/pays-bas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal-pagan viking folk
+  url: http://www.last.fm/tag/metal-pagan%20viking%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cernunnos
+  url: http://www.last.fm/tag/cernunnos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cernunnos pagan fest
+  url: http://www.last.fm/tag/cernunnos%20pagan%20fest
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan fest
+  url: http://www.last.fm/tag/pagan%20fest
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music to rape and pillage to
+  url: http://www.last.fm/tag/music%20to%20rape%20and%20pillage%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: widziane live
+  url: http://www.last.fm/tag/widziane%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: viking pagan folk metal
+  url: http://www.last.fm/tag/viking%20pagan%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: olanda
+  url: http://www.last.fm/tag/olanda
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vu en concert
+  url: http://www.last.fm/tag/vu%20en%20concert
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff i have seen live
+  url: http://www.last.fm/tag/stuff%20i%20have%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan folk
+  url: http://www.last.fm/tag/pagan%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: viking
+  url: http://www.last.fm/tag/viking
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ensiferum
+  url: http://www.last.fm/tag/ensiferum
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nederland
+  url: http://www.last.fm/tag/nederland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan metal and viking metal
+  url: http://www.last.fm/tag/pagan%20metal%20and%20viking%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black folk
+  url: http://www.last.fm/tag/black%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vikingarock
+  url: http://www.last.fm/tag/vikingarock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk black metal
+  url: http://www.last.fm/tag/folk%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blizzards nl
+  url: http://www.last.fm/tag/blizzards%20nl
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ethnic
+  url: http://www.last.fm/tag/ethnic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: go
+  url: http://www.last.fm/tag/go
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nature
+  url: http://www.last.fm/tag/nature
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heathen metal
+  url: http://www.last.fm/tag/heathen%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: everything
+  url: http://www.last.fm/tag/everything
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neerlands
+  url: http://www.last.fm/tag/neerlands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: remember
+  url: http://www.last.fm/tag/remember
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip
+  url: http://www.last.fm/tag/hip
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pagan and viking metal
+  url: http://www.last.fm/tag/pagan%20and%20viking%20metal

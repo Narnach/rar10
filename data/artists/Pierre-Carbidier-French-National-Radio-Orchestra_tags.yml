@@ -1,0 +1,21 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: classical piano
+  url: http://www.last.fm/tag/classical%20piano
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: classical music
+  url: http://www.last.fm/tag/classical%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: classical orchestra
+  url: http://www.last.fm/tag/classical%20orchestra
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: classical strings
+  url: http://www.last.fm/tag/classical%20strings

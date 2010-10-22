@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "92"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "89"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "58"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "53"
+  name: babylon 5
+  url: http://www.last.fm/tag/babylon%205
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: movie soundtrack
+  url: http://www.last.fm/tag/movie%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: tangerine dream
+  url: http://www.last.fm/tag/tangerine%20dream
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: christopher franke
+  url: http://www.last.fm/tag/christopher%20franke
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: synth
+  url: http://www.last.fm/tag/synth
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: klaus schulze
+  url: http://www.last.fm/tag/klaus%20schulze
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: german progressive rock
+  url: http://www.last.fm/tag/german%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: krautrock
+  url: http://www.last.fm/tag/krautrock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: vangelis
+  url: http://www.last.fm/tag/vangelis
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: agitation free
+  url: http://www.last.fm/tag/agitation%20free
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: universal timeless
+  url: http://www.last.fm/tag/universal%20timeless
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: light trance
+  url: http://www.last.fm/tag/light%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: movie score composers
+  url: http://www.last.fm/tag/movie%20score%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: relax trance
+  url: http://www.last.fm/tag/relax%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: melody
+  url: http://www.last.fm/tag/melody
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: dreamland
+  url: http://www.last.fm/tag/dreamland
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: code
+  url: http://www.last.fm/tag/code
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: dream trance
+  url: http://www.last.fm/tag/dream%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: relaxing cafe
+  url: http://www.last.fm/tag/relaxing%20cafe
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: movie score
+  url: http://www.last.fm/tag/movie%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: berlin school
+  url: http://www.last.fm/tag/berlin%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: celestine prophecy
+  url: http://www.last.fm/tag/celestine%20prophecy
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: summer
+  url: http://www.last.fm/tag/summer
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: relaxation
+  url: http://www.last.fm/tag/relaxation
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: christopher franke - viciente
+  url: http://www.last.fm/tag/christopher%20franke%20-%20viciente
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: synthesizer
+  url: http://www.last.fm/tag/synthesizer
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: sunday morning
+  url: http://www.last.fm/tag/sunday%20morning
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: television score
+  url: http://www.last.fm/tag/television%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: puremoods
+  url: http://www.last.fm/tag/puremoods
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: kraut
+  url: http://www.last.fm/tag/kraut
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: babylon5
+  url: http://www.last.fm/tag/babylon5
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: b5
+  url: http://www.last.fm/tag/b5
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tenchi
+  url: http://www.last.fm/tag/tenchi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: td
+  url: http://www.last.fm/tag/td
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: el aleph music
+  url: http://www.last.fm/tag/el%20aleph%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dreszczyk
+  url: http://www.last.fm/tag/dreszczyk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gvbwv
+  url: http://www.last.fm/tag/gvbwv
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: music composer of babylon 5
+  url: http://www.last.fm/tag/music%20composer%20of%20babylon%205
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tangerinedreamradio
+  url: http://www.last.fm/tag/tangerinedreamradio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: innercosmos
+  url: http://www.last.fm/tag/innercosmos
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ziggyradio
+  url: http://www.last.fm/tag/ziggyradio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutsch
+  url: http://www.last.fm/tag/deutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: prog
+  url: http://www.last.fm/tag/prog
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sci-fi
+  url: http://www.last.fm/tag/sci-fi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metaphysical
+  url: http://www.last.fm/tag/metaphysical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: geil
+  url: http://www.last.fm/tag/geil
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: d
+  url: http://www.last.fm/tag/d
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: most listened
+  url: http://www.last.fm/tag/most%20listened
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melancholy
+  url: http://www.last.fm/tag/melancholy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ballad
+  url: http://www.last.fm/tag/ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sweet
+  url: http://www.last.fm/tag/sweet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my melting pot - a grande misturada
+  url: http://www.last.fm/tag/my%20melting%20pot%20-%20a%20grande%20misturada
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relaxing del mar
+  url: http://www.last.fm/tag/relaxing%20del%20mar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance del mar
+  url: http://www.last.fm/tag/trance%20del%20mar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: zajebista
+  url: http://www.last.fm/tag/zajebista
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dream del mar
+  url: http://www.last.fm/tag/dream%20del%20mar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dream cafe
+  url: http://www.last.fm/tag/dream%20cafe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cafe  del mar
+  url: http://www.last.fm/tag/cafe%20%20del%20mar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dream el mar
+  url: http://www.last.fm/tag/dream%20el%20mar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance ballads
+  url: http://www.last.fm/tag/trance%20ballads
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: driving
+  url: http://www.last.fm/tag/driving
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: club
+  url: http://www.last.fm/tag/club
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aerobic relax
+  url: http://www.last.fm/tag/aerobic%20relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aerobic-relax
+  url: http://www.last.fm/tag/aerobic-relax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ballads
+  url: http://www.last.fm/tag/ballads
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kocham ten mjusik
+  url: http://www.last.fm/tag/kocham%20ten%20mjusik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: night
+  url: http://www.last.fm/tag/night
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful ibiza
+  url: http://www.last.fm/tag/beautiful%20ibiza
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my-ambient
+  url: http://www.last.fm/tag/my-ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spoko
+  url: http://www.last.fm/tag/spoko
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: entspannung
+  url: http://www.last.fm/tag/entspannung
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: club music
+  url: http://www.last.fm/tag/club%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: night music
+  url: http://www.last.fm/tag/night%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cafe
+  url: http://www.last.fm/tag/cafe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ibiza
+  url: http://www.last.fm/tag/ibiza

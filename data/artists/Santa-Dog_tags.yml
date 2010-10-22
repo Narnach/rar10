@@ -1,0 +1,113 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: indiepop
+  url: http://www.last.fm/tag/indiepop
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: bristol
+  url: http://www.last.fm/tag/bristol
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: twee
+  url: http://www.last.fm/tag/twee
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: choke
+  url: http://www.last.fm/tag/choke
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: standbys
+  url: http://www.last.fm/tag/standbys
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: alt-female
+  url: http://www.last.fm/tag/alt-female
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: zoo
+  url: http://www.last.fm/tag/zoo
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: eeron
+  url: http://www.last.fm/tag/eeron
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: sassy
+  url: http://www.last.fm/tag/sassy
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: find more stuff by
+  url: http://www.last.fm/tag/find%20more%20stuff%20by
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: guitars
+  url: http://www.last.fm/tag/guitars
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: alt-rock
+  url: http://www.last.fm/tag/alt-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: feelgood
+  url: http://www.last.fm/tag/feelgood
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live

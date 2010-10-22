@@ -1,0 +1,353 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: electric blues
+  url: http://www.last.fm/tag/electric%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: classic blues
+  url: http://www.last.fm/tag/classic%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: chicago blues
+  url: http://www.last.fm/tag/chicago%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: luther allison
+  url: http://www.last.fm/tag/luther%20allison
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: blues-rock
+  url: http://www.last.fm/tag/blues-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: moder eletric blues
+  url: http://www.last.fm/tag/moder%20eletric%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern electric chicago blues
+  url: http://www.last.fm/tag/modern%20electric%20chicago%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guitar blues
+  url: http://www.last.fm/tag/guitar%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: memphis soul
+  url: http://www.last.fm/tag/memphis%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rhythm and blues
+  url: http://www.last.fm/tag/rhythm%20and%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: luther
+  url: http://www.last.fm/tag/luther
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool for cats
+  url: http://www.last.fm/tag/cool%20for%20cats
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chicago soul
+  url: http://www.last.fm/tag/chicago%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jam
+  url: http://www.last.fm/tag/jam
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lotta emotion
+  url: http://www.last.fm/tag/lotta%20emotion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rlfav
+  url: http://www.last.fm/tag/rlfav
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: that sound
+  url: http://www.last.fm/tag/that%20sound
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grateful dread
+  url: http://www.last.fm/tag/grateful%20dread
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sonny landreth
+  url: http://www.last.fm/tag/sonny%20landreth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tout bleu
+  url: http://www.last.fm/tag/tout%20bleu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: l allison
+  url: http://www.last.fm/tag/l%20allison
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rockpalast
+  url: http://www.last.fm/tag/rockpalast
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: locos
+  url: http://www.last.fm/tag/locos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ver
+  url: http://www.last.fm/tag/ver
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spraydioter
+  url: http://www.last.fm/tag/spraydioter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musicalmessradio
+  url: http://www.last.fm/tag/musicalmessradio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: talk to me baby
+  url: http://www.last.fm/tag/talk%20to%20me%20baby
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hotel blues
+  url: http://www.last.fm/tag/hotel%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allboutguitarcom
+  url: http://www.last.fm/tag/allboutguitarcom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bluesinbologna
+  url: http://www.last.fm/tag/bluesinbologna
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: just memories
+  url: http://www.last.fm/tag/just%20memories
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allboutguitar
+  url: http://www.last.fm/tag/allboutguitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ikb
+  url: http://www.last.fm/tag/ikb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: inne liszaj radio
+  url: http://www.last.fm/tag/inne%20liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues masters
+  url: http://www.last.fm/tag/blues%20masters
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot bands
+  url: http://www.last.fm/tag/hot%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post modern blues
+  url: http://www.last.fm/tag/post%20modern%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bluescruiser
+  url: http://www.last.fm/tag/bluescruiser
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chicago
+  url: http://www.last.fm/tag/chicago
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot
+  url: http://www.last.fm/tag/hot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good music
+  url: http://www.last.fm/tag/good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roots
+  url: http://www.last.fm/tag/roots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legend
+  url: http://www.last.fm/tag/legend
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new blues
+  url: http://www.last.fm/tag/new%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i have photographed
+  url: http://www.last.fm/tag/i%20have%20photographed
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: leiwand - singer-songwriter
+  url: http://www.last.fm/tag/leiwand%20-%20singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modern electric blues
+  url: http://www.last.fm/tag/modern%20electric%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary blues
+  url: http://www.last.fm/tag/contemporary%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues guitar
+  url: http://www.last.fm/tag/blues%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allison
+  url: http://www.last.fm/tag/allison
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: leiwand - roots
+  url: http://www.last.fm/tag/leiwand%20-%20roots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands i need to check out
+  url: http://www.last.fm/tag/bands%20i%20need%20to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kate
+  url: http://www.last.fm/tag/kate
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: play and listen all about to rock
+  url: http://www.last.fm/tag/play%20and%20listen%20all%20about%20to%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 4jsbluesrock
+  url: http://www.last.fm/tag/4jsbluesrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul blues
+  url: http://www.last.fm/tag/soul%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: all popular
+  url: http://www.last.fm/tag/all%20popular
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modtoday
+  url: http://www.last.fm/tag/modtoday
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock and roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues artist of the week
+  url: http://www.last.fm/tag/blues%20artist%20of%20the%20week
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: listen
+  url: http://www.last.fm/tag/listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blue
+  url: http://www.last.fm/tag/blue
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar virtuoso
+  url: http://www.last.fm/tag/guitar%20virtuoso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 50s
+  url: http://www.last.fm/tag/50s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar god
+  url: http://www.last.fm/tag/guitar%20god
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kings of the blues
+  url: http://www.last.fm/tag/kings%20of%20the%20blues

@@ -1,0 +1,181 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "63"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: coheed and cambria
+  url: http://www.last.fm/tag/coheed%20and%20cambria
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: nerd rap
+  url: http://www.last.fm/tag/nerd%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: alternative urban
+  url: http://www.last.fm/tag/alternative%20urban
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: underground hip hop
+  url: http://www.last.fm/tag/underground%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: underground rap
+  url: http://www.last.fm/tag/underground%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: brutally honest
+  url: http://www.last.fm/tag/brutally%20honest
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: alternative rap
+  url: http://www.last.fm/tag/alternative%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: josh eppard
+  url: http://www.last.fm/tag/josh%20eppard
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: sickass funkbiscuit
+  url: http://www.last.fm/tag/sickass%20funkbiscuit
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: hiphop
+  url: http://www.last.fm/tag/hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: delectable imbellicasies
+  url: http://www.last.fm/tag/delectable%20imbellicasies
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: and horse shoes
+  url: http://www.last.fm/tag/and%20horse%20shoes
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: yas
+  url: http://www.last.fm/tag/yas
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hearts
+  url: http://www.last.fm/tag/hearts
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: coheed
+  url: http://www.last.fm/tag/coheed
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: random fury
+  url: http://www.last.fm/tag/random%20fury
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: garage rap
+  url: http://www.last.fm/tag/garage%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hudson valley
+  url: http://www.last.fm/tag/hudson%20valley
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: multitalent
+  url: http://www.last.fm/tag/multitalent
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rappish
+  url: http://www.last.fm/tag/rappish
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: weerd science
+  url: http://www.last.fm/tag/weerd%20science
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: counterfeit disaster
+  url: http://www.last.fm/tag/counterfeit%20disaster
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: new york
+  url: http://www.last.fm/tag/new%20york
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: my favs
+  url: http://www.last.fm/tag/my%20favs
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative hip-hop
+  url: http://www.last.fm/tag/alternative%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: indie rap
+  url: http://www.last.fm/tag/indie%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: wee
+  url: http://www.last.fm/tag/wee
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: stars
+  url: http://www.last.fm/tag/stars
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: faves
+  url: http://www.last.fm/tag/faves
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: friends
+  url: http://www.last.fm/tag/friends
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: the good stuff
+  url: http://www.last.fm/tag/the%20good%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: local bands
+  url: http://www.last.fm/tag/local%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: truth
+  url: http://www.last.fm/tag/truth
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: local music
+  url: http://www.last.fm/tag/local%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative hip hop
+  url: http://www.last.fm/tag/alternative%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands i seen live
+  url: http://www.last.fm/tag/bands%20i%20seen%20live

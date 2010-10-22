@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/3733348.jpg
+  mbid: f82bcf78-5b69-4622-a5ef-73800768d9ac
+  name: Jay-Z
+  playcount: "27"
+  rank: "1"
+  thumbnail: http://userserve-ak.last.fm/serve/34/3733348.jpg
+  url: http://www.last.fm/music/Jay-Z
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/7856747.jpg
+  mbid: a74b1b7f-71a5-4011-9441-d0b5e4122711
+  name: Radiohead
+  playcount: "26"
+  rank: "2"
+  thumbnail: http://userserve-ak.last.fm/serve/34/7856747.jpg
+  url: http://www.last.fm/music/Radiohead
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/41643741.png
+  mbid: a9ee533f-8871-4f62-a6bb-91eb264abc90
+  name: Fiona Apple
+  playcount: "21"
+  rank: "3"
+  thumbnail: http://userserve-ak.last.fm/serve/34/41643741.png
+  url: http://www.last.fm/music/Fiona+Apple
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/8264901.jpg
+  mbid: 9e53f84d-ef44-4c16-9677-5fd4d78cbd7d
+  name: Wilco
+  playcount: "16"
+  rank: "4"
+  thumbnail: http://userserve-ak.last.fm/serve/34/8264901.jpg
+  url: http://www.last.fm/music/Wilco
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/36455873.jpg
+  mbid: 9f4551c6-1324-4ac5-b3fe-a5c5cfacd54d
+  name: Mos Def
+  playcount: "15"
+  rank: "5"
+  thumbnail: http://userserve-ak.last.fm/serve/34/36455873.jpg
+  url: http://www.last.fm/music/Mos+Def
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/6315551.jpg
+  mbid: ""
+  name: The New Yorker
+  playcount: "15"
+  rank: "5"
+  thumbnail: http://userserve-ak.last.fm/serve/34/6315551.jpg
+  url: http://www.last.fm/music/The+New+Yorker
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/7251833.jpg
+  mbid: 1a120ec5-35b3-4f3e-aa49-7201550d9feb
+  name: RJD2
+  playcount: "14"
+  rank: "7"
+  thumbnail: http://userserve-ak.last.fm/serve/34/7251833.jpg
+  url: http://www.last.fm/music/RJD2
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/10997.jpg
+  mbid: b929c0c9-5de0-4d87-8eb9-365ad1725629
+  name: Little Brother
+  playcount: "14"
+  rank: "7"
+  thumbnail: http://userserve-ak.last.fm/serve/34/10997.jpg
+  url: http://www.last.fm/music/Little+Brother
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/36076169.png
+  mbid: c0a1179b-b14a-4d68-a3c1-1fdab16ed602
+  name: Common
+  playcount: "13"
+  rank: "9"
+  thumbnail: http://userserve-ak.last.fm/serve/34/36076169.png
+  url: http://www.last.fm/music/Common
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/25147773.jpg
+  mbid: 3b02795b-bd2c-4aac-8f6c-e581514cc2d8
+  name: dead prez
+  playcount: "12"
+  rank: "10"
+  thumbnail: http://userserve-ak.last.fm/serve/34/25147773.jpg
+  url: http://www.last.fm/music/dead+prez
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/7658661.jpg
+  mbid: cfbc0924-0035-4d6c-8197-f024653af823
+  name: Nas
+  playcount: "11"
+  rank: "11"
+  thumbnail: http://userserve-ak.last.fm/serve/34/7658661.jpg
+  url: http://www.last.fm/music/Nas
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/12321093.gif
+  mbid: ""
+  name: HBO Podcasts
+  playcount: "11"
+  rank: "11"
+  thumbnail: http://userserve-ak.last.fm/serve/34/12321093.gif
+  url: http://www.last.fm/music/HBO+Podcasts
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/37713243.png
+  mbid: ""
+  name: Blakroc
+  playcount: "11"
+  rank: "11"
+  thumbnail: http://userserve-ak.last.fm/serve/34/37713243.png
+  url: http://www.last.fm/music/Blakroc
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/8526611.jpg
+  mbid: 80b3cf5e-18fe-4c59-98c7-e5bb87210710
+  name: The Roots
+  playcount: "10"
+  rank: "14"
+  thumbnail: http://userserve-ak.last.fm/serve/34/8526611.jpg
+  url: http://www.last.fm/music/The+Roots
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/17666215.jpg
+  mbid: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+  name: Coldplay
+  playcount: "10"
+  rank: "14"
+  thumbnail: http://userserve-ak.last.fm/serve/34/17666215.jpg
+  url: http://www.last.fm/music/Coldplay
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/59092.jpg
+  mbid: bb3cbea2-5ad4-4917-bc84-8a1975d40315
+  name: Talib Kweli
+  playcount: "10"
+  rank: "14"
+  thumbnail: http://userserve-ak.last.fm/serve/34/59092.jpg
+  url: http://www.last.fm/music/Talib+Kweli
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/37792371.png
+  mbid: 164f0d73-1234-4e2c-8743-d77bf2191051
+  name: Kanye West
+  playcount: "10"
+  rank: "14"
+  thumbnail: http://userserve-ak.last.fm/serve/34/37792371.png
+  url: http://www.last.fm/music/Kanye+West
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/257211.png
+  mbid: 309c62ba-7a22-4277-9f67-4a162526d18a
+  name: Beck
+  playcount: "9"
+  rank: "18"
+  thumbnail: http://userserve-ak.last.fm/serve/34/257211.png
+  url: http://www.last.fm/music/Beck
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/35343371.png
+  mbid: 188711ed-c99b-439c-844a-ca831f63a727
+  name: MF DOOM
+  playcount: "9"
+  rank: "18"
+  thumbnail: http://userserve-ak.last.fm/serve/34/35343371.png
+  url: http://www.last.fm/music/MF+DOOM
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/24461055.jpg
+  mbid: 0febdcf7-4e1f-4661-9493-b40427de2c13
+  name: Wu-Tang Clan
+  playcount: "8"
+  rank: "20"
+  thumbnail: http://userserve-ak.last.fm/serve/34/24461055.jpg
+  url: http://www.last.fm/music/Wu-Tang+Clan
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/49457161.png
+  mbid: 056e4f3e-d505-4dad-8ec1-d04f521cbb56
+  name: Daft Punk
+  playcount: "8"
+  rank: "20"
+  thumbnail: http://userserve-ak.last.fm/serve/34/49457161.png
+  url: http://www.last.fm/music/Daft+Punk
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/37752693.jpg
+  mbid: a8ebde98-7e91-46c7-992c-90039ba42017
+  name: De La Soul
+  playcount: "8"
+  rank: "20"
+  thumbnail: http://userserve-ak.last.fm/serve/34/37752693.jpg
+  url: http://www.last.fm/music/De+La+Soul
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/21852483.jpg
+  mbid: d5d97b2b-b83b-4976-814a-056d9076c8c3
+  name: Notorious B.I.G.
+  playcount: "8"
+  rank: "20"
+  thumbnail: http://userserve-ak.last.fm/serve/34/21852483.jpg
+  url: http://www.last.fm/music/Notorious+B.I.G.
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2706531.jpg
+  mbid: cf15719f-51f9-4db8-a15d-5eed9664ce69
+  name: Lupe Fiasco
+  playcount: "8"
+  rank: "20"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2706531.jpg
+  url: http://www.last.fm/music/Lupe+Fiasco
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/35186881.jpg
+  mbid: 3b39abeb-0064-4eed-9ddd-ee47a45c54cb
+  name: Ghostface Killah
+  playcount: "7"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/35186881.jpg
+  url: http://www.last.fm/music/Ghostface+Killah
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/177680.jpg
+  mbid: 02708fd6-0fe6-4738-a27d-0561ace8b4c6
+  name: Black Star
+  playcount: "7"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/177680.jpg
+  url: http://www.last.fm/music/Black+Star
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/6690423.jpg
+  mbid: 72c536dc-7137-4477-a521-567eeb840fa8
+  name: Bob Dylan
+  playcount: "7"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/6690423.jpg
+  url: http://www.last.fm/music/Bob+Dylan
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/32353103.png
+  mbid: 5f6ab597-f57a-40da-be9e-adad48708203
+  name: Dr. Dre
+  playcount: "7"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/32353103.png
+  url: http://www.last.fm/music/Dr.+Dre
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/416065.jpg
+  mbid: 9c9f1380-2516-4fc9-a3e6-f9f61941d090
+  name: Muse
+  playcount: "7"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/416065.jpg
+  url: http://www.last.fm/music/Muse
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/48080639.png
+  mbid: f1c0d18c-6101-4aa2-ae47-8df5b7280fde
+  name: Big L
+  playcount: "7"
+  rank: "25"
+  thumbnail: http://userserve-ak.last.fm/serve/34/48080639.png
+  url: http://www.last.fm/music/Big+L
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/308992.jpg
+  mbid: 73fdb566-a9b1-494c-9f32-51768ec9fd27
+  name: OutKast
+  playcount: "6"
+  rank: "31"
+  thumbnail: http://userserve-ak.last.fm/serve/34/308992.jpg
+  url: http://www.last.fm/music/OutKast
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2830628.gif
+  mbid: 11c6b106-1c1f-429d-8407-b1ee155d7f72
+  name: Jurassic 5
+  playcount: "6"
+  rank: "31"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2830628.gif
+  url: http://www.last.fm/music/Jurassic+5
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2151541.jpg
+  mbid: a4d62ced-2f87-488a-9c76-ab88ea7a2cbf
+  name: Pharoahe Monch
+  playcount: "6"
+  rank: "31"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2151541.jpg
+  url: http://www.last.fm/music/Pharoahe+Monch
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/43178391.jpg
+  mbid: 9ef8042a-2528-4f5c-b7c1-5e72b1efe170
+  name: Gang Starr
+  playcount: "6"
+  rank: "31"
+  thumbnail: http://userserve-ak.last.fm/serve/34/43178391.jpg
+  url: http://www.last.fm/music/Gang+Starr
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/5923439.jpg
+  mbid: 1f43d76f-8edf-44f6-aaf1-b65f05ad9402
+  name: The Flaming Lips
+  playcount: "6"
+  rank: "31"
+  thumbnail: http://userserve-ak.last.fm/serve/34/5923439.jpg
+  url: http://www.last.fm/music/The+Flaming+Lips
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/4790596.jpg
+  mbid: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
+  name: A Tribe Called Quest
+  playcount: "6"
+  rank: "31"
+  thumbnail: http://userserve-ak.last.fm/serve/34/4790596.jpg
+  url: http://www.last.fm/music/A+Tribe+Called+Quest
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/225771.jpg
+  mbid: 9beb62b2-88db-4cea-801e-162cd344ee53
+  name: Beastie Boys
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/225771.jpg
+  url: http://www.last.fm/music/Beastie+Boys
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/300031.gif
+  mbid: bf2e15d0-4b77-469e-bfb4-f8414415baca
+  name: Public Enemy
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/300031.gif
+  url: http://www.last.fm/music/Public+Enemy
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/42861543.png
+  mbid: d7134426-a937-43bf-bc54-f10ad8102ed9
+  name: The Pharcyde
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/42861543.png
+  url: http://www.last.fm/music/The+Pharcyde
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2977241.jpg
+  mbid: f90e8b26-9e52-4669-a5c9-e28529c47894
+  name: Snoop Dogg
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2977241.jpg
+  url: http://www.last.fm/music/Snoop+Dogg
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/115346.jpg
+  mbid: aba64937-3334-4c65-90a1-4e6b9d4d7ada
+  name: Aesop Rock
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/115346.jpg
+  url: http://www.last.fm/music/Aesop+Rock
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/158521.jpg
+  mbid: a96ac800-bfcb-412a-8a63-0a98df600700
+  name: Modest Mouse
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/158521.jpg
+  url: http://www.last.fm/music/Modest+Mouse
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/23682111.jpg
+  mbid: ff44f779-74ab-48f8-aac3-39ebe8f7c18e
+  name: Digable Planets
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/23682111.jpg
+  url: http://www.last.fm/music/Digable+Planets
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/50369983.png
+  mbid: d75d1f08-bbb8-4eae-9877-399ca9121197
+  name: Mobb Deep
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/50369983.png
+  url: http://www.last.fm/music/Mobb+Deep
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/2965710.jpg
+  mbid: 550cb78b-4995-4873-baea-76ef265531f5
+  name: GZA/Genius
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/2965710.jpg
+  url: http://www.last.fm/music/GZA%252FGenius
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/7149.jpg
+  mbid: aa7a2827-f74b-473c-bd79-03d065835cf7
+  name: Franz Ferdinand
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/7149.jpg
+  url: http://www.last.fm/music/Franz+Ferdinand
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/51042665.jpg
+  mbid: 664c3e0e-42d8-48c1-b209-1efca19c0325
+  name: The National
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/51042665.jpg
+  url: http://www.last.fm/music/The+National
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/107625.jpg
+  mbid: ""
+  name: Senator
+  playcount: "5"
+  rank: "37"
+  thumbnail: http://userserve-ak.last.fm/serve/34/107625.jpg
+  url: http://www.last.fm/music/Senator
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/39219129.jpg
+  mbid: 83d91898-7763-47d7-b03b-b92132375c47
+  name: Pink Floyd
+  playcount: "4"
+  rank: "49"
+  thumbnail: http://userserve-ak.last.fm/serve/34/39219129.jpg
+  url: http://www.last.fm/music/Pink+Floyd
+- !ruby/object:Scrobbler::Artist 
+  image: http://userserve-ak.last.fm/serve/126/37974.jpg
+  mbid: ba853904-ae25-4ebb-89d6-c44cfbd71bd2
+  name: Blur
+  playcount: "4"
+  rank: "49"
+  thumbnail: http://userserve-ak.last.fm/serve/34/37974.jpg
+  url: http://www.last.fm/music/Blur

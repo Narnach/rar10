@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: scottish
+  url: http://www.last.fm/tag/scottish
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: marillion
+  url: http://www.last.fm/tag/marillion
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: fish
+  url: http://www.last.fm/tag/fish
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: neo-prog
+  url: http://www.last.fm/tag/neo-prog
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: neo progressive
+  url: http://www.last.fm/tag/neo%20progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: art rock
+  url: http://www.last.fm/tag/art%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: neo-progressive rock
+  url: http://www.last.fm/tag/neo-progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: prog
+  url: http://www.last.fm/tag/prog
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo prog
+  url: http://www.last.fm/tag/neo%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emotional
+  url: http://www.last.fm/tag/emotional
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: poetry
+  url: http://www.last.fm/tag/poetry
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: italian rap
+  url: http://www.last.fm/tag/italian%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: prog rock
+  url: http://www.last.fm/tag/prog%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian
+  url: http://www.last.fm/tag/italian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: marillion family
+  url: http://www.last.fm/tag/marillion%20family
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap italiano
+  url: http://www.last.fm/tag/rap%20italiano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic rock
+  url: http://www.last.fm/tag/melodic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip hop italiano
+  url: http://www.last.fm/tag/hip%20hop%20italiano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo-progressive
+  url: http://www.last.fm/tag/neo-progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tales from the depths of imagination
+  url: http://www.last.fm/tag/tales%20from%20the%20depths%20of%20imagination
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lyrics
+  url: http://www.last.fm/tag/lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian hip hop
+  url: http://www.last.fm/tag/italian%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favourites
+  url: http://www.last.fm/tag/my%20favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seenlive
+  url: http://www.last.fm/tag/seenlive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: niederrhein2-poprock
+  url: http://www.last.fm/tag/niederrhein2-poprock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: album rock
+  url: http://www.last.fm/tag/album%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: marillion pink floyd porcupine tree and friends
+  url: http://www.last.fm/tag/marillion%20pink%20floyd%20porcupine%20tree%20and%20friends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british neo-progressive rock
+  url: http://www.last.fm/tag/british%20neo-progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: caifanes
+  url: http://www.last.fm/tag/caifanes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: freak zone
+  url: http://www.last.fm/tag/freak%20zone
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chance
+  url: http://www.last.fm/tag/chance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: innerearmedia
+  url: http://www.last.fm/tag/innerearmedia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: toupe on the cabaret scene
+  url: http://www.last.fm/tag/toupe%20on%20the%20cabaret%20scene
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sco
+  url: http://www.last.fm/tag/sco
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kicks real ass
+  url: http://www.last.fm/tag/kicks%20real%20ass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: something in the air
+  url: http://www.last.fm/tag/something%20in%20the%20air
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hapsch gesehn
+  url: http://www.last.fm/tag/hapsch%20gesehn
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great lyricist
+  url: http://www.last.fm/tag/great%20lyricist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sw related
+  url: http://www.last.fm/tag/sw%20related
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: autres
+  url: http://www.last.fm/tag/autres
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: al-hizan
+  url: http://www.last.fm/tag/al-hizan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: loja
+  url: http://www.last.fm/tag/loja
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great lyric
+  url: http://www.last.fm/tag/great%20lyric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neoprogressive
+  url: http://www.last.fm/tag/neoprogressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top50artists
+  url: http://www.last.fm/tag/top50artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eclipsed110
+  url: http://www.last.fm/tag/eclipsed110
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lmollea recommends
+  url: http://www.last.fm/tag/lmollea%20recommends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands to check out
+  url: http://www.last.fm/tag/bands%20to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my own
+  url: http://www.last.fm/tag/my%20own
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a decouvrir
+  url: http://www.last.fm/tag/a%20decouvrir
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: max roach
+  url: http://www.last.fm/tag/max%20roach
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pink floyd cover
+  url: http://www.last.fm/tag/pink%20floyd%20cover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: silent inanity
+  url: http://www.last.fm/tag/silent%20inanity
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: marillion pink foyd and friends
+  url: http://www.last.fm/tag/marillion%20pink%20foyd%20and%20friends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: all-time personal favourites
+  url: http://www.last.fm/tag/all-time%20personal%20favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wonderful live
+  url: http://www.last.fm/tag/wonderful%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myki
+  url: http://www.last.fm/tag/myki
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best of slimeball
+  url: http://www.last.fm/tag/best%20of%20slimeball
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive electronica
+  url: http://www.last.fm/tag/progressive%20electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: italian hiphop
+  url: http://www.last.fm/tag/italian%20hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dead beat club
+  url: http://www.last.fm/tag/dead%20beat%20club
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: massive walls of emotions
+  url: http://www.last.fm/tag/massive%20walls%20of%20emotions
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gloeiworm
+  url: http://www.last.fm/tag/gloeiworm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: misplaced jesters
+  url: http://www.last.fm/tag/misplaced%20jesters
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the evernauts
+  url: http://www.last.fm/tag/the%20evernauts
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chris johnson
+  url: http://www.last.fm/tag/chris%20johnson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 4 letter artists
+  url: http://www.last.fm/tag/4%20letter%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scree123
+  url: http://www.last.fm/tag/scree123
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stormwatcher
+  url: http://www.last.fm/tag/stormwatcher
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: m rock
+  url: http://www.last.fm/tag/m%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my progressive
+  url: http://www.last.fm/tag/my%20progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brittus-live
+  url: http://www.last.fm/tag/brittus-live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite male vocals
+  url: http://www.last.fm/tag/favorite%20male%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: marillos
+  url: http://www.last.fm/tag/marillos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: depesz
+  url: http://www.last.fm/tag/depesz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male  vocalists
+  url: http://www.last.fm/tag/male%20%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer luv
+  url: http://www.last.fm/tag/singer%20luv
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gooners faves
+  url: http://www.last.fm/tag/gooners%20faves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: area cronica
+  url: http://www.last.fm/tag/area%20cronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: areacronica
+  url: http://www.last.fm/tag/areacronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modern prog rock
+  url: http://www.last.fm/tag/modern%20prog%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic prog
+  url: http://www.last.fm/tag/epic%20prog

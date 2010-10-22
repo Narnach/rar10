@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "54"
+  name: deutschrock
+  url: http://www.last.fm/tag/deutschrock
+- !ruby/object:Scrobbler::Tag 
+  count: "49"
+  name: deutsch
+  url: http://www.last.fm/tag/deutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "47"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: silbermond
+  url: http://www.last.fm/tag/silbermond
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: deutsch rock
+  url: http://www.last.fm/tag/deutsch%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: german artists
+  url: http://www.last.fm/tag/german%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: germany
+  url: http://www.last.fm/tag/germany
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: deutschsprachig
+  url: http://www.last.fm/tag/deutschsprachig
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: german rock
+  url: http://www.last.fm/tag/german%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: deutschpop
+  url: http://www.last.fm/tag/deutschpop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: deutsche
+  url: http://www.last.fm/tag/deutsche
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: deutschland
+  url: http://www.last.fm/tag/deutschland
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female fronted
+  url: http://www.last.fm/tag/female%20fronted
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: poprock
+  url: http://www.last.fm/tag/poprock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: german lyrics
+  url: http://www.last.fm/tag/german%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: german music
+  url: http://www.last.fm/tag/german%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutsche texte
+  url: http://www.last.fm/tag/deutsche%20texte
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: german pop rock
+  url: http://www.last.fm/tag/german%20pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: band
+  url: http://www.last.fm/tag/band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutsch pop
+  url: http://www.last.fm/tag/deutsch%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bautzen
+  url: http://www.last.fm/tag/bautzen
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good lyrics
+  url: http://www.last.fm/tag/good%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: german artist
+  url: http://www.last.fm/tag/german%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female voices
+  url: http://www.last.fm/tag/female%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "texte: deutsch"
+  url: http://www.last.fm/tag/texte%3A%20deutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: allways good to hear
+  url: http://www.last.fm/tag/allways%20good%20to%20hear
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: german deutschrock
+  url: http://www.last.fm/tag/german%20deutschrock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutsche die man sich antuen kann
+  url: http://www.last.fm/tag/deutsche%20die%20man%20sich%20antuen%20kann
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i want more
+  url: http://www.last.fm/tag/i%20want%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female rock voices
+  url: http://www.last.fm/tag/female%20rock%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutschgut
+  url: http://www.last.fm/tag/deutschgut
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutsch-punkpoprock
+  url: http://www.last.fm/tag/deutsch-punkpoprock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deutsche musik
+  url: http://www.last.fm/tag/deutsche%20musik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: geman
+  url: http://www.last.fm/tag/geman
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: liebeslied
+  url: http://www.last.fm/tag/liebeslied
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorit music
+  url: http://www.last.fm/tag/my%20favorit%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ostdeutsch
+  url: http://www.last.fm/tag/ostdeutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutsch-rock
+  url: http://www.last.fm/tag/deutsch-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "from: germany"
+  url: http://www.last.fm/tag/from%3A%20germany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: berlin
+  url: http://www.last.fm/tag/berlin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this is goog music
+  url: http://www.last.fm/tag/this%20is%20goog%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live gesehen
+  url: http://www.last.fm/tag/live%20gesehen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: juli
+  url: http://www.last.fm/tag/juli
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock pop
+  url: http://www.last.fm/tag/rock%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful singer
+  url: http://www.last.fm/tag/beautiful%20singer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: german pop-rock
+  url: http://www.last.fm/tag/german%20pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: machs dir selbst
+  url: http://www.last.fm/tag/machs%20dir%20selbst
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ballad
+  url: http://www.last.fm/tag/ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: das beste
+  url: http://www.last.fm/tag/das%20beste
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: teutonic
+  url: http://www.last.fm/tag/teutonic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: made in germany
+  url: http://www.last.fm/tag/made%20in%20germany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best
+  url: http://www.last.fm/tag/best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power pop
+  url: http://www.last.fm/tag/power%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seifenpop tussirock
+  url: http://www.last.fm/tag/seifenpop%20tussirock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutchrock
+  url: http://www.last.fm/tag/deutchrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo ndw
+  url: http://www.last.fm/tag/neo%20ndw
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonie
+  url: http://www.last.fm/tag/symphonie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sachsen
+  url: http://www.last.fm/tag/sachsen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stefanie kloss
+  url: http://www.last.fm/tag/stefanie%20kloss
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pseudo rock
+  url: http://www.last.fm/tag/pseudo%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutsche neue welle
+  url: http://www.last.fm/tag/deutsche%20neue%20welle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unendlich
+  url: http://www.last.fm/tag/unendlich
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutscher
+  url: http://www.last.fm/tag/deutscher
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: one of my favs
+  url: http://www.last.fm/tag/one%20of%20my%20favs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: groups
+  url: http://www.last.fm/tag/groups
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tavaraadio
+  url: http://www.last.fm/tag/tavaraadio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: echo
+  url: http://www.last.fm/tag/echo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: de
+  url: http://www.last.fm/tag/de
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful voice
+  url: http://www.last.fm/tag/beautiful%20voice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gern
+  url: http://www.last.fm/tag/gern
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the best
+  url: http://www.last.fm/tag/the%20best

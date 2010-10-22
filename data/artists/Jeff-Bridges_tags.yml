@@ -1,0 +1,85 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "70"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: the dude
+  url: http://www.last.fm/tag/the%20dude
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: bluegrass
+  url: http://www.last.fm/tag/bluegrass
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: hippie
+  url: http://www.last.fm/tag/hippie
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: actor
+  url: http://www.last.fm/tag/actor
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: blue grass
+  url: http://www.last.fm/tag/blue%20grass
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: late nights and rainy afternoons
+  url: http://www.last.fm/tag/late%20nights%20and%20rainy%20afternoons
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: baaa-you-tiful
+  url: http://www.last.fm/tag/baaa-you-tiful
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: singing actors
+  url: http://www.last.fm/tag/singing%20actors
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: criminally underrated
+  url: http://www.last.fm/tag/criminally%20underrated
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: oh so dancy
+  url: http://www.last.fm/tag/oh%20so%20dancy
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: chillaxing
+  url: http://www.last.fm/tag/chillaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: united states
+  url: http://www.last.fm/tag/united%20states
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: handsome
+  url: http://www.last.fm/tag/handsome

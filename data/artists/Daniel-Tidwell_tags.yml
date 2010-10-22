@@ -1,0 +1,73 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: video game metal
+  url: http://www.last.fm/tag/video%20game%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: instrumental metal
+  url: http://www.last.fm/tag/instrumental%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: vgm
+  url: http://www.last.fm/tag/vgm
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: nintendocore
+  url: http://www.last.fm/tag/nintendocore
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: chaos ad
+  url: http://www.last.fm/tag/chaos%20ad
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: redux
+  url: http://www.last.fm/tag/redux
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: psychodela
+  url: http://www.last.fm/tag/psychodela
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: video games
+  url: http://www.last.fm/tag/video%20games
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: grindcore
+  url: http://www.last.fm/tag/grindcore
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners

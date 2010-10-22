@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: acid jazz
+  url: http://www.last.fm/tag/acid%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "85"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "49"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: jazz funk
+  url: http://www.last.fm/tag/jazz%20funk
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: groove
+  url: http://www.last.fm/tag/groove
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: the brand new heavies
+  url: http://www.last.fm/tag/the%20brand%20new%20heavies
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: urban
+  url: http://www.last.fm/tag/urban
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nu jazz
+  url: http://www.last.fm/tag/nu%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo-soul
+  url: http://www.last.fm/tag/neo-soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jazz-funk
+  url: http://www.last.fm/tag/jazz-funk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: london
+  url: http://www.last.fm/tag/london
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo soul
+  url: http://www.last.fm/tag/neo%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: smooth jazz
+  url: http://www.last.fm/tag/smooth%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acid
+  url: http://www.last.fm/tag/acid
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acid-jazz
+  url: http://www.last.fm/tag/acid-jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip hop
+  url: http://www.last.fm/tag/trip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazzy
+  url: http://www.last.fm/tag/jazzy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rap
+  url: http://www.last.fm/tag/alternative%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r&amp;b
+  url: http://www.last.fm/tag/r%2526b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new funk
+  url: http://www.last.fm/tag/new%20funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nu soul
+  url: http://www.last.fm/tag/nu%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz hop
+  url: http://www.last.fm/tag/jazz%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smooth
+  url: http://www.last.fm/tag/smooth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nu-jazz
+  url: http://www.last.fm/tag/nu-jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reggae
+  url: http://www.last.fm/tag/reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk jazz
+  url: http://www.last.fm/tag/funk%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: incognito
+  url: http://www.last.fm/tag/incognito
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sophisticated
+  url: http://www.last.fm/tag/sophisticated
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: club-dance
+  url: http://www.last.fm/tag/club-dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brand new heavies
+  url: http://www.last.fm/tag/brand%20new%20heavies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk - soul - jazz
+  url: http://www.last.fm/tag/funk%20-%20soul%20-%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic jazz
+  url: http://www.last.fm/tag/electronic%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: library
+  url: http://www.last.fm/tag/library
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: happy
+  url: http://www.last.fm/tag/happy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazzfunk
+  url: http://www.last.fm/tag/jazzfunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stylish
+  url: http://www.last.fm/tag/stylish
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: talkin' loud
+  url: http://www.last.fm/tag/talkin%27%20loud
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bnh
+  url: http://www.last.fm/tag/bnh
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: club/dance
+  url: http://www.last.fm/tag/club%252Fdance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electrojazz
+  url: http://www.last.fm/tag/electrojazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: england
+  url: http://www.last.fm/tag/england
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk bands
+  url: http://www.last.fm/tag/funk%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill out
+  url: http://www.last.fm/tag/chill%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ealing
+  url: http://www.last.fm/tag/ealing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live gesehen
+  url: http://www.last.fm/tag/live%20gesehen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acid house
+  url: http://www.last.fm/tag/acid%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r and b
+  url: http://www.last.fm/tag/r%20and%20b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funky jazz
+  url: http://www.last.fm/tag/funky%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out
+  url: http://www.last.fm/tag/check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mix
+  url: http://www.last.fm/tag/mix
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acidjazz
+  url: http://www.last.fm/tag/acidjazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wickyradio
+  url: http://www.last.fm/tag/wickyradio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: party
+  url: http://www.last.fm/tag/party
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: puro groove
+  url: http://www.last.fm/tag/puro%20groove
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hiphop
+  url: http://www.last.fm/tag/hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz after midnight
+  url: http://www.last.fm/tag/jazz%20after%20midnight
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk you too
+  url: http://www.last.fm/tag/funk%20you%20too
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: illbient and hiphop and dopebeats and nujazzbreaks
+  url: http://www.last.fm/tag/illbient%20and%20hiphop%20and%20dopebeats%20and%20nujazzbreaks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: must check them out
+  url: http://www.last.fm/tag/must%20check%20them%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: page 5 and 6
+  url: http://www.last.fm/tag/page%205%20and%206

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "72"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "35"
+  name: epic metal
+  url: http://www.last.fm/tag/epic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: symphonic power metal
+  url: http://www.last.fm/tag/symphonic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: melodic metal
+  url: http://www.last.fm/tag/melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: fantasy metal
+  url: http://www.last.fm/tag/fantasy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: italian
+  url: http://www.last.fm/tag/italian
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: epic power metal
+  url: http://www.last.fm/tag/epic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: fantasy
+  url: http://www.last.fm/tag/fantasy
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rhapsody
+  url: http://www.last.fm/tag/rhapsody
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: film score metal
+  url: http://www.last.fm/tag/film%20score%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: speed metal
+  url: http://www.last.fm/tag/speed%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: italian metal
+  url: http://www.last.fm/tag/italian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: italy
+  url: http://www.last.fm/tag/italy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hollywood metal
+  url: http://www.last.fm/tag/hollywood%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo-classical metal
+  url: http://www.last.fm/tag/neo-classical%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: story
+  url: http://www.last.fm/tag/story
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: medieval metal
+  url: http://www.last.fm/tag/medieval%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: medieval
+  url: http://www.last.fm/tag/medieval
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: orchestral metal
+  url: http://www.last.fm/tag/orchestral%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neoclassical metal
+  url: http://www.last.fm/tag/neoclassical%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neoclassical
+  url: http://www.last.fm/tag/neoclassical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic power metal
+  url: http://www.last.fm/tag/melodic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic rock
+  url: http://www.last.fm/tag/symphonic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhapsody of fire
+  url: http://www.last.fm/tag/rhapsody%20of%20fire
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: luca turilli
+  url: http://www.last.fm/tag/luca%20turilli
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: battle metal
+  url: http://www.last.fm/tag/battle%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orchestral power metal
+  url: http://www.last.fm/tag/orchestral%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk metal
+  url: http://www.last.fm/tag/folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic fantasy metal
+  url: http://www.last.fm/tag/epic%20fantasy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic symphonic metal
+  url: http://www.last.fm/tag/epic%20symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic epic hollywood metal
+  url: http://www.last.fm/tag/symphonic%20epic%20hollywood%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: story metal
+  url: http://www.last.fm/tag/story%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: narration
+  url: http://www.last.fm/tag/narration
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: opera metal
+  url: http://www.last.fm/tag/opera%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power
+  url: http://www.last.fm/tag/power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gay metal
+  url: http://www.last.fm/tag/gay%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo-classical
+  url: http://www.last.fm/tag/neo-classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic death metal
+  url: http://www.last.fm/tag/melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic epic metal
+  url: http://www.last.fm/tag/symphonic%20epic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: luca turilli is god
+  url: http://www.last.fm/tag/luca%20turilli%20is%20god
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical crossover
+  url: http://www.last.fm/tag/classical%20crossover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic-melodic-power metal
+  url: http://www.last.fm/tag/symphonic-melodic-power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fantasy music
+  url: http://www.last.fm/tag/fantasy%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fabio lione
+  url: http://www.last.fm/tag/fabio%20lione
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: absolutely epic
+  url: http://www.last.fm/tag/absolutely%20epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive symphonic metal
+  url: http://www.last.fm/tag/progressive%20symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best of 2010
+  url: http://www.last.fm/tag/best%20of%202010
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque metal
+  url: http://www.last.fm/tag/baroque%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: viking metal
+  url: http://www.last.fm/tag/viking%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: one of a kind
+  url: http://www.last.fm/tag/one%20of%20a%20kind
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack metal
+  url: http://www.last.fm/tag/soundtrack%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: true metal
+  url: http://www.last.fm/tag/true%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: concept albums
+  url: http://www.last.fm/tag/concept%20albums
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal opera
+  url: http://www.last.fm/tag/metal%20opera
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic folk metal
+  url: http://www.last.fm/tag/symphonic%20folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic orchestral power metal
+  url: http://www.last.fm/tag/symphonic%20orchestral%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: powermetal
+  url: http://www.last.fm/tag/powermetal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk power metal
+  url: http://www.last.fm/tag/folk%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best of 2006
+  url: http://www.last.fm/tag/best%20of%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fantasy rock
+  url: http://www.last.fm/tag/fantasy%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unique
+  url: http://www.last.fm/tag/unique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive symphonic rock
+  url: http://www.last.fm/tag/progressive%20symphonic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic epic power metal
+  url: http://www.last.fm/tag/symphonic%20epic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic speed metal
+  url: http://www.last.fm/tag/melodic%20speed%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive power metal
+  url: http://www.last.fm/tag/progressive%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaex s2
+  url: http://www.last.fm/tag/harukaex%20s2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic film score metal
+  url: http://www.last.fm/tag/epic%20film%20score%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christopher lee
+  url: http://www.last.fm/tag/christopher%20lee
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk

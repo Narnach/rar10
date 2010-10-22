@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "54"
+  name: horror metal
+  url: http://www.last.fm/tag/horror%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: dark metal
+  url: http://www.last.fm/tag/dark%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: doom metal
+  url: http://www.last.fm/tag/doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: dark gothic metal
+  url: http://www.last.fm/tag/dark%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: germany
+  url: http://www.last.fm/tag/germany
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dark symphonic metal
+  url: http://www.last.fm/tag/dark%20symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: horror
+  url: http://www.last.fm/tag/horror
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: german metal
+  url: http://www.last.fm/tag/german%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: schwadorf
+  url: http://www.last.fm/tag/schwadorf
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lovecraft
+  url: http://www.last.fm/tag/lovecraft
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic gothic metal
+  url: http://www.last.fm/tag/symphonic%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cthulhu
+  url: http://www.last.fm/tag/cthulhu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic black metal
+  url: http://www.last.fm/tag/gothic%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: evil
+  url: http://www.last.fm/tag/evil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal monk approved
+  url: http://www.last.fm/tag/metal%20monk%20approved
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic horror metal
+  url: http://www.last.fm/tag/gothic%20horror%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: prophecy
+  url: http://www.last.fm/tag/prophecy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doom
+  url: http://www.last.fm/tag/doom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic black metal
+  url: http://www.last.fm/tag/symphonic%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic rock
+  url: http://www.last.fm/tag/gothic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: darkwave
+  url: http://www.last.fm/tag/darkwave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutsch
+  url: http://www.last.fm/tag/deutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funeral doom metal
+  url: http://www.last.fm/tag/funeral%20doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark rock
+  url: http://www.last.fm/tag/dark%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grotesque metal
+  url: http://www.last.fm/tag/grotesque%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark and beautiful
+  url: http://www.last.fm/tag/dark%20and%20beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goth
+  url: http://www.last.fm/tag/goth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doom-gothic metal
+  url: http://www.last.fm/tag/doom-gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: extreme gothic metal
+  url: http://www.last.fm/tag/extreme%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic - doom
+  url: http://www.last.fm/tag/gothic%20-%20doom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic-metal
+  url: http://www.last.fm/tag/gothic-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk metal
+  url: http://www.last.fm/tag/folk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the vision bleak
+  url: http://www.last.fm/tag/the%20vision%20bleak
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant-garde metal
+  url: http://www.last.fm/tag/avant-garde%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic rock
+  url: http://www.last.fm/tag/symphonic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alemania
+  url: http://www.last.fm/tag/alemania
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: summer breeze 2005
+  url: http://www.last.fm/tag/summer%20breeze%202005
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip core
+  url: http://www.last.fm/tag/trip%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: supreme horror death rock
+  url: http://www.last.fm/tag/supreme%20horror%20death%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric gothic metal
+  url: http://www.last.fm/tag/atmospheric%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vidio lajv
+  url: http://www.last.fm/tag/vidio%20lajv
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heimnar a ne tsoi podavilsya matsoi
+  url: http://www.last.fm/tag/heimnar%20a%20ne%20tsoi%20podavilsya%20matsoi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ungothic metall
+  url: http://www.last.fm/tag/ungothic%20metall
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kalte winter
+  url: http://www.last.fm/tag/kalte%20winter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gloom metal
+  url: http://www.last.fm/tag/gloom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music i tried but didnt like
+  url: http://www.last.fm/tag/music%20i%20tried%20but%20didnt%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live in concerts
+  url: http://www.last.fm/tag/seen%20live%20in%20concerts
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal up your ass
+  url: http://www.last.fm/tag/metal%20up%20your%20ass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic rock metal
+  url: http://www.last.fm/tag/gothic%20rock%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "2010"
+  url: http://www.last.fm/tag/2010
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european metal
+  url: http://www.last.fm/tag/european%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mera luna 2008
+  url: http://www.last.fm/tag/mera%20luna%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metalszene deutschland
+  url: http://www.last.fm/tag/metalszene%20deutschland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: german gothic metal
+  url: http://www.last.fm/tag/german%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the visions bleak - the wolves go hunt their prey
+  url: http://www.last.fm/tag/the%20visions%20bleak%20-%20the%20wolves%20go%20hunt%20their%20prey
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tonyttank
+  url: http://www.last.fm/tag/tonyttank
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: night eternal xd
+  url: http://www.last.fm/tag/night%20eternal%20xd
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: castle rock festival
+  url: http://www.last.fm/tag/castle%20rock%20festival
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live first row
+  url: http://www.last.fm/tag/seen%20live%20first%20row
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live gods
+  url: http://www.last.fm/tag/live%20gods
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the best music i ever listend to
+  url: http://www.last.fm/tag/the%20best%20music%20i%20ever%20listend%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: expresive
+  url: http://www.last.fm/tag/expresive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: z3po like this
+  url: http://www.last.fm/tag/z3po%20like%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wacken2007
+  url: http://www.last.fm/tag/wacken2007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: zwischenwelten 2005
+  url: http://www.last.fm/tag/zwischenwelten%202005
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic dark metal
+  url: http://www.last.fm/tag/gothic%20dark%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not gothic metal
+  url: http://www.last.fm/tag/not%20gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live x3
+  url: http://www.last.fm/tag/seen%20live%20x3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: horror gothic
+  url: http://www.last.fm/tag/horror%20gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kutulu
+  url: http://www.last.fm/tag/kutulu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: en sevdiklerim
+  url: http://www.last.fm/tag/en%20sevdiklerim
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: devilish music
+  url: http://www.last.fm/tag/devilish%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thomas helm
+  url: http://www.last.fm/tag/thomas%20helm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: need to check out - metal
+  url: http://www.last.fm/tag/need%20to%20check%20out%20-%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: prophecy productions
+  url: http://www.last.fm/tag/prophecy%20productions
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oplatujace umysl macki cthulhu
+  url: http://www.last.fm/tag/oplatujace%20umysl%20macki%20cthulhu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: freakin awesome
+  url: http://www.last.fm/tag/freakin%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: austrian
+  url: http://www.last.fm/tag/austrian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 2000s
+  url: http://www.last.fm/tag/2000s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: muse
+  url: http://www.last.fm/tag/muse
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk-metal
+  url: http://www.last.fm/tag/folk-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: german bands
+  url: http://www.last.fm/tag/german%20bands

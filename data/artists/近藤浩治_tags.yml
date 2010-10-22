@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "61"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: nintendo
+  url: http://www.last.fm/tag/nintendo
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: game music
+  url: http://www.last.fm/tag/game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: zelda
+  url: http://www.last.fm/tag/zelda
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: game
+  url: http://www.last.fm/tag/game
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: video game
+  url: http://www.last.fm/tag/video%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: japan
+  url: http://www.last.fm/tag/japan
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: game soundtracks
+  url: http://www.last.fm/tag/game%20soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: koji kondo
+  url: http://www.last.fm/tag/koji%20kondo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: videogame
+  url: http://www.last.fm/tag/videogame
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: game soundtrack
+  url: http://www.last.fm/tag/game%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: mario
+  url: http://www.last.fm/tag/mario
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: video game soundtrack
+  url: http://www.last.fm/tag/video%20game%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: super mario
+  url: http://www.last.fm/tag/super%20mario
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: anime
+  url: http://www.last.fm/tag/anime
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chiptune
+  url: http://www.last.fm/tag/chiptune
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 8-bit
+  url: http://www.last.fm/tag/8-bit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: asian
+  url: http://www.last.fm/tag/asian
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: videogame music
+  url: http://www.last.fm/tag/videogame%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ocarina of time
+  url: http://www.last.fm/tag/ocarina%20of%20time
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: vgm
+  url: http://www.last.fm/tag/vgm
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: legend of zelda
+  url: http://www.last.fm/tag/legend%20of%20zelda
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the legend of zelda
+  url: http://www.last.fm/tag/the%20legend%20of%20zelda
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: j-pop
+  url: http://www.last.fm/tag/j-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: geek music
+  url: http://www.last.fm/tag/geek%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo-classical
+  url: http://www.last.fm/tag/neo-classical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: symphony
+  url: http://www.last.fm/tag/symphony
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: video games
+  url: http://www.last.fm/tag/video%20games
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: japanese music
+  url: http://www.last.fm/tag/japanese%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: videogames
+  url: http://www.last.fm/tag/videogames
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 8bit
+  url: http://www.last.fm/tag/8bit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: game composers
+  url: http://www.last.fm/tag/game%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jpop
+  url: http://www.last.fm/tag/jpop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: super mario world
+  url: http://www.last.fm/tag/super%20mario%20world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese composer
+  url: http://www.last.fm/tag/japanese%20composer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: video game composers
+  url: http://www.last.fm/tag/video%20game%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nes
+  url: http://www.last.fm/tag/nes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nostalgia
+  url: http://www.last.fm/tag/nostalgia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legend of zelda soundtrack
+  url: http://www.last.fm/tag/legend%20of%20zelda%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: super
+  url: http://www.last.fm/tag/super
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: proper music
+  url: http://www.last.fm/tag/proper%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nintendo soundtrack
+  url: http://www.last.fm/tag/nintendo%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary classical
+  url: http://www.last.fm/tag/contemporary%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j-rock
+  url: http://www.last.fm/tag/j-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: low
+  url: http://www.last.fm/tag/low
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scorey music
+  url: http://www.last.fm/tag/scorey%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: game score
+  url: http://www.last.fm/tag/game%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "2"
+  url: http://www.last.fm/tag/2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yoshi
+  url: http://www.last.fm/tag/yoshi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bros
+  url: http://www.last.fm/tag/bros
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock hiphop ambient chillout downtempo dance trance house cartoon christian-rock
+  url: http://www.last.fm/tag/rock%20hiphop%20ambient%20chillout%20downtempo%20dance%20trance%20house%20cartoon%20christian-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: badass
+  url: http://www.last.fm/tag/badass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favourits
+  url: http://www.last.fm/tag/my%20favourits
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smash
+  url: http://www.last.fm/tag/smash
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack to my life
+  url: http://www.last.fm/tag/soundtrack%20to%20my%20life
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chip music
+  url: http://www.last.fm/tag/chip%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese composers
+  url: http://www.last.fm/tag/japanese%20composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rpg
+  url: http://www.last.fm/tag/rpg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fiddly
+  url: http://www.last.fm/tag/fiddly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: arrangement
+  url: http://www.last.fm/tag/arrangement
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "from: japan"
+  url: http://www.last.fm/tag/from%3A%20japan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: link
+  url: http://www.last.fm/tag/link
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "3"
+  url: http://www.last.fm/tag/3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hentai
+  url: http://www.last.fm/tag/hentai
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rocks my socks
+  url: http://www.last.fm/tag/rocks%20my%20socks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japani
+  url: http://www.last.fm/tag/japani
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: childhood nostalgia
+  url: http://www.last.fm/tag/childhood%20nostalgia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eca
+  url: http://www.last.fm/tag/eca
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melee
+  url: http://www.last.fm/tag/melee
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genius musicians
+  url: http://www.last.fm/tag/genius%20musicians
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: games ost
+  url: http://www.last.fm/tag/games%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: video games soundtracks
+  url: http://www.last.fm/tag/video%20games%20soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: loras
+  url: http://www.last.fm/tag/loras
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gamesong
+  url: http://www.last.fm/tag/gamesong
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oot
+  url: http://www.last.fm/tag/oot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: granka
+  url: http://www.last.fm/tag/granka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yoshis island
+  url: http://www.last.fm/tag/yoshis%20island

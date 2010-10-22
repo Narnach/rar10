@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "49"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: woody guthrie
+  url: http://www.last.fm/tag/woody%20guthrie
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: protest
+  url: http://www.last.fm/tag/protest
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 30s
+  url: http://www.last.fm/tag/30s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: political folk
+  url: http://www.last.fm/tag/political%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: traditional folk
+  url: http://www.last.fm/tag/traditional%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: poetry
+  url: http://www.last.fm/tag/poetry
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bluegrass
+  url: http://www.last.fm/tag/bluegrass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 40s
+  url: http://www.last.fm/tag/40s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: left wing
+  url: http://www.last.fm/tag/left%20wing
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: great lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: american folk
+  url: http://www.last.fm/tag/american%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: socialist
+  url: http://www.last.fm/tag/socialist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: music for the revolution
+  url: http://www.last.fm/tag/music%20for%20the%20revolution
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legend
+  url: http://www.last.fm/tag/legend
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: influential
+  url: http://www.last.fm/tag/influential
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harmonica
+  url: http://www.last.fm/tag/harmonica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alt country
+  url: http://www.last.fm/tag/alt%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anti-war
+  url: http://www.last.fm/tag/anti-war
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anarchy
+  url: http://www.last.fm/tag/anarchy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic country
+  url: http://www.last.fm/tag/classic%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: meditate and contemplate
+  url: http://www.last.fm/tag/meditate%20and%20contemplate
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bob dylan
+  url: http://www.last.fm/tag/bob%20dylan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oklahoma
+  url: http://www.last.fm/tag/oklahoma
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classics
+  url: http://www.last.fm/tag/classics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: underrated
+  url: http://www.last.fm/tag/underrated
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lo-fi
+  url: http://www.last.fm/tag/lo-fi
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genie am werk
+  url: http://www.last.fm/tag/genie%20am%20werk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check lyrics on wiktionary
+  url: http://www.last.fm/tag/check%20lyrics%20on%20wiktionary
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gods
+  url: http://www.last.fm/tag/gods
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anarchist music
+  url: http://www.last.fm/tag/anarchist%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: man free
+  url: http://www.last.fm/tag/man%20free
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: woodie guthrie
+  url: http://www.last.fm/tag/woodie%20guthrie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer songwriter
+  url: http://www.last.fm/tag/singer%20songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: white men cant jump
+  url: http://www.last.fm/tag/white%20men%20cant%20jump
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pre pre pre pre pre pre punk
+  url: http://www.last.fm/tag/pre%20pre%20pre%20pre%20pre%20pre%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: field recordings
+  url: http://www.last.fm/tag/field%20recordings
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wachkoma
+  url: http://www.last.fm/tag/wachkoma
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roots
+  url: http://www.last.fm/tag/roots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: politics
+  url: http://www.last.fm/tag/politics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowhat fav
+  url: http://www.last.fm/tag/cowhat%20fav
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hobo
+  url: http://www.last.fm/tag/hobo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: more people should know about guthrie
+  url: http://www.last.fm/tag/more%20people%20should%20know%20about%20guthrie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i am not saying good hiphop does not exsist
+  url: http://www.last.fm/tag/i%20am%20not%20saying%20good%20hiphop%20does%20not%20exsist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1930s
+  url: http://www.last.fm/tag/1930s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowhat bob
+  url: http://www.last.fm/tag/cowhat%20bob
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowhat vint
+  url: http://www.last.fm/tag/cowhat%20vint
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blandband
+  url: http://www.last.fm/tag/blandband
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk with soul
+  url: http://www.last.fm/tag/folk%20with%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk punk
+  url: http://www.last.fm/tag/folk%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cannot see live
+  url: http://www.last.fm/tag/cannot%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country legends
+  url: http://www.last.fm/tag/country%20legends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: life changing
+  url: http://www.last.fm/tag/life%20changing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: union songs
+  url: http://www.last.fm/tag/union%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorit
+  url: http://www.last.fm/tag/favorit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smokin shit
+  url: http://www.last.fm/tag/smokin%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic folk
+  url: http://www.last.fm/tag/classic%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: protest music
+  url: http://www.last.fm/tag/protest%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anti-fascist
+  url: http://www.last.fm/tag/anti-fascist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: labor
+  url: http://www.last.fm/tag/labor
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american roots
+  url: http://www.last.fm/tag/american%20roots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: america
+  url: http://www.last.fm/tag/america
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the blues
+  url: http://www.last.fm/tag/the%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guthrie
+  url: http://www.last.fm/tag/guthrie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: protest folk
+  url: http://www.last.fm/tag/protest%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: politique
+  url: http://www.last.fm/tag/politique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: real
+  url: http://www.last.fm/tag/real
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock-alternative-indyschmindy
+  url: http://www.last.fm/tag/rock-alternative-indyschmindy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anarcho-folk
+  url: http://www.last.fm/tag/anarcho-folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: protest song
+  url: http://www.last.fm/tag/protest%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1940s
+  url: http://www.last.fm/tag/1940s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this machine kills fascists
+  url: http://www.last.fm/tag/this%20machine%20kills%20fascists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: god
+  url: http://www.last.fm/tag/god

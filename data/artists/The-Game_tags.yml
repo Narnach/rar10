@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "54"
+  name: gangsta rap
+  url: http://www.last.fm/tag/gangsta%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: west coast
+  url: http://www.last.fm/tag/west%20coast
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: the game
+  url: http://www.last.fm/tag/the%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: west coast rap
+  url: http://www.last.fm/tag/west%20coast%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: hiphop
+  url: http://www.last.fm/tag/hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: gangsta
+  url: http://www.last.fm/tag/gangsta
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: compton
+  url: http://www.last.fm/tag/compton
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: game
+  url: http://www.last.fm/tag/game
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: black wall street
+  url: http://www.last.fm/tag/black%20wall%20street
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: aftermath
+  url: http://www.last.fm/tag/aftermath
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: g-unit
+  url: http://www.last.fm/tag/g-unit
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hardcore rap
+  url: http://www.last.fm/tag/hardcore%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: g-unot
+  url: http://www.last.fm/tag/g-unot
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: westside
+  url: http://www.last.fm/tag/westside
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: westcoast
+  url: http://www.last.fm/tag/westcoast
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bloods
+  url: http://www.last.fm/tag/bloods
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: los angeles
+  url: http://www.last.fm/tag/los%20angeles
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 50 cent
+  url: http://www.last.fm/tag/50%20cent
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip hop and rap
+  url: http://www.last.fm/tag/hip%20hop%20and%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good songs
+  url: http://www.last.fm/tag/good%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: west coast hip hop
+  url: http://www.last.fm/tag/west%20coast%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: g-funk
+  url: http://www.last.fm/tag/g-funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dirty south
+  url: http://www.last.fm/tag/dirty%20south
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: west side
+  url: http://www.last.fm/tag/west%20side
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: west coast gangsta rap
+  url: http://www.last.fm/tag/west%20coast%20gangsta%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff
+  url: http://www.last.fm/tag/stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop and rap
+  url: http://www.last.fm/tag/hip-hop%20and%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reggae
+  url: http://www.last.fm/tag/reggae
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lax
+  url: http://www.last.fm/tag/lax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: urban
+  url: http://www.last.fm/tag/urban
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r and b
+  url: http://www.last.fm/tag/r%20and%20b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mixtapes
+  url: http://www.last.fm/tag/mixtapes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: underground hip-hop
+  url: http://www.last.fm/tag/underground%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good shit
+  url: http://www.last.fm/tag/good%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gansta rap
+  url: http://www.last.fm/tag/gansta%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorites
+  url: http://www.last.fm/tag/my%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my life
+  url: http://www.last.fm/tag/my%20life
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap and hip-hop
+  url: http://www.last.fm/tag/rap%20and%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blood
+  url: http://www.last.fm/tag/blood
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black
+  url: http://www.last.fm/tag/black
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thugged out
+  url: http://www.last.fm/tag/thugged%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: go jet set go
+  url: http://www.last.fm/tag/go%20jet%20set%20go
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dr dre
+  url: http://www.last.fm/tag/dr%20dre
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thegame
+  url: http://www.last.fm/tag/thegame
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lil wayne
+  url: http://www.last.fm/tag/lil%20wayne
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blackwallstreet
+  url: http://www.last.fm/tag/blackwallstreet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nwa
+  url: http://www.last.fm/tag/nwa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: videogame
+  url: http://www.last.fm/tag/videogame
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: la
+  url: http://www.last.fm/tag/la
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: conscious rap
+  url: http://www.last.fm/tag/conscious%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: produced by the neptunes
+  url: http://www.last.fm/tag/produced%20by%20the%20neptunes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: video game
+  url: http://www.last.fm/tag/video%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: east coast rap
+  url: http://www.last.fm/tag/east%20coast%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: britpop
+  url: http://www.last.fm/tag/britpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american rap
+  url: http://www.last.fm/tag/american%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neptunes
+  url: http://www.last.fm/tag/neptunes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy hitter
+  url: http://www.last.fm/tag/heavy%20hitter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hate it or love it
+  url: http://www.last.fm/tag/hate%20it%20or%20love%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: west coast hip-hop
+  url: http://www.last.fm/tag/west%20coast%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo soul
+  url: http://www.last.fm/tag/neo%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: create new tag
+  url: http://www.last.fm/tag/create%20new%20tag
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: young buck
+  url: http://www.last.fm/tag/young%20buck
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reflective
+  url: http://www.last.fm/tag/reflective
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legend
+  url: http://www.last.fm/tag/legend

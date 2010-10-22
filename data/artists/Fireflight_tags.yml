@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: christian rock
+  url: http://www.last.fm/tag/christian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "84"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "82"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "73"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "48"
+  name: christian
+  url: http://www.last.fm/tag/christian
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: fireflight
+  url: http://www.last.fm/tag/fireflight
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: post-grunge
+  url: http://www.last.fm/tag/post-grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female rock
+  url: http://www.last.fm/tag/female%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female-fronted
+  url: http://www.last.fm/tag/female-fronted
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female fronted metal
+  url: http://www.last.fm/tag/female%20fronted%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female fronted rock
+  url: http://www.last.fm/tag/female%20fronted%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: christian metal
+  url: http://www.last.fm/tag/christian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: florida
+  url: http://www.last.fm/tag/florida
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: contemporary christian
+  url: http://www.last.fm/tag/contemporary%20christian
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern-rock
+  url: http://www.last.fm/tag/modern-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rocklady
+  url: http://www.last.fm/tag/rocklady
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: flevo 2008
+  url: http://www.last.fm/tag/flevo%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl rock
+  url: http://www.last.fm/tag/girl%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: orgasm for my ears
+  url: http://www.last.fm/tag/orgasm%20for%20my%20ears
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female singer
+  url: http://www.last.fm/tag/female%20singer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern rock
+  url: http://www.last.fm/tag/modern%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: faves
+  url: http://www.last.fm/tag/faves
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: discoverockult
+  url: http://www.last.fm/tag/discoverockult
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: flevo
+  url: http://www.last.fm/tag/flevo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female fronted christian metal
+  url: http://www.last.fm/tag/female%20fronted%20christian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: great
+  url: http://www.last.fm/tag/great
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: unbreakable
+  url: http://www.last.fm/tag/unbreakable
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flevo festival 2008
+  url: http://www.last.fm/tag/flevo%20festival%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: paramore
+  url: http://www.last.fm/tag/paramore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: femal fronted rock
+  url: http://www.last.fm/tag/femal%20fronted%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: religious
+  url: http://www.last.fm/tag/religious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian alternative rock
+  url: http://www.last.fm/tag/christian%20alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian hard rock
+  url: http://www.last.fm/tag/christian%20hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to buy
+  url: http://www.last.fm/tag/want%20to%20buy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live
+  url: http://www.last.fm/tag/live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: uplifting
+  url: http://www.last.fm/tag/uplifting
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aggressive
+  url: http://www.last.fm/tag/aggressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new metal
+  url: http://www.last.fm/tag/new%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: powerful
+  url: http://www.last.fm/tag/powerful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slick
+  url: http://www.last.fm/tag/slick
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flyleaf
+  url: http://www.last.fm/tag/flyleaf
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: band
+  url: http://www.last.fm/tag/band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: its the best shit right here
+  url: http://www.last.fm/tag/its%20the%20best%20shit%20right%20here
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian female fronted metal
+  url: http://www.last.fm/tag/christian%20female%20fronted%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian female-fronted metal
+  url: http://www.last.fm/tag/christian%20female-fronted%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female-fronted christian metal
+  url: http://www.last.fm/tag/female-fronted%20christian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: greatest female vocalists
+  url: http://www.last.fm/tag/greatest%20female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: empfehlungen
+  url: http://www.last.fm/tag/empfehlungen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vazgecilmezler
+  url: http://www.last.fm/tag/vazgecilmezler
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: very favorite
+  url: http://www.last.fm/tag/very%20favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: needmorefromthisartist
+  url: http://www.last.fm/tag/needmorefromthisartist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love you guys
+  url: http://www.last.fm/tag/love%20you%20guys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian nu metal
+  url: http://www.last.fm/tag/christian%20nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: super track
+  url: http://www.last.fm/tag/super%20track
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fem vocal
+  url: http://www.last.fm/tag/fem%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flicker
+  url: http://www.last.fm/tag/flicker
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: god bless the world
+  url: http://www.last.fm/tag/god%20bless%20the%20world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: diego
+  url: http://www.last.fm/tag/diego
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard nurock
+  url: http://www.last.fm/tag/hard%20nurock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian rock band
+  url: http://www.last.fm/tag/christian%20rock%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power vocal
+  url: http://www.last.fm/tag/power%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: femmale vocal
+  url: http://www.last.fm/tag/femmale%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock rock and more rock
+  url: http://www.last.fm/tag/rock%20rock%20and%20more%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative female
+  url: http://www.last.fm/tag/alternative%20female
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: femal fronted
+  url: http://www.last.fm/tag/femal%20fronted
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian alternative metal
+  url: http://www.last.fm/tag/christian%20alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: godly girls
+  url: http://www.last.fm/tag/godly%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: katy perrie
+  url: http://www.last.fm/tag/katy%20perrie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome christian rock
+  url: http://www.last.fm/tag/awesome%20christian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: you gave me a promisse
+  url: http://www.last.fm/tag/you%20gave%20me%20a%20promisse
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: in recommendation of rpu4
+  url: http://www.last.fm/tag/in%20recommendation%20of%20rpu4
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: diego 12
+  url: http://www.last.fm/tag/diego%2012
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jesus 12
+  url: http://www.last.fm/tag/jesus%2012
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top christian
+  url: http://www.last.fm/tag/top%20christian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female doft rock
+  url: http://www.last.fm/tag/female%20doft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: so help me god
+  url: http://www.last.fm/tag/so%20help%20me%20god
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite song in album
+  url: http://www.last.fm/tag/favourite%20song%20in%20album
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flevo festival
+  url: http://www.last.fm/tag/flevo%20festival

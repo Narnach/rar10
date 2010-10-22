@@ -1,0 +1,73 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: austrian
+  url: http://www.last.fm/tag/austrian
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: mantra
+  url: http://www.last.fm/tag/mantra
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: sad
+  url: http://www.last.fm/tag/sad
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: ultra music festival 2008
+  url: http://www.last.fm/tag/ultra%20music%20festival%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: finnish
+  url: http://www.last.fm/tag/finnish
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: christian indie
+  url: http://www.last.fm/tag/christian%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: demoscene
+  url: http://www.last.fm/tag/demoscene
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: c64
+  url: http://www.last.fm/tag/c64
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: scenemusic
+  url: http://www.last.fm/tag/scenemusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hat den weg nach leoben gefunden
+  url: http://www.last.fm/tag/hat%20den%20weg%20nach%20leoben%20gefunden
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to check out later
+  url: http://www.last.fm/tag/to%20check%20out%20later
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic

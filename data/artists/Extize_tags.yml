@@ -1,0 +1,109 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: dark electro
+  url: http://www.last.fm/tag/dark%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: ebm
+  url: http://www.last.fm/tag/ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: powernoise
+  url: http://www.last.fm/tag/powernoise
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: electro-industrial
+  url: http://www.last.fm/tag/electro-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: french
+  url: http://www.last.fm/tag/french
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: harsh ebm
+  url: http://www.last.fm/tag/harsh%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: cyber
+  url: http://www.last.fm/tag/cyber
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: darklight
+  url: http://www.last.fm/tag/darklight
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: industrial rave
+  url: http://www.last.fm/tag/industrial%20rave
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: ok
+  url: http://www.last.fm/tag/ok
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: tbm
+  url: http://www.last.fm/tag/tbm
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cyber industrial
+  url: http://www.last.fm/tag/cyber%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cyberpunk
+  url: http://www.last.fm/tag/cyberpunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rave
+  url: http://www.last.fm/tag/rave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: horrible crap
+  url: http://www.last.fm/tag/horrible%20crap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: terrorbanana
+  url: http://www.last.fm/tag/terrorbanana
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goffpop
+  url: http://www.last.fm/tag/goffpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: red haired
+  url: http://www.last.fm/tag/red%20haired
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: green haired
+  url: http://www.last.fm/tag/green%20haired
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cyber electro dark
+  url: http://www.last.fm/tag/cyber%20electro%20dark

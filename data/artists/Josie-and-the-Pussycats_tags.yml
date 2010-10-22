@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "88"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "64"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "55"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: bubblegum
+  url: http://www.last.fm/tag/bubblegum
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: guilty pleasure
+  url: http://www.last.fm/tag/guilty%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: female artists
+  url: http://www.last.fm/tag/female%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: josie and the pussycats
+  url: http://www.last.fm/tag/josie%20and%20the%20pussycats
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: fun
+  url: http://www.last.fm/tag/fun
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: punk pop
+  url: http://www.last.fm/tag/punk%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: fictional
+  url: http://www.last.fm/tag/fictional
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: power pop
+  url: http://www.last.fm/tag/power%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: letters to cleo
+  url: http://www.last.fm/tag/letters%20to%20cleo
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female fronted
+  url: http://www.last.fm/tag/female%20fronted
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rosario dawson
+  url: http://www.last.fm/tag/rosario%20dawson
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: girlie rock
+  url: http://www.last.fm/tag/girlie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: girls
+  url: http://www.last.fm/tag/girls
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: chick rock
+  url: http://www.last.fm/tag/chick%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: a all female group
+  url: http://www.last.fm/tag/a%20all%20female%20group
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: punk-pop
+  url: http://www.last.fm/tag/punk-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: girl groups
+  url: http://www.last.fm/tag/girl%20groups
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: teen pop
+  url: http://www.last.fm/tag/teen%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: movie soundtrack
+  url: http://www.last.fm/tag/movie%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: poppy
+  url: http://www.last.fm/tag/poppy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gals
+  url: http://www.last.fm/tag/gals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: howthisgotonmylist
+  url: http://www.last.fm/tag/howthisgotonmylist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awsum luvr
+  url: http://www.last.fm/tag/awsum%20luvr
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hardpop
+  url: http://www.last.fm/tag/hardpop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jordanfm
+  url: http://www.last.fm/tag/jordanfm
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl vocals
+  url: http://www.last.fm/tag/girl%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: backing vocals
+  url: http://www.last.fm/tag/backing%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pretty cool
+  url: http://www.last.fm/tag/pretty%20cool
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: women in rock
+  url: http://www.last.fm/tag/women%20in%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mew
+  url: http://www.last.fm/tag/mew
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: woah my gosh
+  url: http://www.last.fm/tag/woah%20my%20gosh
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cartoon pop
+  url: http://www.last.fm/tag/cartoon%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: wooees
+  url: http://www.last.fm/tag/wooees
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dont judge me
+  url: http://www.last.fm/tag/dont%20judge%20me
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gurka
+  url: http://www.last.fm/tag/gurka
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock chick
+  url: http://www.last.fm/tag/rock%20chick
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtracks and scores
+  url: http://www.last.fm/tag/soundtracks%20and%20scores
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pretty female vocals
+  url: http://www.last.fm/tag/pretty%20female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: day
+  url: http://www.last.fm/tag/day
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ghetto
+  url: http://www.last.fm/tag/ghetto
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: josie
+  url: http://www.last.fm/tag/josie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hanna babera
+  url: http://www.last.fm/tag/hanna%20babera
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jossie and the pussycats
+  url: http://www.last.fm/tag/jossie%20and%20the%20pussycats
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blonde haired
+  url: http://www.last.fm/tag/blonde%20haired
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: red haired
+  url: http://www.last.fm/tag/red%20haired
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i apologize for nothing
+  url: http://www.last.fm/tag/i%20apologize%20for%20nothing
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: all girl aka pillow fights and teaching each other how to kiss
+  url: http://www.last.fm/tag/all%20girl%20aka%20pillow%20fights%20and%20teaching%20each%20other%20how%20to%20kiss
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: artist devotion
+  url: http://www.last.fm/tag/artist%20devotion
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fluffy mew kitty
+  url: http://www.last.fm/tag/fluffy%20mew%20kitty
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spot the super kitty super favorites
+  url: http://www.last.fm/tag/spot%20the%20super%20kitty%20super%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chica vocalista
+  url: http://www.last.fm/tag/chica%20vocalista
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hanna-barbera
+  url: http://www.last.fm/tag/hanna-barbera
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ficticious bands
+  url: http://www.last.fm/tag/ficticious%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl bad
+  url: http://www.last.fm/tag/girl%20bad
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chanteuse sexy
+  url: http://www.last.fm/tag/chanteuse%20sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: music to pet kitties by
+  url: http://www.last.fm/tag/music%20to%20pet%20kitties%20by
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bubblegum dance
+  url: http://www.last.fm/tag/bubblegum%20dance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fictional band
+  url: http://www.last.fm/tag/fictional%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: steveadamsfm
+  url: http://www.last.fm/tag/steveadamsfm
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bobbys shit
+  url: http://www.last.fm/tag/bobbys%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cartoon bands
+  url: http://www.last.fm/tag/cartoon%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: comic bokks
+  url: http://www.last.fm/tag/comic%20bokks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nouska
+  url: http://www.last.fm/tag/nouska
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: faux band
+  url: http://www.last.fm/tag/faux%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: that music
+  url: http://www.last.fm/tag/that%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kay hanley
+  url: http://www.last.fm/tag/kay%20hanley
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: allways good to hear
+  url: http://www.last.fm/tag/allways%20good%20to%20hear
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tara reid
+  url: http://www.last.fm/tag/tara%20reid
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fictitious
+  url: http://www.last.fm/tag/fictitious
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jerkin
+  url: http://www.last.fm/tag/jerkin
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singing ladies
+  url: http://www.last.fm/tag/singing%20ladies
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: throwback
+  url: http://www.last.fm/tag/throwback
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the artists
+  url: http://www.last.fm/tag/the%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fuck
+  url: http://www.last.fm/tag/fuck
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop-punk
+  url: http://www.last.fm/tag/pop-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: catchy
+  url: http://www.last.fm/tag/catchy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: all
+  url: http://www.last.fm/tag/all
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl power
+  url: http://www.last.fm/tag/girl%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lyrics
+  url: http://www.last.fm/tag/lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cartoon
+  url: http://www.last.fm/tag/cartoon
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guilty pleasures
+  url: http://www.last.fm/tag/guilty%20pleasures
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cute
+  url: http://www.last.fm/tag/cute

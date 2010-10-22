@@ -1,0 +1,77 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "80"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "60"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: nu jazz
+  url: http://www.last.fm/tag/nu%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: cafe del mar
+  url: http://www.last.fm/tag/cafe%20del%20mar
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: relaxing cafe
+  url: http://www.last.fm/tag/relaxing%20cafe
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: nu-bluz funky grooves in the e-lounge
+  url: http://www.last.fm/tag/nu-bluz%20funky%20grooves%20in%20the%20e-lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: nu-bluz
+  url: http://www.last.fm/tag/nu-bluz
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: electronic-lounge
+  url: http://www.last.fm/tag/electronic-lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: deep house
+  url: http://www.last.fm/tag/deep%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: groove
+  url: http://www.last.fm/tag/groove
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: idm
+  url: http://www.last.fm/tag/idm
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acid jazz
+  url: http://www.last.fm/tag/acid%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live

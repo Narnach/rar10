@@ -1,0 +1,117 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: melodic hardcore
+  url: http://www.last.fm/tag/melodic%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: j-rock
+  url: http://www.last.fm/tag/j-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: skate punk
+  url: http://www.last.fm/tag/skate%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: j - r o c k
+  url: http://www.last.fm/tag/j%20-%20r%20o%20c%20k
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: rock progressivo italiano
+  url: http://www.last.fm/tag/rock%20progressivo%20italiano
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: technical punk
+  url: http://www.last.fm/tag/technical%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: fast drumming
+  url: http://www.last.fm/tag/fast%20drumming
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: j-alternative
+  url: http://www.last.fm/tag/j-alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: dark electro
+  url: http://www.last.fm/tag/dark%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: japanese indie
+  url: http://www.last.fm/tag/japanese%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: melodic punk
+  url: http://www.last.fm/tag/melodic%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: neo-prog
+  url: http://www.last.fm/tag/neo-prog
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: male vocals
+  url: http://www.last.fm/tag/male%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: italian progressive rock
+  url: http://www.last.fm/tag/italian%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: j-punk
+  url: http://www.last.fm/tag/j-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: pop-punk
+  url: http://www.last.fm/tag/pop-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: japanese rock
+  url: http://www.last.fm/tag/japanese%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: jrock
+  url: http://www.last.fm/tag/jrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore

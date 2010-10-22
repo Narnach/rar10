@@ -1,0 +1,141 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "84"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "76"
+  name: abstract
+  url: http://www.last.fm/tag/abstract
+- !ruby/object:Scrobbler::Tag 
+  count: "69"
+  name: idm
+  url: http://www.last.fm/tag/idm
+- !ruby/object:Scrobbler::Tag 
+  count: "61"
+  name: glitch
+  url: http://www.last.fm/tag/glitch
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: glitchcore
+  url: http://www.last.fm/tag/glitchcore
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: miami
+  url: http://www.last.fm/tag/miami
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: the vitamin b12
+  url: http://www.last.fm/tag/the%20vitamin%20b12
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: miami artists
+  url: http://www.last.fm/tag/miami%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: darbolistic rex
+  url: http://www.last.fm/tag/darbolistic%20rex
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: rhythmic structures
+  url: http://www.last.fm/tag/rhythmic%20structures
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: lick my lollypop
+  url: http://www.last.fm/tag/lick%20my%20lollypop
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: rolax records
+  url: http://www.last.fm/tag/rolax%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: ranchh recordings
+  url: http://www.last.fm/tag/ranchh%20recordings
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: morceaux magnificient
+  url: http://www.last.fm/tag/morceaux%20magnificient
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: aphex twins
+  url: http://www.last.fm/tag/aphex%20twins
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: i am
+  url: http://www.last.fm/tag/i%20am
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: david bowie
+  url: http://www.last.fm/tag/david%20bowie
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: bands ive seen live
+  url: http://www.last.fm/tag/bands%20ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: gorillaz
+  url: http://www.last.fm/tag/gorillaz
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: pink floyd
+  url: http://www.last.fm/tag/pink%20floyd
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: netlabel
+  url: http://www.last.fm/tag/netlabel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic compositions
+  url: http://www.last.fm/tag/electronic%20compositions
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: strange
+  url: http://www.last.fm/tag/strange
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acousmatique
+  url: http://www.last.fm/tag/acousmatique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: montage
+  url: http://www.last.fm/tag/montage
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: netmusic
+  url: http://www.last.fm/tag/netmusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clinical archives
+  url: http://www.last.fm/tag/clinical%20archives

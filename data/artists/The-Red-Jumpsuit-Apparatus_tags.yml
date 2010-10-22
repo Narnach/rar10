@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "98"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "95"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "74"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "70"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: emocore
+  url: http://www.last.fm/tag/emocore
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: the red jumpsuit apparatus
+  url: http://www.last.fm/tag/the%20red%20jumpsuit%20apparatus
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pop-punk
+  url: http://www.last.fm/tag/pop-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: florida
+  url: http://www.last.fm/tag/florida
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: bands so far i really really liked
+  url: http://www.last.fm/tag/bands%20so%20far%20i%20really%20really%20liked
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: red jumpsuit apparatus
+  url: http://www.last.fm/tag/red%20jumpsuit%20apparatus
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not emo
+  url: http://www.last.fm/tag/not%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not screamo
+  url: http://www.last.fm/tag/not%20screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo rock
+  url: http://www.last.fm/tag/emo%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "&lt;3"
+  url: http://www.last.fm/tag/%3C3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mall emo
+  url: http://www.last.fm/tag/mall%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: powerpop
+  url: http://www.last.fm/tag/powerpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: warped 07
+  url: http://www.last.fm/tag/warped%2007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ive always had a soft spot for guys who sing whoa-oh
+  url: http://www.last.fm/tag/ive%20always%20had%20a%20soft%20spot%20for%20guys%20who%20sing%20whoa-oh
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christian
+  url: http://www.last.fm/tag/christian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i like
+  url: http://www.last.fm/tag/i%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: face down
+  url: http://www.last.fm/tag/face%20down
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk-rock
+  url: http://www.last.fm/tag/punk-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power pop
+  url: http://www.last.fm/tag/power%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trja
+  url: http://www.last.fm/tag/trja
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emotional
+  url: http://www.last.fm/tag/emotional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite bands
+  url: http://www.last.fm/tag/favorite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: must listen
+  url: http://www.last.fm/tag/must%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live
+  url: http://www.last.fm/tag/live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: main stream
+  url: http://www.last.fm/tag/main%20stream
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo screamo
+  url: http://www.last.fm/tag/emo%20screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo punk
+  url: http://www.last.fm/tag/emo%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: us
+  url: http://www.last.fm/tag/us
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poppunk
+  url: http://www.last.fm/tag/poppunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ignore your mom music
+  url: http://www.last.fm/tag/ignore%20your%20mom%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stupid band names
+  url: http://www.last.fm/tag/stupid%20band%20names
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jacksonville
+  url: http://www.last.fm/tag/jacksonville
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: screamadelic rock
+  url: http://www.last.fm/tag/screamadelic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great
+  url: http://www.last.fm/tag/great
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bubblegum punk
+  url: http://www.last.fm/tag/bubblegum%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: uber awesome
+  url: http://www.last.fm/tag/uber%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: story of the year
+  url: http://www.last.fm/tag/story%20of%20the%20year
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundwave 09
+  url: http://www.last.fm/tag/soundwave%2009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mainstream
+  url: http://www.last.fm/tag/mainstream
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: popunk
+  url: http://www.last.fm/tag/popunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pumped
+  url: http://www.last.fm/tag/pumped
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: interested
+  url: http://www.last.fm/tag/interested
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: altrock
+  url: http://www.last.fm/tag/altrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great songs lol yay
+  url: http://www.last.fm/tag/great%20songs%20lol%20yay
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tso
+  url: http://www.last.fm/tag/tso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternativ
+  url: http://www.last.fm/tag/alternativ
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo pop
+  url: http://www.last.fm/tag/emo%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love this band
+  url: http://www.last.fm/tag/love%20this%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative-rock
+  url: http://www.last.fm/tag/alternative-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modern boyband
+  url: http://www.last.fm/tag/modern%20boyband
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better than you
+  url: http://www.last.fm/tag/better%20than%20you
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: america
+  url: http://www.last.fm/tag/america
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funky
+  url: http://www.last.fm/tag/funky
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: united states
+  url: http://www.last.fm/tag/united%20states
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-harcore
+  url: http://www.last.fm/tag/post-harcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: band
+  url: http://www.last.fm/tag/band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love them
+  url: http://www.last.fm/tag/love%20them
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the red jumpstuit apparatus
+  url: http://www.last.fm/tag/the%20red%20jumpstuit%20apparatus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "self-described as: an interesting blend between nsync and led zeppelin"
+  url: http://www.last.fm/tag/self-described%20as%3A%20an%20interesting%20blend%20between%20nsync%20and%20led%20zeppelin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands i have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore

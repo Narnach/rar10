@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: electric blues
+  url: http://www.last.fm/tag/electric%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: classic blues
+  url: http://www.last.fm/tag/classic%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: texas blues
+  url: http://www.last.fm/tag/texas%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: freddie king
+  url: http://www.last.fm/tag/freddie%20king
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: texas
+  url: http://www.last.fm/tag/texas
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: chicago blues
+  url: http://www.last.fm/tag/chicago%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: allboutguitar
+  url: http://www.last.fm/tag/allboutguitar
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: karlsruhe
+  url: http://www.last.fm/tag/karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: blues guitar
+  url: http://www.last.fm/tag/blues%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: radio karlsruhe
+  url: http://www.last.fm/tag/radio%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gitarrenunterricht in karlsruhe
+  url: http://www.last.fm/tag/gitarrenunterricht%20in%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: allboutguitarcom
+  url: http://www.last.fm/tag/allboutguitarcom
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: musik karlsruhe
+  url: http://www.last.fm/tag/musik%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blues-rockclub
+  url: http://www.last.fm/tag/blues-rockclub
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: allboutguitar lesson
+  url: http://www.last.fm/tag/allboutguitar%20lesson
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guitar karlsruhe
+  url: http://www.last.fm/tag/guitar%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rhythm and blues
+  url: http://www.last.fm/tag/rhythm%20and%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electric texas blues
+  url: http://www.last.fm/tag/electric%20texas%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blues und rockclub karlsruhe
+  url: http://www.last.fm/tag/blues%20und%20rockclub%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues und rock club karlsruhe
+  url: http://www.last.fm/tag/blues%20und%20rock%20club%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: southern rock
+  url: http://www.last.fm/tag/southern%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musik
+  url: http://www.last.fm/tag/musik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british blues
+  url: http://www.last.fm/tag/british%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allbout guitar lessons - blues workshops karlsruhe
+  url: http://www.last.fm/tag/allbout%20guitar%20lessons%20-%20blues%20workshops%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allboutguitar lessons - blues workshops
+  url: http://www.last.fm/tag/allboutguitar%20lessons%20-%20blues%20workshops
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: buy
+  url: http://www.last.fm/tag/buy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r 'n' b
+  url: http://www.last.fm/tag/r%20%27n%27%20b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lautfmbluesclub
+  url: http://www.last.fm/tag/lautfmbluesclub
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: midnight blues
+  url: http://www.last.fm/tag/midnight%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wwwlautfmbluesclub
+  url: http://www.last.fm/tag/wwwlautfmbluesclub
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allboutguitar hamburg
+  url: http://www.last.fm/tag/allboutguitar%20hamburg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues-rock
+  url: http://www.last.fm/tag/blues-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar virtuoso
+  url: http://www.last.fm/tag/guitar%20virtuoso
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot favs
+  url: http://www.last.fm/tag/hot%20favs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rockin
+  url: http://www.last.fm/tag/rockin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorite blues
+  url: http://www.last.fm/tag/my%20favorite%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gitarrenunterricht berlin
+  url: http://www.last.fm/tag/gitarrenunterricht%20berlin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff
+  url: http://www.last.fm/tag/stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electric blues guitar
+  url: http://www.last.fm/tag/electric%20blues%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blueslist
+  url: http://www.last.fm/tag/blueslist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: radio berlin
+  url: http://www.last.fm/tag/radio%20berlin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic blues rock
+  url: http://www.last.fm/tag/classic%20blues%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: boogiewoogieflu
+  url: http://www.last.fm/tag/boogiewoogieflu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: udoblues
+  url: http://www.last.fm/tag/udoblues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 2blue
+  url: http://www.last.fm/tag/2blue
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bluesinbologna
+  url: http://www.last.fm/tag/bluesinbologna
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bluesclubka
+  url: http://www.last.fm/tag/bluesclubka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: surblues
+  url: http://www.last.fm/tag/surblues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: inne liszaj radio
+  url: http://www.last.fm/tag/inne%20liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: abg
+  url: http://www.last.fm/tag/abg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ikb
+  url: http://www.last.fm/tag/ikb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: berlin
+  url: http://www.last.fm/tag/berlin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: going down feddie king
+  url: http://www.last.fm/tag/going%20down%20feddie%20king
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nigga stole ma bike
+  url: http://www.last.fm/tag/nigga%20stole%20ma%20bike
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jeffbeck allboutguitar brcbluesband srv bluesrockclub
+  url: http://www.last.fm/tag/jeffbeck%20allboutguitar%20brcbluesband%20srv%20bluesrockclub
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allboutguitarlesson karlsruhe
+  url: http://www.last.fm/tag/allboutguitarlesson%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spraydioter
+  url: http://www.last.fm/tag/spraydioter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roosteri
+  url: http://www.last.fm/tag/roosteri
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues-rock in deutschland
+  url: http://www.last.fm/tag/blues-rock%20in%20deutschland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues-rock in germany
+  url: http://www.last.fm/tag/blues-rock%20in%20germany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: delta blues
+  url: http://www.last.fm/tag/delta%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bluesclub karlsruhe
+  url: http://www.last.fm/tag/bluesclub%20karlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vocal
+  url: http://www.last.fm/tag/vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rockbluesradiokarlsruhe
+  url: http://www.last.fm/tag/rockbluesradiokarlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bluesrockradiokarlsruhe
+  url: http://www.last.fm/tag/bluesrockradiokarlsruhe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electric blues guitarist
+  url: http://www.last.fm/tag/electric%20blues%20guitarist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rlfav
+  url: http://www.last.fm/tag/rlfav
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nc
+  url: http://www.last.fm/tag/nc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar heroe
+  url: http://www.last.fm/tag/guitar%20heroe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hear more
+  url: http://www.last.fm/tag/hear%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot
+  url: http://www.last.fm/tag/hot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: santana
+  url: http://www.last.fm/tag/santana
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electric blues rock
+  url: http://www.last.fm/tag/electric%20blues%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer
+  url: http://www.last.fm/tag/singer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musician
+  url: http://www.last.fm/tag/musician
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: teens
+  url: http://www.last.fm/tag/teens
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kari
+  url: http://www.last.fm/tag/kari
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bbking
+  url: http://www.last.fm/tag/bbking
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar blues
+  url: http://www.last.fm/tag/guitar%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modern electric texas blues
+  url: http://www.last.fm/tag/modern%20electric%20texas%20blues

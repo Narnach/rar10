@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "76"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "65"
+  name: finnish
+  url: http://www.last.fm/tag/finnish
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "24"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: finnish rock
+  url: http://www.last.fm/tag/finnish%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: poets of the fall
+  url: http://www.last.fm/tag/poets%20of%20the%20fall
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: suomi
+  url: http://www.last.fm/tag/suomi
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: finland
+  url: http://www.last.fm/tag/finland
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: melodic rock
+  url: http://www.last.fm/tag/melodic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post-grunge
+  url: http://www.last.fm/tag/post-grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern rock
+  url: http://www.last.fm/tag/modern%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: scandinavian
+  url: http://www.last.fm/tag/scandinavian
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: potf
+  url: http://www.last.fm/tag/potf
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: max payne
+  url: http://www.last.fm/tag/max%20payne
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post grunge
+  url: http://www.last.fm/tag/post%20grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noir rock
+  url: http://www.last.fm/tag/noir%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lyrical
+  url: http://www.last.fm/tag/lyrical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grunge
+  url: http://www.last.fm/tag/grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poets
+  url: http://www.last.fm/tag/poets
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "&lt;3"
+  url: http://www.last.fm/tag/%3C3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my finnish favourites
+  url: http://www.last.fm/tag/my%20finnish%20favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noir
+  url: http://www.last.fm/tag/noir
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alt rock
+  url: http://www.last.fm/tag/alt%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fuckin good music
+  url: http://www.last.fm/tag/fuckin%20good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bestsongs
+  url: http://www.last.fm/tag/bestsongs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vocal
+  url: http://www.last.fm/tag/vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: people who make my world a better place for one reason or another
+  url: http://www.last.fm/tag/people%20who%20make%20my%20world%20a%20better%20place%20for%20one%20reason%20or%20another
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: driving
+  url: http://www.last.fm/tag/driving
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ilosaarirock 2006
+  url: http://www.last.fm/tag/ilosaarirock%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suomirock
+  url: http://www.last.fm/tag/suomirock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suomi rock
+  url: http://www.last.fm/tag/suomi%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: autumn
+  url: http://www.last.fm/tag/autumn
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ruisrock 2007
+  url: http://www.last.fm/tag/ruisrock%202007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite songs
+  url: http://www.last.fm/tag/favorite%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: finnish and streamable
+  url: http://www.last.fm/tag/finnish%20and%20streamable
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: finnish music
+  url: http://www.last.fm/tag/finnish%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite bands
+  url: http://www.last.fm/tag/favorite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: max payne 2
+  url: http://www.last.fm/tag/max%20payne%202
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best
+  url: http://www.last.fm/tag/best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best lyrics
+  url: http://www.last.fm/tag/best%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poprock
+  url: http://www.last.fm/tag/poprock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goodsongs
+  url: http://www.last.fm/tag/goodsongs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sentimental
+  url: http://www.last.fm/tag/sentimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: outstanding
+  url: http://www.last.fm/tag/outstanding
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: real music
+  url: http://www.last.fm/tag/real%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: faves
+  url: http://www.last.fm/tag/faves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good stuff
+  url: http://www.last.fm/tag/good%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: calm
+  url: http://www.last.fm/tag/calm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: independent rock
+  url: http://www.last.fm/tag/independent%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my music
+  url: http://www.last.fm/tag/my%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock ballad
+  url: http://www.last.fm/tag/rock%20ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emotion
+  url: http://www.last.fm/tag/emotion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nordic
+  url: http://www.last.fm/tag/nordic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft
+  url: http://www.last.fm/tag/soft
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poets of the fall potf rock finnish alternative
+  url: http://www.last.fm/tag/poets%20of%20the%20fall%20potf%20rock%20finnish%20alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suomalaista
+  url: http://www.last.fm/tag/suomalaista
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great
+  url: http://www.last.fm/tag/great
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fine
+  url: http://www.last.fm/tag/fine

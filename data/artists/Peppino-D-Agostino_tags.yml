@@ -1,0 +1,61 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: fingerstyle guitarist
+  url: http://www.last.fm/tag/fingerstyle%20guitarist
+- !ruby/object:Scrobbler::Tag 
+  count: "63"
+  name: acoustic guitar
+  url: http://www.last.fm/tag/acoustic%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: fingerstyle
+  url: http://www.last.fm/tag/fingerstyle
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: italian
+  url: http://www.last.fm/tag/italian
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: guitarist
+  url: http://www.last.fm/tag/guitarist
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: singer
+  url: http://www.last.fm/tag/singer
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: steel guitar
+  url: http://www.last.fm/tag/steel%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: modern folk
+  url: http://www.last.fm/tag/modern%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: guitar master
+  url: http://www.last.fm/tag/guitar%20master

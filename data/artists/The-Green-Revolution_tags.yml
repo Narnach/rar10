@@ -1,0 +1,25 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: driving
+  url: http://www.last.fm/tag/driving
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: eclectic
+  url: http://www.last.fm/tag/eclectic
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: imaginative
+  url: http://www.last.fm/tag/imaginative
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: self-released
+  url: http://www.last.fm/tag/self-released

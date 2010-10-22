@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: latin
+  url: http://www.last.fm/tag/latin
+- !ruby/object:Scrobbler::Tag 
+  count: "46"
+  name: spanish
+  url: http://www.last.fm/tag/spanish
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: latin pop
+  url: http://www.last.fm/tag/latin%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: enrique iglesias
+  url: http://www.last.fm/tag/enrique%20iglesias
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: latino
+  url: http://www.last.fm/tag/latino
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: enrique
+  url: http://www.last.fm/tag/enrique
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spain
+  url: http://www.last.fm/tag/spain
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hot
+  url: http://www.last.fm/tag/hot
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guys i would fuck
+  url: http://www.last.fm/tag/guys%20i%20would%20fuck
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hero
+  url: http://www.last.fm/tag/hero
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: espanol
+  url: http://www.last.fm/tag/espanol
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: damn sexy man
+  url: http://www.last.fm/tag/damn%20sexy%20man
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dance-pop
+  url: http://www.last.fm/tag/dance-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spanish pop
+  url: http://www.last.fm/tag/spanish%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin dance
+  url: http://www.last.fm/tag/latin%20dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "espa\xC3\xB1ol"
+  url: http://www.last.fm/tag/espa%C3%B1ol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop latino
+  url: http://www.last.fm/tag/pop%20latino
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emotional
+  url: http://www.last.fm/tag/emotional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: party
+  url: http://www.last.fm/tag/party
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guilty pleasure
+  url: http://www.last.fm/tag/guilty%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best
+  url: http://www.last.fm/tag/best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ballad
+  url: http://www.last.fm/tag/ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin lover
+  url: http://www.last.fm/tag/latin%20lover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cute
+  url: http://www.last.fm/tag/cute
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kurwa mac ja pierdole to nie jest emo kurwa
+  url: http://www.last.fm/tag/kurwa%20mac%20ja%20pierdole%20to%20nie%20jest%20emo%20kurwa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: iglesias
+  url: http://www.last.fm/tag/iglesias
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baladas
+  url: http://www.last.fm/tag/baladas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocals
+  url: http://www.last.fm/tag/male%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the best latin pop music
+  url: http://www.last.fm/tag/the%20best%20latin%20pop%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: celtic
+  url: http://www.last.fm/tag/celtic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: man power
+  url: http://www.last.fm/tag/man%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guilty pleasures
+  url: http://www.last.fm/tag/guilty%20pleasures
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: could i have this kiss forever
+  url: http://www.last.fm/tag/could%20i%20have%20this%20kiss%20forever
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: romantica
+  url: http://www.last.fm/tag/romantica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: francais
+  url: http://www.last.fm/tag/francais
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latina
+  url: http://www.last.fm/tag/latina
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tired of being sorry
+  url: http://www.last.fm/tag/tired%20of%20being%20sorry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: super
+  url: http://www.last.fm/tag/super
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: balada
+  url: http://www.last.fm/tag/balada
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite songs
+  url: http://www.last.fm/tag/favourite%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: basura
+  url: http://www.last.fm/tag/basura
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: international
+  url: http://www.last.fm/tag/international
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bailamos
+  url: http://www.last.fm/tag/bailamos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin lovers
+  url: http://www.last.fm/tag/latin%20lovers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocal
+  url: http://www.last.fm/tag/male%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brutal death metal
+  url: http://www.last.fm/tag/brutal%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brian littrell
+  url: http://www.last.fm/tag/brian%20littrell
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ciara
+  url: http://www.last.fm/tag/ciara
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the best
+  url: http://www.last.fm/tag/the%20best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love songs
+  url: http://www.last.fm/tag/love%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: howie dorough
+  url: http://www.last.fm/tag/howie%20dorough
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: backstreet boys
+  url: http://www.last.fm/tag/backstreet%20boys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: duet
+  url: http://www.last.fm/tag/duet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top 40
+  url: http://www.last.fm/tag/top%2040
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: enrique iglesias feat pitbull
+  url: http://www.last.fm/tag/enrique%20iglesias%20feat%20pitbull
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baby i like it
+  url: http://www.last.fm/tag/baby%20i%20like%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: enriqe
+  url: http://www.last.fm/tag/enriqe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: huje z radia
+  url: http://www.last.fm/tag/huje%20z%20radia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brutal hardcore pagan death metal
+  url: http://www.last.fm/tag/brutal%20hardcore%20pagan%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: enrique lglesias
+  url: http://www.last.fm/tag/enrique%20lglesias
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: viva el amor
+  url: http://www.last.fm/tag/viva%20el%20amor
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jesus i hate this
+  url: http://www.last.fm/tag/jesus%20i%20hate%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trauma from my childhood
+  url: http://www.last.fm/tag/trauma%20from%20my%20childhood
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: niech mowia ze to nie rubik
+  url: http://www.last.fm/tag/niech%20mowia%20ze%20to%20nie%20rubik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: popowe disco-polo
+  url: http://www.last.fm/tag/popowe%20disco-polo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pedocore
+  url: http://www.last.fm/tag/pedocore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin romantic
+  url: http://www.last.fm/tag/latin%20romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bobbys shit
+  url: http://www.last.fm/tag/bobbys%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aj mclean
+  url: http://www.last.fm/tag/aj%20mclean
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: do you know
+  url: http://www.last.fm/tag/do%20you%20know
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latino pop
+  url: http://www.last.fm/tag/latino%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latinos
+  url: http://www.last.fm/tag/latinos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: can you hear me
+  url: http://www.last.fm/tag/can%20you%20hear%20me

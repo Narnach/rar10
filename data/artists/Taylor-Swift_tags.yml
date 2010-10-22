@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "59"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "59"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: taylor swift
+  url: http://www.last.fm/tag/taylor%20swift
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: country pop
+  url: http://www.last.fm/tag/country%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: contemporary country
+  url: http://www.last.fm/tag/contemporary%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pop country
+  url: http://www.last.fm/tag/pop%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: modern country
+  url: http://www.last.fm/tag/modern%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: guilty pleasure
+  url: http://www.last.fm/tag/guilty%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: "&lt;3"
+  url: http://www.last.fm/tag/%3C3
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: taylor
+  url: http://www.last.fm/tag/taylor
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: teen pop
+  url: http://www.last.fm/tag/teen%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cute
+  url: http://www.last.fm/tag/cute
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love story
+  url: http://www.last.fm/tag/love%20story
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female country
+  url: http://www.last.fm/tag/female%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: adorable
+  url: http://www.last.fm/tag/adorable
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: talented
+  url: http://www.last.fm/tag/talented
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lovely
+  url: http://www.last.fm/tag/lovely
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer-songwriters
+  url: http://www.last.fm/tag/singer-songwriters
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: you cannot listen to this without singing along
+  url: http://www.last.fm/tag/you%20cannot%20listen%20to%20this%20without%20singing%20along
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: disney
+  url: http://www.last.fm/tag/disney
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: songwriter
+  url: http://www.last.fm/tag/songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing voices
+  url: http://www.last.fm/tag/amazing%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 2000s
+  url: http://www.last.fm/tag/2000s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female artists
+  url: http://www.last.fm/tag/female%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country divas
+  url: http://www.last.fm/tag/country%20divas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: people who make my world a better place for one reason or another
+  url: http://www.last.fm/tag/people%20who%20make%20my%20world%20a%20better%20place%20for%20one%20reason%20or%20another
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: diva
+  url: http://www.last.fm/tag/diva
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: catchy
+  url: http://www.last.fm/tag/catchy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fearless
+  url: http://www.last.fm/tag/fearless
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: linda
+  url: http://www.last.fm/tag/linda
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sweet
+  url: http://www.last.fm/tag/sweet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better than kanye west
+  url: http://www.last.fm/tag/better%20than%20kanye%20west
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love her
+  url: http://www.last.fm/tag/love%20her
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country-pop
+  url: http://www.last.fm/tag/country-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer
+  url: http://www.last.fm/tag/singer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female singers
+  url: http://www.last.fm/tag/female%20singers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite singers
+  url: http://www.last.fm/tag/favorite%20singers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: perfeita
+  url: http://www.last.fm/tag/perfeita
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: come to brazil
+  url: http://www.last.fm/tag/come%20to%20brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rawr
+  url: http://www.last.fm/tag/rawr
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot
+  url: http://www.last.fm/tag/hot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy to listen to
+  url: http://www.last.fm/tag/easy%20to%20listen%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best
+  url: http://www.last.fm/tag/best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top country ladies
+  url: http://www.last.fm/tag/top%20country%20ladies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: girly
+  url: http://www.last.fm/tag/girly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fifteen
+  url: http://www.last.fm/tag/fifteen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pennsylvania
+  url: http://www.last.fm/tag/pennsylvania
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avril lavigne
+  url: http://www.last.fm/tag/avril%20lavigne
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fun
+  url: http://www.last.fm/tag/fun
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovely ladies
+  url: http://www.last.fm/tag/lovely%20ladies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-rock
+  url: http://www.last.fm/tag/pop-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking awesome
+  url: http://www.last.fm/tag/fucking%20awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome country
+  url: http://www.last.fm/tag/awesome%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kanye was right
+  url: http://www.last.fm/tag/kanye%20was%20right
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: princess
+  url: http://www.last.fm/tag/princess
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wonderful
+  url: http://www.last.fm/tag/wonderful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: overrated
+  url: http://www.last.fm/tag/overrated
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the best
+  url: http://www.last.fm/tag/the%20best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my girls
+  url: http://www.last.fm/tag/my%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tgpop
+  url: http://www.last.fm/tag/tgpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: selena gomez
+  url: http://www.last.fm/tag/selena%20gomez
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gpop
+  url: http://www.last.fm/tag/gpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: maravilhosa
+  url: http://www.last.fm/tag/maravilhosa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: happy clappy
+  url: http://www.last.fm/tag/happy%20clappy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chickadees
+  url: http://www.last.fm/tag/chickadees
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorite women
+  url: http://www.last.fm/tag/my%20favorite%20women
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female voices
+  url: http://www.last.fm/tag/female%20voices

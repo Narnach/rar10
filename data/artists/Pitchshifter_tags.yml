@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "80"
+  name: industrial metal
+  url: http://www.last.fm/tag/industrial%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "38"
+  name: industrial rock
+  url: http://www.last.fm/tag/industrial%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: cyberpunk
+  url: http://www.last.fm/tag/cyberpunk
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: crossover
+  url: http://www.last.fm/tag/crossover
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nu metal
+  url: http://www.last.fm/tag/nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: drum n bass
+  url: http://www.last.fm/tag/drum%20n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: aggro-industrial
+  url: http://www.last.fm/tag/aggro-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nu-metal
+  url: http://www.last.fm/tag/nu-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nottingham
+  url: http://www.last.fm/tag/nottingham
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: industrial drum n bass
+  url: http://www.last.fm/tag/industrial%20drum%20n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: industrial death metal
+  url: http://www.last.fm/tag/industrial%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pitchshifter
+  url: http://www.last.fm/tag/pitchshifter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: digital hardcore
+  url: http://www.last.fm/tag/digital%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial-metal
+  url: http://www.last.fm/tag/industrial-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: england
+  url: http://www.last.fm/tag/england
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death industrial
+  url: http://www.last.fm/tag/death%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: angry
+  url: http://www.last.fm/tag/angry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum 'n bass
+  url: http://www.last.fm/tag/drum%20%27n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum and bass metal
+  url: http://www.last.fm/tag/drum%20and%20bass%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aggressive
+  url: http://www.last.fm/tag/aggressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electropunk
+  url: http://www.last.fm/tag/electropunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dnb
+  url: http://www.last.fm/tag/dnb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: united kingdom
+  url: http://www.last.fm/tag/united%20kingdom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ebm
+  url: http://www.last.fm/tag/ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: altar of the metal gods
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: altar of the metal gods industrial metal
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods%20industrial%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro punk
+  url: http://www.last.fm/tag/electro%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grrr
+  url: http://www.last.fm/tag/grrr
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitarbased
+  url: http://www.last.fm/tag/guitarbased
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen them live
+  url: http://www.last.fm/tag/seen%20them%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beat
+  url: http://www.last.fm/tag/beat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mizzmetrozmusic
+  url: http://www.last.fm/tag/mizzmetrozmusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ferocious
+  url: http://www.last.fm/tag/ferocious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: popular metal
+  url: http://www.last.fm/tag/popular%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nin wish they were this good
+  url: http://www.last.fm/tag/nin%20wish%20they%20were%20this%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nostalgic metal
+  url: http://www.last.fm/tag/nostalgic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic industrial
+  url: http://www.last.fm/tag/melodic%20industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: erm
+  url: http://www.last.fm/tag/erm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black and blues
+  url: http://www.last.fm/tag/black%20and%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brits
+  url: http://www.last.fm/tag/brits
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: east midlands
+  url: http://www.last.fm/tag/east%20midlands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome drummers
+  url: http://www.last.fm/tag/awesome%20drummers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pra
+  url: http://www.last.fm/tag/pra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indus
+  url: http://www.last.fm/tag/indus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: antipop
+  url: http://www.last.fm/tag/antipop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial or something like it
+  url: http://www.last.fm/tag/industrial%20or%20something%20like%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mallcore
+  url: http://www.last.fm/tag/mallcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nineties
+  url: http://www.last.fm/tag/nineties
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hiphop
+  url: http://www.last.fm/tag/hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: midlands uk
+  url: http://www.last.fm/tag/midlands%20uk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british industrial metal
+  url: http://www.last.fm/tag/british%20industrial%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard
+  url: http://www.last.fm/tag/hard
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clayden
+  url: http://www.last.fm/tag/clayden
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy
+  url: http://www.last.fm/tag/heavy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vocal
+  url: http://www.last.fm/tag/vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rating 9 stars - great
+  url: http://www.last.fm/tag/rating%209%20stars%20-%20great
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rating 10 stars - love it
+  url: http://www.last.fm/tag/rating%2010%20stars%20-%20love%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i love these bands
+  url: http://www.last.fm/tag/i%20love%20these%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 9th evolution
+  url: http://www.last.fm/tag/9th%20evolution
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nu-metal - rap metal
+  url: http://www.last.fm/tag/nu-metal%20-%20rap%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neometal
+  url: http://www.last.fm/tag/neometal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ktunes
+  url: http://www.last.fm/tag/ktunes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk-industrial
+  url: http://www.last.fm/tag/punk-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial death
+  url: http://www.last.fm/tag/industrial%20death
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cosmopolitan
+  url: http://www.last.fm/tag/cosmopolitan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: t1234 found on radio - check more
+  url: http://www.last.fm/tag/t1234%20found%20on%20radio%20-%20check%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hear more
+  url: http://www.last.fm/tag/hear%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 9e
+  url: http://www.last.fm/tag/9e
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands that became mallcore
+  url: http://www.last.fm/tag/bands%20that%20became%20mallcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: radar
+  url: http://www.last.fm/tag/radar

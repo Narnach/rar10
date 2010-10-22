@@ -1,0 +1,257 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "76"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: britpop
+  url: http://www.last.fm/tag/britpop
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: movie
+  url: http://www.last.fm/tag/movie
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: music and lyrics
+  url: http://www.last.fm/tag/music%20and%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: crappy catchy pop songs
+  url: http://www.last.fm/tag/crappy%20catchy%20pop%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hugh grant
+  url: http://www.last.fm/tag/hugh%20grant
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: catchy
+  url: http://www.last.fm/tag/catchy
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: just wonderful
+  url: http://www.last.fm/tag/just%20wonderful
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: actor
+  url: http://www.last.fm/tag/actor
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: for fun
+  url: http://www.last.fm/tag/for%20fun
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: barbaraema
+  url: http://www.last.fm/tag/barbaraema
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: ballads
+  url: http://www.last.fm/tag/ballads
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: relax
+  url: http://www.last.fm/tag/relax
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: cute
+  url: http://www.last.fm/tag/cute
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: shut up i like it you guys
+  url: http://www.last.fm/tag/shut%20up%20i%20like%20it%20you%20guys
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: in english
+  url: http://www.last.fm/tag/in%20english
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cutecutecute
+  url: http://www.last.fm/tag/cutecutecute
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: piosenki na dola
+  url: http://www.last.fm/tag/piosenki%20na%20dola
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: telford
+  url: http://www.last.fm/tag/telford
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: isabella
+  url: http://www.last.fm/tag/isabella
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cantando junto
+  url: http://www.last.fm/tag/cantando%20junto
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love itt
+  url: http://www.last.fm/tag/love%20itt
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: play it in your car
+  url: http://www.last.fm/tag/play%20it%20in%20your%20car
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rocking my world
+  url: http://www.last.fm/tag/rocking%20my%20world
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jeder brauch einen soundtrack
+  url: http://www.last.fm/tag/jeder%20brauch%20einen%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: zibidi ama seviyorz
+  url: http://www.last.fm/tag/zibidi%20ama%20seviyorz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: je suis tombee amoureuse
+  url: http://www.last.fm/tag/je%20suis%20tombee%20amoureuse
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mmusic and lyrics
+  url: http://www.last.fm/tag/mmusic%20and%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ruhige soundtracks
+  url: http://www.last.fm/tag/ruhige%20soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: at least its funny
+  url: http://www.last.fm/tag/at%20least%20its%20funny
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: shared with friends
+  url: http://www.last.fm/tag/shared%20with%20friends
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rom-coms at the movies with kali
+  url: http://www.last.fm/tag/rom-coms%20at%20the%20movies%20with%20kali
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: comedy
+  url: http://www.last.fm/tag/comedy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: happy
+  url: http://www.last.fm/tag/happy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guilty pleasures
+  url: http://www.last.fm/tag/guilty%20pleasures
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: my favorites
+  url: http://www.last.fm/tag/my%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: relationships
+  url: http://www.last.fm/tag/relationships
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: international
+  url: http://www.last.fm/tag/international
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: christmas
+  url: http://www.last.fm/tag/christmas
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sentimental
+  url: http://www.last.fm/tag/sentimental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: homosexual
+  url: http://www.last.fm/tag/homosexual
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: um yes
+  url: http://www.last.fm/tag/um%20yes
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lyric
+  url: http://www.last.fm/tag/lyric
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cheesy goodness
+  url: http://www.last.fm/tag/cheesy%20goodness
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love song
+  url: http://www.last.fm/tag/love%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music and lyrics :p
+  url: http://www.last.fm/tag/music%20and%20lyrics%20%3Ap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: annoying
+  url: http://www.last.fm/tag/annoying
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: steffigo
+  url: http://www.last.fm/tag/steffigo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gay
+  url: http://www.last.fm/tag/gay

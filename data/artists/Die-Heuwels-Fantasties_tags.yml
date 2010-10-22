@@ -1,0 +1,45 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: afrikaans
+  url: http://www.last.fm/tag/afrikaans
+- !ruby/object:Scrobbler::Tag 
+  count: "55"
+  name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "44"
+  name: elektronies
+  url: http://www.last.fm/tag/elektronies
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: the postal service
+  url: http://www.last.fm/tag/the%20postal%20service
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: elektroniese groepe
+  url: http://www.last.fm/tag/elektroniese%20groepe
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: south african
+  url: http://www.last.fm/tag/south%20african
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: suid-afrikaanse elektroniese groepe
+  url: http://www.last.fm/tag/suid-afrikaanse%20elektroniese%20groepe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: elektropop
+  url: http://www.last.fm/tag/elektropop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners

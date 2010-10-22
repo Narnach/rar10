@@ -1,0 +1,269 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "81"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: dirty south
+  url: http://www.last.fm/tag/dirty%20south
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: lil wayne
+  url: http://www.last.fm/tag/lil%20wayne
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: crunk
+  url: http://www.last.fm/tag/crunk
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: gucci mane
+  url: http://www.last.fm/tag/gucci%20mane
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: cash money records
+  url: http://www.last.fm/tag/cash%20money%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: urban
+  url: http://www.last.fm/tag/urban
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hip hop and rap
+  url: http://www.last.fm/tag/hip%20hop%20and%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: southern rap
+  url: http://www.last.fm/tag/southern%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: black music
+  url: http://www.last.fm/tag/black%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: jon
+  url: http://www.last.fm/tag/jon
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: jae millz
+  url: http://www.last.fm/tag/jae%20millz
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lil chuckee
+  url: http://www.last.fm/tag/lil%20chuckee
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 3 stars
+  url: http://www.last.fm/tag/3%20stars
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nuevo
+  url: http://www.last.fm/tag/nuevo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bj
+  url: http://www.last.fm/tag/bj
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: collaboration album
+  url: http://www.last.fm/tag/collaboration%20album
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lii twist
+  url: http://www.last.fm/tag/lii%20twist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: t-streets
+  url: http://www.last.fm/tag/t-streets
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: needmorefromthisartist
+  url: http://www.last.fm/tag/needmorefromthisartist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tyga
+  url: http://www.last.fm/tag/tyga
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: shanell
+  url: http://www.last.fm/tag/shanell
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i love bed rock
+  url: http://www.last.fm/tag/i%20love%20bed%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mack maine
+  url: http://www.last.fm/tag/mack%20maine
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rating 3 stars - dull
+  url: http://www.last.fm/tag/rating%203%20stars%20-%20dull
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: why yes i am gay
+  url: http://www.last.fm/tag/why%20yes%20i%20am%20gay
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: biglazy53
+  url: http://www.last.fm/tag/biglazy53
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: artists that i listen to that suck
+  url: http://www.last.fm/tag/artists%20that%20i%20listen%20to%20that%20suck
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the shiznitabomb
+  url: http://www.last.fm/tag/the%20shiznitabomb
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i can make ur bedrock
+  url: http://www.last.fm/tag/i%20can%20make%20ur%20bedrock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: party music
+  url: http://www.last.fm/tag/party%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: southern hip hop
+  url: http://www.last.fm/tag/southern%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rap - hip hop
+  url: http://www.last.fm/tag/rap%20-%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cash money
+  url: http://www.last.fm/tag/cash%20money
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: louie g
+  url: http://www.last.fm/tag/louie%20g
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: young money
+  url: http://www.last.fm/tag/young%20money
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: south
+  url: http://www.last.fm/tag/south
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drake
+  url: http://www.last.fm/tag/drake
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nicki minaj
+  url: http://www.last.fm/tag/nicki%20minaj
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gudda gudda
+  url: http://www.last.fm/tag/gudda%20gudda
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: money
+  url: http://www.last.fm/tag/money
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: young
+  url: http://www.last.fm/tag/young
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: greatest hip hop ever
+  url: http://www.last.fm/tag/greatest%20hip%20hop%20ever
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemptary rnb
+  url: http://www.last.fm/tag/contemptary%20rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: samuel wasswa kikomeko
+  url: http://www.last.fm/tag/samuel%20wasswa%20kikomeko
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kukundakwe anthony
+  url: http://www.last.fm/tag/kukundakwe%20anthony
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tc1
+  url: http://www.last.fm/tag/tc1
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pih-poh
+  url: http://www.last.fm/tag/pih-poh
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psychodelic terror
+  url: http://www.last.fm/tag/psychodelic%20terror
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hood shit
+  url: http://www.last.fm/tag/hood%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lil
+  url: http://www.last.fm/tag/lil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gay pop
+  url: http://www.last.fm/tag/gay%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: louisiana
+  url: http://www.last.fm/tag/louisiana
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new orleans
+  url: http://www.last.fm/tag/new%20orleans
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crazy
+  url: http://www.last.fm/tag/crazy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gangsta rap
+  url: http://www.last.fm/tag/gangsta%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my music
+  url: http://www.last.fm/tag/my%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "39"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: rhythm and blues
+  url: http://www.last.fm/tag/rhythm%20and%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: motown
+  url: http://www.last.fm/tag/motown
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: al green
+  url: http://www.last.fm/tag/al%20green
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: gospel
+  url: http://www.last.fm/tag/gospel
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: r&amp;b
+  url: http://www.last.fm/tag/r%2526b
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: smooth soul
+  url: http://www.last.fm/tag/smooth%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: memphis soul
+  url: http://www.last.fm/tag/memphis%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: memphis
+  url: http://www.last.fm/tag/memphis
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soulful
+  url: http://www.last.fm/tag/soulful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legend
+  url: http://www.last.fm/tag/legend
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul funk
+  url: http://www.last.fm/tag/soul%20funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pulp fiction
+  url: http://www.last.fm/tag/pulp%20fiction
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male
+  url: http://www.last.fm/tag/male
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop-soul
+  url: http://www.last.fm/tag/pop-soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary gospel
+  url: http://www.last.fm/tag/contemporary%20gospel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic soul
+  url: http://www.last.fm/tag/classic%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funky
+  url: http://www.last.fm/tag/funky
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hi records
+  url: http://www.last.fm/tag/hi%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: groove
+  url: http://www.last.fm/tag/groove
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: arkansas
+  url: http://www.last.fm/tag/arkansas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: southern soul
+  url: http://www.last.fm/tag/southern%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r and b
+  url: http://www.last.fm/tag/r%20and%20b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smooth
+  url: http://www.last.fm/tag/smooth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tarantino
+  url: http://www.last.fm/tag/tarantino
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old school soul
+  url: http://www.last.fm/tag/old%20school%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazzy
+  url: http://www.last.fm/tag/jazzy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black music
+  url: http://www.last.fm/tag/black%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black
+  url: http://www.last.fm/tag/black
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sensual
+  url: http://www.last.fm/tag/sensual
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blue note
+  url: http://www.last.fm/tag/blue%20note
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lets stay together
+  url: http://www.last.fm/tag/lets%20stay%20together
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nostalgia
+  url: http://www.last.fm/tag/nostalgia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best
+  url: http://www.last.fm/tag/best
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1970s
+  url: http://www.last.fm/tag/1970s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: familia
+  url: http://www.last.fm/tag/familia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vocal jazz
+  url: http://www.last.fm/tag/vocal%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo soul
+  url: http://www.last.fm/tag/neo%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer
+  url: http://www.last.fm/tag/singer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slow dance
+  url: http://www.last.fm/tag/slow%20dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: disco
+  url: http://www.last.fm/tag/disco
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classics
+  url: http://www.last.fm/tag/classics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r n b
+  url: http://www.last.fm/tag/r%20n%20b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s soul
+  url: http://www.last.fm/tag/70s%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhythm-blues
+  url: http://www.last.fm/tag/rhythm-blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oaktown
+  url: http://www.last.fm/tag/oaktown
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: motown and soul
+  url: http://www.last.fm/tag/motown%20and%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: northern soul
+  url: http://www.last.fm/tag/northern%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seadawgg
+  url: http://www.last.fm/tag/seadawgg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s and 70s
+  url: http://www.last.fm/tag/60s%20and%2070s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ohana
+  url: http://www.last.fm/tag/ohana
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oakland califas
+  url: http://www.last.fm/tag/oakland%20califas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: true classic old school
+  url: http://www.last.fm/tag/true%20classic%20old%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: family
+  url: http://www.last.fm/tag/family

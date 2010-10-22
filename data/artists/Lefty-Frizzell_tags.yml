@@ -1,0 +1,289 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: classic country
+  url: http://www.last.fm/tag/classic%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: honky tonk
+  url: http://www.last.fm/tag/honky%20tonk
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: traditional country
+  url: http://www.last.fm/tag/traditional%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: leftyfrizzell
+  url: http://www.last.fm/tag/leftyfrizzell
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: lefty frizzell
+  url: http://www.last.fm/tag/lefty%20frizzell
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: arkansas
+  url: http://www.last.fm/tag/arkansas
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hillbilly
+  url: http://www.last.fm/tag/hillbilly
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: texas
+  url: http://www.last.fm/tag/texas
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: old country music
+  url: http://www.last.fm/tag/old%20country%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: my kinda country
+  url: http://www.last.fm/tag/my%20kinda%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hank snow
+  url: http://www.last.fm/tag/hank%20snow
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: theme time radio hour
+  url: http://www.last.fm/tag/theme%20time%20radio%20hour
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pre-post
+  url: http://www.last.fm/tag/pre-post
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: history country
+  url: http://www.last.fm/tag/history%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the international rancho
+  url: http://www.last.fm/tag/the%20international%20rancho
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good enough for granddad
+  url: http://www.last.fm/tag/good%20enough%20for%20granddad
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: country bumpkin
+  url: http://www.last.fm/tag/country%20bumpkin
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the great country music world
+  url: http://www.last.fm/tag/the%20great%20country%20music%20world
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good ole homely country folk playing banjo yodeling
+  url: http://www.last.fm/tag/good%20ole%20homely%20country%20folk%20playing%20banjo%20yodeling
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cowhat fav
+  url: http://www.last.fm/tag/cowhat%20fav
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post amoeba
+  url: http://www.last.fm/tag/post%20amoeba
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post hitching post
+  url: http://www.last.fm/tag/post%20hitching%20post
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post dead
+  url: http://www.last.fm/tag/post%20dead
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: old school country and more
+  url: http://www.last.fm/tag/old%20school%20country%20and%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cowhat vint
+  url: http://www.last.fm/tag/cowhat%20vint
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cowhat 50s
+  url: http://www.last.fm/tag/cowhat%2050s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: efty frizzell
+  url: http://www.last.fm/tag/efty%20frizzell
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alvarooutlawcountry
+  url: http://www.last.fm/tag/alvarooutlawcountry
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: leffty frizzell
+  url: http://www.last.fm/tag/leffty%20frizzell
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: merle haggert
+  url: http://www.last.fm/tag/merle%20haggert
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rockabilly
+  url: http://www.last.fm/tag/rockabilly
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hank williams
+  url: http://www.last.fm/tag/hank%20williams
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: western swing
+  url: http://www.last.fm/tag/western%20swing
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: johnny cash
+  url: http://www.last.fm/tag/johnny%20cash
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the masters
+  url: http://www.last.fm/tag/the%20masters
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: honky-tonk
+  url: http://www.last.fm/tag/honky-tonk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: old favorites
+  url: http://www.last.fm/tag/old%20favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: trad-country
+  url: http://www.last.fm/tag/trad-country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: willie nelson
+  url: http://www.last.fm/tag/willie%20nelson
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: greatest artists
+  url: http://www.last.fm/tag/greatest%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: np
+  url: http://www.last.fm/tag/np
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jimmie rodgers
+  url: http://www.last.fm/tag/jimmie%20rodgers
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lefty
+  url: http://www.last.fm/tag/lefty
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "4"
+  url: http://www.last.fm/tag/4
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: garth brooks
+  url: http://www.last.fm/tag/garth%20brooks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: honkey tonkin
+  url: http://www.last.fm/tag/honkey%20tonkin
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nd
+  url: http://www.last.fm/tag/nd
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lefty frizell
+  url: http://www.last.fm/tag/lefty%20frizell
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nashville rash
+  url: http://www.last.fm/tag/nashville%20rash
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 7:30am music
+  url: http://www.last.fm/tag/7%3A30am%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country oldies
+  url: http://www.last.fm/tag/country%20oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 40s country
+  url: http://www.last.fm/tag/40s%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: floyd kramer
+  url: http://www.last.fm/tag/floyd%20kramer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lefty frizzel
+  url: http://www.last.fm/tag/lefty%20frizzel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: texan
+  url: http://www.last.fm/tag/texan
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 50s
+  url: http://www.last.fm/tag/50s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stoner
+  url: http://www.last.fm/tag/stoner
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shake the shack fucker
+  url: http://www.last.fm/tag/shake%20the%20shack%20fucker
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hank locklin
+  url: http://www.last.fm/tag/hank%20locklin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nashville or bust
+  url: http://www.last.fm/tag/nashville%20or%20bust

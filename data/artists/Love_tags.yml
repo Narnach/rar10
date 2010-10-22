@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "84"
+  name: psychedelic rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "65"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "55"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: garage rock
+  url: http://www.last.fm/tag/garage%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: los angeles
+  url: http://www.last.fm/tag/los%20angeles
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: garage
+  url: http://www.last.fm/tag/garage
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: arthur lee
+  url: http://www.last.fm/tag/arthur%20lee
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: psychedelia
+  url: http://www.last.fm/tag/psychedelia
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psych
+  url: http://www.last.fm/tag/psych
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: proto-punk
+  url: http://www.last.fm/tag/proto-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hippie
+  url: http://www.last.fm/tag/hippie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acid rock
+  url: http://www.last.fm/tag/acid%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 60's
+  url: http://www.last.fm/tag/60%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 1960s
+  url: http://www.last.fm/tag/1960s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jpop
+  url: http://www.last.fm/tag/jpop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 60s rock
+  url: http://www.last.fm/tag/60s%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nuggets
+  url: http://www.last.fm/tag/nuggets
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j-pop
+  url: http://www.last.fm/tag/j-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psych rock
+  url: http://www.last.fm/tag/psych%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: quirky
+  url: http://www.last.fm/tag/quirky
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock and roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sixties
+  url: http://www.last.fm/tag/sixties
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock 'n' roll
+  url: http://www.last.fm/tag/rock%20%27n%27%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rhythm and blues
+  url: http://www.last.fm/tag/rhythm%20and%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lush
+  url: http://www.last.fm/tag/lush
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s pop
+  url: http://www.last.fm/tag/60s%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old rock
+  url: http://www.last.fm/tag/old%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-punk
+  url: http://www.last.fm/tag/post-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque
+  url: http://www.last.fm/tag/baroque
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mod
+  url: http://www.last.fm/tag/mod
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yearning
+  url: http://www.last.fm/tag/yearning
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brooding
+  url: http://www.last.fm/tag/brooding
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: la
+  url: http://www.last.fm/tag/la
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambitious
+  url: http://www.last.fm/tag/ambitious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black rock
+  url: http://www.last.fm/tag/black%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bravado
+  url: http://www.last.fm/tag/bravado
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 60s-70s
+  url: http://www.last.fm/tag/60s-70s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: summer of love
+  url: http://www.last.fm/tag/summer%20of%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fiery
+  url: http://www.last.fm/tag/fiery
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: glam rock
+  url: http://www.last.fm/tag/glam%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pastoral
+  url: http://www.last.fm/tag/pastoral
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: proto punk
+  url: http://www.last.fm/tag/proto%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dreamy
+  url: http://www.last.fm/tag/dreamy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: art rock
+  url: http://www.last.fm/tag/art%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the dead ones
+  url: http://www.last.fm/tag/the%20dead%20ones
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70's
+  url: http://www.last.fm/tag/70%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: theatrical
+  url: http://www.last.fm/tag/theatrical
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: west coast
+  url: http://www.last.fm/tag/west%20coast
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: orchestral pop
+  url: http://www.last.fm/tag/orchestral%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baroque and chamber pop
+  url: http://www.last.fm/tag/baroque%20and%20chamber%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psichedelia
+  url: http://www.last.fm/tag/psichedelia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: restrained
+  url: http://www.last.fm/tag/restrained
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fib
+  url: http://www.last.fm/tag/fib
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes

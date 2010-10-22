@@ -1,0 +1,233 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: world of warcraft
+  url: http://www.last.fm/tag/world%20of%20warcraft
+- !ruby/object:Scrobbler::Tag 
+  count: "31"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: game music
+  url: http://www.last.fm/tag/game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: game
+  url: http://www.last.fm/tag/game
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: game soundtrack
+  url: http://www.last.fm/tag/game%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: game soundtracks
+  url: http://www.last.fm/tag/game%20soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: warcraft
+  url: http://www.last.fm/tag/warcraft
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: wow
+  url: http://www.last.fm/tag/wow
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: fantasy
+  url: http://www.last.fm/tag/fantasy
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: score
+  url: http://www.last.fm/tag/score
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: movie and video game maestros
+  url: http://www.last.fm/tag/movie%20and%20video%20game%20maestros
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: video game soundtrack
+  url: http://www.last.fm/tag/video%20game%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: modern classical
+  url: http://www.last.fm/tag/modern%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: video game
+  url: http://www.last.fm/tag/video%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: videogame music
+  url: http://www.last.fm/tag/videogame%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: warcraft iii
+  url: http://www.last.fm/tag/warcraft%20iii
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: medieval
+  url: http://www.last.fm/tag/medieval
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: starcraft
+  url: http://www.last.fm/tag/starcraft
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: of
+  url: http://www.last.fm/tag/of
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blizzard
+  url: http://www.last.fm/tag/blizzard
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mmorpg
+  url: http://www.last.fm/tag/mmorpg
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: brutal death metal with nordic influence and guest vocalist satan
+  url: http://www.last.fm/tag/brutal%20death%20metal%20with%20nordic%20influence%20and%20guest%20vocalist%20satan
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: noremorse
+  url: http://www.last.fm/tag/noremorse
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtrack that rocks
+  url: http://www.last.fm/tag/soundtrack%20that%20rocks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: videogame soundtrack
+  url: http://www.last.fm/tag/videogame%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: from a video game
+  url: http://www.last.fm/tag/from%20a%20video%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melancholy
+  url: http://www.last.fm/tag/melancholy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: master
+  url: http://www.last.fm/tag/master
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 20th century classical
+  url: http://www.last.fm/tag/20th%20century%20classical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: neo-classical
+  url: http://www.last.fm/tag/neo-classical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: original score
+  url: http://www.last.fm/tag/original%20score
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nerdy music
+  url: http://www.last.fm/tag/nerdy%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jason hayes
+  url: http://www.last.fm/tag/jason%20hayes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: geek music
+  url: http://www.last.fm/tag/geek%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ysabols nerdcore and world of warcraft metal and world of warcraft
+  url: http://www.last.fm/tag/ysabols%20nerdcore%20and%20world%20of%20warcraft%20metal%20and%20world%20of%20warcraft
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nerdcore music
+  url: http://www.last.fm/tag/nerdcore%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: geekcore music
+  url: http://www.last.fm/tag/geekcore%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: adam zivojnovich
+  url: http://www.last.fm/tag/adam%20zivojnovich

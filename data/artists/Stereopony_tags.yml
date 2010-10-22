@@ -1,0 +1,217 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: j-rock
+  url: http://www.last.fm/tag/j-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "93"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: j-pop
+  url: http://www.last.fm/tag/j-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "55"
+  name: anime
+  url: http://www.last.fm/tag/anime
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: jrock
+  url: http://www.last.fm/tag/jrock
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: valkyeriex power
+  url: http://www.last.fm/tag/valkyeriex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: japonia inna kultura
+  url: http://www.last.fm/tag/japonia%20inna%20kultura
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: bleach
+  url: http://www.last.fm/tag/bleach
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: cronowish power
+  url: http://www.last.fm/tag/cronowish%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: valkyriex loves
+  url: http://www.last.fm/tag/valkyriex%20loves
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: scryed edward tracks power
+  url: http://www.last.fm/tag/scryed%20edward%20tracks%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: stereo pony
+  url: http://www.last.fm/tag/stereo%20pony
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: harukaexs2
+  url: http://www.last.fm/tag/harukaexs2
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: girls band
+  url: http://www.last.fm/tag/girls%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: j-music
+  url: http://www.last.fm/tag/j-music
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: stereopony
+  url: http://www.last.fm/tag/stereopony
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: japan
+  url: http://www.last.fm/tag/japan
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: suxx names
+  url: http://www.last.fm/tag/suxx%20names
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: j-roc
+  url: http://www.last.fm/tag/j-roc
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: one ok rock
+  url: http://www.last.fm/tag/one%20ok%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 3 piece group
+  url: http://www.last.fm/tag/3%20piece%20group
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jpop
+  url: http://www.last.fm/tag/jpop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl bands
+  url: http://www.last.fm/tag/girl%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: j
+  url: http://www.last.fm/tag/j
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female band
+  url: http://www.last.fm/tag/female%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: girl band
+  url: http://www.last.fm/tag/girl%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: trio
+  url: http://www.last.fm/tag/trio
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: punk-rock
+  url: http://www.last.fm/tag/punk-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: charts 0811
+  url: http://www.last.fm/tag/charts%200811
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sxsw 2009
+  url: http://www.last.fm/tag/sxsw%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyreiex power
+  url: http://www.last.fm/tag/valkyreiex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaex
+  url: http://www.last.fm/tag/harukaex
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex powerr
+  url: http://www.last.fm/tag/valkyriex%20powerr
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaex s2i
+  url: http://www.last.fm/tag/harukaex%20s2i
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyeriex loves
+  url: http://www.last.fm/tag/valkyeriex%20loves
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex love
+  url: http://www.last.fm/tag/valkyriex%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex power
+  url: http://www.last.fm/tag/valkyriex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suavesfabio power
+  url: http://www.last.fm/tag/suavesfabio%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unforgettable songs from when i was a teenager
+  url: http://www.last.fm/tag/unforgettable%20songs%20from%20when%20i%20was%20a%20teenager
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harukaex s2
+  url: http://www.last.fm/tag/harukaex%20s2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: haruka
+  url: http://www.last.fm/tag/haruka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: interessant
+  url: http://www.last.fm/tag/interessant

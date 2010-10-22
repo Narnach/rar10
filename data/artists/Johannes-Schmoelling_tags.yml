@@ -1,0 +1,181 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "54"
+  name: krautrock
+  url: http://www.last.fm/tag/krautrock
+- !ruby/object:Scrobbler::Tag 
+  count: "51"
+  name: new age
+  url: http://www.last.fm/tag/new%20age
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "38"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: johannes schmoelling - gondola song
+  url: http://www.last.fm/tag/johannes%20schmoelling%20-%20gondola%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: johannes schmoelling
+  url: http://www.last.fm/tag/johannes%20schmoelling
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: universal timeless
+  url: http://www.last.fm/tag/universal%20timeless
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: tangerine dream
+  url: http://www.last.fm/tag/tangerine%20dream
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: space
+  url: http://www.last.fm/tag/space
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: td
+  url: http://www.last.fm/tag/td
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: progressive electronic
+  url: http://www.last.fm/tag/progressive%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: berlin school
+  url: http://www.last.fm/tag/berlin%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: i should keep an eye on this one
+  url: http://www.last.fm/tag/i%20should%20keep%20an%20eye%20on%20this%20one
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: niederrhein3-ethnoclassicsynth
+  url: http://www.last.fm/tag/niederrhein3-ethnoclassicsynth
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: german progressive rock
+  url: http://www.last.fm/tag/german%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: check out
+  url: http://www.last.fm/tag/check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: synthesizer
+  url: http://www.last.fm/tag/synthesizer
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: wed night
+  url: http://www.last.fm/tag/wed%20night
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: most favourite
+  url: http://www.last.fm/tag/most%20favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: tangerinedreamradio
+  url: http://www.last.fm/tag/tangerinedreamradio
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: innercosmos
+  url: http://www.last.fm/tag/innercosmos
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: ziggyradio
+  url: http://www.last.fm/tag/ziggyradio
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: kraut rock
+  url: http://www.last.fm/tag/kraut%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electronic rock
+  url: http://www.last.fm/tag/electronic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: plein de projets
+  url: http://www.last.fm/tag/plein%20de%20projets
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i am bien
+  url: http://www.last.fm/tag/i%20am%20bien
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spear and mint
+  url: http://www.last.fm/tag/spear%20and%20mint
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flya electronica old school
+  url: http://www.last.fm/tag/flya%20electronica%20old%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: d
+  url: http://www.last.fm/tag/d
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wallpaper
+  url: http://www.last.fm/tag/wallpaper
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fantastic
+  url: http://www.last.fm/tag/fantastic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brilliant
+  url: http://www.last.fm/tag/brilliant
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synth
+  url: http://www.last.fm/tag/synth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: minimal
+  url: http://www.last.fm/tag/minimal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kraut
+  url: http://www.last.fm/tag/kraut

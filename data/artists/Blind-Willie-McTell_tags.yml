@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: delta blues
+  url: http://www.last.fm/tag/delta%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: classic blues
+  url: http://www.last.fm/tag/classic%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: country blues
+  url: http://www.last.fm/tag/country%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: piedmont blues
+  url: http://www.last.fm/tag/piedmont%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: acoustic blues
+  url: http://www.last.fm/tag/acoustic%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: old blues
+  url: http://www.last.fm/tag/old%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: blues guitar
+  url: http://www.last.fm/tag/blues%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: georgia
+  url: http://www.last.fm/tag/georgia
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: blind
+  url: http://www.last.fm/tag/blind
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pre-war blues
+  url: http://www.last.fm/tag/pre-war%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: mississippi
+  url: http://www.last.fm/tag/mississippi
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: east coast blues
+  url: http://www.last.fm/tag/east%20coast%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blind willie mc tell
+  url: http://www.last.fm/tag/blind%20willie%20mc%20tell
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: slide guitar
+  url: http://www.last.fm/tag/slide%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: prewar blues
+  url: http://www.last.fm/tag/prewar%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: songster
+  url: http://www.last.fm/tag/songster
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blind willie mctell
+  url: http://www.last.fm/tag/blind%20willie%20mctell
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: slide guitar blues
+  url: http://www.last.fm/tag/slide%20guitar%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: heroes of the blues
+  url: http://www.last.fm/tag/heroes%20of%20the%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: delta
+  url: http://www.last.fm/tag/delta
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good old blues
+  url: http://www.last.fm/tag/good%20old%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: class1901
+  url: http://www.last.fm/tag/class1901
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: twelve-string
+  url: http://www.last.fm/tag/twelve-string
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: class1900s
+  url: http://www.last.fm/tag/class1900s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: late night listening
+  url: http://www.last.fm/tag/late%20night%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz and blues
+  url: http://www.last.fm/tag/jazz%20and%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 12 string
+  url: http://www.last.fm/tag/12%20string
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scratchy blues
+  url: http://www.last.fm/tag/scratchy%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mississippi blues
+  url: http://www.last.fm/tag/mississippi%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atlanta blues
+  url: http://www.last.fm/tag/atlanta%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nice elevator music
+  url: http://www.last.fm/tag/nice%20elevator%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic blues for my soul
+  url: http://www.last.fm/tag/acoustic%20blues%20for%20my%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gotanygoodmusic
+  url: http://www.last.fm/tag/gotanygoodmusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 20's
+  url: http://www.last.fm/tag/20%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: traditional songs
+  url: http://www.last.fm/tag/traditional%20songs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues and soul
+  url: http://www.last.fm/tag/blues%20and%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old school
+  url: http://www.last.fm/tag/old%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: piedmont
+  url: http://www.last.fm/tag/piedmont
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: early blues
+  url: http://www.last.fm/tag/early%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fingerstyle
+  url: http://www.last.fm/tag/fingerstyle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues love
+  url: http://www.last.fm/tag/blues%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 78 rpm
+  url: http://www.last.fm/tag/78%20rpm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i want to hear everything streamable by them
+  url: http://www.last.fm/tag/i%20want%20to%20hear%20everything%20streamable%20by%20them
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a selection work in progress
+  url: http://www.last.fm/tag/a%20selection%20work%20in%20progress
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grateful dread
+  url: http://www.last.fm/tag/grateful%20dread
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: falling out of the sky and into my lap
+  url: http://www.last.fm/tag/falling%20out%20of%20the%20sky%20and%20into%20my%20lap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: abrotman
+  url: http://www.last.fm/tag/abrotman
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jellyroll
+  url: http://www.last.fm/tag/jellyroll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: goldenbird
+  url: http://www.last.fm/tag/goldenbird
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american roots music
+  url: http://www.last.fm/tag/american%20roots%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gris gris
+  url: http://www.last.fm/tag/gris%20gris
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking slick
+  url: http://www.last.fm/tag/fucking%20slick
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: explore more
+  url: http://www.last.fm/tag/explore%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oaktown
+  url: http://www.last.fm/tag/oaktown
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vision impaired
+  url: http://www.last.fm/tag/vision%20impaired
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deepsoul
+  url: http://www.last.fm/tag/deepsoul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sweetvoice
+  url: http://www.last.fm/tag/sweetvoice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: downhome
+  url: http://www.last.fm/tag/downhome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the desert
+  url: http://www.last.fm/tag/the%20desert
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black classical music
+  url: http://www.last.fm/tag/black%20classical%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dr small jukebox
+  url: http://www.last.fm/tag/dr%20small%20jukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rural blues
+  url: http://www.last.fm/tag/rural%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: r crumb
+  url: http://www.last.fm/tag/r%20crumb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tower of song
+  url: http://www.last.fm/tag/tower%20of%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blind artists
+  url: http://www.last.fm/tag/blind%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "78"
+  url: http://www.last.fm/tag/78
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jack whites hero
+  url: http://www.last.fm/tag/jack%20whites%20hero
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mjcrbt blues country
+  url: http://www.last.fm/tag/mjcrbt%20blues%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ace guitar manglers
+  url: http://www.last.fm/tag/ace%20guitar%20manglers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: zek
+  url: http://www.last.fm/tag/zek
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: buryblue
+  url: http://www.last.fm/tag/buryblue
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the legends
+  url: http://www.last.fm/tag/the%20legends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good ole homely country folk playing banjo yodeling
+  url: http://www.last.fm/tag/good%20ole%20homely%20country%20folk%20playing%20banjo%20yodeling
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thursday nite blues
+  url: http://www.last.fm/tag/thursday%20nite%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alvarocountry
+  url: http://www.last.fm/tag/alvarocountry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite blues
+  url: http://www.last.fm/tag/favourite%20blues
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: major epiphany
+  url: http://www.last.fm/tag/major%20epiphany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "blues: delta"
+  url: http://www.last.fm/tag/blues%3A%20delta
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deeply poetic
+  url: http://www.last.fm/tag/deeply%20poetic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lorcas
+  url: http://www.last.fm/tag/lorcas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the harrisburg family band
+  url: http://www.last.fm/tag/the%20harrisburg%20family%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blind apparently
+  url: http://www.last.fm/tag/blind%20apparently
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues of the highest potency
+  url: http://www.last.fm/tag/blues%20of%20the%20highest%20potency
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blind musician
+  url: http://www.last.fm/tag/blind%20musician
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tyranosorus rex
+  url: http://www.last.fm/tag/tyranosorus%20rex
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old school country and more
+  url: http://www.last.fm/tag/old%20school%20country%20and%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: past classics jazz
+  url: http://www.last.fm/tag/past%20classics%20jazz

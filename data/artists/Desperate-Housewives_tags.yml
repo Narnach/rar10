@@ -1,0 +1,37 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: tv
+  url: http://www.last.fm/tag/tv
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: tv shows
+  url: http://www.last.fm/tag/tv%20shows
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: eclectic
+  url: http://www.last.fm/tag/eclectic
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: television
+  url: http://www.last.fm/tag/television
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: mearse
+  url: http://www.last.fm/tag/mearse
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: teri hatcher
+  url: http://www.last.fm/tag/teri%20hatcher
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mistagged
+  url: http://www.last.fm/tag/mistagged
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: desperate
+  url: http://www.last.fm/tag/desperate

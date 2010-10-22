@@ -1,0 +1,25 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: opera
+  url: http://www.last.fm/tag/opera
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: singer
+  url: http://www.last.fm/tag/singer
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: verdi baritone
+  url: http://www.last.fm/tag/verdi%20baritone
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: baritone
+  url: http://www.last.fm/tag/baritone
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners

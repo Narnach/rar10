@@ -1,0 +1,97 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "86"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: dream
+  url: http://www.last.fm/tag/dream
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: acordar
+  url: http://www.last.fm/tag/acordar
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: thefuckingcoolest
+  url: http://www.last.fm/tag/thefuckingcoolest
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: to think about
+  url: http://www.last.fm/tag/to%20think%20about
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: lesser known yet slightly streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20slightly%20streamable%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: och
+  url: http://www.last.fm/tag/och
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: rock ballads
+  url: http://www.last.fm/tag/rock%20ballads
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: the matrix
+  url: http://www.last.fm/tag/the%20matrix
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: drone
+  url: http://www.last.fm/tag/drone
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reinhold heil
+  url: http://www.last.fm/tag/reinhold%20heil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pale 3
+  url: http://www.last.fm/tag/pale%203
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ysabols movie soundtracks and film scores
+  url: http://www.last.fm/tag/ysabols%20movie%20soundtracks%20and%20film%20scores
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: franka potente
+  url: http://www.last.fm/tag/franka%20potente
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: johnny klimek
+  url: http://www.last.fm/tag/johnny%20klimek
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tom tykwer
+  url: http://www.last.fm/tag/tom%20tykwer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: skin
+  url: http://www.last.fm/tag/skin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deutsch
+  url: http://www.last.fm/tag/deutsch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soundtracks
+  url: http://www.last.fm/tag/soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop
+  url: http://www.last.fm/tag/pop

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "49"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "38"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: eurodance
+  url: http://www.last.fm/tag/eurodance
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: vocal trance
+  url: http://www.last.fm/tag/vocal%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: cascada
+  url: http://www.last.fm/tag/cascada
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: club
+  url: http://www.last.fm/tag/club
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: hands up
+  url: http://www.last.fm/tag/hands%20up
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: europop
+  url: http://www.last.fm/tag/europop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: eurotrance
+  url: http://www.last.fm/tag/eurotrance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: to nie jest kurwa techno
+  url: http://www.last.fm/tag/to%20nie%20jest%20kurwa%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: disco
+  url: http://www.last.fm/tag/disco
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: party
+  url: http://www.last.fm/tag/party
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dance-trance
+  url: http://www.last.fm/tag/dance-trance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: germany
+  url: http://www.last.fm/tag/germany
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electropop
+  url: http://www.last.fm/tag/electropop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance pop
+  url: http://www.last.fm/tag/dance%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fun
+  url: http://www.last.fm/tag/fun
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clubbing
+  url: http://www.last.fm/tag/clubbing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance-pop
+  url: http://www.last.fm/tag/dance-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot
+  url: http://www.last.fm/tag/hot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sweet
+  url: http://www.last.fm/tag/sweet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: euro
+  url: http://www.last.fm/tag/euro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: euro dance
+  url: http://www.last.fm/tag/euro%20dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trancepop
+  url: http://www.last.fm/tag/trancepop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cover
+  url: http://www.last.fm/tag/cover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female artists
+  url: http://www.last.fm/tag/female%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to nie jest do cholery zaden trance
+  url: http://www.last.fm/tag/to%20nie%20jest%20do%20cholery%20zaden%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this is not a techno
+  url: http://www.last.fm/tag/this%20is%20not%20a%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mainstream
+  url: http://www.last.fm/tag/mainstream
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: handz up
+  url: http://www.last.fm/tag/handz%20up
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard dance
+  url: http://www.last.fm/tag/hard%20dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funny
+  url: http://www.last.fm/tag/funny
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: happy hardcore
+  url: http://www.last.fm/tag/happy%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dancecore
+  url: http://www.last.fm/tag/dancecore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dancepop
+  url: http://www.last.fm/tag/dancepop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: euro-trance
+  url: http://www.last.fm/tag/euro-trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: catchy
+  url: http://www.last.fm/tag/catchy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: covers
+  url: http://www.last.fm/tag/covers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: party music
+  url: http://www.last.fm/tag/party%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: commercial trance
+  url: http://www.last.fm/tag/commercial%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guilty pleasures
+  url: http://www.last.fm/tag/guilty%20pleasures
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: club music
+  url: http://www.last.fm/tag/club%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synthpop
+  url: http://www.last.fm/tag/synthpop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop techno
+  url: http://www.last.fm/tag/pop%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clubland
+  url: http://www.last.fm/tag/clubland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: other
+  url: http://www.last.fm/tag/other
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: teen pop
+  url: http://www.last.fm/tag/teen%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop electronic
+  url: http://www.last.fm/tag/pop%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: younger generation
+  url: http://www.last.fm/tag/younger%20generation
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eletronic
+  url: http://www.last.fm/tag/eletronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female dance vocals
+  url: http://www.last.fm/tag/female%20dance%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: basshunter
+  url: http://www.last.fm/tag/basshunter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "&lt;3"
+  url: http://www.last.fm/tag/%3C3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hands up trance
+  url: http://www.last.fm/tag/hands%20up%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro pop
+  url: http://www.last.fm/tag/electro%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: natalie horler
+  url: http://www.last.fm/tag/natalie%20horler
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cascadamusic
+  url: http://www.last.fm/tag/cascadamusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: group
+  url: http://www.last.fm/tag/group
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sensual
+  url: http://www.last.fm/tag/sensual
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: me
+  url: http://www.last.fm/tag/me
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valkyriex power
+  url: http://www.last.fm/tag/valkyriex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suavesfabio power
+  url: http://www.last.fm/tag/suavesfabio%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: diva
+  url: http://www.last.fm/tag/diva
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unforgettable songs from when i was a teenager
+  url: http://www.last.fm/tag/unforgettable%20songs%20from%20when%20i%20was%20a%20teenager
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poptronica
+  url: http://www.last.fm/tag/poptronica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: imogen heap
+  url: http://www.last.fm/tag/imogen%20heap

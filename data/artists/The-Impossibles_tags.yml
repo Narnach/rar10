@@ -1,0 +1,241 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: ska
+  url: http://www.last.fm/tag/ska
+- !ruby/object:Scrobbler::Tag 
+  count: "41"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: texas
+  url: http://www.last.fm/tag/texas
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: ska punk
+  url: http://www.last.fm/tag/ska%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: ska-punk
+  url: http://www.last.fm/tag/ska-punk
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: austin
+  url: http://www.last.fm/tag/austin
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: power-pop
+  url: http://www.last.fm/tag/power-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: power pop
+  url: http://www.last.fm/tag/power%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: people my friends know
+  url: http://www.last.fm/tag/people%20my%20friends%20know
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: things i listened to in college
+  url: http://www.last.fm/tag/things%20i%20listened%20to%20in%20college
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: old school hardcore
+  url: http://www.last.fm/tag/old%20school%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: doo wop
+  url: http://www.last.fm/tag/doo%20wop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: thai
+  url: http://www.last.fm/tag/thai
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rory phillips
+  url: http://www.last.fm/tag/rory%20phillips
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: upbeats
+  url: http://www.last.fm/tag/upbeats
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: mikesfavorites
+  url: http://www.last.fm/tag/mikesfavorites
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: most played
+  url: http://www.last.fm/tag/most%20played
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: one of the only good things to come out of fueled by ramen
+  url: http://www.last.fm/tag/one%20of%20the%20only%20good%20things%20to%20come%20out%20of%20fueled%20by%20ramen
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: snowboarding
+  url: http://www.last.fm/tag/snowboarding
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: some people i love
+  url: http://www.last.fm/tag/some%20people%20i%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: skapunnnnk
+  url: http://www.last.fm/tag/skapunnnnk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: phase music
+  url: http://www.last.fm/tag/phase%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: friend introduced
+  url: http://www.last.fm/tag/friend%20introduced
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: wish i saw live
+  url: http://www.last.fm/tag/wish%20i%20saw%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: grzaniec
+  url: http://www.last.fm/tag/grzaniec
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: the reason im in a band
+  url: http://www.last.fm/tag/the%20reason%20im%20in%20a%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: driving
+  url: http://www.last.fm/tag/driving
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indy
+  url: http://www.last.fm/tag/indy
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: my tags
+  url: http://www.last.fm/tag/my%20tags
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: local
+  url: http://www.last.fm/tag/local
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: jam
+  url: http://www.last.fm/tag/jam
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: good music
+  url: http://www.last.fm/tag/good%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: kickass
+  url: http://www.last.fm/tag/kickass
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: skate punk
+  url: http://www.last.fm/tag/skate%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nostalgia
+  url: http://www.last.fm/tag/nostalgia
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ska-core
+  url: http://www.last.fm/tag/ska-core
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: high school
+  url: http://www.last.fm/tag/high%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: straight edge
+  url: http://www.last.fm/tag/straight%20edge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: frenchcore
+  url: http://www.last.fm/tag/frenchcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check this out
+  url: http://www.last.fm/tag/check%20this%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yeah
+  url: http://www.last.fm/tag/yeah
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: skatastic
+  url: http://www.last.fm/tag/skatastic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out
+  url: http://www.last.fm/tag/check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: snowdogs
+  url: http://www.last.fm/tag/snowdogs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: skacore
+  url: http://www.last.fm/tag/skacore

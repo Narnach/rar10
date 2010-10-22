@@ -1,0 +1,129 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "37"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: klickklack
+  url: http://www.last.fm/tag/klickklack
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: puuplamusic
+  url: http://www.last.fm/tag/puuplamusic
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: homosexual intifada
+  url: http://www.last.fm/tag/homosexual%20intifada
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: curso de armonica
+  url: http://www.last.fm/tag/curso%20de%20armonica
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: 2 s34rch
+  url: http://www.last.fm/tag/2%20s34rch
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: heiner blum
+  url: http://www.last.fm/tag/heiner%20blum
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: kl4bb1n 4p
+  url: http://www.last.fm/tag/kl4bb1n%204p
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: minimal techno artists
+  url: http://www.last.fm/tag/minimal%20techno%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: half-house
+  url: http://www.last.fm/tag/half-house
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: do4
+  url: http://www.last.fm/tag/do4
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: yoshi toshi
+  url: http://www.last.fm/tag/yoshi%20toshi
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: ch3ck 74
+  url: http://www.last.fm/tag/ch3ck%2074
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: maschinenmusik
+  url: http://www.last.fm/tag/maschinenmusik
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: makes me bounce
+  url: http://www.last.fm/tag/makes%20me%20bounce
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: dobre
+  url: http://www.last.fm/tag/dobre
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: discover
+  url: http://www.last.fm/tag/discover
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: antony and the johnsons
+  url: http://www.last.fm/tag/antony%20and%20the%20johnsons
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: tech house
+  url: http://www.last.fm/tag/tech%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: dubby
+  url: http://www.last.fm/tag/dubby
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: tech-house
+  url: http://www.last.fm/tag/tech-house
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: experimental electronic
+  url: http://www.last.fm/tag/experimental%20electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: electric
+  url: http://www.last.fm/tag/electric
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: microhouse
+  url: http://www.last.fm/tag/microhouse
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: minimal
+  url: http://www.last.fm/tag/minimal
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: house artists
+  url: http://www.last.fm/tag/house%20artists

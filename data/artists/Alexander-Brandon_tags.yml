@@ -1,0 +1,297 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "90"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "77"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "57"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "38"
+  name: deus ex
+  url: http://www.last.fm/tag/deus%20ex
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: game soundtrack
+  url: http://www.last.fm/tag/game%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: game
+  url: http://www.last.fm/tag/game
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: unreal
+  url: http://www.last.fm/tag/unreal
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: unreal tournament
+  url: http://www.last.fm/tag/unreal%20tournament
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: game music
+  url: http://www.last.fm/tag/game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: demoscene
+  url: http://www.last.fm/tag/demoscene
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: tracker music
+  url: http://www.last.fm/tag/tracker%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: tracker
+  url: http://www.last.fm/tag/tracker
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: video game soundtrack
+  url: http://www.last.fm/tag/video%20game%20soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: jazz jackrabbit 2
+  url: http://www.last.fm/tag/jazz%20jackrabbit%202
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: vgm
+  url: http://www.last.fm/tag/vgm
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: deusex
+  url: http://www.last.fm/tag/deusex
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: jazz jackrabbit
+  url: http://www.last.fm/tag/jazz%20jackrabbit
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: tyrian
+  url: http://www.last.fm/tag/tyrian
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dark ambient
+  url: http://www.last.fm/tag/dark%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: midi
+  url: http://www.last.fm/tag/midi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: like drugs
+  url: http://www.last.fm/tag/like%20drugs
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: oriental
+  url: http://www.last.fm/tag/oriental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: game ost
+  url: http://www.last.fm/tag/game%20ost
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: game music and soundtracks
+  url: http://www.last.fm/tag/game%20music%20and%20soundtracks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ut99
+  url: http://www.last.fm/tag/ut99
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deus ex 2
+  url: http://www.last.fm/tag/deus%20ex%202
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jazz jackrabbit 3
+  url: http://www.last.fm/tag/jazz%20jackrabbit%203
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ut
+  url: http://www.last.fm/tag/ut
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: unreal tournament iii
+  url: http://www.last.fm/tag/unreal%20tournament%20iii
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tracker scene
+  url: http://www.last.fm/tag/tracker%20scene
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jazz jackrabbit unreal tournament
+  url: http://www.last.fm/tag/jazz%20jackrabbit%20unreal%20tournament
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: game-ost
+  url: http://www.last.fm/tag/game-ost
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: musical geniuses
+  url: http://www.last.fm/tag/musical%20geniuses
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cityscapes
+  url: http://www.last.fm/tag/cityscapes
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: limn sideshow
+  url: http://www.last.fm/tag/limn%20sideshow
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: near to-come
+  url: http://www.last.fm/tag/near%20to-come
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not angry
+  url: http://www.last.fm/tag/not%20angry
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: collaboration project
+  url: http://www.last.fm/tag/collaboration%20project
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mod
+  url: http://www.last.fm/tag/mod
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: idm
+  url: http://www.last.fm/tag/idm
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nu jazz
+  url: http://www.last.fm/tag/nu%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chiptune
+  url: http://www.last.fm/tag/chiptune
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: videogames
+  url: http://www.last.fm/tag/videogames
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: orchestral
+  url: http://www.last.fm/tag/orchestral
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: videogame
+  url: http://www.last.fm/tag/videogame
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sci-fi
+  url: http://www.last.fm/tag/sci-fi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: computer game
+  url: http://www.last.fm/tag/computer%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: visual
+  url: http://www.last.fm/tag/visual
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soundscape
+  url: http://www.last.fm/tag/soundscape
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cyberpunk
+  url: http://www.last.fm/tag/cyberpunk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: superb
+  url: http://www.last.fm/tag/superb
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nostalgia
+  url: http://www.last.fm/tag/nostalgia
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: video game
+  url: http://www.last.fm/tag/video%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: everything
+  url: http://www.last.fm/tag/everything
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: urban
+  url: http://www.last.fm/tag/urban
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: duo
+  url: http://www.last.fm/tag/duo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ost
+  url: http://www.last.fm/tag/ost
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic
+  url: http://www.last.fm/tag/epic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: industrial ambient
+  url: http://www.last.fm/tag/industrial%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric

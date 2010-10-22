@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "93"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "83"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "73"
+  name: nintendo
+  url: http://www.last.fm/tag/nintendo
+- !ruby/object:Scrobbler::Tag 
+  count: "67"
+  name: nintendocore
+  url: http://www.last.fm/tag/nintendocore
+- !ruby/object:Scrobbler::Tag 
+  count: "42"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "28"
+  name: math rock
+  url: http://www.last.fm/tag/math%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: video game
+  url: http://www.last.fm/tag/video%20game
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: game music
+  url: http://www.last.fm/tag/game%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: 8-bit
+  url: http://www.last.fm/tag/8-bit
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: experimental rock
+  url: http://www.last.fm/tag/experimental%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: game
+  url: http://www.last.fm/tag/game
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: video game rock
+  url: http://www.last.fm/tag/video%20game%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: nintendo rock
+  url: http://www.last.fm/tag/nintendo%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: post-rock
+  url: http://www.last.fm/tag/post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: 8bit
+  url: http://www.last.fm/tag/8bit
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: nes
+  url: http://www.last.fm/tag/nes
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: videogame
+  url: http://www.last.fm/tag/videogame
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 8 bit
+  url: http://www.last.fm/tag/8%20bit
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: pokemoncore
+  url: http://www.last.fm/tag/pokemoncore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: the silent ballet
+  url: http://www.last.fm/tag/the%20silent%20ballet
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: lo-fi
+  url: http://www.last.fm/tag/lo-fi
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: geek
+  url: http://www.last.fm/tag/geek
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nevada city
+  url: http://www.last.fm/tag/nevada%20city
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: listen to this more
+  url: http://www.last.fm/tag/listen%20to%20this%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: mmm mmm good
+  url: http://www.last.fm/tag/mmm%20mmm%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: video games
+  url: http://www.last.fm/tag/video%20games
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 5 rue christine
+  url: http://www.last.fm/tag/5%20rue%20christine
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: video game remixes
+  url: http://www.last.fm/tag/video%20game%20remixes
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nerdcore
+  url: http://www.last.fm/tag/nerdcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: the advantage
+  url: http://www.last.fm/tag/the%20advantage
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gamewave
+  url: http://www.last.fm/tag/gamewave
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: spencer seim
+  url: http://www.last.fm/tag/spencer%20seim
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nintendo-core
+  url: http://www.last.fm/tag/nintendo-core
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post rock
+  url: http://www.last.fm/tag/post%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 5rc
+  url: http://www.last.fm/tag/5rc
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: instrumental post-rock
+  url: http://www.last.fm/tag/instrumental%20post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: new wave
+  url: http://www.last.fm/tag/new%20wave
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nintindie
+  url: http://www.last.fm/tag/nintindie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: vgm
+  url: http://www.last.fm/tag/vgm
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fun
+  url: http://www.last.fm/tag/fun
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cover
+  url: http://www.last.fm/tag/cover
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: duyster
+  url: http://www.last.fm/tag/duyster
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nerds
+  url: http://www.last.fm/tag/nerds
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to discover
+  url: http://www.last.fm/tag/to%20discover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nes rock
+  url: http://www.last.fm/tag/nes%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: technical crazyness
+  url: http://www.last.fm/tag/technical%20crazyness
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tense-anxious
+  url: http://www.last.fm/tag/tense-anxious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: krlx review
+  url: http://www.last.fm/tag/krlx%20review
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nintendo metal
+  url: http://www.last.fm/tag/nintendo%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to drift away
+  url: http://www.last.fm/tag/to%20drift%20away
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: h4xx0rz
+  url: http://www.last.fm/tag/h4xx0rz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nice people
+  url: http://www.last.fm/tag/nice%20people
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: street-smart
+  url: http://www.last.fm/tag/street-smart
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bit
+  url: http://www.last.fm/tag/bit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: loved
+  url: http://www.last.fm/tag/loved
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: devl musik
+  url: http://www.last.fm/tag/devl%20musik
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive math rock
+  url: http://www.last.fm/tag/progressive%20math%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: junkie
+  url: http://www.last.fm/tag/junkie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nastalgic junk
+  url: http://www.last.fm/tag/nastalgic%20junk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: s-t
+  url: http://www.last.fm/tag/s-t
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock or something like it
+  url: http://www.last.fm/tag/rock%20or%20something%20like%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternativo
+  url: http://www.last.fm/tag/alternativo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: castlevania
+  url: http://www.last.fm/tag/castlevania
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant-prog
+  url: http://www.last.fm/tag/avant-prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands artists and groups i like
+  url: http://www.last.fm/tag/bands%20artists%20and%20groups%20i%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the future
+  url: http://www.last.fm/tag/the%20future
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to check out
+  url: http://www.last.fm/tag/to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: video game covers
+  url: http://www.last.fm/tag/video%20game%20covers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smashing
+  url: http://www.last.fm/tag/smashing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want
+  url: http://www.last.fm/tag/want
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: insular
+  url: http://www.last.fm/tag/insular
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen em
+  url: http://www.last.fm/tag/seen%20em
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pretty cool
+  url: http://www.last.fm/tag/pretty%20cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cold meat industry
+  url: http://www.last.fm/tag/cold%20meat%20industry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: computer
+  url: http://www.last.fm/tag/computer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: arrangement
+  url: http://www.last.fm/tag/arrangement
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: recs
+  url: http://www.last.fm/tag/recs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 1-up
+  url: http://www.last.fm/tag/1-up
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the rainbow family podcast
+  url: http://www.last.fm/tag/the%20rainbow%20family%20podcast
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gorgeous execution
+  url: http://www.last.fm/tag/gorgeous%20execution

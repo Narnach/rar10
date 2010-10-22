@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: trance
+  url: http://www.last.fm/tag/trance
+- !ruby/object:Scrobbler::Tag 
+  count: "47"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "35"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: progressive trance
+  url: http://www.last.fm/tag/progressive%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: tiesto
+  url: http://www.last.fm/tag/tiesto
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: dj tiesto
+  url: http://www.last.fm/tag/dj%20tiesto
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: vocal trance
+  url: http://www.last.fm/tag/vocal%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dutch
+  url: http://www.last.fm/tag/dutch
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dj
+  url: http://www.last.fm/tag/dj
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: club
+  url: http://www.last.fm/tag/club
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic trance
+  url: http://www.last.fm/tag/melodic%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "ti\xC3\xABsto"
+  url: http://www.last.fm/tag/ti%C3%ABsto
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: uplifting trance
+  url: http://www.last.fm/tag/uplifting%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: netherlands
+  url: http://www.last.fm/tag/netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dream trance
+  url: http://www.last.fm/tag/dream%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive house
+  url: http://www.last.fm/tag/progressive%20house
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard trance
+  url: http://www.last.fm/tag/hard%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eurodance
+  url: http://www.last.fm/tag/eurodance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: epic trance
+  url: http://www.last.fm/tag/epic%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psytrance
+  url: http://www.last.fm/tag/psytrance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: imawreck2
+  url: http://www.last.fm/tag/imawreck2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rave
+  url: http://www.last.fm/tag/rave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eurotrance
+  url: http://www.last.fm/tag/eurotrance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: north atlanta high school
+  url: http://www.last.fm/tag/north%20atlanta%20high%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: paul stephens clark
+  url: http://www.last.fm/tag/paul%20stephens%20clark
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "1981"
+  url: http://www.last.fm/tag/1981
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: class of 2000
+  url: http://www.last.fm/tag/class%20of%202000
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: uplifting
+  url: http://www.last.fm/tag/uplifting
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 678-74-311-75
+  url: http://www.last.fm/tag/678-74-311-75
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ibiza
+  url: http://www.last.fm/tag/ibiza
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 4th ward
+  url: http://www.last.fm/tag/4th%20ward
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to nie jest kurwa techno
+  url: http://www.last.fm/tag/to%20nie%20jest%20kurwa%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: all things annoying in the world put together into one stupid bitch
+  url: http://www.last.fm/tag/all%20things%20annoying%20in%20the%20world%20put%20together%20into%20one%20stupid%20bitch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: party
+  url: http://www.last.fm/tag/party
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: remix
+  url: http://www.last.fm/tag/remix
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eats babies
+  url: http://www.last.fm/tag/eats%20babies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: born with a tertiary rectum
+  url: http://www.last.fm/tag/born%20with%20a%20tertiary%20rectum
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the worst shit
+  url: http://www.last.fm/tag/the%20worst%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ga tech
+  url: http://www.last.fm/tag/ga%20tech
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music to pee on girls to
+  url: http://www.last.fm/tag/music%20to%20pee%20on%20girls%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fellating the bottom of a bottle of wine
+  url: http://www.last.fm/tag/fellating%20the%20bottom%20of%20a%20bottle%20of%20wine
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: steals only the highest quality in japanese porn games
+  url: http://www.last.fm/tag/steals%20only%20the%20highest%20quality%20in%20japanese%20porn%20games
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: officially shit
+  url: http://www.last.fm/tag/officially%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: limp-wristed man-wankery
+  url: http://www.last.fm/tag/limp-wristed%20man-wankery
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cocksucker
+  url: http://www.last.fm/tag/cocksucker
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roskilde 07
+  url: http://www.last.fm/tag/roskilde%2007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dream
+  url: http://www.last.fm/tag/dream
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wanking and crying while running a marathon
+  url: http://www.last.fm/tag/wanking%20and%20crying%20while%20running%20a%20marathon
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crazy frog
+  url: http://www.last.fm/tag/crazy%20frog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psy-emo
+  url: http://www.last.fm/tag/psy-emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: euro trance
+  url: http://www.last.fm/tag/euro%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: please assassinate
+  url: http://www.last.fm/tag/please%20assassinate
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: completely fucking worthless
+  url: http://www.last.fm/tag/completely%20fucking%20worthless
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gay jewish nigger bullshit
+  url: http://www.last.fm/tag/gay%20jewish%20nigger%20bullshit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a really shitty horrible song
+  url: http://www.last.fm/tag/a%20really%20shitty%20horrible%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking die
+  url: http://www.last.fm/tag/fucking%20die
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fucking asshole
+  url: http://www.last.fm/tag/fucking%20asshole
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fuck bake
+  url: http://www.last.fm/tag/fuck%20bake
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fuckbake
+  url: http://www.last.fm/tag/fuckbake
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: utter failure
+  url: http://www.last.fm/tag/utter%20failure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: spits on the constitution
+  url: http://www.last.fm/tag/spits%20on%20the%20constitution
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: homophobe
+  url: http://www.last.fm/tag/homophobe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anti-christ
+  url: http://www.last.fm/tag/anti-christ
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sut the fuck up
+  url: http://www.last.fm/tag/sut%20the%20fuck%20up
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fags douchebags
+  url: http://www.last.fm/tag/fags%20douchebags
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pink sock fellatio
+  url: http://www.last.fm/tag/pink%20sock%20fellatio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oral fisting leading to a silent orgasm
+  url: http://www.last.fm/tag/oral%20fisting%20leading%20to%20a%20silent%20orgasm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reports of statutory rape are on the rise because of you
+  url: http://www.last.fm/tag/reports%20of%20statutory%20rape%20are%20on%20the%20rise%20because%20of%20you
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a jew is gay and made nigger bullshit here is the result
+  url: http://www.last.fm/tag/a%20jew%20is%20gay%20and%20made%20nigger%20bullshit%20here%20is%20the%20result
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brett whiteleys buttocks fetish killed freud
+  url: http://www.last.fm/tag/brett%20whiteleys%20buttocks%20fetish%20killed%20freud
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gay jewish nigger shit bull fat you are fat fuck you
+  url: http://www.last.fm/tag/gay%20jewish%20nigger%20shit%20bull%20fat%20you%20are%20fat%20fuck%20you
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: please shut the fuck up
+  url: http://www.last.fm/tag/please%20shut%20the%20fuck%20up
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: implants got you buxom for bucks
+  url: http://www.last.fm/tag/implants%20got%20you%20buxom%20for%20bucks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awwwwwwwwwwwwwwwwwwwwwwwwww shit
+  url: http://www.last.fm/tag/awwwwwwwwwwwwwwwwwwwwwwwwww%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wigger
+  url: http://www.last.fm/tag/wigger
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i like to stick a funnel up my ass and pour hot tar into it
+  url: http://www.last.fm/tag/i%20like%20to%20stick%20a%20funnel%20up%20my%20ass%20and%20pour%20hot%20tar%20into%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: listen to britney spears instead
+  url: http://www.last.fm/tag/listen%20to%20britney%20spears%20instead
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: penguin ejaculate
+  url: http://www.last.fm/tag/penguin%20ejaculate
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore black death doom rape metal
+  url: http://www.last.fm/tag/hardcore%20black%20death%20doom%20rape%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: giving cunnilingus to a flamingo
+  url: http://www.last.fm/tag/giving%20cunnilingus%20to%20a%20flamingo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bullshit made by jew niggers that is gay
+  url: http://www.last.fm/tag/bullshit%20made%20by%20jew%20niggers%20that%20is%20gay

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "75"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "64"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "51"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "44"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: britpop
+  url: http://www.last.fm/tag/britpop
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: scouting for girls
+  url: http://www.last.fm/tag/scouting%20for%20girls
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: piano rock
+  url: http://www.last.fm/tag/piano%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock am ring 2009
+  url: http://www.last.fm/tag/rock%20am%20ring%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: feelgood
+  url: http://www.last.fm/tag/feelgood
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: happy
+  url: http://www.last.fm/tag/happy
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: powerpop
+  url: http://www.last.fm/tag/powerpop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: london
+  url: http://www.last.fm/tag/london
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favourites
+  url: http://www.last.fm/tag/favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indiepop - uk
+  url: http://www.last.fm/tag/indiepop%20-%20uk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: glastonbury2008
+  url: http://www.last.fm/tag/glastonbury2008
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: swwg
+  url: http://www.last.fm/tag/swwg
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: fusion
+  url: http://www.last.fm/tag/fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: like
+  url: http://www.last.fm/tag/like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live
+  url: http://www.last.fm/tag/live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jrcrichardson
+  url: http://www.last.fm/tag/jrcrichardson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: omggggggg this is sew indie lets have indiesecks mad fer it
+  url: http://www.last.fm/tag/omggggggg%20this%20is%20sew%20indie%20lets%20have%20indiesecks%20mad%20fer%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: duncan parsons
+  url: http://www.last.fm/tag/duncan%20parsons
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: england
+  url: http://www.last.fm/tag/england
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british accent
+  url: http://www.last.fm/tag/british%20accent
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: piano pop
+  url: http://www.last.fm/tag/piano%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fabulous
+  url: http://www.last.fm/tag/fabulous
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: groups
+  url: http://www.last.fm/tag/groups
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: annoying
+  url: http://www.last.fm/tag/annoying
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: european
+  url: http://www.last.fm/tag/european
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie - uk
+  url: http://www.last.fm/tag/indie%20-%20uk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funky
+  url: http://www.last.fm/tag/funky
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electric guitar
+  url: http://www.last.fm/tag/electric%20guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: prog
+  url: http://www.last.fm/tag/prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good-mood-music
+  url: http://www.last.fm/tag/good-mood-music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: already seen live
+  url: http://www.last.fm/tag/already%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music to hold hands to
+  url: http://www.last.fm/tag/music%20to%20hold%20hands%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jmfh
+  url: http://www.last.fm/tag/jmfh
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fab
+  url: http://www.last.fm/tag/fab
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 5 stars
+  url: http://www.last.fm/tag/5%20stars
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the buggles
+  url: http://www.last.fm/tag/the%20buggles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock-ish
+  url: http://www.last.fm/tag/rock-ish
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not seen live yet
+  url: http://www.last.fm/tag/not%20seen%20live%20yet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: analogue
+  url: http://www.last.fm/tag/analogue
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nice hair
+  url: http://www.last.fm/tag/nice%20hair
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 10cc
+  url: http://www.last.fm/tag/10cc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: buggles
+  url: http://www.last.fm/tag/buggles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: boom tunes
+  url: http://www.last.fm/tag/boom%20tunes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alterna
+  url: http://www.last.fm/tag/alterna
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: monkees
+  url: http://www.last.fm/tag/monkees
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar band
+  url: http://www.last.fm/tag/guitar%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: synthesiser
+  url: http://www.last.fm/tag/synthesiser
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sfg
+  url: http://www.last.fm/tag/sfg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: noughties
+  url: http://www.last.fm/tag/noughties
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: weekly top artist
+  url: http://www.last.fm/tag/weekly%20top%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live gesehen
+  url: http://www.last.fm/tag/live%20gesehen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: idolo
+  url: http://www.last.fm/tag/idolo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff i love
+  url: http://www.last.fm/tag/stuff%20i%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top band
+  url: http://www.last.fm/tag/top%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sounds nice
+  url: http://www.last.fm/tag/sounds%20nice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music that makes me smile
+  url: http://www.last.fm/tag/music%20that%20makes%20me%20smile
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mrrr
+  url: http://www.last.fm/tag/mrrr
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mick
+  url: http://www.last.fm/tag/mick
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: british indie
+  url: http://www.last.fm/tag/british%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: revision
+  url: http://www.last.fm/tag/revision
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: glastonbury 2008 - bands i saw
+  url: http://www.last.fm/tag/glastonbury%202008%20-%20bands%20i%20saw
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: glasto2008
+  url: http://www.last.fm/tag/glasto2008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tib listen more
+  url: http://www.last.fm/tag/tib%20listen%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jrc richardson
+  url: http://www.last.fm/tag/jrc%20richardson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sues fave
+  url: http://www.last.fm/tag/sues%20fave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: isle of wight festival 08
+  url: http://www.last.fm/tag/isle%20of%20wight%20festival%2008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: robson memories
+  url: http://www.last.fm/tag/robson%20memories
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scouting for girls rulz
+  url: http://www.last.fm/tag/scouting%20for%20girls%20rulz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: strange group
+  url: http://www.last.fm/tag/strange%20group
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock im park 2009
+  url: http://www.last.fm/tag/rock%20im%20park%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stackridge
+  url: http://www.last.fm/tag/stackridge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: uk clubland
+  url: http://www.last.fm/tag/uk%20clubland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great songs lol yay
+  url: http://www.last.fm/tag/great%20songs%20lol%20yay
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: need to be obtained
+  url: http://www.last.fm/tag/need%20to%20be%20obtained
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: note to self:remember to listen
+  url: http://www.last.fm/tag/note%20to%20self%3Aremember%20to%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rating 5 stars - ok
+  url: http://www.last.fm/tag/rating%205%20stars%20-%20ok
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hottie singers
+  url: http://www.last.fm/tag/hottie%20singers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nice face
+  url: http://www.last.fm/tag/nice%20face
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: v festival 2010
+  url: http://www.last.fm/tag/v%20festival%202010

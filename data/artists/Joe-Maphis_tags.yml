@@ -1,0 +1,89 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: bluegrass
+  url: http://www.last.fm/tag/bluegrass
+- !ruby/object:Scrobbler::Tag 
+  count: "83"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: doc watson and co
+  url: http://www.last.fm/tag/doc%20watson%20and%20co
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: banjo out the ass
+  url: http://www.last.fm/tag/banjo%20out%20the%20ass
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: mountian music
+  url: http://www.last.fm/tag/mountian%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: i should keep an eye on this one
+  url: http://www.last.fm/tag/i%20should%20keep%20an%20eye%20on%20this%20one
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: np
+  url: http://www.last.fm/tag/np
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: blue grass
+  url: http://www.last.fm/tag/blue%20grass
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: old country
+  url: http://www.last.fm/tag/old%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: traditional
+  url: http://www.last.fm/tag/traditional
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: 50s
+  url: http://www.last.fm/tag/50s
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: test
+  url: http://www.last.fm/tag/test
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: multi-instrumentalist
+  url: http://www.last.fm/tag/multi-instrumentalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: virginia
+  url: http://www.last.fm/tag/virginia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gone but not forgotten
+  url: http://www.last.fm/tag/gone%20but%20not%20forgotten
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar wizard
+  url: http://www.last.fm/tag/guitar%20wizard
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: country boogie
+  url: http://www.last.fm/tag/country%20boogie

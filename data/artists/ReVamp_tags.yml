@@ -1,0 +1,257 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "52"
+  name: female fronted metal
+  url: http://www.last.fm/tag/female%20fronted%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "38"
+  name: dutch
+  url: http://www.last.fm/tag/dutch
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: floor jansen
+  url: http://www.last.fm/tag/floor%20jansen
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: revamp
+  url: http://www.last.fm/tag/revamp
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: female metal
+  url: http://www.last.fm/tag/female%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: floor jansen new band
+  url: http://www.last.fm/tag/floor%20jansen%20new%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: valkyriex love
+  url: http://www.last.fm/tag/valkyriex%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: valkyeriex loves
+  url: http://www.last.fm/tag/valkyeriex%20loves
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: valkyriex power
+  url: http://www.last.fm/tag/valkyriex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: harukaex s2i
+  url: http://www.last.fm/tag/harukaex%20s2i
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: valkyriex powerr
+  url: http://www.last.fm/tag/valkyriex%20powerr
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: harukaex
+  url: http://www.last.fm/tag/harukaex
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: suavesfabio power
+  url: http://www.last.fm/tag/suavesfabio%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: valkyreiex power
+  url: http://www.last.fm/tag/valkyreiex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: valkyeriex power
+  url: http://www.last.fm/tag/valkyeriex%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: haruka
+  url: http://www.last.fm/tag/haruka
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: unforgettable songs from when i was a teenager
+  url: http://www.last.fm/tag/unforgettable%20songs%20from%20when%20i%20was%20a%20teenager
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: harukaex s2
+  url: http://www.last.fm/tag/harukaex%20s2
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: cronowish power
+  url: http://www.last.fm/tag/cronowish%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: valkyriex loves
+  url: http://www.last.fm/tag/valkyriex%20loves
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: scryed edward tracks power
+  url: http://www.last.fm/tag/scryed%20edward%20tracks%20power
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: harukaexs2
+  url: http://www.last.fm/tag/harukaexs2
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: symphonic heavy metal
+  url: http://www.last.fm/tag/symphonic%20heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: netherlands
+  url: http://www.last.fm/tag/netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: symphonic lady metal
+  url: http://www.last.fm/tag/symphonic%20lady%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: after foreve
+  url: http://www.last.fm/tag/after%20foreve
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: darkcrypt
+  url: http://www.last.fm/tag/darkcrypt
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female fronted metal fav
+  url: http://www.last.fm/tag/female%20fronted%20metal%20fav
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female fronted metal mp3
+  url: http://www.last.fm/tag/female%20fronted%20metal%20mp3
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: darkcrypt fav
+  url: http://www.last.fm/tag/darkcrypt%20fav
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: darkcrypt mp3
+  url: http://www.last.fm/tag/darkcrypt%20mp3
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female singer
+  url: http://www.last.fm/tag/female%20singer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: epic metal
+  url: http://www.last.fm/tag/epic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classic metal
+  url: http://www.last.fm/tag/classic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesome voice
+  url: http://www.last.fm/tag/awesome%20voice
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soprano
+  url: http://www.last.fm/tag/soprano
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dutch metal
+  url: http://www.last.fm/tag/dutch%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: after forever
+  url: http://www.last.fm/tag/after%20forever
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: femme metal
+  url: http://www.last.fm/tag/femme%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: arena metal
+  url: http://www.last.fm/tag/arena%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: waldemar sorychta
+  url: http://www.last.fm/tag/waldemar%20sorychta
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: binnenkort in mezz
+  url: http://www.last.fm/tag/binnenkort%20in%20mezz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to check
+  url: http://www.last.fm/tag/to%20check
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the netherlands
+  url: http://www.last.fm/tag/the%20netherlands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 10s
+  url: http://www.last.fm/tag/10s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: -female fronted metal
+  url: http://www.last.fm/tag/-female%20fronted%20metal

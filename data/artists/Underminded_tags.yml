@@ -1,0 +1,185 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "50"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: punk
+  url: http://www.last.fm/tag/punk
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: hardcore punk
+  url: http://www.last.fm/tag/hardcore%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: san diego
+  url: http://www.last.fm/tag/san%20diego
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: toughguy hardcore
+  url: http://www.last.fm/tag/toughguy%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not screamo
+  url: http://www.last.fm/tag/not%20screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: music my roommate does not like and or it gives her nightmares
+  url: http://www.last.fm/tag/music%20my%20roommate%20does%20not%20like%20and%20or%20it%20gives%20her%20nightmares
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: went to high school with
+  url: http://www.last.fm/tag/went%20to%20high%20school%20with
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: know personally
+  url: http://www.last.fm/tag/know%20personally
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: uni
+  url: http://www.last.fm/tag/uni
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: throwing bricks
+  url: http://www.last.fm/tag/throwing%20bricks
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ive seen live
+  url: http://www.last.fm/tag/ive%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: underplayed artists
+  url: http://www.last.fm/tag/underplayed%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not emo
+  url: http://www.last.fm/tag/not%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: convince myself
+  url: http://www.last.fm/tag/convince%20myself
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metallic hardcore
+  url: http://www.last.fm/tag/metallic%20hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metal-core
+  url: http://www.last.fm/tag/metal-core
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emo-screamo
+  url: http://www.last.fm/tag/emo-screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: meh
+  url: http://www.last.fm/tag/meh
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative and punk
+  url: http://www.last.fm/tag/alternative%20and%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bands i like
+  url: http://www.last.fm/tag/bands%20i%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mathcore
+  url: http://www.last.fm/tag/mathcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good stuff
+  url: http://www.last.fm/tag/good%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: death
+  url: http://www.last.fm/tag/death
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: technical
+  url: http://www.last.fm/tag/technical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ska punk
+  url: http://www.last.fm/tag/ska%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shit
+  url: http://www.last.fm/tag/shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: moshcore
+  url: http://www.last.fm/tag/moshcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: christians are gay
+  url: http://www.last.fm/tag/christians%20are%20gay
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the-slash
+  url: http://www.last.fm/tag/the-slash
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nucore
+  url: http://www.last.fm/tag/nucore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jockcore
+  url: http://www.last.fm/tag/jockcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: live
+  url: http://www.last.fm/tag/live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check out
+  url: http://www.last.fm/tag/check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live

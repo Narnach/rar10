@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: melodic death metal
+  url: http://www.last.fm/tag/melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "62"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: swedish
+  url: http://www.last.fm/tag/swedish
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: modern metal
+  url: http://www.last.fm/tag/modern%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: modern melodic death metal
+  url: http://www.last.fm/tag/modern%20melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: swedish metal
+  url: http://www.last.fm/tag/swedish%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: melodic metal
+  url: http://www.last.fm/tag/melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: melodic metalcore
+  url: http://www.last.fm/tag/melodic%20metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: sonic syndicate
+  url: http://www.last.fm/tag/sonic%20syndicate
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: gothenburg metal
+  url: http://www.last.fm/tag/gothenburg%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metalcore influences
+  url: http://www.last.fm/tag/metalcore%20influences
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not emo
+  url: http://www.last.fm/tag/not%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: death metal with metalcore influences
+  url: http://www.last.fm/tag/death%20metal%20with%20metalcore%20influences
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: harukaex s2
+  url: http://www.last.fm/tag/harukaex%20s2
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: swedish melodic death metal
+  url: http://www.last.fm/tag/swedish%20melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: anti emo
+  url: http://www.last.fm/tag/anti%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic death
+  url: http://www.last.fm/tag/melodic%20death
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern rock
+  url: http://www.last.fm/tag/modern%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic death metal x3
+  url: http://www.last.fm/tag/melodic%20death%20metal%20x3
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: brutal death metal
+  url: http://www.last.fm/tag/brutal%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: avant-garde metal
+  url: http://www.last.fm/tag/avant-garde%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female fronted metal
+  url: http://www.last.fm/tag/female%20fronted%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: deathcore
+  url: http://www.last.fm/tag/deathcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: technical death metal
+  url: http://www.last.fm/tag/technical%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: death
+  url: http://www.last.fm/tag/death
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive death metal
+  url: http://www.last.fm/tag/progressive%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modern death metal
+  url: http://www.last.fm/tag/modern%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodeath
+  url: http://www.last.fm/tag/melodeath
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: true metal
+  url: http://www.last.fm/tag/true%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: prog metal
+  url: http://www.last.fm/tag/prog%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: no emo
+  url: http://www.last.fm/tag/no%20emo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: prog death metal
+  url: http://www.last.fm/tag/prog%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: not emocore
+  url: http://www.last.fm/tag/not%20emocore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: behemoth
+  url: http://www.last.fm/tag/behemoth
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anti-emo
+  url: http://www.last.fm/tag/anti-emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant garde metal
+  url: http://www.last.fm/tag/avant%20garde%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: speed metal
+  url: http://www.last.fm/tag/speed%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sweden
+  url: http://www.last.fm/tag/sweden
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop death metal
+  url: http://www.last.fm/tag/pop%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark metal
+  url: http://www.last.fm/tag/dark%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death thrash metal
+  url: http://www.last.fm/tag/death%20thrash%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash death metal
+  url: http://www.last.fm/tag/thrash%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop metal
+  url: http://www.last.fm/tag/pop%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nu metal
+  url: http://www.last.fm/tag/nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sepulnation
+  url: http://www.last.fm/tag/sepulnation
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emocore
+  url: http://www.last.fm/tag/emocore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: groove death metal
+  url: http://www.last.fm/tag/groove%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: swedish death metal
+  url: http://www.last.fm/tag/swedish%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: falkenberg
+  url: http://www.last.fm/tag/falkenberg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: thrash
+  url: http://www.last.fm/tag/thrash
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metaaaaaaaaaaaaaaaaaaaaaaaaaaaaal
+  url: http://www.last.fm/tag/metaaaaaaaaaaaaaaaaaaaaaaaaaaaaal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: steel metal
+  url: http://www.last.fm/tag/steel%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: baphomet
+  url: http://www.last.fm/tag/baphomet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic black metal
+  url: http://www.last.fm/tag/melodic%20black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: untrue nuclear metal
+  url: http://www.last.fm/tag/untrue%20nuclear%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: groove metal
+  url: http://www.last.fm/tag/groove%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic death metal
+  url: http://www.last.fm/tag/symphonic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sepultura
+  url: http://www.last.fm/tag/sepultura
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scandinavian metal
+  url: http://www.last.fm/tag/scandinavian%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sludge metal
+  url: http://www.last.fm/tag/sludge%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: extreme metal
+  url: http://www.last.fm/tag/extreme%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brutal
+  url: http://www.last.fm/tag/brutal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: f
+  url: http://www.last.fm/tag/f
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old school death metal
+  url: http://www.last.fm/tag/old%20school%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental metal
+  url: http://www.last.fm/tag/experimental%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock and roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: power death metal
+  url: http://www.last.fm/tag/power%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grindcore
+  url: http://www.last.fm/tag/grindcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: max cavalera
+  url: http://www.last.fm/tag/max%20cavalera
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: extreme
+  url: http://www.last.fm/tag/extreme
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: no nu metal
+  url: http://www.last.fm/tag/no%20nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not nu metal
+  url: http://www.last.fm/tag/not%20nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: from hell
+  url: http://www.last.fm/tag/from%20hell
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "666"
+  url: http://www.last.fm/tag/666
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: screamo
+  url: http://www.last.fm/tag/screamo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blackened death metal
+  url: http://www.last.fm/tag/blackened%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "5"
+  url: http://www.last.fm/tag/5
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "10"
+  url: http://www.last.fm/tag/10
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gr
+  url: http://www.last.fm/tag/gr
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: h
+  url: http://www.last.fm/tag/h

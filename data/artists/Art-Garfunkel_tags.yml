@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "83"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "59"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "58"
+  name: 70s
+  url: http://www.last.fm/tag/70s
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: art garfunkel
+  url: http://www.last.fm/tag/art%20garfunkel
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: new york
+  url: http://www.last.fm/tag/new%20york
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: adult contemporary
+  url: http://www.last.fm/tag/adult%20contemporary
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 60s
+  url: http://www.last.fm/tag/60s
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: vocal
+  url: http://www.last.fm/tag/vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: simon and garfunkel sans simon
+  url: http://www.last.fm/tag/simon%20and%20garfunkel%20sans%20simon
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: soundtrack
+  url: http://www.last.fm/tag/soundtrack
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: balade
+  url: http://www.last.fm/tag/balade
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: best voices in history
+  url: http://www.last.fm/tag/best%20voices%20in%20history
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: garfunkel
+  url: http://www.last.fm/tag/garfunkel
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ballad
+  url: http://www.last.fm/tag/ballad
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: heartbreak
+  url: http://www.last.fm/tag/heartbreak
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: simon and garfunkel
+  url: http://www.last.fm/tag/simon%20and%20garfunkel
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: old
+  url: http://www.last.fm/tag/old
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: best oldies-harmonies
+  url: http://www.last.fm/tag/best%20oldies-harmonies
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: vocalist
+  url: http://www.last.fm/tag/vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: beauty and sadness
+  url: http://www.last.fm/tag/beauty%20and%20sadness
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male voices
+  url: http://www.last.fm/tag/male%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: guilty pleasure
+  url: http://www.last.fm/tag/guilty%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: softrock
+  url: http://www.last.fm/tag/softrock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: holiday
+  url: http://www.last.fm/tag/holiday
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: popular music entry
+  url: http://www.last.fm/tag/popular%20music%20entry
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: balladen
+  url: http://www.last.fm/tag/balladen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: erotique
+  url: http://www.last.fm/tag/erotique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: special to me
+  url: http://www.last.fm/tag/special%20to%20me
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: just great
+  url: http://www.last.fm/tag/just%20great
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rabbit
+  url: http://www.last.fm/tag/rabbit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: keep ya calm
+  url: http://www.last.fm/tag/keep%20ya%20calm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the ugly
+  url: http://www.last.fm/tag/the%20ugly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ze ramalho
+  url: http://www.last.fm/tag/ze%20ramalho
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melankoliaa
+  url: http://www.last.fm/tag/melankoliaa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock dreams
+  url: http://www.last.fm/tag/rock%20dreams
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: born in 1941
+  url: http://www.last.fm/tag/born%20in%201941
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 70s aor mafia
+  url: http://www.last.fm/tag/70s%20aor%20mafia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ds seen live
+  url: http://www.last.fm/tag/ds%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: raul seixas
+  url: http://www.last.fm/tag/raul%20seixas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: scorpio
+  url: http://www.last.fm/tag/scorpio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: roberto carlos
+  url: http://www.last.fm/tag/roberto%20carlos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: andylloydkwb
+  url: http://www.last.fm/tag/andylloydkwb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: keepin-it-smoothvocals
+  url: http://www.last.fm/tag/keepin-it-smoothvocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: keepin-it-male-smoothvocals
+  url: http://www.last.fm/tag/keepin-it-male-smoothvocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yacht smoothvocals
+  url: http://www.last.fm/tag/yacht%20smoothvocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smooth-male-vocal
+  url: http://www.last.fm/tag/smooth-male-vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smoothvocals
+  url: http://www.last.fm/tag/smoothvocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: descobrir
+  url: http://www.last.fm/tag/descobrir
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bang your head into a coma
+  url: http://www.last.fm/tag/bang%20your%20head%20into%20a%20coma
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic singer-songwriter
+  url: http://www.last.fm/tag/classic%20singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: garfunk
+  url: http://www.last.fm/tag/garfunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dylanlisting
+  url: http://www.last.fm/tag/dylanlisting
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brems tagg radio
+  url: http://www.last.fm/tag/brems%20tagg%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jt connection
+  url: http://www.last.fm/tag/jt%20connection
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "233"
+  url: http://www.last.fm/tag/233
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aimimaiselfe
+  url: http://www.last.fm/tag/aimimaiselfe
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: afrolicious
+  url: http://www.last.fm/tag/afrolicious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "196878"
+  url: http://www.last.fm/tag/196878
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vinyl albums i own
+  url: http://www.last.fm/tag/vinyl%20albums%20i%20own
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smooth male vocals
+  url: http://www.last.fm/tag/smooth%20male%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music7
+  url: http://www.last.fm/tag/music7
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: inne liszaj radio
+  url: http://www.last.fm/tag/inne%20liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mojjjjj
+  url: http://www.last.fm/tag/mojjjjj
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sams song
+  url: http://www.last.fm/tag/sams%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oir mas
+  url: http://www.last.fm/tag/oir%20mas
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: watershipdown
+  url: http://www.last.fm/tag/watershipdown
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: summer of love
+  url: http://www.last.fm/tag/summer%20of%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: united states
+  url: http://www.last.fm/tag/united%20states
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop/rock
+  url: http://www.last.fm/tag/pop%252Frock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: easy
+  url: http://www.last.fm/tag/easy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gospel
+  url: http://www.last.fm/tag/gospel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: feelings
+  url: http://www.last.fm/tag/feelings
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "from: usa"
+  url: http://www.last.fm/tag/from%3A%20usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: songwriter
+  url: http://www.last.fm/tag/songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male singer
+  url: http://www.last.fm/tag/male%20singer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft-rock
+  url: http://www.last.fm/tag/soft-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: duet
+  url: http://www.last.fm/tag/duet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft
+  url: http://www.last.fm/tag/soft
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tuneful
+  url: http://www.last.fm/tag/tuneful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hippie
+  url: http://www.last.fm/tag/hippie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: love songs
+  url: http://www.last.fm/tag/love%20songs

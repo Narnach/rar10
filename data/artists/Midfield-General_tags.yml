@@ -1,0 +1,229 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: big beat
+  url: http://www.last.fm/tag/big%20beat
+- !ruby/object:Scrobbler::Tag 
+  count: "88"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: british
+  url: http://www.last.fm/tag/british
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: skint
+  url: http://www.last.fm/tag/skint
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: bands i have to check out
+  url: http://www.last.fm/tag/bands%20i%20have%20to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: funky breakbeat
+  url: http://www.last.fm/tag/funky%20breakbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: dj
+  url: http://www.last.fm/tag/dj
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: my favourite song
+  url: http://www.last.fm/tag/my%20favourite%20song
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: listen to more of
+  url: http://www.last.fm/tag/listen%20to%20more%20of
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: good feeling
+  url: http://www.last.fm/tag/good%20feeling
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: mainstreetbar
+  url: http://www.last.fm/tag/mainstreetbar
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: seen live x2
+  url: http://www.last.fm/tag/seen%20live%20x2
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: music to chase squirrels by
+  url: http://www.last.fm/tag/music%20to%20chase%20squirrels%20by
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: dennisbergkaaaaaaaaaaaaaaaamp
+  url: http://www.last.fm/tag/dennisbergkaaaaaaaaaaaaaaaamp
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: freundlicheelektronik
+  url: http://www.last.fm/tag/freundlicheelektronik
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: new disco
+  url: http://www.last.fm/tag/new%20disco
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: tanzbaraphexig
+  url: http://www.last.fm/tag/tanzbaraphexig
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: savoy
+  url: http://www.last.fm/tag/savoy
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: fb-electro
+  url: http://www.last.fm/tag/fb-electro
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: techno classic
+  url: http://www.last.fm/tag/techno%20classic
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: crank hard
+  url: http://www.last.fm/tag/crank%20hard
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: evil twin
+  url: http://www.last.fm/tag/evil%20twin
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electrogefuckel
+  url: http://www.last.fm/tag/electrogefuckel
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: pleasure to listen to
+  url: http://www.last.fm/tag/pleasure%20to%20listen%20to
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: maas
+  url: http://www.last.fm/tag/maas
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: artists
+  url: http://www.last.fm/tag/artists
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electo
+  url: http://www.last.fm/tag/electo
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: breaks
+  url: http://www.last.fm/tag/breaks
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: turntablism
+  url: http://www.last.fm/tag/turntablism
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: mayday
+  url: http://www.last.fm/tag/mayday
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: bigbeat
+  url: http://www.last.fm/tag/bigbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: moving
+  url: http://www.last.fm/tag/moving
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: solo project
+  url: http://www.last.fm/tag/solo%20project
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: electrohouse
+  url: http://www.last.fm/tag/electrohouse
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bish bash bosh
+  url: http://www.last.fm/tag/bish%20bash%20bosh
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sexy sexy
+  url: http://www.last.fm/tag/sexy%20sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: catchy
+  url: http://www.last.fm/tag/catchy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: female rap
+  url: http://www.last.fm/tag/female%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: breaks artists
+  url: http://www.last.fm/tag/breaks%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: uk
+  url: http://www.last.fm/tag/uk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fm4
+  url: http://www.last.fm/tag/fm4
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno
+  url: http://www.last.fm/tag/techno

@@ -1,0 +1,149 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "67"
+  name: brazilian
+  url: http://www.last.fm/tag/brazilian
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: brasil
+  url: http://www.last.fm/tag/brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: covers
+  url: http://www.last.fm/tag/covers
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: cover
+  url: http://www.last.fm/tag/cover
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: mpb
+  url: http://www.last.fm/tag/mpb
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: brazil
+  url: http://www.last.fm/tag/brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: vi ao vivo
+  url: http://www.last.fm/tag/vi%20ao%20vivo
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: cover vs original
+  url: http://www.last.fm/tag/cover%20vs%20original
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: flexstudio
+  url: http://www.last.fm/tag/flexstudio
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rock brasileiro
+  url: http://www.last.fm/tag/rock%20brasileiro
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: artist
+  url: http://www.last.fm/tag/artist
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: ss soft
+  url: http://www.last.fm/tag/ss%20soft
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: emmerson nogueira
+  url: http://www.last.fm/tag/emmerson%20nogueira
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: grandes cantores
+  url: http://www.last.fm/tag/grandes%20cantores
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 80s
+  url: http://www.last.fm/tag/80s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: romantic
+  url: http://www.last.fm/tag/romantic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: brazilian rock
+  url: http://www.last.fm/tag/brazilian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emmerson
+  url: http://www.last.fm/tag/emmerson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: apocalipse
+  url: http://www.last.fm/tag/apocalipse
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: executivo por sonho
+  url: http://www.last.fm/tag/executivo%20por%20sonho
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: himens
+  url: http://www.last.fm/tag/himens
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: balada fria
+  url: http://www.last.fm/tag/balada%20fria
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: himen complacente
+  url: http://www.last.fm/tag/himen%20complacente
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: himencomplacente
+  url: http://www.last.fm/tag/himencomplacente
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: naquela cama
+  url: http://www.last.fm/tag/naquela%20cama

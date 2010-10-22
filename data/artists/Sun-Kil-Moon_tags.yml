@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "87"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "74"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "39"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "35"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: slowcore
+  url: http://www.last.fm/tag/slowcore
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: sadcore
+  url: http://www.last.fm/tag/sadcore
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: melancholy
+  url: http://www.last.fm/tag/melancholy
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: sun kil moon
+  url: http://www.last.fm/tag/sun%20kil%20moon
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: mark kozelek
+  url: http://www.last.fm/tag/mark%20kozelek
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: love-sickness emergency-care-kitt
+  url: http://www.last.fm/tag/love-sickness%20emergency-care-kitt
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post-rock
+  url: http://www.last.fm/tag/post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: san francisco
+  url: http://www.last.fm/tag/san%20francisco
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post amoeba
+  url: http://www.last.fm/tag/post%20amoeba
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post hitching post
+  url: http://www.last.fm/tag/post%20hitching%20post
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post folk core
+  url: http://www.last.fm/tag/post%20folk%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post core
+  url: http://www.last.fm/tag/post%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post post
+  url: http://www.last.fm/tag/post%20post
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: core core
+  url: http://www.last.fm/tag/core%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: acoustic rock
+  url: http://www.last.fm/tag/acoustic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: california
+  url: http://www.last.fm/tag/california
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sad
+  url: http://www.last.fm/tag/sad
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative country
+  url: http://www.last.fm/tag/alternative%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: intimate
+  url: http://www.last.fm/tag/intimate
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folf noir
+  url: http://www.last.fm/tag/folf%20noir
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: duyster
+  url: http://www.last.fm/tag/duyster
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: reflective
+  url: http://www.last.fm/tag/reflective
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: people who are freakier and folkier than motherfucking devendra banhart
+  url: http://www.last.fm/tag/people%20who%20are%20freakier%20and%20folkier%20than%20motherfucking%20devendra%20banhart
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alt country
+  url: http://www.last.fm/tag/alt%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lo-fi
+  url: http://www.last.fm/tag/lo-fi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alt rock
+  url: http://www.last.fm/tag/alt%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: quiet
+  url: http://www.last.fm/tag/quiet
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bad boys of beard-o
+  url: http://www.last.fm/tag/bad%20boys%20of%20beard-o
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gentle
+  url: http://www.last.fm/tag/gentle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new
+  url: http://www.last.fm/tag/new
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: end of the road 2008
+  url: http://www.last.fm/tag/end%20of%20the%20road%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: contemporary folk
+  url: http://www.last.fm/tag/contemporary%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slow core
+  url: http://www.last.fm/tag/slow%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emusic
+  url: http://www.last.fm/tag/emusic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new weird america
+  url: http://www.last.fm/tag/new%20weird%20america
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alt-folk
+  url: http://www.last.fm/tag/alt-folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: que bonito tu
+  url: http://www.last.fm/tag/que%20bonito%20tu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the balls
+  url: http://www.last.fm/tag/the%20balls
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dreamy
+  url: http://www.last.fm/tag/dreamy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite bands
+  url: http://www.last.fm/tag/favorite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lie in the sound
+  url: http://www.last.fm/tag/lie%20in%20the%20sound
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: caldo verde
+  url: http://www.last.fm/tag/caldo%20verde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer/songwriter
+  url: http://www.last.fm/tag/singer%252Fsongwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: insane
+  url: http://www.last.fm/tag/insane
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slow alternative
+  url: http://www.last.fm/tag/slow%20alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bittersweet
+  url: http://www.last.fm/tag/bittersweet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my lullaby
+  url: http://www.last.fm/tag/my%20lullaby
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: que genio
+  url: http://www.last.fm/tag/que%20genio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: manjoh
+  url: http://www.last.fm/tag/manjoh
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music to check out
+  url: http://www.last.fm/tag/music%20to%20check%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kozelek
+  url: http://www.last.fm/tag/kozelek
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie-folk
+  url: http://www.last.fm/tag/indie-folk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cover
+  url: http://www.last.fm/tag/cover
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slow
+  url: http://www.last.fm/tag/slow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my radio
+  url: http://www.last.fm/tag/my%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cover artist
+  url: http://www.last.fm/tag/cover%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: woxy
+  url: http://www.last.fm/tag/woxy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fox
+  url: http://www.last.fm/tag/fox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sun  kil moon
+  url: http://www.last.fm/tag/sun%20%20kil%20moon
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slow me down
+  url: http://www.last.fm/tag/slow%20me%20down

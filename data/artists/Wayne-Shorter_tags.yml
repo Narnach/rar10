@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "40"
+  name: saxophone
+  url: http://www.last.fm/tag/saxophone
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: hard bop
+  url: http://www.last.fm/tag/hard%20bop
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: fusion
+  url: http://www.last.fm/tag/fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: bebop
+  url: http://www.last.fm/tag/bebop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: wayne shorter
+  url: http://www.last.fm/tag/wayne%20shorter
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: contemporary jazz
+  url: http://www.last.fm/tag/contemporary%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: free jazz
+  url: http://www.last.fm/tag/free%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: jazz fusion
+  url: http://www.last.fm/tag/jazz%20fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: post-bop
+  url: http://www.last.fm/tag/post-bop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: modern jazz
+  url: http://www.last.fm/tag/modern%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: sax
+  url: http://www.last.fm/tag/sax
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: tenor sax
+  url: http://www.last.fm/tag/tenor%20sax
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: jazz saxophone
+  url: http://www.last.fm/tag/jazz%20saxophone
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: modal jazz
+  url: http://www.last.fm/tag/modal%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blues
+  url: http://www.last.fm/tag/blues
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blue note records
+  url: http://www.last.fm/tag/blue%20note%20records
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blue note
+  url: http://www.last.fm/tag/blue%20note
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: composer
+  url: http://www.last.fm/tag/composer
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post bop
+  url: http://www.last.fm/tag/post%20bop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: weather report
+  url: http://www.last.fm/tag/weather%20report
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: crossover jazz
+  url: http://www.last.fm/tag/crossover%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trumpet
+  url: http://www.last.fm/tag/trumpet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic jazz
+  url: http://www.last.fm/tag/classic%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz sax
+  url: http://www.last.fm/tag/jazz%20sax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smooth jazz
+  url: http://www.last.fm/tag/smooth%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modal music
+  url: http://www.last.fm/tag/modal%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive jazz
+  url: http://www.last.fm/tag/progressive%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: miles davis
+  url: http://www.last.fm/tag/miles%20davis
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin jazz
+  url: http://www.last.fm/tag/latin%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soprano sax
+  url: http://www.last.fm/tag/soprano%20sax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world fusion
+  url: http://www.last.fm/tag/world%20fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: swing
+  url: http://www.last.fm/tag/swing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz piano
+  url: http://www.last.fm/tag/jazz%20piano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool jazz
+  url: http://www.last.fm/tag/cool%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brasil
+  url: http://www.last.fm/tag/brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: saxophonist
+  url: http://www.last.fm/tag/saxophonist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bossa nova
+  url: http://www.last.fm/tag/bossa%20nova
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world
+  url: http://www.last.fm/tag/world
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul-jazz
+  url: http://www.last.fm/tag/soul-jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz rock
+  url: http://www.last.fm/tag/jazz%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great jazz musicians
+  url: http://www.last.fm/tag/great%20jazz%20musicians
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bop
+  url: http://www.last.fm/tag/bop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazzapedia
+  url: http://www.last.fm/tag/jazzapedia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental jazz
+  url: http://www.last.fm/tag/experimental%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: latin
+  url: http://www.last.fm/tag/latin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: miles
+  url: http://www.last.fm/tag/miles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wshorter
+  url: http://www.last.fm/tag/wshorter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shorter
+  url: http://www.last.fm/tag/shorter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz artists
+  url: http://www.last.fm/tag/jazz%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great jazz
+  url: http://www.last.fm/tag/great%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tenor saxophone
+  url: http://www.last.fm/tag/tenor%20saxophone
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite jazz
+  url: http://www.last.fm/tag/favourite%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: master
+  url: http://www.last.fm/tag/master
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: saxo
+  url: http://www.last.fm/tag/saxo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sax jazz
+  url: http://www.last.fm/tag/sax%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazzstar
+  url: http://www.last.fm/tag/jazzstar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mpb
+  url: http://www.last.fm/tag/mpb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: deepsoul
+  url: http://www.last.fm/tag/deepsoul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tenor
+  url: http://www.last.fm/tag/tenor
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: legends
+  url: http://www.last.fm/tag/legends
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: miles related
+  url: http://www.last.fm/tag/miles%20related
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: king
+  url: http://www.last.fm/tag/king
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the jazz
+  url: http://www.last.fm/tag/the%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blue-notes
+  url: http://www.last.fm/tag/blue-notes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: miles davis alumni
+  url: http://www.last.fm/tag/miles%20davis%20alumni
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard-bop
+  url: http://www.last.fm/tag/hard-bop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: j4zz13
+  url: http://www.last.fm/tag/j4zz13
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz-contempor
+  url: http://www.last.fm/tag/jazz-contempor
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz vocal
+  url: http://www.last.fm/tag/jazz%20vocal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: genius
+  url: http://www.last.fm/tag/genius
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: composers
+  url: http://www.last.fm/tag/composers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brazilian
+  url: http://www.last.fm/tag/brazilian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oprachina
+  url: http://www.last.fm/tag/oprachina
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bass
+  url: http://www.last.fm/tag/bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: big band
+  url: http://www.last.fm/tag/big%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz masters
+  url: http://www.last.fm/tag/jazz%20masters
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz ac
+  url: http://www.last.fm/tag/jazz%20ac
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: griesgrams jazz radio
+  url: http://www.last.fm/tag/griesgrams%20jazz%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pora machucar meu coracao
+  url: http://www.last.fm/tag/pora%20machucar%20meu%20coracao
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oh you can run
+  url: http://www.last.fm/tag/oh%20you%20can%20run
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazzthiago
+  url: http://www.last.fm/tag/jazzthiago
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flying home
+  url: http://www.last.fm/tag/flying%20home
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tsax
+  url: http://www.last.fm/tag/tsax
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my funny valentine
+  url: http://www.last.fm/tag/my%20funny%20valentine
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i want to talk about you
+  url: http://www.last.fm/tag/i%20want%20to%20talk%20about%20you
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modal mood
+  url: http://www.last.fm/tag/modal%20mood

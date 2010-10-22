@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: brazilian
+  url: http://www.last.fm/tag/brazilian
+- !ruby/object:Scrobbler::Tag 
+  count: "28"
+  name: brazilian rap
+  url: http://www.last.fm/tag/brazilian%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: nacional
+  url: http://www.last.fm/tag/nacional
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: politico
+  url: http://www.last.fm/tag/politico
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: non-us rap
+  url: http://www.last.fm/tag/non-us%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rap brasileiro
+  url: http://www.last.fm/tag/rap%20brasileiro
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: gangsta rap
+  url: http://www.last.fm/tag/gangsta%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dancehall
+  url: http://www.last.fm/tag/dancehall
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: brazilian rock
+  url: http://www.last.fm/tag/brazilian%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: brazuca
+  url: http://www.last.fm/tag/brazuca
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hip hop classic
+  url: http://www.last.fm/tag/hip%20hop%20classic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: latin rap
+  url: http://www.last.fm/tag/latin%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good hip hop
+  url: http://www.last.fm/tag/good%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: mc's
+  url: http://www.last.fm/tag/mc%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: "s\xC3\xA3o paulo"
+  url: http://www.last.fm/tag/s%C3%A3o%20paulo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: muito bom
+  url: http://www.last.fm/tag/muito%20bom
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sao paulo
+  url: http://www.last.fm/tag/sao%20paulo
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chapado
+  url: http://www.last.fm/tag/chapado
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: samba
+  url: http://www.last.fm/tag/samba
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: salve jorge
+  url: http://www.last.fm/tag/salve%20jorge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: musica
+  url: http://www.last.fm/tag/musica
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mestre
+  url: http://www.last.fm/tag/mestre
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: flop
+  url: http://www.last.fm/tag/flop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: need to listen
+  url: http://www.last.fm/tag/need%20to%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ogum ie
+  url: http://www.last.fm/tag/ogum%20ie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melhores da black music
+  url: http://www.last.fm/tag/melhores%20da%20black%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: racionais mc1s
+  url: http://www.last.fm/tag/racionais%20mc1s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sampa
+  url: http://www.last.fm/tag/sampa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: frodo destrua o anel
+  url: http://www.last.fm/tag/frodo%20destrua%20o%20anel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mangue beat
+  url: http://www.last.fm/tag/mangue%20beat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: manguebeat
+  url: http://www.last.fm/tag/manguebeat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap brazil
+  url: http://www.last.fm/tag/rap%20brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aggressive
+  url: http://www.last.fm/tag/aggressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pobre esculta
+  url: http://www.last.fm/tag/pobre%20esculta
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap brasil rap brazil
+  url: http://www.last.fm/tag/rap%20brasil%20rap%20brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: suburbio
+  url: http://www.last.fm/tag/suburbio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yo
+  url: http://www.last.fm/tag/yo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap paulista
+  url: http://www.last.fm/tag/rap%20paulista
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: siteracionais
+  url: http://www.last.fm/tag/siteracionais
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: negox
+  url: http://www.last.fm/tag/negox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aliadov
+  url: http://www.last.fm/tag/aliadov
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old school rap
+  url: http://www.last.fm/tag/old%20school%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: stuff to listen to when youre jonesing
+  url: http://www.last.fm/tag/stuff%20to%20listen%20to%20when%20youre%20jonesing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: toma na orelha
+  url: http://www.last.fm/tag/toma%20na%20orelha
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mayara
+  url: http://www.last.fm/tag/mayara
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap alternativo
+  url: http://www.last.fm/tag/rap%20alternativo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great lyrics
+  url: http://www.last.fm/tag/great%20lyrics
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rap nacional
+  url: http://www.last.fm/tag/rap%20nacional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brazil
+  url: http://www.last.fm/tag/brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brasil
+  url: http://www.last.fm/tag/brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: racionais
+  url: http://www.last.fm/tag/racionais
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black metal
+  url: http://www.last.fm/tag/black%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: world music
+  url: http://www.last.fm/tag/world%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: satanic warmaster
+  url: http://www.last.fm/tag/satanic%20warmaster
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: racionais mcs
+  url: http://www.last.fm/tag/racionais%20mcs
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: brazil brazil
+  url: http://www.last.fm/tag/brazil%20brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bb3
+  url: http://www.last.fm/tag/bb3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slavonic pride
+  url: http://www.last.fm/tag/slavonic%20pride
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: racionais mc
+  url: http://www.last.fm/tag/racionais%20mc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nazimetal
+  url: http://www.last.fm/tag/nazimetal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harcore
+  url: http://www.last.fm/tag/harcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doom metal
+  url: http://www.last.fm/tag/doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nsbm
+  url: http://www.last.fm/tag/nsbm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: crust
+  url: http://www.last.fm/tag/crust
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: racist
+  url: http://www.last.fm/tag/racist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emocore
+  url: http://www.last.fm/tag/emocore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funeral doom metal
+  url: http://www.last.fm/tag/funeral%20doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aleystercrowley
+  url: http://www.last.fm/tag/aleystercrowley
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: simplesdemais
+  url: http://www.last.fm/tag/simplesdemais
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: silva alhandra
+  url: http://www.last.fm/tag/silva%20alhandra
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: radiohead brasileiro
+  url: http://www.last.fm/tag/radiohead%20brasileiro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eventos
+  url: http://www.last.fm/tag/eventos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: madonna
+  url: http://www.last.fm/tag/madonna
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: volkolak
+  url: http://www.last.fm/tag/volkolak
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nornway
+  url: http://www.last.fm/tag/nornway
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gavioes da fiel
+  url: http://www.last.fm/tag/gavioes%20da%20fiel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: anthony smith
+  url: http://www.last.fm/tag/anthony%20smith
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: grindcore
+  url: http://www.last.fm/tag/grindcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: da ponte pra ca
+  url: http://www.last.fm/tag/da%20ponte%20pra%20ca
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beto juara
+  url: http://www.last.fm/tag/beto%20juara
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: aleyster
+  url: http://www.last.fm/tag/aleyster
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rapnacional
+  url: http://www.last.fm/tag/rapnacional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black
+  url: http://www.last.fm/tag/black
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: show
+  url: http://www.last.fm/tag/show
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kricamorena
+  url: http://www.last.fm/tag/kricamorena
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: familia santos
+  url: http://www.last.fm/tag/familia%20santos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mosca navarro
+  url: http://www.last.fm/tag/mosca%20navarro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: krica morena
+  url: http://www.last.fm/tag/krica%20morena
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: argeu
+  url: http://www.last.fm/tag/argeu

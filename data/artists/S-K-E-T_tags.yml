@@ -1,0 +1,221 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rhythmic noise
+  url: http://www.last.fm/tag/rhythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "73"
+  name: industrial
+  url: http://www.last.fm/tag/industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "52"
+  name: powernoise
+  url: http://www.last.fm/tag/powernoise
+- !ruby/object:Scrobbler::Tag 
+  count: "48"
+  name: noise
+  url: http://www.last.fm/tag/noise
+- !ruby/object:Scrobbler::Tag 
+  count: "27"
+  name: power noise
+  url: http://www.last.fm/tag/power%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: dark electro
+  url: http://www.last.fm/tag/dark%20electro
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: industrial techno
+  url: http://www.last.fm/tag/industrial%20techno
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: german
+  url: http://www.last.fm/tag/german
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: power electronics
+  url: http://www.last.fm/tag/power%20electronics
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: idm
+  url: http://www.last.fm/tag/idm
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: post-industrial
+  url: http://www.last.fm/tag/post-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: rhythm-n-noise
+  url: http://www.last.fm/tag/rhythm-n-noise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: industrial noise
+  url: http://www.last.fm/tag/industrial%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: hands productions
+  url: http://www.last.fm/tag/hands%20productions
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: noise-ambient
+  url: http://www.last.fm/tag/noise-ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: noize
+  url: http://www.last.fm/tag/noize
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: noise ambient
+  url: http://www.last.fm/tag/noise%20ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: power rhythmic noise
+  url: http://www.last.fm/tag/power%20rhythmic%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: tribal
+  url: http://www.last.fm/tag/tribal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: albums i need
+  url: http://www.last.fm/tag/albums%20i%20need
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: marx
+  url: http://www.last.fm/tag/marx
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: distorted beat
+  url: http://www.last.fm/tag/distorted%20beat
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: purplevelvets favourite artists
+  url: http://www.last.fm/tag/purplevelvets%20favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: schlau machen
+  url: http://www.last.fm/tag/schlau%20machen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: maschinenfest
+  url: http://www.last.fm/tag/maschinenfest
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seket
+  url: http://www.last.fm/tag/seket
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mighty noise
+  url: http://www.last.fm/tag/mighty%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: armed sndz
+  url: http://www.last.fm/tag/armed%20sndz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mecha gurus
+  url: http://www.last.fm/tag/mecha%20gurus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: warholic
+  url: http://www.last.fm/tag/warholic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: s
+  url: http://www.last.fm/tag/s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: buy
+  url: http://www.last.fm/tag/buy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hands
+  url: http://www.last.fm/tag/hands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: harsh ebm
+  url: http://www.last.fm/tag/harsh%20ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: e
+  url: http://www.last.fm/tag/e
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ebm
+  url: http://www.last.fm/tag/ebm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: t
+  url: http://www.last.fm/tag/t
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: k
+  url: http://www.last.fm/tag/k
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno-industrial
+  url: http://www.last.fm/tag/techno-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electro-industrial
+  url: http://www.last.fm/tag/electro-industrial
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: to listen
+  url: http://www.last.fm/tag/to%20listen
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wgt 2006
+  url: http://www.last.fm/tag/wgt%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check
+  url: http://www.last.fm/tag/check
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: infest
+  url: http://www.last.fm/tag/infest

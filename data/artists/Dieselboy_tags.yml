@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "36"
+  name: dnb
+  url: http://www.last.fm/tag/dnb
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: drum n bass
+  url: http://www.last.fm/tag/drum%20n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "25"
+  name: jungle
+  url: http://www.last.fm/tag/jungle
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: darkstep
+  url: http://www.last.fm/tag/darkstep
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: neurofunk
+  url: http://www.last.fm/tag/neurofunk
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: techstep
+  url: http://www.last.fm/tag/techstep
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dieselboy
+  url: http://www.last.fm/tag/dieselboy
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: drum &amp; bass
+  url: http://www.last.fm/tag/drum%2B%2526%2Bbass
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: darkside
+  url: http://www.last.fm/tag/darkside
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: drum'n'bass
+  url: http://www.last.fm/tag/drum%27n%27bass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: d'n'b
+  url: http://www.last.fm/tag/d%27n%27b
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: drum-n-bass
+  url: http://www.last.fm/tag/drum-n-bass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dj
+  url: http://www.last.fm/tag/dj
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dark drum and bass
+  url: http://www.last.fm/tag/dark%20drum%20and%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dubstep
+  url: http://www.last.fm/tag/dubstep
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardstep
+  url: http://www.last.fm/tag/hardstep
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: philadelphia
+  url: http://www.last.fm/tag/philadelphia
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drumandbass
+  url: http://www.last.fm/tag/drumandbass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: d&amp;b
+  url: http://www.last.fm/tag/d%2526b
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum&amp;bass
+  url: http://www.last.fm/tag/drum%2526bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: breakcore
+  url: http://www.last.fm/tag/breakcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: turntablism
+  url: http://www.last.fm/tag/turntablism
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: one-man-project
+  url: http://www.last.fm/tag/one-man-project
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: songsinfluencedbychazanddave
+  url: http://www.last.fm/tag/songsinfluencedbychazanddave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bad ass
+  url: http://www.last.fm/tag/bad%20ass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neuropunk
+  url: http://www.last.fm/tag/neuropunk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techstep and darkstep
+  url: http://www.last.fm/tag/techstep%20and%20darkstep
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: darkpleasure
+  url: http://www.last.fm/tag/darkpleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jungle-drum-n-bass
+  url: http://www.last.fm/tag/jungle-drum-n-bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: darkside jungle
+  url: http://www.last.fm/tag/darkside%20jungle
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drums n bass
+  url: http://www.last.fm/tag/drums%20n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark step
+  url: http://www.last.fm/tag/dark%20step
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum'n bass
+  url: http://www.last.fm/tag/drum%27n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tense-anxious
+  url: http://www.last.fm/tag/tense-anxious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sonic medication
+  url: http://www.last.fm/tag/sonic%20medication
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hotness
+  url: http://www.last.fm/tag/hotness
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: yolalaelec
+  url: http://www.last.fm/tag/yolalaelec
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: drum 'n bass
+  url: http://www.last.fm/tag/drum%20%27n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tech step
+  url: http://www.last.fm/tag/tech%20step
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: producaaa
+  url: http://www.last.fm/tag/producaaa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: f
+  url: http://www.last.fm/tag/f
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: broken beats artists
+  url: http://www.last.fm/tag/broken%20beats%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: superstar
+  url: http://www.last.fm/tag/superstar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: club-dance
+  url: http://www.last.fm/tag/club-dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rockstar
+  url: http://www.last.fm/tag/rockstar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: create new tag
+  url: http://www.last.fm/tag/create%20new%20tag
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard step
+  url: http://www.last.fm/tag/hard%20step
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: extreme0ne
+  url: http://www.last.fm/tag/extreme0ne
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dirty jungalists
+  url: http://www.last.fm/tag/dirty%20jungalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: illogical combos
+  url: http://www.last.fm/tag/illogical%20combos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ic radio
+  url: http://www.last.fm/tag/ic%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the ultimatesound
+  url: http://www.last.fm/tag/the%20ultimatesound
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cafe computer noise
+  url: http://www.last.fm/tag/cafe%20computer%20noise
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dru
+  url: http://www.last.fm/tag/dru
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ratch
+  url: http://www.last.fm/tag/ratch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best live act
+  url: http://www.last.fm/tag/best%20live%20act
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: totec radio
+  url: http://www.last.fm/tag/totec%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mes decouverte
+  url: http://www.last.fm/tag/mes%20decouverte
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gaias web
+  url: http://www.last.fm/tag/gaias%20web
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark drum n bass
+  url: http://www.last.fm/tag/dark%20drum%20n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shake it baby
+  url: http://www.last.fm/tag/shake%20it%20baby
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wixa
+  url: http://www.last.fm/tag/wixa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artist ive met
+  url: http://www.last.fm/tag/artist%20ive%20met
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: decouverte
+  url: http://www.last.fm/tag/decouverte
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore trance
+  url: http://www.last.fm/tag/hardcore%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: matissera
+  url: http://www.last.fm/tag/matissera
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: o0-dnb-0o
+  url: http://www.last.fm/tag/o0-dnb-0o
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: le punk
+  url: http://www.last.fm/tag/le%20punk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: junkka
+  url: http://www.last.fm/tag/junkka
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shambles 2007
+  url: http://www.last.fm/tag/shambles%202007
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: darkside drum n bass
+  url: http://www.last.fm/tag/darkside%20drum%20n%20bass
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: breaks-dnb-ambient and triphop
+  url: http://www.last.fm/tag/breaks-dnb-ambient%20and%20triphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new school drum and bass artists
+  url: http://www.last.fm/tag/new%20school%20drum%20and%20bass%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands ive met
+  url: http://www.last.fm/tag/bands%20ive%20met
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my stuff
+  url: http://www.last.fm/tag/my%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: oldies
+  url: http://www.last.fm/tag/oldies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eerie
+  url: http://www.last.fm/tag/eerie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: remix
+  url: http://www.last.fm/tag/remix
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: loud
+  url: http://www.last.fm/tag/loud
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good
+  url: http://www.last.fm/tag/good

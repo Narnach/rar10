@@ -1,0 +1,145 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: power metal
+  url: http://www.last.fm/tag/power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "21"
+  name: finnish
+  url: http://www.last.fm/tag/finnish
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: finnish metal
+  url: http://www.last.fm/tag/finnish%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "17"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "14"
+  name: melodic metal
+  url: http://www.last.fm/tag/melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: finland
+  url: http://www.last.fm/tag/finland
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: melodic power metal
+  url: http://www.last.fm/tag/melodic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: cheese cheese cheese
+  url: http://www.last.fm/tag/cheese%20cheese%20cheese
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: epic metal
+  url: http://www.last.fm/tag/epic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: epic power metal
+  url: http://www.last.fm/tag/epic%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: excalion
+  url: http://www.last.fm/tag/excalion
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: vocal gods
+  url: http://www.last.fm/tag/vocal%20gods
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: syn-painkiller
+  url: http://www.last.fm/tag/syn-painkiller
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: extreme sludge
+  url: http://www.last.fm/tag/extreme%20sludge
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: swiss cheese
+  url: http://www.last.fm/tag/swiss%20cheese
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: blip-blop metal
+  url: http://www.last.fm/tag/blip-blop%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: metalemocore
+  url: http://www.last.fm/tag/metalemocore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: video game metal
+  url: http://www.last.fm/tag/video%20game%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 8bit
+  url: http://www.last.fm/tag/8bit
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: voices to rape
+  url: http://www.last.fm/tag/voices%20to%20rape
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: piano rock
+  url: http://www.last.fm/tag/piano%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: greek
+  url: http://www.last.fm/tag/greek
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: altar of the metal gods melodic metal
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods%20melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: altar of the metal gods
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive power metal
+  url: http://www.last.fm/tag/progressive%20power%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: finsk lyssna mer
+  url: http://www.last.fm/tag/finsk%20lyssna%20mer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kommande
+  url: http://www.last.fm/tag/kommande
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore

@@ -1,0 +1,37 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: "'00s"
+  url: http://www.last.fm/tag/%2700s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: michael buble
+  url: http://www.last.fm/tag/michael%20buble
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: swing
+  url: http://www.last.fm/tag/swing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: michael
+  url: http://www.last.fm/tag/michael
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male jazz
+  url: http://www.last.fm/tag/male%20jazz

@@ -1,0 +1,137 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "73"
+  name: rap nacional
+  url: http://www.last.fm/tag/rap%20nacional
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: skate music
+  url: http://www.last.fm/tag/skate%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "26"
+  name: brazil
+  url: http://www.last.fm/tag/brazil
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: brasil
+  url: http://www.last.fm/tag/brasil
+- !ruby/object:Scrobbler::Tag 
+  count: "20"
+  name: hip hop classic
+  url: http://www.last.fm/tag/hip%20hop%20classic
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: freestyle
+  url: http://www.last.fm/tag/freestyle
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: underground
+  url: http://www.last.fm/tag/underground
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: black
+  url: http://www.last.fm/tag/black
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: brazilian
+  url: http://www.last.fm/tag/brazilian
+- !ruby/object:Scrobbler::Tag 
+  count: "13"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: brazilian rap
+  url: http://www.last.fm/tag/brazilian%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: brazuca
+  url: http://www.last.fm/tag/brazuca
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: hip hop latino
+  url: http://www.last.fm/tag/hip%20hop%20latino
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: rap alternativo
+  url: http://www.last.fm/tag/rap%20alternativo
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: sao paulo
+  url: http://www.last.fm/tag/sao%20paulo
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: rap do bom
+  url: http://www.last.fm/tag/rap%20do%20bom
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: favela
+  url: http://www.last.fm/tag/favela
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: rap-brasillll
+  url: http://www.last.fm/tag/rap-brasillll
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: rap underground
+  url: http://www.last.fm/tag/rap%20underground
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: skate
+  url: http://www.last.fm/tag/skate
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: indie hip hop
+  url: http://www.last.fm/tag/indie%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: world music
+  url: http://www.last.fm/tag/world%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: soundtrack of my life
+  url: http://www.last.fm/tag/soundtrack%20of%20my%20life
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: underground rap
+  url: http://www.last.fm/tag/underground%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hawaiian music
+  url: http://www.last.fm/tag/hawaiian%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: island roots
+  url: http://www.last.fm/tag/island%20roots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ethno
+  url: http://www.last.fm/tag/ethno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hawaiian
+  url: http://www.last.fm/tag/hawaiian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melhores da black music
+  url: http://www.last.fm/tag/melhores%20da%20black%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: folk
+  url: http://www.last.fm/tag/folk

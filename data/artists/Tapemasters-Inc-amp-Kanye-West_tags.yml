@@ -1,0 +1,21 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: music
+  url: http://www.last.fm/tag/music
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: kanye west
+  url: http://www.last.fm/tag/kanye%20west
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: black eyed peas
+  url: http://www.last.fm/tag/black%20eyed%20peas
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: chris brown
+  url: http://www.last.fm/tag/chris%20brown

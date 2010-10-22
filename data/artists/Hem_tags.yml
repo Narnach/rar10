@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: folk
+  url: http://www.last.fm/tag/folk
+- !ruby/object:Scrobbler::Tag 
+  count: "74"
+  name: alt-country
+  url: http://www.last.fm/tag/alt-country
+- !ruby/object:Scrobbler::Tag 
+  count: "58"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "52"
+  name: americana
+  url: http://www.last.fm/tag/americana
+- !ruby/object:Scrobbler::Tag 
+  count: "34"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "22"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: country
+  url: http://www.last.fm/tag/country
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: chamber-folk
+  url: http://www.last.fm/tag/chamber-folk
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: beautiful
+  url: http://www.last.fm/tag/beautiful
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: countrypolitan
+  url: http://www.last.fm/tag/countrypolitan
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: quiet
+  url: http://www.last.fm/tag/quiet
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: alt country
+  url: http://www.last.fm/tag/alt%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hem
+  url: http://www.last.fm/tag/hem
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: post hitching post
+  url: http://www.last.fm/tag/post%20hitching%20post
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: post folk core
+  url: http://www.last.fm/tag/post%20folk%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: post amoeba
+  url: http://www.last.fm/tag/post%20amoeba
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female voices
+  url: http://www.last.fm/tag/female%20voices
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: gentle
+  url: http://www.last.fm/tag/gentle
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: dreamy
+  url: http://www.last.fm/tag/dreamy
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post core
+  url: http://www.last.fm/tag/post%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: calm
+  url: http://www.last.fm/tag/calm
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: new york
+  url: http://www.last.fm/tag/new%20york
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: piano
+  url: http://www.last.fm/tag/piano
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post post
+  url: http://www.last.fm/tag/post%20post
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: ecto
+  url: http://www.last.fm/tag/ecto
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: warm and mellow
+  url: http://www.last.fm/tag/warm%20and%20mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: orchestral indie folk rock
+  url: http://www.last.fm/tag/orchestral%20indie%20folk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: american country
+  url: http://www.last.fm/tag/american%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: smarttoons
+  url: http://www.last.fm/tag/smarttoons
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative country
+  url: http://www.last.fm/tag/alternative%20country
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sweet sweet music
+  url: http://www.last.fm/tag/sweet%20sweet%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soft
+  url: http://www.last.fm/tag/soft
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: emusic
+  url: http://www.last.fm/tag/emusic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: pretty
+  url: http://www.last.fm/tag/pretty
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: softslowgirlie
+  url: http://www.last.fm/tag/softslowgirlie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: slow-coustic
+  url: http://www.last.fm/tag/slow-coustic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: female
+  url: http://www.last.fm/tag/female
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: folk-indie
+  url: http://www.last.fm/tag/folk-indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: bands with such lovely female lead singers
+  url: http://www.last.fm/tag/bands%20with%20such%20lovely%20female%20lead%20singers
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sunday morning music
+  url: http://www.last.fm/tag/sunday%20morning%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: best of 2006
+  url: http://www.last.fm/tag/best%20of%202006
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: real female thing
+  url: http://www.last.fm/tag/real%20female%20thing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: starry eyed
+  url: http://www.last.fm/tag/starry%20eyed
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: worth listening
+  url: http://www.last.fm/tag/worth%20listening
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: find this
+  url: http://www.last.fm/tag/find%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: discography
+  url: http://www.last.fm/tag/discography
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ihs0001
+  url: http://www.last.fm/tag/ihs0001
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands i should listen to more
+  url: http://www.last.fm/tag/bands%20i%20should%20listen%20to%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: graycharles
+  url: http://www.last.fm/tag/graycharles
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lasagnahog favourite artists
+  url: http://www.last.fm/tag/lasagnahog%20favourite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: checking out
+  url: http://www.last.fm/tag/checking%20out
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: a-o-t-w
+  url: http://www.last.fm/tag/a-o-t-w
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: treasure
+  url: http://www.last.fm/tag/treasure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ihanaa
+  url: http://www.last.fm/tag/ihanaa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite group
+  url: http://www.last.fm/tag/favorite%20group
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: add to personal radio
+  url: http://www.last.fm/tag/add%20to%20personal%20radio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: listen to this more
+  url: http://www.last.fm/tag/listen%20to%20this%20more
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: abstraction
+  url: http://www.last.fm/tag/abstraction
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: digg
+  url: http://www.last.fm/tag/digg
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lesser known check streamable check but will my ears rot to hear them
+  url: http://www.last.fm/tag/lesser%20known%20check%20streamable%20check%20but%20will%20my%20ears%20rot%20to%20hear%20them
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gillian welch
+  url: http://www.last.fm/tag/gillian%20welch
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the ladies
+  url: http://www.last.fm/tag/the%20ladies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: band i want to hear more of
+  url: http://www.last.fm/tag/band%20i%20want%20to%20hear%20more%20of
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: apparel core
+  url: http://www.last.fm/tag/apparel%20core
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sally ellyson
+  url: http://www.last.fm/tag/sally%20ellyson
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: vanilla green
+  url: http://www.last.fm/tag/vanilla%20green
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: little music
+  url: http://www.last.fm/tag/little%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guzel-datlu-hos
+  url: http://www.last.fm/tag/guzel-datlu-hos
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowhat hero
+  url: http://www.last.fm/tag/cowhat%20hero
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cowhat fav
+  url: http://www.last.fm/tag/cowhat%20fav
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: and they rode on in the friscalating dusklight
+  url: http://www.last.fm/tag/and%20they%20rode%20on%20in%20the%20friscalating%20dusklight
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: we got married in a fever
+  url: http://www.last.fm/tag/we%20got%20married%20in%20a%20fever
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: damerican
+  url: http://www.last.fm/tag/damerican
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dcountry
+  url: http://www.last.fm/tag/dcountry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: d00ies
+  url: http://www.last.fm/tag/d00ies
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: zone americana
+  url: http://www.last.fm/tag/zone%20americana
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: slodio
+  url: http://www.last.fm/tag/slodio
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soggy bottm boys
+  url: http://www.last.fm/tag/soggy%20bottm%20boys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kgrl
+  url: http://www.last.fm/tag/kgrl
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cigarette-stained jeans
+  url: http://www.last.fm/tag/cigarette-stained%20jeans
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: i have so much strength in me you have no idea i have a love in my life it makes me stronger than anything you can imagine
+  url: http://www.last.fm/tag/i%20have%20so%20much%20strength%20in%20me%20you%20have%20no%20idea%20i%20have%20a%20love%20in%20my%20life%20it%20makes%20me%20stronger%20than%20anything%20you%20can%20imagine
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: still waters run deep
+  url: http://www.last.fm/tag/still%20waters%20run%20deep
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: glockenspiel
+  url: http://www.last.fm/tag/glockenspiel
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: not so loud
+  url: http://www.last.fm/tag/not%20so%20loud

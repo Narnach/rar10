@@ -1,0 +1,53 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: hard trance
+  url: http://www.last.fm/tag/hard%20trance
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: funk metal
+  url: http://www.last.fm/tag/funk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: hard dance
+  url: http://www.last.fm/tag/hard%20dance
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: hardcore
+  url: http://www.last.fm/tag/hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: punk metal
+  url: http://www.last.fm/tag/punk%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: freeform
+  url: http://www.last.fm/tag/freeform
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: 3 stars
+  url: http://www.last.fm/tag/3%20stars
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: pret metal
+  url: http://www.last.fm/tag/pret%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: rating 3 stars - dull
+  url: http://www.last.fm/tag/rating%203%20stars%20-%20dull
+- !ruby/object:Scrobbler::Tag 
+  count: "33"
+  name: under 1000 listeners
+  url: http://www.last.fm/tag/under%201000%20listeners

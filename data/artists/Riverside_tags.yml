@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "63"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "31"
+  name: polish
+  url: http://www.last.fm/tag/polish
+- !ruby/object:Scrobbler::Tag 
+  count: "23"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "18"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: art rock
+  url: http://www.last.fm/tag/art%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: poland
+  url: http://www.last.fm/tag/poland
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: prog rock
+  url: http://www.last.fm/tag/prog%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: polish rock
+  url: http://www.last.fm/tag/polish%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: prog
+  url: http://www.last.fm/tag/prog
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: riverside
+  url: http://www.last.fm/tag/riverside
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: psychedelic rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: prog metal
+  url: http://www.last.fm/tag/prog%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: porn prog
+  url: http://www.last.fm/tag/porn%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: polskie
+  url: http://www.last.fm/tag/polskie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric rock
+  url: http://www.last.fm/tag/atmospheric%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: polish progressive metal
+  url: http://www.last.fm/tag/polish%20progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ambient
+  url: http://www.last.fm/tag/ambient
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: polish progressive rock
+  url: http://www.last.fm/tag/polish%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic metal
+  url: http://www.last.fm/tag/symphonic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jangly
+  url: http://www.last.fm/tag/jangly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric metal
+  url: http://www.last.fm/tag/atmospheric%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-rock
+  url: http://www.last.fm/tag/post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: polish metal
+  url: http://www.last.fm/tag/polish%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melancholy
+  url: http://www.last.fm/tag/melancholy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indiepop
+  url: http://www.last.fm/tag/indiepop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo-progressive rock
+  url: http://www.last.fm/tag/neo-progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doom metal
+  url: http://www.last.fm/tag/doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo prog
+  url: http://www.last.fm/tag/neo%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sad
+  url: http://www.last.fm/tag/sad
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: avant-garde
+  url: http://www.last.fm/tag/avant-garde
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tool
+  url: http://www.last.fm/tag/tool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melancholic progressive rock
+  url: http://www.last.fm/tag/melancholic%20progressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: instrumental
+  url: http://www.last.fm/tag/instrumental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: art metal
+  url: http://www.last.fm/tag/art%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "from: poland"
+  url: http://www.last.fm/tag/from%3A%20poland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favourite
+  url: http://www.last.fm/tag/favourite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: space rock
+  url: http://www.last.fm/tag/space%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progrock
+  url: http://www.last.fm/tag/progrock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark progressive metal
+  url: http://www.last.fm/tag/dark%20progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: polish progressive
+  url: http://www.last.fm/tag/polish%20progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: check
+  url: http://www.last.fm/tag/check
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: porcupine tree
+  url: http://www.last.fm/tag/porcupine%20tree
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive metal-rock
+  url: http://www.last.fm/tag/progressive%20metal-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bands that make me a little proud of my country but only a little
+  url: http://www.last.fm/tag/bands%20that%20make%20me%20a%20little%20proud%20of%20my%20country%20but%20only%20a%20little
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental rock
+  url: http://www.last.fm/tag/experimental%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: relaxing
+  url: http://www.last.fm/tag/relaxing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo-prog
+  url: http://www.last.fm/tag/neo-prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pink floyd
+  url: http://www.last.fm/tag/pink%20floyd
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite bands
+  url: http://www.last.fm/tag/favorite%20bands
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic rock
+  url: http://www.last.fm/tag/melodic%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dream
+  url: http://www.last.fm/tag/dream
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: inspiring
+  url: http://www.last.fm/tag/inspiring
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: interesting
+  url: http://www.last.fm/tag/interesting
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic
+  url: http://www.last.fm/tag/symphonic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-metal
+  url: http://www.last.fm/tag/post-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mellow
+  url: http://www.last.fm/tag/mellow
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: miosis
+  url: http://www.last.fm/tag/miosis
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: new prog
+  url: http://www.last.fm/tag/new%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark prog
+  url: http://www.last.fm/tag/dark%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: intelligent metal
+  url: http://www.last.fm/tag/intelligent%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: polski rock
+  url: http://www.last.fm/tag/polski%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark music
+  url: http://www.last.fm/tag/dark%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: polish prog
+  url: http://www.last.fm/tag/polish%20prog
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dobre bo polskie
+  url: http://www.last.fm/tag/dobre%20bo%20polskie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progresive rock
+  url: http://www.last.fm/tag/progresive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic death metal
+  url: http://www.last.fm/tag/melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive rock metal
+  url: http://www.last.fm/tag/progressive%20rock%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: technical drumming
+  url: http://www.last.fm/tag/technical%20drumming
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: depressive metal
+  url: http://www.last.fm/tag/depressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nu metal
+  url: http://www.last.fm/tag/nu%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: air metal
+  url: http://www.last.fm/tag/air%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressiv
+  url: http://www.last.fm/tag/progressiv
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: symphonic rock
+  url: http://www.last.fm/tag/symphonic%20rock

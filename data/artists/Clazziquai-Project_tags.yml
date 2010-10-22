@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: korean
+  url: http://www.last.fm/tag/korean
+- !ruby/object:Scrobbler::Tag 
+  count: "72"
+  name: k-pop
+  url: http://www.last.fm/tag/k-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "70"
+  name: acid jazz
+  url: http://www.last.fm/tag/acid%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "64"
+  name: electronica
+  url: http://www.last.fm/tag/electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "58"
+  name: house
+  url: http://www.last.fm/tag/house
+- !ruby/object:Scrobbler::Tag 
+  count: "45"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "29"
+  name: lounge
+  url: http://www.last.fm/tag/lounge
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: groove
+  url: http://www.last.fm/tag/groove
+- !ruby/object:Scrobbler::Tag 
+  count: "15"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: kpop
+  url: http://www.last.fm/tag/kpop
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: clazziquai
+  url: http://www.last.fm/tag/clazziquai
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: fusion
+  url: http://www.last.fm/tag/fusion
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: chillout
+  url: http://www.last.fm/tag/chillout
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: bossa nova
+  url: http://www.last.fm/tag/bossa%20nova
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: bossanova
+  url: http://www.last.fm/tag/bossanova
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: asian
+  url: http://www.last.fm/tag/asian
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: band
+  url: http://www.last.fm/tag/band
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: korea
+  url: http://www.last.fm/tag/korea
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: korean indie pop
+  url: http://www.last.fm/tag/korean%20indie%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: this is pretty chill if i do say so myself
+  url: http://www.last.fm/tag/this%20is%20pretty%20chill%20if%20i%20do%20say%20so%20myself
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: nu-jazz
+  url: http://www.last.fm/tag/nu-jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: best band ever
+  url: http://www.last.fm/tag/best%20band%20ever
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: asian indie
+  url: http://www.last.fm/tag/asian%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: korean jazz
+  url: http://www.last.fm/tag/korean%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: amazing
+  url: http://www.last.fm/tag/amazing
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: horan
+  url: http://www.last.fm/tag/horan
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: shibuya-kei
+  url: http://www.last.fm/tag/shibuya-kei
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: djmax
+  url: http://www.last.fm/tag/djmax
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: k-music
+  url: http://www.last.fm/tag/k-music
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: damce
+  url: http://www.last.fm/tag/damce
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: korean electronica
+  url: http://www.last.fm/tag/korean%20electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: korean artists
+  url: http://www.last.fm/tag/korean%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: korean indie
+  url: http://www.last.fm/tag/korean%20indie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: k-electronica
+  url: http://www.last.fm/tag/k-electronica
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: i'm in love
+  url: http://www.last.fm/tag/i%27m%20in%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: quai
+  url: http://www.last.fm/tag/quai
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: k-jazz
+  url: http://www.last.fm/tag/k-jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soooooo good
+  url: http://www.last.fm/tag/soooooo%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sexy stuff
+  url: http://www.last.fm/tag/sexy%20stuff
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kindie
+  url: http://www.last.fm/tag/kindie
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electroinica
+  url: http://www.last.fm/tag/electroinica
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: shibuya-style bibim-pop
+  url: http://www.last.fm/tag/shibuya-style%20bibim-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alex chu
+  url: http://www.last.fm/tag/alex%20chu
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: akihavermillion was here
+  url: http://www.last.fm/tag/akihavermillion%20was%20here
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dj clazzi
+  url: http://www.last.fm/tag/dj%20clazzi
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hearts n-n
+  url: http://www.last.fm/tag/hearts%20n-n
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: j-club
+  url: http://www.last.fm/tag/j-club
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 0 play yet
+  url: http://www.last.fm/tag/0%20play%20yet
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: my great love
+  url: http://www.last.fm/tag/my%20great%20love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kelectro
+  url: http://www.last.fm/tag/kelectro
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: kpop-underground
+  url: http://www.last.fm/tag/kpop-underground
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sexy-cute
+  url: http://www.last.fm/tag/sexy-cute
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: japanese
+  url: http://www.last.fm/tag/japanese
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electropop
+  url: http://www.last.fm/tag/electropop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: classical
+  url: http://www.last.fm/tag/classical
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electro
+  url: http://www.last.fm/tag/electro
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nu jazz
+  url: http://www.last.fm/tag/nu%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: dj
+  url: http://www.last.fm/tag/dj
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: just love it
+  url: http://www.last.fm/tag/just%20love%20it
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: feel good
+  url: http://www.last.fm/tag/feel%20good
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: smooth
+  url: http://www.last.fm/tag/smooth
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: eletronic
+  url: http://www.last.fm/tag/eletronic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: laid back
+  url: http://www.last.fm/tag/laid%20back
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: electro-pop
+  url: http://www.last.fm/tag/electro-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: groovy jazz
+  url: http://www.last.fm/tag/groovy%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: disco nouveau
+  url: http://www.last.fm/tag/disco%20nouveau
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: flawless
+  url: http://www.last.fm/tag/flawless
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: future jazz
+  url: http://www.last.fm/tag/future%20jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: amazing vocals
+  url: http://www.last.fm/tag/amazing%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: good stuffs
+  url: http://www.last.fm/tag/good%20stuffs
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: lounge music
+  url: http://www.last.fm/tag/lounge%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: please let me lick you
+  url: http://www.last.fm/tag/please%20let%20me%20lick%20you
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: beautiful vocals
+  url: http://www.last.fm/tag/beautiful%20vocals
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: krock
+  url: http://www.last.fm/tag/krock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: korean music
+  url: http://www.last.fm/tag/korean%20music
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: clazziquai project
+  url: http://www.last.fm/tag/clazziquai%20project
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: downtempo
+  url: http://www.last.fm/tag/downtempo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazztro
+  url: http://www.last.fm/tag/jazztro
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: k-crazy
+  url: http://www.last.fm/tag/k-crazy
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: myjukebox
+  url: http://www.last.fm/tag/myjukebox
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: koreank-pop
+  url: http://www.last.fm/tag/koreank-pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favourites
+  url: http://www.last.fm/tag/my%20favourites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: eastern play
+  url: http://www.last.fm/tag/eastern%20play
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alex
+  url: http://www.last.fm/tag/alex

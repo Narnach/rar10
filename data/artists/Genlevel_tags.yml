@@ -1,0 +1,25 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: beats
+  url: http://www.last.fm/tag/beats
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: bleeps
+  url: http://www.last.fm/tag/bleeps
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: clananalogue
+  url: http://www.last.fm/tag/clananalogue
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: under 2000 listeners
+  url: http://www.last.fm/tag/under%202000%20listeners

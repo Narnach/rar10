@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: hip-hop
+  url: http://www.last.fm/tag/hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "47"
+  name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "44"
+  name: rap
+  url: http://www.last.fm/tag/rap
+- !ruby/object:Scrobbler::Tag 
+  count: "38"
+  name: underground hip-hop
+  url: http://www.last.fm/tag/underground%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "19"
+  name: alternative rap
+  url: http://www.last.fm/tag/alternative%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: new york
+  url: http://www.last.fm/tag/new%20york
+- !ruby/object:Scrobbler::Tag 
+  count: "8"
+  name: underground rap
+  url: http://www.last.fm/tag/underground%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: mos def
+  url: http://www.last.fm/tag/mos%20def
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: hiphop
+  url: http://www.last.fm/tag/hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: talib kweli
+  url: http://www.last.fm/tag/talib%20kweli
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: underground
+  url: http://www.last.fm/tag/underground
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: east coast rap
+  url: http://www.last.fm/tag/east%20coast%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: underground hip hop
+  url: http://www.last.fm/tag/underground%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: east coast
+  url: http://www.last.fm/tag/east%20coast
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: black star
+  url: http://www.last.fm/tag/black%20star
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: alternative hip-hop
+  url: http://www.last.fm/tag/alternative%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: conscious rap
+  url: http://www.last.fm/tag/conscious%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: rawkus
+  url: http://www.last.fm/tag/rawkus
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: real hip-hop
+  url: http://www.last.fm/tag/real%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: brooklyn
+  url: http://www.last.fm/tag/brooklyn
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: native tongues
+  url: http://www.last.fm/tag/native%20tongues
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: political
+  url: http://www.last.fm/tag/political
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: political rap
+  url: http://www.last.fm/tag/political%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 90s
+  url: http://www.last.fm/tag/90s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: conscious hip hop
+  url: http://www.last.fm/tag/conscious%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: conscious hip-hop
+  url: http://www.last.fm/tag/conscious%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: urban
+  url: http://www.last.fm/tag/urban
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: nyc
+  url: http://www.last.fm/tag/nyc
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rnb
+  url: http://www.last.fm/tag/rnb
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: conscious
+  url: http://www.last.fm/tag/conscious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz
+  url: http://www.last.fm/tag/jazz
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: real hip hop
+  url: http://www.last.fm/tag/real%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: underground hiphop
+  url: http://www.last.fm/tag/underground%20hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: black
+  url: http://www.last.fm/tag/black
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rap
+  url: http://www.last.fm/tag/indie%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: inspiring
+  url: http://www.last.fm/tag/inspiring
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smooth
+  url: http://www.last.fm/tag/smooth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: jazz hop
+  url: http://www.last.fm/tag/jazz%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reflective
+  url: http://www.last.fm/tag/reflective
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill
+  url: http://www.last.fm/tag/chill
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorites
+  url: http://www.last.fm/tag/favorites
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: beats
+  url: http://www.last.fm/tag/beats
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: confident
+  url: http://www.last.fm/tag/confident
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dope
+  url: http://www.last.fm/tag/dope
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic hip-hop
+  url: http://www.last.fm/tag/classic%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: east coast hip-hop
+  url: http://www.last.fm/tag/east%20coast%20hip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: alternative hip hop
+  url: http://www.last.fm/tag/alternative%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sophisticated
+  url: http://www.last.fm/tag/sophisticated
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old school
+  url: http://www.last.fm/tag/old%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: literate
+  url: http://www.last.fm/tag/literate
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: intelligent
+  url: http://www.last.fm/tag/intelligent
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hi-tek
+  url: http://www.last.fm/tag/hi-tek
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic
+  url: http://www.last.fm/tag/classic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: socially conscious
+  url: http://www.last.fm/tag/socially%20conscious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favorite artists
+  url: http://www.last.fm/tag/my%20favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: collaboration
+  url: http://www.last.fm/tag/collaboration
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hop
+  url: http://www.last.fm/tag/hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: allen poe general
+  url: http://www.last.fm/tag/allen%20poe%20general
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo-soul
+  url: http://www.last.fm/tag/neo-soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: nigga
+  url: http://www.last.fm/tag/nigga
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hip hop i like
+  url: http://www.last.fm/tag/hip%20hop%20i%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: concious
+  url: http://www.last.fm/tag/concious
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: true school
+  url: http://www.last.fm/tag/true%20school
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: schickendes
+  url: http://www.last.fm/tag/schickendes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: this group only exists to have the best eclectic radio ever - period - would like more of this
+  url: http://www.last.fm/tag/this%20group%20only%20exists%20to%20have%20the%20best%20eclectic%20radio%20ever%20-%20period%20-%20would%20like%20more%20of%20this
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic hip hop
+  url: http://www.last.fm/tag/classic%20hip%20hop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: smart rap
+  url: http://www.last.fm/tag/smart%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: real
+  url: http://www.last.fm/tag/real
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: good rap
+  url: http://www.last.fm/tag/good%20rap
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: conscious hiphop
+  url: http://www.last.fm/tag/conscious%20hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: native tongues heritage
+  url: http://www.last.fm/tag/native%20tongues%20heritage
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: neo soul
+  url: http://www.last.fm/tag/neo%20soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hot shit
+  url: http://www.last.fm/tag/hot%20shit
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indonesian
+  url: http://www.last.fm/tag/indonesian
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: native tongues posse
+  url: http://www.last.fm/tag/native%20tongues%20posse
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: okayplayer
+  url: http://www.last.fm/tag/okayplayer
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: usa
+  url: http://www.last.fm/tag/usa
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fresh oldschool hiphop
+  url: http://www.last.fm/tag/fresh%20oldschool%20hiphop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: wondrous soundbeads for our delicate ears
+  url: http://www.last.fm/tag/wondrous%20soundbeads%20for%20our%20delicate%20ears
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cool
+  url: http://www.last.fm/tag/cool
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: psychobilly
+  url: http://www.last.fm/tag/psychobilly
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: that show rocked
+  url: http://www.last.fm/tag/that%20show%20rocked
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the tones
+  url: http://www.last.fm/tag/the%20tones
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: talib kweli and mos def
+  url: http://www.last.fm/tag/talib%20kweli%20and%20mos%20def
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chill pop
+  url: http://www.last.fm/tag/chill%20pop
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: old school revival
+  url: http://www.last.fm/tag/old%20school%20revival

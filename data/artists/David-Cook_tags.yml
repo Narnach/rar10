@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: rock
+  url: http://www.last.fm/tag/rock
+- !ruby/object:Scrobbler::Tag 
+  count: "83"
+  name: american idol
+  url: http://www.last.fm/tag/american%20idol
+- !ruby/object:Scrobbler::Tag 
+  count: "59"
+  name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "54"
+  name: alternative
+  url: http://www.last.fm/tag/alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "46"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: pop
+  url: http://www.last.fm/tag/pop
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "10"
+  name: david cook
+  url: http://www.last.fm/tag/david%20cook
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: post-grunge
+  url: http://www.last.fm/tag/post-grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: american
+  url: http://www.last.fm/tag/american
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: modern rock
+  url: http://www.last.fm/tag/modern%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: 2008 american idol winner
+  url: http://www.last.fm/tag/2008%20american%20idol%20winner
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: awesome
+  url: http://www.last.fm/tag/awesome
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: sexy
+  url: http://www.last.fm/tag/sexy
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: love
+  url: http://www.last.fm/tag/love
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gotta have in my bed
+  url: http://www.last.fm/tag/gotta%20have%20in%20my%20bed
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorite artists
+  url: http://www.last.fm/tag/favorite%20artists
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: can't live without
+  url: http://www.last.fm/tag/can%27t%20live%20without
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: sexy voice
+  url: http://www.last.fm/tag/sexy%20voice
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: missouri
+  url: http://www.last.fm/tag/missouri
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: love him
+  url: http://www.last.fm/tag/love%20him
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: people who make my world a better place for one reason or another
+  url: http://www.last.fm/tag/people%20who%20make%20my%20world%20a%20better%20place%20for%20one%20reason%20or%20another
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: awesoooome
+  url: http://www.last.fm/tag/awesoooome
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: word nerd
+  url: http://www.last.fm/tag/word%20nerd
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: cook
+  url: http://www.last.fm/tag/cook
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: favorite idol
+  url: http://www.last.fm/tag/favorite%20idol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kansas city
+  url: http://www.last.fm/tag/kansas%20city
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sex in pointy boots
+  url: http://www.last.fm/tag/sex%20in%20pointy%20boots
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pop/rock
+  url: http://www.last.fm/tag/pop%252Frock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guilty pleasure
+  url: http://www.last.fm/tag/guilty%20pleasure
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: poprock
+  url: http://www.last.fm/tag/poprock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: singer songwriter
+  url: http://www.last.fm/tag/singer%20songwriter
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sugarfoot
+  url: http://www.last.fm/tag/sugarfoot
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: unique
+  url: http://www.last.fm/tag/unique
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: adult alternative
+  url: http://www.last.fm/tag/adult%20alternative
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: top 40
+  url: http://www.last.fm/tag/top%2040
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post grunge
+  url: http://www.last.fm/tag/post%20grunge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: idols
+  url: http://www.last.fm/tag/idols
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: voices made of teh sex
+  url: http://www.last.fm/tag/voices%20made%20of%20teh%20sex
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: pretty rock boys
+  url: http://www.last.fm/tag/pretty%20rock%20boys
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: david
+  url: http://www.last.fm/tag/david
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: american idol 7
+  url: http://www.last.fm/tag/american%20idol%207
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reality tv
+  url: http://www.last.fm/tag/reality%20tv
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: discoverockult
+  url: http://www.last.fm/tag/discoverockult
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: one of my favorite
+  url: http://www.last.fm/tag/one%20of%20my%20favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: winner
+  url: http://www.last.fm/tag/winner
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: lovethisartist
+  url: http://www.last.fm/tag/lovethisartist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite vocalist
+  url: http://www.last.fm/tag/favorite%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: cookie
+  url: http://www.last.fm/tag/cookie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fantastic voice
+  url: http://www.last.fm/tag/fantastic%20voice
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: idol
+  url: http://www.last.fm/tag/idol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: guitar
+  url: http://www.last.fm/tag/guitar
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: favorite
+  url: http://www.last.fm/tag/favorite
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: acoustic
+  url: http://www.last.fm/tag/acoustic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: english
+  url: http://www.last.fm/tag/english
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: fave
+  url: http://www.last.fm/tag/fave
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: david cook american idol
+  url: http://www.last.fm/tag/david%20cook%20american%20idol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: daughtry
+  url: http://www.last.fm/tag/daughtry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: freakin amazin
+  url: http://www.last.fm/tag/freakin%20amazin
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: facemelt
+  url: http://www.last.fm/tag/facemelt
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bocephus
+  url: http://www.last.fm/tag/bocephus
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: electronic
+  url: http://www.last.fm/tag/electronic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: the evening shadows
+  url: http://www.last.fm/tag/the%20evening%20shadows
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: classic tunes
+  url: http://www.last.fm/tag/classic%20tunes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: needmorefromthisartist
+  url: http://www.last.fm/tag/needmorefromthisartist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: david cook rocks my ass off
+  url: http://www.last.fm/tag/david%20cook%20rocks%20my%20ass%20off
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: david s2
+  url: http://www.last.fm/tag/david%20s2
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: funk
+  url: http://www.last.fm/tag/funk
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: indie
+  url: http://www.last.fm/tag/indie
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: soul
+  url: http://www.last.fm/tag/soul
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: idol finalists
+  url: http://www.last.fm/tag/idol%20finalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 2000's
+  url: http://www.last.fm/tag/2000%27s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: rocker
+  url: http://www.last.fm/tag/rocker
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: these songs are brilliance
+  url: http://www.last.fm/tag/these%20songs%20are%20brilliance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reality television
+  url: http://www.last.fm/tag/reality%20television
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my loved tracks
+  url: http://www.last.fm/tag/my%20loved%20tracks
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artists i've seen live
+  url: http://www.last.fm/tag/artists%20i%27ve%20seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: chris daughtry
+  url: http://www.last.fm/tag/chris%20daughtry
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: awesome artist
+  url: http://www.last.fm/tag/awesome%20artist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emo
+  url: http://www.last.fm/tag/emo
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my husband
+  url: http://www.last.fm/tag/my%20husband
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: techno
+  url: http://www.last.fm/tag/techno
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: valley girl
+  url: http://www.last.fm/tag/valley%20girl
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: better than radiohead
+  url: http://www.last.fm/tag/better%20than%20radiohead
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: reviewed
+  url: http://www.last.fm/tag/reviewed
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: people i would make sweet love with
+  url: http://www.last.fm/tag/people%20i%20would%20make%20sweet%20love%20with
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: boom tunes
+  url: http://www.last.fm/tag/boom%20tunes
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dance
+  url: http://www.last.fm/tag/dance
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: makes me move my feet
+  url: http://www.last.fm/tag/makes%20me%20move%20my%20feet
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: x factor american idol
+  url: http://www.last.fm/tag/x%20factor%20american%20idol
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: great songs lol yay
+  url: http://www.last.fm/tag/great%20songs%20lol%20yay
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ai plus
+  url: http://www.last.fm/tag/ai%20plus

@@ -1,0 +1,401 @@
+--- 
+- !ruby/object:Scrobbler::Tag 
+  count: "100"
+  name: progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "84"
+  name: melodic death metal
+  url: http://www.last.fm/tag/melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "66"
+  name: doom metal
+  url: http://www.last.fm/tag/doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "32"
+  name: dark metal
+  url: http://www.last.fm/tag/dark%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "30"
+  name: finnish
+  url: http://www.last.fm/tag/finnish
+- !ruby/object:Scrobbler::Tag 
+  count: "16"
+  name: metal
+  url: http://www.last.fm/tag/metal
+- !ruby/object:Scrobbler::Tag 
+  count: "12"
+  name: sludge
+  url: http://www.last.fm/tag/sludge
+- !ruby/object:Scrobbler::Tag 
+  count: "11"
+  name: sludge metal
+  url: http://www.last.fm/tag/sludge%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "9"
+  name: death metal
+  url: http://www.last.fm/tag/death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: atmospheric metal
+  url: http://www.last.fm/tag/atmospheric%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "7"
+  name: progressive death metal
+  url: http://www.last.fm/tag/progressive%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: melodic death doom metal
+  url: http://www.last.fm/tag/melodic%20death%20doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "6"
+  name: post-metal
+  url: http://www.last.fm/tag/post-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "5"
+  name: finnish metal
+  url: http://www.last.fm/tag/finnish%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "4"
+  name: progressive death doom metal
+  url: http://www.last.fm/tag/progressive%20death%20doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: progressive dark metal
+  url: http://www.last.fm/tag/progressive%20dark%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: progressive
+  url: http://www.last.fm/tag/progressive
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: death-doom metal
+  url: http://www.last.fm/tag/death-doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: atmospheric doom metal
+  url: http://www.last.fm/tag/atmospheric%20doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "3"
+  name: melodic metal
+  url: http://www.last.fm/tag/melodic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: post metal
+  url: http://www.last.fm/tag/post%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "2"
+  name: melancholic metal
+  url: http://www.last.fm/tag/melancholic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: gothic metal
+  url: http://www.last.fm/tag/gothic%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melancholic death metal
+  url: http://www.last.fm/tag/melancholic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: death doom metal
+  url: http://www.last.fm/tag/death%20doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melodic doom death metal
+  url: http://www.last.fm/tag/melodic%20doom%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: finland
+  url: http://www.last.fm/tag/finland
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melancholic
+  url: http://www.last.fm/tag/melancholic
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: melancholic progressive metal
+  url: http://www.last.fm/tag/melancholic%20progressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: doom death metal
+  url: http://www.last.fm/tag/doom%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: depressive rock
+  url: http://www.last.fm/tag/depressive%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: progressive melodic death metal
+  url: http://www.last.fm/tag/progressive%20melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "1"
+  name: atmospheric sludge metal
+  url: http://www.last.fm/tag/atmospheric%20sludge%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doom
+  url: http://www.last.fm/tag/doom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive sludge metal
+  url: http://www.last.fm/tag/progressive%20sludge%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic dark metal
+  url: http://www.last.fm/tag/melodic%20dark%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: tuska 2008
+  url: http://www.last.fm/tag/tuska%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metalcore
+  url: http://www.last.fm/tag/metalcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-rock
+  url: http://www.last.fm/tag/post-rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: mdm
+  url: http://www.last.fm/tag/mdm
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: depressive
+  url: http://www.last.fm/tag/depressive
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric sludge
+  url: http://www.last.fm/tag/atmospheric%20sludge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: will see live
+  url: http://www.last.fm/tag/will%20see%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: atmospheric melodic death metal
+  url: http://www.last.fm/tag/atmospheric%20melodic%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental metal
+  url: http://www.last.fm/tag/experimental%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic doom metal
+  url: http://www.last.fm/tag/melodic%20doom%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "from: finland"
+  url: http://www.last.fm/tag/from%3A%20finland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hellfest 2008
+  url: http://www.last.fm/tag/hellfest%202008
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: artcore
+  url: http://www.last.fm/tag/artcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark
+  url: http://www.last.fm/tag/dark
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic
+  url: http://www.last.fm/tag/melodic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic
+  url: http://www.last.fm/tag/gothic
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: seen live
+  url: http://www.last.fm/tag/seen%20live
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post doom
+  url: http://www.last.fm/tag/post%20doom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: summer breeze 2009
+  url: http://www.last.fm/tag/summer%20breeze%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: gothic sludge
+  url: http://www.last.fm/tag/gothic%20sludge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: altar of the metal gods death metal
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: summer breeze
+  url: http://www.last.fm/tag/summer%20breeze
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sludge influenced
+  url: http://www.last.fm/tag/sludge%20influenced
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sludge metal influenced
+  url: http://www.last.fm/tag/sludge%20metal%20influenced
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: music i tried but didnt like
+  url: http://www.last.fm/tag/music%20i%20tried%20but%20didnt%20like
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melocore death
+  url: http://www.last.fm/tag/melocore%20death
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: depressed metal
+  url: http://www.last.fm/tag/depressed%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal from finnland
+  url: http://www.last.fm/tag/metal%20from%20finnland
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: depressive metal
+  url: http://www.last.fm/tag/depressive%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: ddgmetal
+  url: http://www.last.fm/tag/ddgmetal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: kateth
+  url: http://www.last.fm/tag/kateth
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sludge death metal
+  url: http://www.last.fm/tag/sludge%20death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: decouverte 2009
+  url: http://www.last.fm/tag/decouverte%202009
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metal-progressif
+  url: http://www.last.fm/tag/metal-progressif
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: sluge
+  url: http://www.last.fm/tag/sluge
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: karnow approved
+  url: http://www.last.fm/tag/karnow%20approved
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: altar of the metal gods
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: winter silence napierdalac
+  url: http://www.last.fm/tag/winter%20silence%20napierdalac
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: metallis
+  url: http://www.last.fm/tag/metallis
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: progressive post-metal
+  url: http://www.last.fm/tag/progressive%20post-metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: post-metalish
+  url: http://www.last.fm/tag/post-metalish
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodic doomcore
+  url: http://www.last.fm/tag/melodic%20doomcore
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: impu
+  url: http://www.last.fm/tag/impu
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: my favourite melodic death metal band
+  url: http://www.last.fm/tag/my%20favourite%20melodic%20death%20metal%20band
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: recom
+  url: http://www.last.fm/tag/recom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death-doom
+  url: http://www.last.fm/tag/death-doom
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: dark rock
+  url: http://www.last.fm/tag/dark%20rock
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: melodeath
+  url: http://www.last.fm/tag/melodeath
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "no"
+  url: http://www.last.fm/tag/no
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: "&lt;3"
+  url: http://www.last.fm/tag/%3C3
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: doom-death metal
+  url: http://www.last.fm/tag/doom-death%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: 00s
+  url: http://www.last.fm/tag/00s
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: interesting
+  url: http://www.last.fm/tag/interesting
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: emotional
+  url: http://www.last.fm/tag/emotional
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: death
+  url: http://www.last.fm/tag/death
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: modern metal
+  url: http://www.last.fm/tag/modern%20metal
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: bleak
+  url: http://www.last.fm/tag/bleak
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: experimental
+  url: http://www.last.fm/tag/experimental
+- !ruby/object:Scrobbler::Tag 
+  count: "0"
+  name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
