@@ -1,6 +1,7 @@
 /* @override 
 	http://rar10.local/stylesheets/default.css?1287743824
 	http://rar10.local/stylesheets/default.css?1287743910
+	http://rar10.local/stylesheets/default.css?1287745438
 */
 
 body{
@@ -70,6 +71,31 @@ border-top:1px solid #797979;
 	padding: 0px;
 }
 
+.stats{
+	position: relative;
+	border: 2px solid;
+}
+
+.stats .row{
+	color: black;;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+	position: relative;
+	z-index: 2;
+	background: transparent;
+	
+}
+
+.stats .bar{
+	background-image: url(/images/gradient_mask.png);
+	position: absolute;
+	height: 20px;
+	z-index: 1;
+	border-right: 2px solid;
+	border-bottom: 1px solid;
+	border-top: 1px solid;
+}
 #footer{
 	background-color: grey;
 	border: 3px solid #797979;
