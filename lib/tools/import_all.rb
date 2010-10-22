@@ -16,17 +16,24 @@ TAGS_PER_ARTIST=5
 LANGUAGES.each do |language|
   puts "=== Language: #{language}"
   1.upto(PAGES_PER_LANGUAGE).each do |page|
-    repo_data = YAML.load(open("http://github.com/api/v2/yaml/repos/search/%25?language=#{language}&start_page=#{page}").read)
+    begin
+      repo_data = YAML.load(open("http://github.com/api/v2/yaml/repos/search/%25?language=#{language}&start_page=#{page}").read)
+    rescue OpenURI::HTTPError => e
+      puts e.inspect
+      sleep 1
+      retry
+    end
     repo_data["repositories"].each do |repo|
       github_user = GithubUser.find_or_initialize_by_username(repo["username"])
       next unless github_user.new_record?
       puts github_user.username
       begin
         user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
-      rescue => e
+      rescue OpenURI::HTTPError => e
         puts e.inspect
         puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
-        next
+        sleep 1
+        retry
       end
       unless user_data["type"]=="User"
         next 
