@@ -2,10 +2,4 @@
 
 The assignment is up: http://rubyandrails.eu/rumble
 
-We have to build a Community Love Dashboard.
-
-* Who/what is hot
-* Impact of people / tweets by people
-* People who use the same gems as you, what do they do?
-* Follow / watch suggestions
-* How to find people "like you"
+Music is a very important part of most developers' lives, so we will link Last.fm and Github, the two most important social networks for both music lovers and developers.
