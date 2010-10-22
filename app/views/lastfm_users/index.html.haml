@@ -1,0 +1,6 @@
+%h1 Last.fm users
+= will_paginate @lastfm_users
+%ul
+  - @lastfm_users.each do |lastfm_user|
+    %li= link_to h(lastfm_user.username), lastfm_user_path(lastfm_user)
+= will_paginate @lastfm_users

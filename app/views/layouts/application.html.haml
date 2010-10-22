@@ -6,11 +6,7 @@
     #container
       #header
       #navigation
-        %ul
-          %li.active=link_to 'Home', "#"
-          %li=link_to 'Users', "#"
-          %li=link_to 'Programming Languages', "#"
-          %li=link_to 'Artists', "#"
+        = render :partial => "shared/navigation"
       #content
         =yield
       #footer
