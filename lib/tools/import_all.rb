@@ -23,7 +23,7 @@ LANGUAGES.each do |language|
       sleep 1
       retry
     end
-    repo_data["repositories"].each do |repo|
+    repo_data["repositories"].reject{|rdata| GithubUser.find_by_username(rdata["username"])}.each do |repo|
       github_user = GithubUser.find_or_initialize_by_username(repo["username"])
       if github_user.new_record?
         puts github_user.username
