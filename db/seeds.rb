@@ -30,8 +30,8 @@ users.each do |username, attributes|
     user.artists << artist
     unless artist.tags.any?
       tags = YAML.load_file("data/artists/#{artist.name.gsub("&quot;","").gsub(/\W/,"-").squeeze("-").gsub(/^-|-$/,"")}_tags.yml")
-      tags[0...5].each do |tag|
-        tag = Tag.find_or_create_by_name(tag)
+      tags[0...5].each do |tag_data|
+        tag = Tag.find_or_create_by_name(tag_data.name)
         artist.tags << tag
       end
     end
