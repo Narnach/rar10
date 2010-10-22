@@ -1,7 +1,17 @@
 /* @override 
+	http://rar10.local/stylesheets/default.css?1287747748
 	http://rar10.local/stylesheets/default.css?1287743824
 	http://rar10.local/stylesheets/default.css?1287743910
 	http://rar10.local/stylesheets/default.css?1287745438
+	http://rar10.local/stylesheets/default.css?1287746523
+	http://rar10.local/stylesheets/default.css?1287748174
+	http://rar10.local/stylesheets/default.css?1287750343
+	http://rar10.local/stylesheets/default.css?1287750415
+	http://rar10.local/stylesheets/default.css?1287751443
+	http://rar10.local/stylesheets/default.css?1287751600
+	http://rar10.local/stylesheets/default.css?1287751682
+	http://rar10.local/stylesheets/default.css?1287751881
+	http://rar10.local/stylesheets/default.css?1287752165
 */
 
 body{
@@ -96,6 +106,59 @@ border-top:1px solid #797979;
 	border-bottom: 1px solid;
 	border-top: 1px solid;
 }
+
+ul#users{
+	padding: 0px;
+	padding-top: 10px;
+	margin: 0px;
+	list-style-type: none;
+}
+ul#users li{
+	clear: both;
+	height: 15px;
+	padding: 5px;
+}
+ul#users li .username a{
+	font-size: 20px;
+	color: grey;
+	text-decoration: none;
+}
+
+ul#users li .username{
+	position: relative;
+	float: left;
+	top: -5px;
+	width: 200px;
+
+	
+}
+ul#users li .logo{
+	padding-left: 5px;
+	padding-right: 10px;
+	float: left;
+}
+
+.artist_box{
+	cursor: pointer;
+	position: relative;
+	padding: 20px;
+	width: 150px;
+	height: 150px;
+	float: left;
+	text-align: center;
+}
+
+.artist_box:hover{
+	background-color: #efefef;
+}
+
+.artist_box .image_container{
+	overflow: hidden;
+	height: 150px;
+	background: url(/images/loading_image.png) no-repeat 14px;
+}
+
+
 #footer{
 	background-color: grey;
 	border: 3px solid #797979;
@@ -105,4 +168,16 @@ border-top:1px solid #797979;
 	font-weight: bold;
 	padding-left: 20px;
 	color: white;
+}
+
+.odd{
+	background-color: #fdecfe;
+}
+
+.clear_both{
+	clear: both;	
+}
+
+.pagination{
+	text-align: center;
 }

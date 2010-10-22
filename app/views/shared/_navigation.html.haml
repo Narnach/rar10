@@ -1,5 +1,5 @@
 %ul
-  %li.active=link_to 'Home', "#"
-  %li=link_to 'Users', lastfm_users_path
-  %li=link_to 'Programming Languages', "#"
-  %li=link_to 'Artists', "#"
+  %li{:class=>(current_page?(root_path) ? "active" : "") }=link_to 'Home', root_path
+  %li{:class=>(current_page?(lastfm_users_path) ? "active" : "") }=link_to 'Users', lastfm_users_path
+  %li{:class=>(current_page?('#') ? "active" : "") }=link_to 'Programming Languages', "#"
+  %li{:class=>(current_page?(artists_path) ? "active" : "") }=link_to 'Artists', artists_path
