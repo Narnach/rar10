@@ -1,0 +1,9 @@
+%h1="People that listen to : #{@artist.name}"
+
+%ul#users
+  - @users.each do |lastfm_user|
+    %li{:class=>cycle(:even,:odd)}
+      .username= link_to h(lastfm_user.username.capitalize), lastfm_user_path(lastfm_user)
+      .logo=link_to image_tag('github.png', :height=>16), "http://github.com/#{lastfm_user.username}"
+      .logo=link_to image_tag('last_fm.png', :height=>16), "http://www.last.fm/user/#{lastfm_user.username}"
+      .genres=truncate(lastfm_user.tags(5).map{|t|t[0].capitalize}.to_sentence,:omission=>" ...",:length=>40)
