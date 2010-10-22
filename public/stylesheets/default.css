@@ -1,0 +1,70 @@
+/* @override 
+	http://rar10.local/stylesheets/default.css?1287743824
+*/
+
+body{
+	background-color: #373637;	
+}
+
+#container{
+	width: 700px;
+	margin: auto;
+}
+#header{
+	background-image: url(/images/header.png);
+	height: 80px;
+}
+
+#navigation{
+	padding: 0px;
+	margin: 0px;
+	border-left: 3px solid #797979;
+	border-right: 3px solid #797979;
+	height: 30px;
+}
+
+#navigation ul{
+	margin: 0px;
+	margin-left: 2px;	
+	padding: 0px;
+	padding-top: 2px;
+	list-style-type: none;
+}
+
+#navigation ul li{
+	display: block;
+	float: left;
+	outline: 1px solid;
+	padding: 5px 20px 5px 20px;	
+}
+
+#navigation ul li.active{
+	background-color: #757375;
+}
+
+#navigation ul li:hover{
+	background-color: #757375;
+}
+#navigation ul li a{
+	color: white;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+#content{
+	clear: both;
+	background-color: white;
+	border-left: 3px solid #797979;
+	border-right: 3px solid #797979;
+	border-bottom:3px solid #797979;
+	border-top:1px solid #797979;
+	color: #5a5a5a;
+	padding: 20px;
+	padding-top: 30px;
+}
+
+#content h1{
+	line-height: 0px;
+	margin: 0px;
+	padding: 0px;
+}
