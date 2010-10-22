@@ -6,9 +6,12 @@ class CreateLastfmUsers < ActiveRecord::Migration
       t.string :real_name
       t.integer :age
       t.boolean :verified
+      t.string :cached_slug
 
       t.timestamps
     end
+    add_index :lastfm_users, :username
+    add_index :lastfm_users, :cached_slug
   end
 
   def self.down
