@@ -12,6 +12,7 @@
 	http://rar10.local/stylesheets/default.css?1287751682
 	http://rar10.local/stylesheets/default.css?1287751881
 	http://rar10.local/stylesheets/default.css?1287752165
+	http://rar10.local/stylesheets/default.css?1287752202
 */
 
 body{
@@ -107,6 +108,12 @@ border-top:1px solid #797979;
 	border-top: 1px solid;
 }
 
+.stats .logo{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	opacity: 0.5;
+}
 ul#users{
 	padding: 0px;
 	padding-top: 10px;
@@ -143,9 +150,10 @@ ul#users li .logo{
 	position: relative;
 	padding: 20px;
 	width: 150px;
-	height: 150px;
+	height: 50px;
 	float: left;
 	text-align: center;
+	padding-bottom: 70px;
 }
 
 .artist_box:hover{
@@ -154,7 +162,7 @@ ul#users li .logo{
 
 .artist_box .image_container{
 	overflow: hidden;
-	height: 150px;
+	height: 70px;
 	background: url(/images/loading_image.png) no-repeat 14px;
 }
 

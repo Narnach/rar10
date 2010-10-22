@@ -1,8 +1,12 @@
-%h1 Eiusmod tempor incididunt
-%p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+%h1 Coders And Music, lets connect it ...
+%p 
+  Maybe we can bring you in contact with other coders ! 
+  Our reference points are based on music based relationships. 
+  It might also be interesting to see if a certain programming language goes well with a certain genre of music.
+%p Here is a small preview of what coders in Ruby like to listen to :
+ 
 .stats
-
   -@tags.each_with_index do |tag,i|
-    .bar{:style=>"background-color:#{@colors[i]}; width:#{((tag[1].to_f/@total.to_f)*100).round}%"}
+    .bar{:style=>"background-color:#{COLORS[i]}; width:#{((tag[1].to_f/@total.to_f)*100).round}%"}
     .row=tag[0].capitalize
+  .logo=image_tag "ruby.png", :height=>100
