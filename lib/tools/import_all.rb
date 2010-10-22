@@ -8,7 +8,7 @@
 require 'open-uri'
 
 PAGES_PER_LANGUAGE=1
-LANGUAGES = %w[Ruby]
+LANGUAGES = %w[Ruby PHP C Perl]
 ARTISTS_PER_USER=10
 TAGS_PER_ARTIST=5
 
@@ -21,7 +21,12 @@ LANGUAGES.each do |language|
       github_user = GithubUser.find_or_initialize_by_username(repo["username"])
       next unless github_user.new_record?
       puts github_user.username
-      user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
+      begin
+        user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
+      rescue => e
+        puts e.inspect
+        puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
+      end
       unless user_data["type"]=="User"
         next 
       end
@@ -35,7 +40,7 @@ end
 # == Last.fm: users with the same username + real name as on github
 GithubUser.all.each do |github_user|
   lastfm_user = LastfmUser.find_or_initialize_by_username(github_user.username)
-  # next unless lastfm_user.new_record?
+  next unless lastfm_user.new_record?
   puts "=== Github user: #{github_user.username}"
   begin
     scrobbler_user = Scrobbler::User.new :name=>lastfm_user.username

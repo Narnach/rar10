@@ -7,6 +7,6 @@
  
 .stats
   -@tags.each_with_index do |tag,i|
-    .bar{:style=>"background-color:#{COLORS[i]}; width:#{((tag[1].to_f/@total.to_f)*100).round}%"}
+    .bar{:style=>"background-color:#{COLORS[i]}; width:#{(@total > 0 ? (tag[1].to_f/@total.to_f)*100 : 0).round}%"}
     .row=tag[0].capitalize
   .logo=image_tag "ruby.png", :height=>100

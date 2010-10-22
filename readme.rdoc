@@ -10,3 +10,18 @@ Plan:
 * Build proper parsers that insert data into the database
 * Tidy up the interface, test critical or tricky bits of the code. Use TDD for the really tricky bits.
 * Profit!
+
+
+Getting started:
+
+  # Setup the database
+  rake db:regenerate
+
+  # Setup your Last.fm api key
+  cp config/lastfm.yml.example config/lastfm.yml
+  open config/lastfm.yml
+
+  # Import data
+  script/runner lib/tools/import_all.rb
+
+We will setup devtunes.net for the live demo.
