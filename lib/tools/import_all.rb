@@ -35,7 +35,7 @@ LANGUAGES.each do |language|
           puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
           sleep 1
           retries += 1
-          retry if retries <= 3
+          retry if retries <= 2
           next
         end
         unless user_data["type"]=="User"
