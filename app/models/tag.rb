@@ -9,4 +9,9 @@ class Tag < ActiveRecord::Base
     end
     tags=tags.sort_by(&:last).reverse[0...amount]
   end
+  
+  def self.most_populair_genres_for_language_id(lang=2)
+    GithubUsers.find(:all,:conditions=>{:language_id=>lang}, :include=>:artists).map{|u|u.artist.map(&:genre)}
+    
+  end
 end
