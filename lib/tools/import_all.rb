@@ -26,6 +26,7 @@ LANGUAGES.each do |language|
       rescue => e
         puts e.inspect
         puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
+        next
       end
       unless user_data["type"]=="User"
         next 
@@ -47,7 +48,7 @@ GithubUser.all.each do |github_user|
     # scrobbler_user.load_info
   rescue => e
     # This is the best way we have to determine if a last.fm user exists: try to load their profile. The scrobbler gem raises an error when it does not.
-    puts "!! No profile for #{scrobbler_user.username}. Probably a bug with Scrobbler. Use the XML API instead."
+    puts "!! No profile for #{scrobbler_user.username}."
     next
   else
     # lastfm_user.age = scrobbler_user.age
