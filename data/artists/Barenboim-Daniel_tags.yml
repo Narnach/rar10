@@ -1,5 +1,0 @@
---- 
-- !ruby/object:Scrobbler::Tag 
-  count: "100"
-  name: classical
-  url: http://www.last.fm/tag/classical

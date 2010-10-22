@@ -21,7 +21,7 @@ Rails::Initializer.run do |config|
   # config.gem "aws-s3", :lib => "aws/s3"
   
   config.gem "haml"
-  config.gem "scrobbler"
+  config.gem "scrobbler-ng", :lib=>"scrobbler"
   config.gem "acl9"
   config.gem "authlogic"
   config.gem "friendly_id"

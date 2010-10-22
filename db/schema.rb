@@ -42,8 +42,8 @@ ActiveRecord::Schema.define(:version => 20101022102118) do
   create_table "github_users", :force => true do |t|
     t.string   "username"
     t.integer  "followers"
-    t.integer  "forks"
     t.string   "cached_slug"
+    t.string   "real_name"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

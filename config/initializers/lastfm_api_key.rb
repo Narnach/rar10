@@ -1,0 +1,1 @@
+Scrobbler::Base.api_key = YAML.load_file("config/lastfm.yml")["api_key"]
