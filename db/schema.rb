@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101022102118) do
+ActiveRecord::Schema.define(:version => 20101022135822) do
 
   create_table "artists", :force => true do |t|
     t.string   "name"
@@ -50,6 +50,20 @@ ActiveRecord::Schema.define(:version => 20101022102118) do
 
   add_index "github_users", ["cached_slug"], :name => "index_github_users_on_cached_slug"
   add_index "github_users", ["username"], :name => "index_github_users_on_username"
+
+  create_table "github_users_languages", :id => false, :force => true do |t|
+    t.integer "github_user_id"
+    t.integer "language_id"
+  end
+
+  add_index "github_users_languages", ["github_user_id"], :name => "index_github_users_languages_on_github_user_id"
+  add_index "github_users_languages", ["language_id"], :name => "index_github_users_languages_on_language_id"
+
+  create_table "languages", :force => true do |t|
+    t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "lastfm_users", :force => true do |t|
     t.string   "username"

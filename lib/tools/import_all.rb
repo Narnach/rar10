@@ -8,16 +8,16 @@
 require 'open-uri'
 
 PAGES_PER_LANGUAGE=1
-LANGUAGES = %w[Ruby PHP C Perl]
+LANGUAGES = %w[Ruby PHP C Perl].map{|language| Language.find_or_create_by_name(language)}
 ARTISTS_PER_USER=10
 TAGS_PER_ARTIST=5
 
 # == Github: users per category
 LANGUAGES.each do |language|
-  puts "=== Language: #{language}"
+  puts "=== Language: #{language.name}"
   1.upto(PAGES_PER_LANGUAGE).each do |page|
     begin
-      repo_data = YAML.load(open("http://github.com/api/v2/yaml/repos/search/%25?language=#{language}&start_page=#{page}").read)
+      repo_data = YAML.load(open("http://github.com/api/v2/yaml/repos/search/%25?language=#{language.name}&start_page=#{page}").read)
     rescue OpenURI::HTTPError => e
       puts e.inspect
       sleep 1
@@ -25,22 +25,27 @@ LANGUAGES.each do |language|
     end
     repo_data["repositories"].each do |repo|
       github_user = GithubUser.find_or_initialize_by_username(repo["username"])
-      next unless github_user.new_record?
-      puts github_user.username
-      begin
-        user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
-      rescue OpenURI::HTTPError => e
-        puts e.inspect
-        puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
-        sleep 1
-        retry
+      if github_user.new_record?
+        puts github_user.username
+        retries = 0
+        begin
+          user_data = YAML.load(open("http://github.com/api/v2/yaml/user/show/#{github_user.username}").read)["user"]
+        rescue OpenURI::HTTPError => e
+          puts e.inspect
+          puts "http://github.com/api/v2/yaml/user/show/#{github_user.username}"
+          sleep 1
+          retries += 1
+          retry if retries <= 2
+          next
+        end
+        unless user_data["type"]=="User"
+          next 
+        end
+        github_user.real_name = user_data["name"]
+        github_user.followers = user_data["followers_count"]
+        github_user.save!
       end
-      unless user_data["type"]=="User"
-        next 
-      end
-      github_user.real_name = user_data["name"]
-      github_user.followers = user_data["followers_count"]
-      github_user.save!
+      github_user.languages << language
     end
   end
 end
