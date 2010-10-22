@@ -8,7 +8,7 @@
 
 users = YAML.load_file 'lib/tools/last_fm.yml'
 users.each do |username, attributes|
-  puts username
+  puts "=== User: #{username}"
   user = LastfmUser.find_or_initialize_by_username(username)
   if user.new_record?
     attributes.each do |k,v|
@@ -18,7 +18,7 @@ users.each do |username, attributes|
   end
   next unless user.verified?
   artists = YAML.load_file("data/users/#{username.gsub(/\W/,"")}_artists.yml")
-  artists.each do |artist_data|
+  artists[0...20].each do |artist_data|
     artist = Artist.find_or_initialize_by_name(artist_data.name)
     puts artist.name
     if artist.new_record?
@@ -30,7 +30,7 @@ users.each do |username, attributes|
     user.artists << artist
     unless artist.tags.any?
       tags = YAML.load_file("data/artists/#{artist.name.gsub("&quot;","").gsub(/\W/,"-").squeeze("-").gsub(/^-|-$/,"")}_tags.yml")
-      tags.each do |tag|
+      tags[0...5].each do |tag|
         tag = Tag.find_or_create_by_name(tag)
         artist.tags << tag
       end
