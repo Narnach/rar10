@@ -163,7 +163,7 @@ ul#users li .logo{
 .artist_box .image_container{
 	overflow: hidden;
 	height: 70px;
-	/*background: url(/images/loading_image.png) no-repeat 14px;*/
+	background: url(/images/loading_image.png) no-repeat 14px;
 }
 
 
