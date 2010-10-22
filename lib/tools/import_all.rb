@@ -40,7 +40,7 @@ end
 # == Last.fm: users with the same username + real name as on github
 GithubUser.all.each do |github_user|
   lastfm_user = LastfmUser.find_or_initialize_by_username(github_user.username)
-  # next unless lastfm_user.new_record?
+  next unless lastfm_user.new_record?
   puts "=== Github user: #{github_user.username}"
   begin
     scrobbler_user = Scrobbler::User.new :name=>lastfm_user.username
