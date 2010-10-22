@@ -1,0 +1,15 @@
+%h1="Profile of #{@lastfm_user.username.capitalize}"
+%br
+.stats
+  -@lastfm_user.tags.each_with_index do |tag,i|
+    .bar{:style=>"background-color:#{COLORS[i]}; width:#{((tag[1].to_f/@lastfm_user.tags.sum{|t|t[1].to_i}.to_f)*100).round}%"}
+    .row=tag[0].capitalize
+
+- @lastfm_user.artists.each do |artist|   
+  .artist_box{:onclick=>"location.href='#{artist.lastfm_url}'"}
+    .image_container
+
+      .image=image_tag (artist.image_url.present? ? artist.image_url : "missing.png")
+    .name=artist.name
+%br
+.clear_both
