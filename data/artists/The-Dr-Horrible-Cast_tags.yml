@@ -1,5 +1,0 @@
---- 
-- !ruby/object:Scrobbler::Tag 
-  count: "100"
-  name: musical
-  url: http://www.last.fm/tag/musical

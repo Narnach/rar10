@@ -1,9 +1,0 @@
---- 
-- !ruby/object:Scrobbler::Tag 
-  count: "100"
-  name: ska
-  url: http://www.last.fm/tag/ska
-- !ruby/object:Scrobbler::Tag 
-  count: "100"
-  name: reggae
-  url: http://www.last.fm/tag/reggae

@@ -1,9 +1,0 @@
---- 
-- !ruby/object:Scrobbler::Tag 
-  count: "100"
-  name: soundtrack
-  url: http://www.last.fm/tag/soundtrack
-- !ruby/object:Scrobbler::Tag 
-  count: "12"
-  name: jazz stalker
-  url: http://www.last.fm/tag/jazz%20stalker
