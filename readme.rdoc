@@ -1,9 +1,11 @@
 = Ruby and Rails Rumble 2010 entry for team Smeevil & Narnach
 
-No clue yet what the challenge is, but we have a repo!
+The assignment is up: http://rubyandrails.eu/rumble
 
-The only hint we have: "Community love"
+We have to build a Community Love Dashboard.
 
-Watch this place for updates.
-
-Smeevil checked in
+* Who/what is hot
+* Impact of people / tweets by people
+* People who use the same gems as you, what do they do?
+* Follow / watch suggestions
+* How to find people "like you"
