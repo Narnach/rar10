@@ -1,0 +1,16 @@
+%html
+  %head
+    =javascript_include_tag :defaults
+    =stylesheet_link_tag 'default'
+  %body
+    #container
+      #header
+      #navigation
+        %ul
+          %li.active=link_to 'Home', "#"
+          %li=link_to 'Users', "#"
+          %li=link_to 'Programming Languages', "#"
+          %li=link_to 'Artists', "#"
+      #content
+        =yield
+      #footer
