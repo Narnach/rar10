@@ -1,7 +1,7 @@
 set :application, "devtunes"
 set :repository,  "git@github.com:Narnach/rar10.git"
 set :deploy_to,   "/var/rails/devtunes"
-set :keep_releases, 10
+set :keep_releases, 3
 
 set :scm, :git
 set :deploy_via, "remote_cache"
